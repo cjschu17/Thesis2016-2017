@@ -28,5 +28,5 @@ Dindorf quotes a contemporary of his, Lehrsius, in order to expound on this poin
 
 Dindorf notes that the work of Porphyry in particular appaers infrequently in the Venetus A and references to his work seem to have been culled from another source which abbreviated his ideas. Returning to the idea of attribution, Dindorf notes that the scholia of the Venetus A will often discuss a certain line of thinking (ἱστορία), but will only sometimes give an exact attribution as to whom the line of thinking belongs too. Often, the thinking of multiple scholars will be lumped into just one line of  ἱστορία, as if it were just one work being referenced.
 
-   
+Other modern scholars have already done the work of separating out which parts of ἱστορία belong to which ancient scholars. For example, we owe to Aristonicus and Didymus everything that we have about Zenodotus, Aristophanes, and Aristarchus.
 

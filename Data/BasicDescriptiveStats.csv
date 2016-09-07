@@ -1,8 +1,8 @@
-Description,Result
-Total Scholia in Data Set,8489
-Total Main Scholia,3604
-Total Interlinear,2075
-Total Interior,816
-Total Exterior,237
-Total Intermarginal,1231
-Others,527
+Description,Result,Percentage
+Total Main Scholia,3604,42.5%
+Total Interlinear,2075,24.4%
+Total Interior,816,9.6%
+Total Exterior,237,2.8%
+Total Intermarginal,1231,14.5%
+Others,527,6.2%
+Total Scholia in Data Set,8489,100%

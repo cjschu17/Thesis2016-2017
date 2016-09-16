@@ -1,6 +1,8 @@
 #The Homer Multitext project#
 
 ![Imgur](http://i.imgur.com/gm5xrbS.jpg?1)
+(Folio 6r of Venetus A)
+
 ----
 
 #The Venetus A Manuscript (*Marcianus Graecus* 822)#

@@ -32,7 +32,7 @@
 ----
 #Other Iliad MS; Other Research Possibilites!
 
-- Omega 1.12 (11th c.) - Bar Marks
+- [Omega 1.12 (11th c.)](http://www.homermultitext.org/hmt-image-archive/E4/E4-Pages/015r-537.jpg) - Bar Marks
 
 ![Achilles](http://i68.tinypic.com/35jfghj.png)
 
@@ -45,3 +45,7 @@ Pelops
 ![Homer](http://i63.tinypic.com/33466xi.png)
 
 Homer
+
+----
+
+

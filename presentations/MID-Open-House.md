@@ -1,13 +1,13 @@
 #The Homer Multitext project#
 
-
+![Imgur](http://i.imgur.com/4nUFFyk.jpg)
 	
 ----
 
 #The Venetus A Manuscript (*Marcianus Graecus* 822)#
 
 
-[Folio 12r of the Venetus A](http://www.homermultitext.org/hmt-digital/ict.html?urn=urn:cite:hmt:vaimg.VA012RN-0013)
+![Folio 12r of the Venetus A](http://www.homermultitext.org/hmt-digital/ict.html?urn=urn:cite:hmt:vaimg.VA012RN-0013 ()
 
 
 [Image Citation Verification] (http://www.homermultitext.org/hmt-digital/indices?urn=urn%3Acite%3Ahmt%3Avaimg.VA012RN-0013)

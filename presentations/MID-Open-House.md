@@ -5,6 +5,7 @@
 (Folio 6r of Venetus A)
 
 ----
+#Goals of HMT
 
 >The Homer Multitext project seeks to present the Homeric Iliad and Odyssey in a critical framework that accounts for the fact that these poems were composed orally over the course of hundreds, if not thousands of years by countless singers who composed in performance.
 

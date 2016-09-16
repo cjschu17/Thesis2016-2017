@@ -22,5 +22,11 @@
 
 [Folio 12r](http://www.homermultitext.org/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA012RN-0013)
 
+- Reading Unpublished Scholia
+
+----
+##Detail from Folio 12r
+
+![Detail](http://i64.tinypic.com/efng36.jpg)
 
 

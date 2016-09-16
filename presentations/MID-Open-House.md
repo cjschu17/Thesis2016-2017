@@ -32,7 +32,7 @@
 ----
 #Other Iliad MS; Other Research Possibilites!
 
-- Omega 1.12 (11th c.)
+- Omega 1.12 (11th c.) - Bar Marks
 
 ![Achilles](http://i68.tinypic.com/35jfghj.png)
 

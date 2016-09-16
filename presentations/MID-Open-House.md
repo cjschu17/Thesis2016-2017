@@ -29,4 +29,19 @@
 
 [Enhanced](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA012RUVD-0895.tif&RGN=0.603,0.1396,0.179,0.4384&WID=9000&CVT=JPEG)
 
+----
+#Other Iliad MS; Other Research Possibilites!
 
+- Omega 1.12 (11th c.)
+
+![Achilles](http://i68.tinypic.com/35jfghj.png)
+
+Achilles
+
+![Pelops](http://i66.tinypic.com/2itfz89.png)
+
+Pelops
+
+![Homer](http://i63.tinypic.com/33466xi.png)
+
+Homer

@@ -22,11 +22,11 @@
 
 [Folio 12r](http://www.homermultitext.org/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA012RN-0013)
 
-- Reading Unpublished Scholia
-
 ----
-##Detail from Folio 12r
+##Advantages of working with a Digital Photography
 
-![Detail](http://i64.tinypic.com/efng36.jpg)
+[MS Today:](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA012RN-0013.tif&RGN=0.782,0.0968,0.106,0.2222&WID=9000&CVT=JPEG)
+
+[Enhanced](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA012RUVD-0895.tif&RGN=0.603,0.1396,0.179,0.4384&WID=9000&CVT=JPEG)
 
 

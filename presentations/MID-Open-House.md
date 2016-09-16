@@ -10,11 +10,11 @@
 >seeks to present the Homeric poems in a framework that reflects the oral tradition in which they were composed
 
 ----
-##Turning this...
+##Turning Digital Photography...
 
 ![VenA](http://i66.tinypic.com/28iahbt. jpg "Ven A 15.1-10")
 ----
-##Into This!
+##Into a Digital Edition!
 
 ![XML](http://i68.tinypic.com/120rnf9.png "XML of 15.1-10")
 ----

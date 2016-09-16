@@ -20,7 +20,7 @@
 ----
 #The Venetus A Manuscript (*Marcianus Graecus* 822)#
 
-![12r](http://i67.tinypic.com/ixzc7n.jpg "12r")
+![12r](http://i64.tinypic.com/31487l2.jpg "12r")
 
 Folio 12r
 

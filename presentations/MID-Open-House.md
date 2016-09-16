@@ -49,7 +49,7 @@ Homer
 ----
 #Twin Manuscripts?
 
-[Escorial Upsilon 1.1 (11th c.)](http://oi68.tinypic.com/fteayt.jpg)
+[Escorial Upsilon 1.1 (11th c.)](http://www.homermultitext.org/hmt-image-archive/E3/E3-RGB/E3-051v.jpg)
 
 [Venetus B (11th c.)](http://www.homermultitext.org/hmt-digital/facs?urn=urn:cite:hmt:msB.51v)
 

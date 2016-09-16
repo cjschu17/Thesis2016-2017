@@ -58,3 +58,7 @@ Homer
 
 ![VenB](http://i65.tinypic.com/sqtu1j.png)
 
+|Venetus B | Upsilon 1.1 | In Common |
+| ------ | ------ | ------ | 
+| 433 Edents | 523 Edents | 347 Edents | 
+

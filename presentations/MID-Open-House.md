@@ -47,5 +47,9 @@ Pelops
 Homer
 
 ----
+#Twin Manuscripts?
 
+[Escorial Upsilon 1.1 (11th c.)](http://oi68.tinypic.com/fteayt.jpg)
+
+[Venetus B (11th c.)](http://oi64.tinypic.com/2im1gjn.jpg)
 

@@ -1,3 +1,5 @@
+##Intro
+
 Literary criticism is divided into treatises vs. scholia (2)
 
 Treatises often offer more theory and fewer examples, while scholia can comment on an entire corpus, providing continuous commentary and a fuller viewpoint
@@ -30,4 +32,6 @@ Besides lit crit: semantics and syntax; textual criticism - athetization, etc.
 - the point made in the scholion is characteristic of a school
 
 Nunlist expressly warns against using σημειωτέον ὅτι as being definitive proof for Aristonicus.
+
+##Chapter 1: Plot
 

@@ -35,3 +35,13 @@ Nunlist expressly warns against using σημειωτέον ὅτι as being def
 
 ##Chapter 1: Plot
 
+talks a lot about προοικονομία - the planning out beforehand of the text. Almost always, when there is a choice between commenting at the point of foreshadowing and the point of result, the scholiast comments at the point of foreshadowing. Introduced by...
+
+- ἵνα / ὅπως
+- ὑπὲρ τοῦ / διὰ τό
+- οὔκ ἀργῶς / ἐπίτηδες
+
+Some notes seem to motivated by the desire to defend against athetisation by Aristarchus - but the huge number of such comments makes ti seem like motivation was a legitiamte literary device (32)
+
+(48) Even if prolepsis occurs much less frequently than analepsis, its ability to give insight into the forethought of the poet tends to give it more weight and thus makes it more worthy of commentary
+

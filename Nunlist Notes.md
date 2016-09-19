@@ -22,7 +22,7 @@ Scholia introduced by ἄλλως or ἤ generally present alternatives without 
 
 Besides lit crit: semantics and syntax; textual criticism - athetization, etc.
 
-Four ways to determine source of scholia:
+(17-18) Four ways to determine source of scholia:
 
 - direct attribution to a scholia
 - *subscriptio* lists the sources

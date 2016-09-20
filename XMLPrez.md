@@ -34,14 +34,15 @@
 - mark break at edge of word with `<gap/>`
 
 ----
+----
+----
+----
+----
 
 # General introduction to XML #
 
 ----
-----
-----
-----
-----
+
 ## Background ##
 
 Scholarly editions must be planned to last for the indefinite future.  Digital scholarly editions differ from print editions primarily in the fact that any use of a digital text — whether for the most sophisticated analysis, formatting for interactive reading, or simply for generating a hard copy — is mediated by a machine.  To support the flexibility of a digital environment, the editor  must create an edition that captures the *semantics* of a text, rather than dictating a specific form of presentation that might be appropriate to one use but not another.

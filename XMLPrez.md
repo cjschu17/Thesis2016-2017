@@ -4,11 +4,11 @@
 
 ## Well-formed XML
 
-- things are ordered - Chinese Box
+- things are ordered by hierarchy of elements - Chinese Box
+    - spring from a single root element
 - *elements*: `<div>` `<text>` `<p>` `<l>`
-- text nodes are the *text* of your document
-- elements are strictly hierarchical, with a single root
 - *attributes* provide metadata about your structure or text contents
+    - `n` `type` `val` 
 
 ----
 

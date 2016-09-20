@@ -1,4 +1,4 @@
-## XML structure
+## XML (*eXtensible* Markup Language) structure
 
 ----
 
@@ -13,7 +13,6 @@
 
 ## Valid XML
 
-- XML is *eXtensible* Markup Language
 - can define "rules" in a schema
 - TEI is one schema (rule set)
 

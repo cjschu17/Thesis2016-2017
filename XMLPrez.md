@@ -1,10 +1,11 @@
-## XML (*eXtensible* Markup Language) structure
+# XML (*eXtensible* Markup Language) structure
 
 ----
 
-### Well-formed XML
+## Well-formed XML
 
-- *elements* describe structure
+- things are ordered - Chinese Box
+- *elements*: '<div>' '<text>' '<p>' '<l>'
 - text nodes are the *text* of your document
 - elements are strictly hierarchical, with a single root
 - *attributes* provide metadata about your structure or text contents

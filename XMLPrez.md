@@ -30,7 +30,7 @@
 ## Xml Copy Editor
 
 - can create new TEI doc in your VM with Xml Copy Editor
-- edit one fragmentary tile on the big screen? (I'll send a pic)
+- edit one fragmentary tile on the big screen?
 - mark break at edge of word with `<gap/>`
 
 ----

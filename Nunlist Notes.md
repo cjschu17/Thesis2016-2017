@@ -45,3 +45,4 @@ Some notes seem to motivated by the desire to defend against athetisation by Ari
 
 (48) Even if prolepsis occurs much less frequently than analepsis, its ability to give insight into the forethought of the poet tends to give it more weight and thus makes it more worthy of commentary
 
+(60) Paragraphs! given a specific defintion by ancient scholars!

@@ -53,4 +53,7 @@ arguments about time within the Iliad;
 
 ##Chapter 3: Narrative & Speeches
 
+There is a difference between narrative form of writing and speeches, and frequently scholia denote points where the style changes from one to the other without warning.
+
+##Chapter 4: Focalization
                                                                                      

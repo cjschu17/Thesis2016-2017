@@ -56,4 +56,10 @@ arguments about time within the Iliad;
 There is a difference between narrative form of writing and speeches, and frequently scholia denote points where the style changes from one to the other without warning.
 
 ##Chapter 4: Focalization
+
+##Chapter 5: Effects on the Reader
+
+##Chapter 6: Gaps & Omissions
+
+κατὰ τὸ σιωπώμενον - somethings happen in slience, usually Aristarchus defending against an athetesis of Zenodotus 
                                                                                      

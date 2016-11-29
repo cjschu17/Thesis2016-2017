@@ -1,5 +1,6 @@
 ##Theory and Methodology
 
+- Intro to distant reading/ TM? (Jockers)
 - How the data is originally structured (aka XML)
 - Trying to take a text in xml format and analyze it (text only)
 - In order to do this, must extract text
@@ -16,6 +17,9 @@
 
 
 ---------------------
+
+
+
 For any research such as this, where textual analysis is heavily reliant upon digital technologies, the necessary first step is to make the text of interest machine-readable. For example, a concatenation of every non-white space character in the first line of Poe's "The Raven" can be read by a human, albeit with some difficulty. On the other hand, this string of characters, "`Onceuponamidnightdreary,whileIpondered,weakandweary,`", is read by a computer as just that: a seemingly random collection of characters. Relying on digital techonologies to identify the meaningful word breaks in this example would certainly prove difficult, rendering the above string essentially useless for any textual analysis. While it seems unlikely that one might have such a concatenated text, when texts are being culled from various webpages and outside sources for analysis, the transformation of the text from its original source can often result in an unexpectedly poor and useless format. Thus importing an already-fashioned text requires a fair amount of careful prep work, or text wrangling, in order for it to suit one's analysis.
 
 
@@ -38,4 +42,10 @@ Due to the greater complexity of Greek morphology, such simple stemming processe
 
 The problems can in part be solved by the more advanced process of parsing. This is because, unlike stemmers, a competent parser is able to recognize the lemma of a word and give a detailed report of its exact form, i.e., in the case of a noun, its person, case, and number. As opposed to a stem, which is the root of a word to which endings are added, a lemma is the dictionary form of a word. "Carries" would have a stem of "carri" but a lemma of "carry." Morpheus, a parsing tool created by the Perseus Project, satisfies the requirements for a competent Greek parser. To review, the ultimate purpose of using a parser at this stage in this research is the creation of a text that simplifies the morphological variants of words into single, normalized forms. Thus, using Morpheus allows for the conversion of inflected Greek forms into their respective lemmata. By incorporating Morpheus into a scala script, a text suitabe for textual analysis is created. The created text simply replaced the words of the orignial text with their respective lemmata. Thus, no matter whether the original text had "μῆνιν" or "μῆνις," a completely parsed version would not differentiate between the two; both would be recorded as "μῆνις". 
 
-If every word of the original of the text were able to be successfully parsed by Morpheus, there would be no need for further discussion about how to fashion a text for textual analysis. However, the previously discussed Byzantine orthographic variants pose significant problems for analysis. For example, one of the most common proper names to appear in the scholia is the third-century BCE scholar Aristarchus. In Greek, his name is written as, Ἀρίσταρχος, and Morpheus does recognize and can parse his name.d
+If every word of the original of the text were able to be successfully parsed by Morpheus, there would be no need for further discussion about how to fashion a text for textual analysis. However, the previously discussed orthographic variants pose significant problems for analysis. To recap, an orthograhpic variant is a form of a word which is spelled correctly, but missing a breathing mark, an accent, or some other diacritical mark. These variants often arise from the fact that the manuscript was written in the Byzantine period, when the conventions of writing Greek may have been slightly different than in modern printed editions. So μῆνις and μηνις are considered Byzantine orthographic equivalents. These orthographic variants occur very frequently in the edition of the scholia being used due to the editing process of the Homer Multitext project. For its goal is to faithfully recreate the exact markings on each page such that even the most obvious spelling or orthographic differences are recorded as they appear. Thus, the very common preposition ἀπό, meaning "away" or "off", is recorded many times in many different forms: with its accent, without its accent, with its breathing mark, etc. As a result, these variants are so numerous that they cannot be ignored. 
+
+Currently, though, there is no way to effectively account for these orthographic variants in our analysis. There is a comprehensive collection of every Byzantine orthographic variant that the Homer Multitext project has encountered, but this has not yet been incorporated into this analysis. Nor does it seem like given the complexity of incorporating the list that it will be a part of this thesis. Hopefully, future work from the Homer Multitext project will make this a possibilty, but in the interest of time it was deemed better to have imperfect data rather than no data. 
+
+Fortunately, the process of running a topic model, for instance, includes a step where one can filter out specific words from the dataset. Most often these so-called stopwords are the most frequently occurring words in a corpus. In the case of the scholia, if a certain Byzantine orthographic variant shows up so often that it begins to confound the data, one can simply add that variant to the list of stop words. While it would be infeasible to add every 
+
+

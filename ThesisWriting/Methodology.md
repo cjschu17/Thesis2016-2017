@@ -7,6 +7,7 @@
 - Can't work with raw text (inflected language, BYZORTHO)
 - For English, use stemmer; for Greek, use parser
 - methods
+- Tie Back to the beginning with topic modelling / word vector explanation
 
 
 

@@ -7,3 +7,5 @@
 - My question
 
 ---
+
+All texts are, at their core, composed of two equally-important components: content and presentation. If `help` and `*HELP*`, though 

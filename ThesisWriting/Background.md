@@ -24,8 +24,8 @@ Before going any further, it is necessary to ground my work in that of previous 
 
 This opinion is by no means the dominant opinion. As far back as the first centruy C.E. the Jewish historian Josephus makes the claim that the poems were not written down originally but were composed as songs. Over a long span of time these songs were rememembered and eventually written down (Josephus, Against Apion, 1.2). This oral theory took on a whole new life in the late eighteenth century with the writings of Friedrich Wolf. In his 1795 preface to *Iliad*, Wolf not only expands on the theory put forth by Josephus and others, but goes one step further. Wolf suggests boldly that:
       
-      ...this entire connected series of the two continuous poems is owed less to genius of him to whom we have normally attributed 
-      it, than to the zeal of a more polite age and the collective efforts of many, and that therefore the very songs from which the 
-      *Iliad* and *Odyssey* were assembled do not all have one common author... (Wolf, 70)
+      ...this entire connected series of the two continuous poems is owed less to genius of him to whom we have normally
+      attributed it, than to the zeal of a more polite age and the collective efforts of many, and that therefore the 
+      very songs from which the *Iliad* and *Odyssey* were assembled do not all have one common author... (Wolf, 70)
 
 This is a view which Wolf himself says "one must accept" (70).

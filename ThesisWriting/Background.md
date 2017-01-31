@@ -24,8 +24,8 @@ Before going any further, it is necessary to ground my work in that of previous 
 
 This opinion is by no means the dominant opinion. As far back as the first centruy C.E. the Jewish historian Josephus makes the claim that the poems were not written down originally but were composed as songs. Over a long span of time these songs were rememembered and eventually written down (Josephus, Against Apion, 1.2). This oral theory took on a whole new life in the late eighteenth century with the writings of Friedrich Wolf. In his 1795 preface to *Iliad*, Wolf not only expands on the theory put forth by Josephus and others, but goes one step further. Wolf suggests boldly that:
       
-      ...this entire connected series of the two continuous poems is owed less to genius of him to whom we have normally
-      attributed it, than to the zeal of a more polite age and the collective efforts of many, and that therefore the 
-      very songs from which the *Iliad* and *Odyssey* were assembled do not all have one common author... (Wolf, 70)
+      ...this entire connected series of the two continuous poems is owed less to genius of him to whom we have normally attributed it, than to the zeal of a more polite age and the collective efforts of many, and that therefore the very songs from which the *Iliad* and *Odyssey* were assembled do not all have one common author... (Wolf, 70)
 
-This is a view which Wolf himself says "one must accept" (70).
+This is a view which Wolf himself says "one must accept" (70) and which I believe holds greater weight than that of West. Not only does Wolf acknowledge the importance of songs for the creation and spread of the two poems, but he does away with even the idea of a single poet, something which Josephus still seemed to believe existed. To be fair to West, he acknowledges the key role of song and rhapsodes in proliferating the epic poems (*Ilias materiam continet iamdiu per ora cantorum diffusam*, v), but he diverges most importantly from the view of Wolf and other oral theorists in his assertion that even these songs "first got the form and cohesion as we know them at that time when it was written" by that single poet (v).
+
+The idea that the *Iliad* and *Odyssey* were originially composed as songs for performance is one that has persisted far beyond Wolf and which continues to command more attention. 

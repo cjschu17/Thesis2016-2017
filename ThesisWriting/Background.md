@@ -40,11 +40,6 @@ As for the actual architecture of the digital editions created by the Homer Mult
 
 What makes any of this work possible is the digitization of photography of various manuscripts under a Creative Commons License. Centuries-old manuscripts are extremely fragile documents that require particular environmental requirements in order to maintain their condition. As such, manuscripts are difficult to access, especially for Americans as most manuscripts are held in libraries in Europe. So gaining the opportunity to handle any manuscript long enough to fully transcribe it would be next to impossible. However, a rising trend in digitally photographing entire manuscripts has allowed for increased access to manuscript for all scholars.
 
-Even with pictures of manuscripts always available, it is unavoidable that, even with as large a team as the Homer Multitext project has, transcribing an entire manuscript of the *Iliad* takes a good deal of time. As such, members of the project come to know very well the ins and outs of the manuscript on which they are working. Thus, just based on the sheer time that project members spend staring at manuscripts compared to other Classical, it is unsurprising that members reach new conclusions concerning the *ILiad* manuscripts which they intensively labor over. However, the amount of scholarship produced by project members cannot just be explained by the amount of time spent with the manuscripts, but also must be explained by the complexity of the manuscripts themselves and the problems of interpretation they pose. 
+Even though the photography allows the manuscripts to be perenially available, it is unavoidable that, even with as large a team as the Homer Multitext project has, transcribing an entire manuscript of the *Iliad* takes a good deal of time. As such, project members come to spend so much more time with these manuscripts compared to other Classical scholars that the number of new conlcusions reached concerning the creation behind these manuscripts is unsurprising. However, the amount of scholarship produced by project members cannot just be explained by the amount of time they spend with the manuscripts. It must also be  attributed to the complexity of the manuscripts themselves as well as the problems of interpretation they pose. 
 
-No more is this more true than in the case of the aforementioned Venetus A manuscript. To repeat
-
-Shifts the focus from recovering Homer to being a documenter of individual manuscripts. 
-
-Venetus A.
-
+Nowhere is this level of interpretational complexity more apparent than in the case of the aforementioned Venetus A manuscript and its many, many scholia. 

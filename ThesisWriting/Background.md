@@ -49,5 +49,12 @@ Nowhere is this level of interpretational complexity more apparent than in the c
 While this discussion could continue without any images, one of the hallmarks of the Homer Multitext project is its focus on visual evidence. Furthermore, as the discussion of the scholia begins in earnest, it is important to keep in mind that the scholia are more than just textual content. The text of scholia are like any other text, and therefore its format and presentation are just as crucial to their understanding as the actual Greek words.
 [Picture of folio 12r]
 
-Pictured above is the first page, or folio, of the Venetus A manuscript which contains text of the *Iliad*. Admittedly, this folio, folio 12 recto, is a misrepresentation of the average manuscript page as few folii come close to rivaling 12r in terms of scholia density. In fact, it should be noted that the scribe of the Venetus A included more scholia towards the beginning of the manuscript than the end (Maniaci citation here). Thus this first folio, while not the representation of the average density of scholia. Still, it is a very useful folio for demonstrating the general
+Pictured above is the first page, or folio, of the Venetus A manuscript which contains text of the *Iliad*. Admittedly, this folio, folio 12 recto, is a misrepresentation of the average manuscript page as few folii come close to rivaling 12r in terms of scholia density. Still, due to this exaggerated density, it is a very useful folio for demonstrating the general layout of the manuscript.
 
+[Picture of folio 12r, but with the DSE showing different colors, this one only highlighting the text]
+
+In the middle of every manuscript page, highlighted in the picture above, are the verses of the *Iliad* and almost every folio contains exactly twenty-five lines of the poem. Every other mark or letter that is not highlighted in the above picture consitutes this folio's scholia. 
+
+[Picture of folio 12r, but with the DSE showing different colors, this one highlighting the different scholia zones]
+
+Even for someone who did not know any Greek, it is clear the scholia do not form a singular document. Rather the scholia are divided into five distinct zones. As, but as Mary Ebbott notes in a 2011 talk on the the Venetus A and multiformity, "It's impossible to just read it from top to bottom, left to right" (2011).

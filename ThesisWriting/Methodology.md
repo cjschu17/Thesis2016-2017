@@ -35,15 +35,23 @@ The simplest way of creating a citable text of a work is to prepare a text in tw
 
 | Citation | Text |
 | --- | --- |
-| `Poetry:American:Robfrost:poem1:1` | Two roads diverged in a yellow wood. |
-| `Poetry:American:Robfrost:poem1:2` | And sorry I could not travel both |
+| urn:EnglishLit:Poetry:American:Robfrost:poem1.poetryFound:1 | Two roads diverged in a yellow wood. |
+| urn:EnglishLit:Poetry:American:Robfrost:poem1.poetryFound:2 | And sorry I could not travel both |
  
 While the first two lines of "Stopping by Woods on a Snowy Evening" might look like:
 
 | Citation | Text |
 | --- | --- |
-| Poetry:American:Robfrost:poem2:1 | Whose woods these are I think I know.
-| Poetry:American:Robfrost:poem2:1 | His house is in the village though;
+| urn:EnglishLit:Poetry:American:Robfrost:poem2.poetryFound:1 | Whose woods these are I think I know.
+| urn:EnglishLit:Poetry:American:Robfrost:poem2.poetryFound:2 | His house is in the village though;
+
+While this Robert Frost citation scheme is merely hypothetical and not actually in use anywhere, my example is based upon an actual model for creating citable texts: the Ordered Hierarchy of Citation Objects (OHCO2). The above example demostrates the prominent features of the OHCO2 model. The model defines a text as "a set of citable nodes," in this case a line of poetry. Each line of the poem is situated within a larger citation scheme that allows it to be distinguised from a line of poetry in some other work. As can be gleaned from the above example, the two citations of the two Frost poems are nearly identical expect for one being "poem1" and the other being "poem2". The designations of 1 and 2 are arbitrary, but they have to be consistent. When discussing the poems of Frost, "poem1" must always be referring to "The Road Not Taken". Furthermore, there was no need for me to use numbers in my citation - they could have easily been "poemA" and "poemB". Again, as long as the citation scheme is unambiguous and consistent, there are no issues. 
+
+Moving beyond the "poem1" and "poem2", it is worth noting the other features of this citation hierarchy. Specifically these two poems belong under the classification of "RobFrost" conveying that the two poems are clustered together because Frost penned them both. The citation `urn:EnglishLit:Poetry:American:Robfrost` would be an appropriate way to cite all the poems of Robert Frost. "RobFrost" in turn belongs under the hierarchy of "American" indicating that Frost wrote American works and, more specifically since "American" falls under the hierarchy of "Poetry" that he wrote American poetry. Finally, most generally these two poems fall under the heading of "EnglishLit". Thus the OHCO2 citation model allows for the citation of a work within the context of the rest of literature. One could imagine various permutations to the schema aboe to account for different types of literature. urn:EnglishLit:Poetry:American:EAPoe would allow for the citation of Edgar Allen Poe's poetry, urn:EnglishLit:Poetry:Irish would allow for the citation of Irish poetry, and urn:LatinLit would allow for the citation of Latin literature.
+
+Directly after "poem1" and "poem2" came the ciation "poetryFound". This refers to the work hierarchy of a text, i.e. what specific source provided the text one is citing. In this case, I found the text for the two Frost poems on the website *Poetry Foundation*, thus `poetryFound` is meant to reflect my direct source. The distinction here is ultimately to what the developers of the OHCO2 model refers to as the "notational text" and one particular version of a text. Whereas the citation urn:EnglishLit:Poetry:American:Robfrost:poem1 refers to the abstract concept that is Frost's "The Road Not Taken", urn:EnglishLit:Poetry:American:Robfrost:poem1.poetryFound refers to a version of the text that exists in the real world.
+
+After "poetryFound" comes the citation which differentiates the individual lines from one another.
 
 Luckily, in the case of this work on Iliadic scholia, the text of the scholia has already been written in a format that lends itself easily to digital analysis. This is because, as mentioned previously in chapter 1, the Homer Multitext project has been working for the last nine years to create digital editions of entire Iliad manuscripts. The scholia to the Venetus A manuscript have been transcribed using an XML format with separate editions for each book and type of scholia. By writing in XML, or Extensible Markup Language, the editors of the Homer Multitext project are able not only to record the visible letters on the manuscript page, but also to apply "markup" in order to supply more information about the text. Specifically, the Homer Multitext project follows the guidelines of the Text Encoding Initiative (TEI), a community of digital humanists who have established standards for editing texts. These guidelines inform the project's policies on creating digital editions such that the markup can be understood easily by other scholars. This extra information can convey how the scholia are ordered on the page, to which line of the poem a scholion refers, and whether a string of text in the scholion is a quotation from elsewhere in the *Iliad*. These and other more specific TEI elements will be explained as they become relevant. However, this section will focus on the structural aspects of the TEI guidelines as they relate to text wrangling.
 

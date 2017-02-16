@@ -33,8 +33,8 @@ Still, even the line `Once upon a midnight dreary, while I pondered, weak and we
 
 The simplest way of creating a citable text of a work is to prepare a text in two columns. The first column carries a citation, the second column carries the text. The depth of one's citation depends heavily on what sort of analysis is required. It is reasonable that if one wanted to compare the entire corpus of Robert Frost poems, one would have the first column contain a citation of a particular poem and the second column contain the entire poem. More commonly though, scholars like to refer to chapters of a book, or line of a poem. Thus a citable text version of the first two lines of Frost's "The Road Not Taken" might look something like:
 
-Poetry:American:Robfrost:poem1:1|Two roads diverged in a yellow wood.
-Poetry:American:Robfrost:poem1:2|And sorry I could not travel both
+| Poetry:American:Robfrost:poem1:1 | Two roads diverged in a yellow wood. |
+| Poetry:American:Robfrost:poem1:2 | And sorry I could not travel both |
  
 While the first two lines of "Stopping by Woods on a Snowy Evening" might look like:
 

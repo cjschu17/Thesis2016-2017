@@ -33,15 +33,13 @@ Still, even the line `Once upon a midnight dreary, while I pondered, weak and we
 
 The simplest way of creating a citable text of a work is to prepare a text in two columns. The first column carries a citation, the second column carries the text. The depth of one's citation depends heavily on what sort of analysis is required. It is reasonable that if one wanted to compare the entire corpus of Robert Frost poems, one would have the first column contain a citation of a particular poem and the second column contain the entire poem. More commonly though, scholars like to refer to chapters of a book, or line of a poem. Thus a citable text version of the first two lines of Frost's "The Road Not Taken" might look something like:
 
-`Poetry:American:Robfrost:poem1:1 Two roads diverged in a yellow wood.
-
- Poetry:American:Robfrost:poem1:2 And sorry I could not travel both`
+`Poetry:American:Robfrost:poem1:1 Two roads diverged in a yellow wood.`
+ `Poetry:American:Robfrost:poem1:2 And sorry I could not travel both`
  
 While the first two lines of "Stopping by Woods on a Snowy Evening" might look like:
 
-`Poetry:American:Robfrost:poem2:1 Whose woods these are I think I know.
-
- Poetry:American:Robfrost:poem2:1 His house is in the village though;`
+`Poetry:American:Robfrost:poem2:1 Whose woods these are I think I know.`
+`Poetry:American:Robfrost:poem2:1 His house is in the village though;`
 
 Luckily, in the case of this work on Iliadic scholia, the text of the scholia has already been written in a format that lends itself easily to digital analysis. This is because, as mentioned previously in chapter 1, the Homer Multitext project has been working for the last nine years to create digital editions of entire Iliad manuscripts. The scholia to the Venetus A manuscript have been transcribed using an XML format with separate editions for each book and type of scholia. By writing in XML, or Extensible Markup Language, the editors of the Homer Multitext project are able not only to record the visible letters on the manuscript page, but also to apply "markup" in order to supply more information about the text. Specifically, the Homer Multitext project follows the guidelines of the Text Encoding Initiative (TEI), a community of digital humanists who have established standards for editing texts. These guidelines inform the project's policies on creating digital editions such that the markup can be understood easily by other scholars. This extra information can convey how the scholia are ordered on the page, to which line of the poem a scholion refers, and whether a string of text in the scholion is a quotation from elsewhere in the *Iliad*. These and other more specific TEI elements will be explained as they become relevant. However, this section will focus on the structural aspects of the TEI guidelines as they relate to text wrangling.
 

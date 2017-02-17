@@ -1,11 +1,3 @@
-URN:	PersonUrn	Label
-Type of Scholion	Frequency Of Appearance
-Main Scholia	0.0
-Interior Scholia	0.0
-Interlinear Scholia	0.0
-Exterior Scholia	0.0
-Intermarginal Scholia	0.0
-
 URN:	urn:cite:hmt:pers.pers1	Achilles
 Type of Scholion	Frequency Of Appearance
 Main Scholia	0.0010472047688094086

@@ -1,0 +1,21 @@
+Type of Scholia	Count	Mean	Standard Deviation
+
+Main Scholia	3601.0	33.78	31.06
+Intermarginal Scholia	1220.0	7.1	3.97
+Interior Scholia	819.0	7.66	5.74
+Main Scholia	2067.0	2.31	1.88
+Main Scholia	233.0	4.19	28.56
+
+
+Types of Scholia	T-value	Statistically Significant (p=0.05)
+
+Main and Intermarginal	50.35	Statistically Significant
+Main and Interior	47.06	Statistically Significant
+Main and Interlinear	60.61	Statistically Significant
+Main and Exterior	15.24	Statistically Significant
+Intermarginal and Interior	2.44	Statistically Significant
+Intermarginal and Interlinear	39.56	Statistically Significant
+Intermarginal and Exterior	1.55	not statistically Significant
+Interior and Interlinear	26.14	Statistically Significant
+Interior and Exterior	1.84	Statistically Significant
+Interlinear and Exterior	1.01	not statistically Significant

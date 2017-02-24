@@ -1,4 +1,4 @@
-Types of Scholia,T-value,Statistically Significant (p=0.05)
+Types of Scholia,t-value,Statistically Significant (for p < 0.05 at d.f. = infinity, t > 1.645)
 Main and Intermarginal,50.35,Statistically Significant
 Main and Interior,47.06,Statistically Significant
 Main and Interlinear,60.61,Statistically Significant

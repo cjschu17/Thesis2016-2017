@@ -27,5 +27,5 @@ Where these observations become less clear is in the interior and intermarginal 
 | Main Scholia | 3601 | 24 | 33.78 | 31.06 |
 | Intermarginal Scholia | 1220 | 6 | 7.1 | 3.97 |
 | Interior Scholia | 819 | 7 | 7.66 | 5.74 |
-| Interlinear Scholia	2067 | 2 | 2.31 | 1.88 |
+| Interlinear Scholia | 2067 | 2 | 2.31 | 1.88 |
 | Exterior Scholia | 233 | 1 | 4.19 | 28.56 |

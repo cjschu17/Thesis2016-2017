@@ -49,12 +49,12 @@ def avgLength(fileName: String) {
   val tTestIlExt = tTest(statsIl,ilScholCount,statsExt,extScholCount)
 
 
-  println("Type of Scholia\tCount\tMean\tStandard Deviation\n")
-  println("Main Scholia\t" + mainScholCount + "\t" + math.BigDecimal(statsMain._1).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble + "\t" + math.BigDecimal(statsMain._2).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble)
-  println("Intermarginal Scholia\t" + imScholCount + "\t" + math.BigDecimal(statsIm._1).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble + "\t" + math.BigDecimal(statsIm._2).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble)
-  println("Interior Scholia\t" + intScholCount + "\t" + math.BigDecimal(statsInt._1).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble + "\t" + math.BigDecimal(statsInt._2).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble)
-  println("Main Scholia\t" + ilScholCount + "\t" + math.BigDecimal(statsIl._1).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble + "\t" + math.BigDecimal(statsIl._2).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble)
-  println("Main Scholia\t" + extScholCount + "\t" + math.BigDecimal(statsExt._1).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble + "\t" + math.BigDecimal(statsExt._2).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble)
+  println("Type of Scholia\tCount\tMedian\tMean\tStandard Deviation\n")
+  println("Main Scholia\t" + mainScholCount + "\t" + statsMain._3 + "\t" + math.BigDecimal(statsMain._1).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble + "\t" + math.BigDecimal(statsMain._2).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble)
+  println("Intermarginal Scholia\t" + imScholCount + "\t" + statsIm._3 + "\t" + math.BigDecimal(statsIm._1).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble + "\t" + math.BigDecimal(statsIm._2).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble)
+  println("Interior Scholia\t" + intScholCount + "\t" + statsInt._3 + "\t" + math.BigDecimal(statsInt._1).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble + "\t" + math.BigDecimal(statsInt._2).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble)
+  println("Interlinear Scholia\t" + ilScholCount + "\t" + statsIl._3 + "\t" + math.BigDecimal(statsIl._1).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble + "\t" + math.BigDecimal(statsIl._2).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble)
+  println("Exterior Scholia\t" + extScholCount + "\t" + statsExt._3 + "\t" + math.BigDecimal(statsExt._1).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble + "\t" + math.BigDecimal(statsExt._2).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble)
 
   println("\n\nTypes of Scholia\tT-value\tStatistically Significant (p=0.05)\n")
   println("Main and Intermarginal\t" + math.BigDecimal(tTestMainIm._1).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble + "\t" + tTestMainIm._2)
@@ -80,7 +80,7 @@ def extract(srcXml: String) = {
 
 }
 
-def statsCalc(totalSchol: Double, listOfLengths: Vector[Int]): (Double,Double) = {
+def statsCalc(totalSchol: Double, listOfLengths: Vector[Int]) = {
 
   var totWords: Int = 0
   for (num <- listOfLengths) {
@@ -99,14 +99,26 @@ def statsCalc(totalSchol: Double, listOfLengths: Vector[Int]): (Double,Double) =
   val quotient: Double = numerator / (totalSchol - 1.0)
   val sd = math.sqrt(quotient)
 
-  val roundedAvg = math.BigDecimal(average).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
-  val roundedSD = math.BigDecimal(sd).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
+  val orderedWdCt = listOfLengths.sorted
+  val scholCount = orderedWdCt.size
 
-  val meanSD = (average,sd)
-  meanSD
+  var median: Int = 0
+
+  if (scholCount%2 == 0) {
+    val evenBaseNumber: Int = (scholCount / 2)
+    median += math.round((orderedWdCt(evenBaseNumber - 1 ) + orderedWdCt(evenBaseNumber)).toDouble / 2).toInt
+  } else{
+    val oddBaseNumber: Int = (scholCount / 2)
+    median += orderedWdCt(oddBaseNumber)
+  }
+
+
+
+  val meanSDMedian = (average,sd,median)
+  meanSDMedian
 }
 
-def tTest(dataset1: (Double,Double), size1: Double, dataset2: (Double,Double), size2: Double) = {
+def tTest(dataset1: (Double,Double,Int), size1: Double, dataset2: (Double,Double,Int), size2: Double) = {
 
   val mean1 = dataset1._1
   val mean2 = dataset2._1

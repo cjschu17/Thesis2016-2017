@@ -33,4 +33,17 @@ Where these observations become less clear is in the interior and intermarginal 
 
 The above chart describes the length of scholia, grouped by scholia zone. Length here is defined by the number of words in the scholia. In all these calculations, only the actual comment of the scholia was considered, so the words of the lemma were not included in the various calculations. As discussed above, the main scholia are unsurprisingly the longest scholia, with the average scholion consisting of 33.78 words, and the interlinear scholia are unsurprisingly the shortest scholia, with the average scholion consisting of 2.31 words. The main and interlinear scholia also sit at the two extremes for the values of standard deviation. The large variance for the main scholia is expected as some main scholia are as short as a few words, while others easily go on for at least one hundred words. Again, this fits the accepted view of the main scholia's function in providing space for expanded discussions of grammar, mythology, etc. as well as more clipped notes. On the other hand, the low standard deviation for the interlinear scholia (1.88), combined with its low mean number of words (2.31) confirms the mathces the expectation that the interlinear scholia are mostly used to provide short glosses on words and phrases in the *Iliad* text.
 
-As 
+As discussed above, however, confirming that the main and interlinear scholia are definitively different from one another is not necessarily that exciting. What would be of more interest would be a significant difference between the intermarginal and interior scholia. Just based on the descriptive statistics, the two do not appear all that different. Both have a average length of about 7 words, though the interior are a bit longer on average (7.66 words on average for the interior versus 7.1 words for the intermarginal). However, the standard deviation for the two throws uncertainty over the significance of this slight difference. With a standard deviation of 5.74 for the interior and 3.97 for the intermarginal, the two sets of scholia definitely overlap in terms of scholia length. Since it is not apparent from just looking at the descriptive statistics, inferential statistics are required in order to determine if there is a statistically significant difference between the average length of the intermarginal scholia and the average length of the interior scholia.
+
+| Types of Scholia | t-value | Statistically Significant (for p < 0.05, t > 1.645) |
+| Main and Intermarginal | 50.35 | Statistically Significant |
+| Main and Interior | 47.06 | Statistically Significant |
+| Main and Interlinear | 60.61 | Statistically Significant |
+| Main and Exterior | 15.24 | Statistically Significant |
+| Intermarginal and Interior | 2.44 | Statistically Significant |
+| Intermarginal and Interlinear | 39.56 | Statistically Significant |
+| Intermarginal and Exterior | 1.55 | not statistically Significant |
+| Interior and Interlinear | 26.14 | Statistically Significant |
+| Interior and Exterior | 1.84 | Statistically Significant |
+| Interlinear and Exterior | 1.01 | not statistically Significant |
+

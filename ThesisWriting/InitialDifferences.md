@@ -58,7 +58,7 @@ Types of Scholia|T-value|Statistically Significant (p=0.05)
 --- | --- | ---
 Main and Exterior|56.92|Statistically Significant
 Intermarginal and Exterior|21.25|Statistically Significant
-Interior and Exterior	19.14|Statistically Significant
+Interior and Exterior|19.14|Statistically Significant
 Interlinear and Exterior|0.11|not statistically Significant
 
 I believe the same thing is happening with the exterior and interlinear scholia t-test. I believe the exterior is so sensitive to this outlier just because the outlier is two orders of magnitude greater than the mean, and while there are 233 exterior scholia, a fairly large sample size, it is still least frequently occurring of all the types of scholia in the manuscript. So in sum,  

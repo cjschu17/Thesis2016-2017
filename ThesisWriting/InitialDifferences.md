@@ -22,6 +22,7 @@ More about topic modelling, and the problems it poses for replicable and reliabl
 
 Where these observations become less clear is in the interior and intermarginal scholia. For all intents and purposes, these two scholia share the same amount of space on the manuscript page, and to the naked eye, the individual comments tend to be about equal in length. Here, then, is the advanage of digital technologies. The current data from the Homer Multitext archive includes the comletely edited edition of seventeen books from the Venetus A edition of the *Iliad* including all the scholia from that book. The only books missing from this analysis are books 13, 16, and 20-24. Even with an incomplete corpus of scholia, the HMT edition of the scholia includes (NUMBER OF WORDS IN THE SCHOLIA) words, which is a sizable enough corpus that members of the HMT feel comfortable asserting that this sample will be representative of the entire corpus of Venetus A scholia. It should be noted that since the scripts which were used to create this data are included in the GitHub repository for my thesis work, any and all of these results should be updated once the entirety of the Venetus A scholia are edited and made available. With all that said, it is time to turns to the data.
 
+
 | Type of Scholia | Count | Median | Mean | Standard Deviation |
 | --- | --- | --- | --- | --- | 
 | Main Scholia | 3601 | 24 | 33.78 | 31.06 |
@@ -29,3 +30,7 @@ Where these observations become less clear is in the interior and intermarginal 
 | Interior Scholia | 819 | 7 | 7.66 | 5.74 |
 | Interlinear Scholia | 2067 | 2 | 2.31 | 1.88 |
 | Exterior Scholia | 233 | 1 | 4.19 | 28.56 |
+
+The above chart describes the length of scholia, grouped by scholia zone. Length here is defined by the number of words in the scholia. In all these calculations, only the actual comment of the scholia was considered, so the words of the lemma were not included in the various calculations. As discussed above, the main scholia are unsurprisingly the longest scholia, with the average scholion consisting of 33.78 words, and the interlinear scholia are unsurprisingly the shortest scholia, with the average scholion consisting of 2.31 words. The main and interlinear scholia also sit at the two extremes for the values of standard deviation. The large variance for the main scholia is expected as some main scholia are as short as a few words, while others easily go on for at least one hundred words. Again, this fits the accepted view of the main scholia's function in providing space for expanded discussions of grammar, mythology, etc. as well as more clipped notes. On the other hand, the low standard deviation for the interlinear scholia (1.88), combined with its low mean number of words (2.31) confirms the mathces the expectation that the interlinear scholia are mostly used to provide short glosses on words and phrases in the *Iliad* text.
+
+As 

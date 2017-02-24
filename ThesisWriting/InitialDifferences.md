@@ -41,7 +41,7 @@ As discussed above, however, confirming that the main and interlinear scholia ar
 | Main and Interior | 47.06 | Statistically Significant |
 | Main and Interlinear | 60.61 | Statistically Significant |
 | Main and Exterior | 15.24 | Statistically Significant |
-| Intermarginal and Interior | 2.44 | Statistically Significant |
+| **Intermarginal and Interior | 2.44 | Statistically Significant** |
 | Intermarginal and Interlinear | 39.56 | Statistically Significant |
 | Intermarginal and Exterior | 1.55 | not statistically Significant |
 | Interior and Interlinear | 26.14 | Statistically Significant |

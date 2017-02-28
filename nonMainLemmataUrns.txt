@@ -1,0 +1,35 @@
+Intermarginal Scholia
+
+urn:cts:greekLit:tlg5026.msAim.hmt:2.389.lemma
+urn:cts:greekLit:tlg5026.msAim.hmt:5.5005.lemma
+urn:cts:greekLit:tlg5026.msAim.hmt:6.270.lemma
+urn:cts:greekLit:tlg5026.msAim.hmt:11.4.lemma
+urn:cts:greekLit:tlg5026.msAim.hmt:12.E1.lemma
+urn:cts:greekLit:tlg5026.msAim.hmt:15.26.lemma
+urn:cts:greekLit:tlg5026.msAim.hmt:17.17.lemma
+
+
+
+Interior Scholia 
+
+urn:cts:greekLit:tlg5026.msAint.hmt:2.332.lemma
+urn:cts:greekLit:tlg5026.msAint.hmt:2.340.lemma
+urn:cts:greekLit:tlg5026.msAint.hmt:2.394.lemma
+urn:cts:greekLit:tlg5026.msAint.hmt:2.395.lemma
+urn:cts:greekLit:tlg5026.msAint.hmt:15.6.lemma
+urn:cts:greekLit:tlg5026.msAint.hmt:17.6.lemma
+urn:cts:greekLit:tlg5026.msAint.hmt:17.20.lemma
+
+
+
+Interlinear Scholia
+
+urn:cts:greekLit:tlg5026.msAil.hmt:8.287.lemma
+
+
+
+Exterior Scholia
+
+urn:cts:greekLit:tlg5026.msAext.hmt:3.743.lemma
+urn:cts:greekLit:tlg5026.msAext.hmt:9.176.lemma
+urn:cts:greekLit:tlg5026.msAext.hmt:12.A1.lemma

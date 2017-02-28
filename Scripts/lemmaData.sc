@@ -26,7 +26,7 @@ def lemmaData(fileName: String) {
 
   val allData: Vector[String] = Vector(mainLemmataData,imLemmataData,intLemmataData,ilLemmataData,extLemmataData)
 
-  print("Type of Scholia\tNumber of Scholia\tNumber of Lemmata\tFrequency of Scholia")
+  print("Type of Scholia\tNumber of Scholia\tNumber of Lemmata\tFrequency of Scholia\n")
 
   for (line <- allData) {
     println(line)

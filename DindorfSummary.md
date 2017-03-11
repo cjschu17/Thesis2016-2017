@@ -1,6 +1,6 @@
 
 
-Among the surviving manuscripts of the Iliad, the Venetus A is one of the most prominent. Chiefly, Dindorf lays out that no other manuscript contains the critical signs of Aristarchus as well as the sheer abundance of scholia from the four grammarians: Aristonicus, Didymus, Nicanor, and Herodean.
+Among the surviving manuscripts of the Iliad, the Venetus A is one of the most prominent. Chiefly, Dindorf lays out that no other manuscript contains the critical signs of Aristarchus as well as the sheer abundance of scholia from the four grammarians: Aristonicus, Didymus, Nicanor, and Herodean (page, xxix)
 
 In terms of how the manuscript was physically put together, the manuscript consists of vellum folii arranged into quires of four folii. Since each folio has two sides which can be written on, a right (recto) and left (verso), each quire consists of eight manuscript pages. These quires were then put together to form the completed manuscript. The exception to this rule is the last quire which only contains two folii.
 

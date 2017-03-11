@@ -31,10 +31,12 @@ Even though the photography allows the manuscripts to be perennially available, 
 
 Nowhere is this level of interpretational complexity more apparent than the aforementioned case of the scholia’s formatting in the Venetus A. To repeat information from before, the Venetus A is an extremely important document for the field of Homeric studies for a number of reasons. For one, it contains the entire text of the *Iliad* and, since it dates back to the tenth century C.E., it is the oldest existing manuscript to do so. Still, it is the scholia which have caught the attention of scholars for centuries. For a variety of reasons the Venetus A was essentially forgotten around the time of the Renaissance (Blackwell and Dué, 6). However, once it was rediscovered by Jean Baptiste Gaspard d’Ansse de Villoison in the late 1700s, news of the manuscript and scholia spread quickly among Homeric scholars. Wolf reports that Villoison’s edition of the manuscript was famous precisely because scholars were forced to wait to read it themselves and grew excited (Wolf, 50).
 
-	There is much more about these scholia that warrant excitement than just anticipation of reading them, particularly since the manuscript is now readily available online. For one thing, at the end of nearly every book in the Venetus A, there is a subscription which cites what sources were used when creating the scholia the scholia:
-παράκειται τὰ Ἀριστονίκου σημεῖα καὶ τὰ  Διδύμου περι τῆς Ἀρισταρχείου διορθώσεως· τινὰ δὲ καὶ ἐκ τῆς Ἰλιακῆς προσωδίας Ἡρωδιανου καὶ ἐκ τοῦ Νικάνορος περὶ στιγμης⁑
+There is much more about these scholia that warrant excitement than just anticipation of reading them, particularly since the manuscript is now readily available online. For one thing, at the end of nearly every book in the Venetus A, there is a subscription which cites what sources were used when creating the scholia the scholia:
 
-Lying beside [the text of the *Iliad*] are the following works. *The Signs* by Aristonicus, *On the Aristarchean Recension* by Didymus. And there is something from *Iliadic Prosody* by Herodian and *On Punctuation* by Nicanor.
+	παράκειται τὰ Ἀριστονίκου σημεῖα καὶ τὰ  Διδύμου περι τῆς Ἀρισταρχείου διορθώσεως· τινὰ δὲ καὶ ἐκ τῆς Ἰλιακῆς προσωδίας Ἡρωδιανου καὶ ἐκ τοῦ Νικάνορος περὶ στιγμης⁑
+
+	Lying beside [the text of the *Iliad*] are the following works. *The Signs* by Aristonicus, *On the Aristarchean Recension* by Didymus. And there is something from *Iliadic Prosody* by Herodian and *On Punctuation* by Nicanor.
+	
 [Insert here more from Wolf and Dindorf on why these scholia are of particular importance. Critical signs, and views into the Alexandrians].
 
 While this discussion could continue without any images, one of the hallmarks of the Homer Multitext project is its focus on visual evidence. Furthermore, as the discussion of the scholia begins in earnest, it is important to keep in mind that the scholia are more than just textual content. The text of scholia are like any other text, and therefore its format and presentation are just as crucial to their understanding as the actual Greek words.

@@ -1,13 +1,7 @@
 ##Theory and Methodology
 
-- Intro to distant reading/ TM? (Jockers)
-- How the data is originally structured (aka XML)
-- Trying to take a text in xml format and analyze it (text only)
-- In order to do this, must extract text
-- Can't work with raw text (inflected language, BYZORTHO)
-- For English, use stemmer; for Greek, use parser
-- methods
-- Tie Back to the beginning with topic modelling / word vector explanation
+- Need to update to reflect new work with byzortho
+- Need to include the work which allows for the citation of text versions
 
 
 

@@ -67,7 +67,24 @@ Luckily, in the case of this work on Iliadic scholia, the text of the scholia ha
 
 For example, above it was said that it is important that a poem be broken up into lines if one wanted to cite the poem as a set of lines. In XML, there is an element `<l>` which means "line," so one could just transcribe a poem into an XML format where each line is contained within its own `<l>` element. Additionally, one can add attributes to the element in order to add more information about the element. So for the element `<l>`, one of the attributes is `@n`, meaning "name". This `@n` attribute can be used to give some sort of identifier to a line. So logically, the first line of a poem might have the identifier `1`. So in total the first line of "The Road Not Taken" in XML might look something like: `<l n="1">Two roads diverged in a yellow wood.<\l>`
 
-When it comes to creating an XML edition of the scholia, the Homer Multitext project uses the same basic structural format for every scholion. That is, within one TEI element `<div>`, "division", there are three parallel subdivisions, still the element `<div>`, which each carry information about the scholion. The first subdivision contains just the lemma of the scholion, the second contains a uniform citation for the line of the *Iliad* on which the scholion is commenting, and the final subdivision contains the actual text content of the scholion itself. Such a logical structure is essential for the creation of a digital scholarly edition. However, this additional structural information hinders textual analysis. While something like `<div type="text"><l>Wrath sing, oh goddess, of son of Peleus Achilles</l></div>` is a valid and logical XML transcription of the firt few words of the *Iliad*, clearly text like `<div>` and `<l>` should not be included in an analysis. If one were working with a small amount of scholia, it may make sense just to manually copy and paste all of the actual text from the XML files. The 8,000 scholia of this dataset, however, render manual extraction impractical. In order to avoid this labor-intensive process, we wrote a program using scala, a computer programming language, which was able to perform this extraction automatically.
+When it comes to creating an XML edition of the scholia, the Homer Multitext project uses the same basic structural format for every scholion. That is, within one TEI element `<div>`, "division", there are three parallel subdivisions, still the element `<div>`, which each carry information about the scholion. The first subdivision contains just the lemma of the scholion. The lemma is a quotation of a whole of part of an *Iliad* line which appears at the beginning of a scholion and serves to clue the reader into which line of the *Iliad* the scholion is going to comment on. The second subdivision contains a URN citation for the line of the *Iliad* on which the scholion is commenting, and the final subdivision contains the actual text content of the scholion itself. Such a logical structure is essential for the creation of a digital scholarly edition.
+
+In sum an edited scholion looks like the following:
+
+`<div n="4" type="scholion">
+   <div n="lemma">
+      <p>τα φρονέοντ' ἀνα θυμὸν,</p>
+   </div>
+   <div type="ref">
+      <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.4</p>
+   </div>
+   <div n="comment">
+     <p>οἱ περι τῶν φαύλων αγωνιῶντες ἐν τοῖς κινδύνοις δυσέλπιδές εἰσὶν ἔστι
+        δὲ τῶν ἐν ατυχίᾳ προληπτικῶς ὁ νοῦς ⁑</p>
+   </div>
+</div>`
+
+However, this additional structural information hinders textual analysis. While something like `<div type="text"><l>Wrath sing, oh goddess, of son of Peleus Achilles</l></div>` is a valid and logical XML transcription of the firt few words of the *Iliad*, clearly text like `<div>` and `<l>` should not be included in an analysis. If one were working with a small amount of scholia, it may make sense just to manually copy and paste all of the actual text from the XML files. The 8,000 scholia of this dataset, however, render manual extraction impractical. In order to avoid this labor-intensive process, we wrote a program using scala, a computer programming language, which was able to perform this extraction automatically.
 
 Even with a complete collection of only the words from all the scholia, such a dataset would still be insufficient for any serious textual analysis if left unaltered. Homer Multitext policy dictates that every word of the manuscript be transcribed exactly as it appears on the manuscript page. This means that all orthographic variants and scribal errors exist in the Homer Multitext editions, cluttering up their data. Even their editing process can leave behind leftover markup that exists within the text content of the scholia. However, this leftover markup can easily be extracted from the text of the scholia. The markup is written in English and the scholia are written in Greek; thus one can simply filter out the letters of the English alphabet from the surrounding Greek to get a somewhat cleaner dataset. 
 

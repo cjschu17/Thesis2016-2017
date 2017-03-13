@@ -4,14 +4,13 @@ import scala.xml._
 case class IdTriple (surface: String, pos: String, lemma: String)
 
 @main
-def main(srcString: String) {
+def main(morphRepliesTable: String) {
 
-  val srcFile = scala.io.Source.fromFile(srcString).getLines.toVector
-  val morphReplies = srcFile.map(_.replaceAll(",<rdf:RDF","\t<rdf:RDF").split("\t"))
+  val srcFile = scala.io.Source.fromFile(morphRepliesTable).getLines.toVector
+  val morphReplies = srcFile.map(_.split("\t"))
   val noErrors = morphReplies.filter(_.size == 2).filterNot(_(1).contains("Error from parsing service."))
-  val noErrors2 = noErrors.map(s => (s(0),s(1)))
-  val idColumn = noErrors2.map(_._1)
-  val xmlColumn = noErrors2.map(_._2)
+  val idColumn = noErrors.map(_(0))
+  val xmlColumn = noErrors.map(_(1))
 
   val morphAnalyses = xmlColumn.map { e =>
     val root = XML.loadString(e)
@@ -38,6 +37,7 @@ def main(srcString: String) {
     val newEntryData = (newLexent,newPos)
     newEntryData
   }
+
 
   val idAnalyzed = idColumn.zip(morphAnalyses)
   val tripleId = idAnalyzed.map(row => IdTriple(row._1,row._2._2,row._2._1))

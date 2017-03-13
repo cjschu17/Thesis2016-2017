@@ -39,11 +39,10 @@ def main(srcString: String) {
     newEntryData
   }
 
-  val validReplies = morphAnalyses.filterNot(_._1.isEmpty)
-
-  val idAnalyzed = idColumn.zip(validReplies)
+  val idAnalyzed = idColumn.zip(morphAnalyses)
   val tripleId = idAnalyzed.map(row => IdTriple(row._1,row._2._2,row._2._1))
-  for (tID <- tripleId) {
+  val validTripleIds = tripleId.filterNot(_.pos.isEmpty).filterNot(_.lemma.isEmpty)
+  for (tID <- validTripleIds) {
     println(tID.surface + "\t" + tID.pos + "\t" + tID.lemma)
   }
 }

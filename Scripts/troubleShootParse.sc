@@ -4,17 +4,18 @@ import scala.xml._
 case class IdTriple (surface: String, pos: String, lemma: String)
 
 @main
-def mainFunc(srcFile: String) {
+def main(srcString: String, byzorthoVersion: String) {
 
-  val byzorthoEdition = scala.io.Source.fromFile(srcFile).getLines.toVector
-  val byzorthoColumns = byzorthoEdition.map(s => s.split("\t"))
+  val srcFile = scala.io.Source.fromFile(srcString).getLines.toVector
+  val srcFile2 = scala.io.Source.fromFile(byzorthoVersion).getLines.toVector
+  val byzorthoColumns = srcFile2.map(s => s.split("\t"))
   val noPuncTuple= byzorthoColumns.map( a => (a(0),a(1).replaceAll( "[\\{\\}\\\\>,\\[\\]\\.·⁑;:·\\*\\(\\)\\+\\=\\-“”\"‡  ]+"," ")))
   val urnWordArrayTuple = noPuncTuple.map( row => (row._1,row._2.split(" ").filterNot(_.isEmpty)))
-  val uniqueWords = urnWordArrayTuple.map(_._2).flatten.groupBy( w => w).map(_._1).toVector
-  val morphReplies = uniqueWords.map(word => (word,parse(word)))
+  val morphReplies = srcFile.map(_.replaceAll(",<rdf:RDF","\t<rdf:RDF").split("\t"))
   val noErrors = morphReplies.filter(_.size == 2).filterNot(_(1).contains("Error from parsing service."))
-  val idColumn = noErrors.map(_._1)
-  val xmlColumn = noErrors.map(_._2)
+  val noErrors2 = noErrors.map(s => (s(0),s(1)))
+  val idColumn = noErrors2.map(_._1)
+  val xmlColumn = noErrors2.map(_._2)
 
   val morphAnalyses = xmlColumn.map { e =>
     val root = XML.loadString(e)
@@ -60,23 +61,6 @@ def mainFunc(srcFile: String) {
 
 }
 
-def parse (s: String): String = {
-
-  val baseUrl = "https://services.perseids.org/bsp/morphologyservice/analysis/word?lang=grc&engine=morpheusgrc&word="
-  val request = baseUrl + s
-  println("Currently working on: " + s)
-  getMorphReply(request)
-}
-
-def  getMorphReply(request: String) : String = {
-  var reply : String = ""
-  try {
-    reply = scala.io.Source.fromURL(request).mkString.replaceAll("\n"," ")
-  } catch {
-    case _ => reply = "Error from parsing service."
-  }
-  reply
-}
 
 
 def formatEntry(e: Elem) = {
@@ -107,10 +91,13 @@ def replacement(wdLists: Vector[(String, Array[String])],  tripleList: Vector[Id
 
       for (answer <- tripleForString(word,tripleList) ) {
           line += urn + "\t" + answer.lemma + "\n"
+          println(answer.lemma)
       }
     }
   }
+
   line.split("\n").toVector
+
 }
 
 def tripleForString(s: String, triples: Vector[IdTriple] ): Vector[IdTriple] = {

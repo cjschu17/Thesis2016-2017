@@ -11,14 +11,10 @@ def mainFunc(srcFile: String) {
   val noPuncTuple= byzorthoColumns.map( a => (a(0),a(1).replaceAll( "[\\{\\}\\\\>,\\[\\]\\.·⁑;:·\\*\\(\\)\\+\\=\\-“”\"‡  ]+"," ")))
   val urnWordArrayTuple = noPuncTuple.map( row => (row._1,row._2.split(" ").filterNot(_.isEmpty)))
   val uniqueWords = urnWordArrayTuple.map(_._2).flatten.groupBy( w => w).map(_._1).toVector
-  var baseNumber = 0
-  for (word <- uniqueWords) {
-    baseNumber += 1
-    val morphReplies = (word,parse(word,uniqueWords.size,baseNumber))
-  }
-  val filterOutErrors = morphReplies.filterNot(_._2.contains("Error from parsing service."))
-  val idColumn = filterOutErrors.map(_._1)
-  val xmlColumn = filterOutErrors.map(_._2)
+  val morphReplies = uniqueWords.map(word => (word,parse(word)))
+  val noErrors = morphReplies.filter(_.size == 2).filterNot(_(1).contains("Error from parsing service."))
+  val idColumn = noErrors.map(_._1)
+  val xmlColumn = noErrors.map(_._2)
 
   val morphAnalyses = xmlColumn.map { e =>
     val root = XML.loadString(e)
@@ -37,7 +33,7 @@ def mainFunc(srcFile: String) {
         newLexent += e(0).drop(1) + "_"
         newPos += e(1).dropRight(1) + "_"
       }
-    } else {
+    } else if (entryData.size == 1){
       newLexent += entryArrays(0)(0).drop(1)
       newPos += entryArrays(0)(1).dropRight(1)
       }
@@ -47,17 +43,26 @@ def mainFunc(srcFile: String) {
   }
 
   val idAnalyzed = idColumn.zip(morphAnalyses)
-  val tripleId = idAnalyzed.map(row => IdTriple(row._1,row._2._1,row._2._2))
+  val tripleId = idAnalyzed.map(row => IdTriple(row._1,row._2._2,row._2._1))
 
   val urnToParse = replacement(urnWordArrayTuple,tripleId)
 
+  val newlyParsedText = urnToParse.map(_.split("\t")).filter(_.size == 2).groupBy(w => w(0)).map{ case (k,v) => (k,v.map(e => e(1)))}
+  val sortedParsedText = newlyParsedText.toSeq.sortBy(_._1).toVector
+
+
+
+  for (c <- sortedParsedText) {
+    println(c._1 + "\t" + c._2)
+  }
+  
 }
 
-def parse (s: String, count: Int, baseNumber: Int): String = {
+def parse (s: String): String = {
 
   val baseUrl = "https://services.perseids.org/bsp/morphologyservice/analysis/word?lang=grc&engine=morpheusgrc&word="
   val request = baseUrl + s
-  println("Currently working on: " + s + ", " + baseNumber + " of " + count + ".")
+  println("Currently working on: " + s)
   getMorphReply(request)
 }
 

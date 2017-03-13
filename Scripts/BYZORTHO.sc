@@ -13,6 +13,8 @@ def BYZORTHO (parsedFile: String, byzorthoLibrary: String) {
 
   val byzString = corpusColumns.map(row => (row(0),mkByzorthoString(row(1),byzTuple)))
 
+
+
   for (ln <- byzString) {
     println(ln._1 + "\t" + ln._2)
   }

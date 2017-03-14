@@ -1,18 +1,3 @@
-##Theory and Methodology
-
-- Need to update to reflect new work with byzortho
-- Need to include the work which allows for the citation of text versions
-
-
-
---------------------
-
-
-
-
-
----------------------
-
 Even if the content of this thesis seems to focus strongly on the analysis of computer-generated data, the question which provides the basis for this thesis is one which has perplexed scholars of the Venetus A for centuries. As explained in the previous chapter, there has been no consensus on how to interpret the unique five-zoned layout of the Venetus A scholia. As far back as 1875, the prominent Homeric scholar Karl Dindorf made a number of significant conclusions about different aspects of the scholia, but according to modern standards, his methodology undermines the strength of many of his conclusions. In his whole discussion of the nature of intermarginal and main scholia, he only mentions a handful of examples. In essence, he requires his readers to rely just on his ethos as a scholar to support his final conclusion. This is not to say that Dindorf's conclusions are incorrect, nor is it fair to say that Dindorf was an inferior scholar and conducting poor scholarship. It may be exceedingly possible that Dindorf had a wealth of examples to support his conclusion, but a print format prevented Dindorf from filling his introduction with too many examples.
 
 However, even if Dindorf had included every single piece of evidence he had collected to support his conclusions, his methodology would still put his findings under suspicion. Dindorf and nearly every other scholar prior to the rise of digital technologies relied on close-reading for any and all textual analyses. As Matthew Jockers notes in his book on the method of "distant-reading," close-reading is best applied to either individual texts or a small subset of them (19). Thus, something like a single poem lends itself well to a close-reading, but the entire corpus of British novels does not. It follows, then, that the estimated ten thousand scholia of the Venetus A manuscript constitute too large of a corpus for close-reading to be effective. Considering also that the scholia are an incredibly diverse set of documents, it would be unlikely that Dindorf or any other scholar could make many intelligible comments about minute linguistic patterns over so large and varied a corpus. Therefore, criticizing Dindorf or most of the previous Venetus A scholars is not quite fair, since they did not have the tools to analyze the text in a more systematic fashion.

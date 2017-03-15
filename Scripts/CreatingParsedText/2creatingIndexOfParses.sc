@@ -63,7 +63,7 @@ def textForFirstEntry (nseq: NodeSeq): String = {
   } else ""
 }
 
-def formatEdition (word: String): String = {
+def formatWord (word: String): String = {
   var newWord = ""
   val editedWord = word.toLowerCase.replaceAll("[0-9]","")
   if (word.contains("_")) {

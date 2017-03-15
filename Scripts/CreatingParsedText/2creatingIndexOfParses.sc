@@ -38,8 +38,9 @@ def main(morphRepliesTable: String) {
     newEntryData
   }
 
+  val editedWords = morphAnalyses.map(entry => (formatWord(entry._1),entry._2))
 
-  val idAnalyzed = idColumn.zip(morphAnalyses)
+  val idAnalyzed = idColumn.zip(editedWords)
   val tripleId = idAnalyzed.map(row => IdTriple(row._1,row._2._2,row._2._1))
   val validTripleIds = tripleId.filterNot(_.pos.isEmpty).filterNot(_.lemma.isEmpty)
   for (tID <- validTripleIds) {
@@ -48,8 +49,6 @@ def main(morphRepliesTable: String) {
 }
 
 def formatEntry(e: Elem) = {
-  val uriGroup = e \ "@uri"
-  val uri = textForFirstEntry(uriGroup).replaceFirst("http://data.perseus.org/collections/urn:cite:perseus:grclexent.","")
   val headWordList = e \\ "hdwd"
   val headWord = textForFirstEntry(headWordList)
   val posList = e \\ "pofs"
@@ -62,4 +61,17 @@ def textForFirstEntry (nseq: NodeSeq): String = {
   if (nseq.size > 0) {
     nseq(0).text
   } else ""
+}
+
+def formatEdition (word: String): String = {
+  var newWord = ""
+  val editedWord = word.toLowerCase.replaceAll("[0-9]","")
+  if (word.contains("_")) {
+    val array = editedWord.split("_")
+    val newString = array.groupBy(w => w).keys.toArray.sorted.mkString("_")
+    newWord += newString
+  } else {
+    newWord += editedWord
+  }
+  newWord
 }

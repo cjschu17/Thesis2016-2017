@@ -10,7 +10,7 @@ def mainFunc(srcFile: String) {
   val byzorthoColumns = byzorthoEdition.map(s => s.split("\t"))
   val noPuncTuple= byzorthoColumns.map( a => (a(0),a(1).replaceAll( "[\\{\\}\\\\>,\\[\\]\\.·⁑;:·\\*\\(\\)\\+\\=\\-“”\"‡  ]+"," ")))
   val urnWordArrayTuple = noPuncTuple.map( row => (row._1,row._2.split(" ").filterNot(_.isEmpty)))
-  val uniqueWords = urnWordArrayTuple.map(_._2).flatten.groupBy( w => w).map(_._1).toVector
+  val uniqueWords = urnWordArrayTuple.map(_._2).flatten.groupBy( w => w).map(_._1.toLowerCase).toVector
   val morphReplies = uniqueWords.map(word => (word,parse(word)))
   for (m <- morphReplies) {
     println(m._1 + "\t" + m._2)

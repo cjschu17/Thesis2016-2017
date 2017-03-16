@@ -8,7 +8,7 @@ def main(byzEdition: String, indexOfParses: String) {
   val byzorthoEdition = scala.io.Source.fromFile(byzEdition).getLines.toVector
   val byzorthoColumns = byzorthoEdition.map(s => s.split("\t"))
   val noPuncTuple= byzorthoColumns.map( a => (a(0),a(1).replaceAll( "[\\{\\}\\\\>,\\[\\]\\.·⁑;:·\\*\\(\\)\\+\\=\\-“”\"‡  ]+"," ")))
-  val urnWordArrayTuple = noPuncTuple.map( row => (row._1,row._2.split(" ").filterNot(_.isEmpty)))
+  val urnWordArrayTuple = noPuncTuple.map( row => (row._1,row._2.split(" ").toLowerCase.filterNot(_.isEmpty)))
 
   val indexVector = scala.io.Source.fromFile(indexOfParses).getLines.toVector
   val indexArray = indexVector.map(_.split("\t"))

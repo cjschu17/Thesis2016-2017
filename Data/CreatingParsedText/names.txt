@@ -1,4 +1,3 @@
-names.txt
 table1.tsv
 table10.tsv
 table11.tsv

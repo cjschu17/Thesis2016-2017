@@ -1,0 +1,120 @@
+
+This is scholia set table1.tsv contains:
+main scholia: 86.0 (0.8431372549019608)
+intermarginal scholia: 9.0 (0.08823529411764706)
+interior scholia: 7.0 (0.06862745098039216)
+interlinear scholia: 0.0 (0.0)
+exterior scholia: 0.0 (0.0)
+In total there are 102.0 scholia.
+
+This is scholia set table10.tsv contains:
+main scholia: 35.0 (0.6140350877192983)
+intermarginal scholia: 7.0 (0.12280701754385964)
+interior scholia: 10.0 (0.17543859649122806)
+interlinear scholia: 4.0 (0.07017543859649122)
+exterior scholia: 1.0 (0.017543859649122806)
+In total there are 57.0 scholia.
+
+This is scholia set table11.tsv contains:
+main scholia: 61.0 (0.6931818181818182)
+intermarginal scholia: 6.0 (0.06818181818181818)
+interior scholia: 17.0 (0.19318181818181818)
+interlinear scholia: 4.0 (0.045454545454545456)
+exterior scholia: 0.0 (0.0)
+In total there are 88.0 scholia.
+
+This is scholia set table12.tsv contains:
+main scholia: 41.0 (0.6721311475409836)
+intermarginal scholia: 11.0 (0.18032786885245902)
+interior scholia: 8.0 (0.13114754098360656)
+interlinear scholia: 1.0 (0.01639344262295082)
+exterior scholia: 0.0 (0.0)
+In total there are 61.0 scholia.
+
+This is scholia set table13.tsv contains:
+main scholia: 32.0 (0.5245901639344263)
+intermarginal scholia: 14.0 (0.22950819672131148)
+interior scholia: 10.0 (0.16393442622950818)
+interlinear scholia: 4.0 (0.06557377049180328)
+exterior scholia: 1.0 (0.01639344262295082)
+In total there are 61.0 scholia.
+
+This is scholia set table14.tsv contains:
+main scholia: 36.0 (0.5217391304347826)
+intermarginal scholia: 19.0 (0.2753623188405797)
+interior scholia: 6.0 (0.08695652173913043)
+interlinear scholia: 7.0 (0.10144927536231885)
+exterior scholia: 1.0 (0.014492753623188406)
+In total there are 69.0 scholia.
+
+This is scholia set table15.tsv contains:
+main scholia: 27.0 (0.4153846153846154)
+intermarginal scholia: 25.0 (0.38461538461538464)
+interior scholia: 10.0 (0.15384615384615385)
+interlinear scholia: 2.0 (0.03076923076923077)
+exterior scholia: 1.0 (0.015384615384615385)
+In total there are 65.0 scholia.
+
+This is scholia set table2.tsv contains:
+main scholia: 65.0 (0.8333333333333334)
+intermarginal scholia: 5.0 (0.0641025641025641)
+interior scholia: 5.0 (0.0641025641025641)
+interlinear scholia: 3.0 (0.038461538461538464)
+exterior scholia: 0.0 (0.0)
+In total there are 78.0 scholia.
+
+This is scholia set table3.tsv contains:
+main scholia: 65.0 (0.7558139534883721)
+intermarginal scholia: 9.0 (0.10465116279069768)
+interior scholia: 6.0 (0.06976744186046512)
+interlinear scholia: 6.0 (0.06976744186046512)
+exterior scholia: 0.0 (0.0)
+In total there are 86.0 scholia.
+
+This is scholia set table4.tsv contains:
+main scholia: 105.0 (0.813953488372093)
+intermarginal scholia: 13.0 (0.10077519379844961)
+interior scholia: 10.0 (0.07751937984496124)
+interlinear scholia: 1.0 (0.007751937984496124)
+exterior scholia: 0.0 (0.0)
+In total there are 129.0 scholia.
+
+This is scholia set table5.tsv contains:
+main scholia: 65.0 (0.5)
+intermarginal scholia: 39.0 (0.3)
+interior scholia: 24.0 (0.18461538461538463)
+interlinear scholia: 2.0 (0.015384615384615385)
+exterior scholia: 0.0 (0.0)
+In total there are 130.0 scholia.
+
+This is scholia set table6.tsv contains:
+main scholia: 74.0 (0.6166666666666667)
+intermarginal scholia: 28.0 (0.23333333333333334)
+interior scholia: 16.0 (0.13333333333333333)
+interlinear scholia: 1.0 (0.008333333333333333)
+exterior scholia: 1.0 (0.008333333333333333)
+In total there are 120.0 scholia.
+
+This is scholia set table7.tsv contains:
+main scholia: 58.0 (0.6904761904761905)
+intermarginal scholia: 10.0 (0.11904761904761904)
+interior scholia: 14.0 (0.16666666666666666)
+interlinear scholia: 2.0 (0.023809523809523808)
+exterior scholia: 0.0 (0.0)
+In total there are 84.0 scholia.
+
+This is scholia set table8.tsv contains:
+main scholia: 41.0 (0.6612903225806451)
+intermarginal scholia: 10.0 (0.16129032258064516)
+interior scholia: 6.0 (0.0967741935483871)
+interlinear scholia: 5.0 (0.08064516129032258)
+exterior scholia: 0.0 (0.0)
+In total there are 62.0 scholia.
+
+This is scholia set table9.tsv contains:
+main scholia: 45.0 (0.3237410071942446)
+intermarginal scholia: 65.0 (0.4676258992805755)
+interior scholia: 28.0 (0.2014388489208633)
+interlinear scholia: 0.0 (0.0)
+exterior scholia: 1.0 (0.007194244604316547)
+In total there are 139.0 scholia.

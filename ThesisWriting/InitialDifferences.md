@@ -99,10 +99,11 @@ With the larger, more general forms of text analysis accomplised, there can begi
 
 In order to analyze the types of discourse within the scholia, this would have to have been marked-up ahead of time, and indeed the HMT editions of the scholia use TEI notation to demarcate direct and indirect discourse. However, it further classifies indirect discourse into two categories, quoted text and quoted language. Quoted text refers to words that can be directly attributed to a text outside of the *Iliad* line a scholion is commenting on. So if a scholion is quoting a passage from the *Odyssey*, from Greek tragedy, or a passage from a different book of the *Iliad*, that quote is considered quoted text. Quoted language, on the other hand, refers to words that exist in the *Iliad* line that the scholion is commenting on, or instances where the scholiast is using a word in its abstract form. The word "running" in the sentence "My favorite word is "running"" is one such example of using a word in its abstract form. In both cases the indirect discourse is set apart by the TEI element for a quote `<q>`, with quoted text having additonal mark-up to allow for the inclusion of a URN citation of where the quote is coming from. Given these mark-up conventions, the following table was created using a scala script. The table below breaks down the kind of discourse for each zone of the scholia.
 
-| Scholia Type | Number of Scholia | Number of Words | Number of Direct Voice Words | Number of Quoted Text Words | Number of Quoted Language Words | Number of Non-Direct Voice Words |
-|---|---|---|---|---|---|---|
-|msA|6830|121226|108689 (89.66%)|6384 (5.27%)|6153 (5.08%)|12537 (10.34%)|
-|msAim|2346|8170|6929 (84.81%)|88 (1.08%)|1153 (14.11%)|1241 (15.19%)|
-|msAint|1576|6002|5361 (89.32%)|53 (0.88%)|588 (9.8%)|641 (10.68%)|
-|msAil|4072|4800|4755 (99.06%)|4 (0.08%)|41 (0.85%)|45 (0.94%)|
-|msAext|462|922|780 (84.6%)|66 (7.16%)|76 (8.24%)|142 (15.4%)|
+| Scholia Type  | Number of Words | Number of Direct Voice Words | Number of Quoted Text Words | Number of Quoted Language Words | Number of Non-Direct Voice Words |
+|---|---|---|---|---|---|
+|msA|121226|108689 (89.66%)|6384 (5.27%)|6153 (5.08%)|12537 (10.34%)|
+|msAim|8170|6929 (84.81%)|88 (1.08%)|1153 (14.11%)|1241 (15.19%)|
+|msAint|6002|5361 (89.32%)|53 (0.88%)|588 (9.8%)|641 (10.68%)|
+|msAil|4800|4755 (99.06%)|4 (0.08%)|41 (0.85%)|45 (0.94%)|
+|msAext|922|780 (84.6%)|66 (7.16%)|76 (8.24%)|142 (15.4%)|
+

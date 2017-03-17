@@ -81,9 +81,10 @@ urn:cts:greekLit:tlg5026.msAim.hmt:6.270|"  τῆ γ' ἔλθ'(οντες)"|urn:
 urn:cts:greekLit:tlg5026.msAim.hmt:11.4|"  φθαν δὲ:"|urn:cts:greekLit:tlg0012.tlg001.msA:11.51|legitimate|in the upper margin on a rather full page
 urn:cts:greekLit:tlg5026.msAim.hmt:12.E1|"  ‡τυκτῇσι βοεσσι"|urn:cts:greekLit:tlg0012.tlg001.msA:12.105|not legitimate|should be a quote
 urn:cts:greekLit:tlg5026.msAim.hmt:15.26|"  καὶ κεῖνος|"|urn:cts:greekLit:tlg0012.tlg001.msA:15.179|legitimate|set off by a comma. no room in main
-urn:cts:greekLit:tlg5026.msAim.hmt:17.17|"  σχέτλι'"|urn:cts:greekLit:tlg0012.tlg001.msA:17.150-17.151|legitimate|at bottom fo page*
+urn:cts:greekLit:tlg5026.msAim.hmt:17.17|"  σχέτλι'"|urn:cts:greekLit:tlg0012.tlg001.msA:17.150-17.151|legitimate|at bottom fo page
 urn:cts:greekLit:tlg5026.msAint.hmt:2.332|"  ἀκούσαμεν:"|urn:cts:greekLit:tlg0012.tlg001.msA:2.194|legitimate|obelos. no room on page
-urn:cts:greekLit:tlg5026.msAint.hmt:2.340|"   Θερσίτης :"|urn:cts:greekLit:tlg0012.tlg001.msA:2.212urn:cts:greekLit:tlg5026.msAint.hmt:2.394|"  φολκὸς:"|urn:cts:greekLit:tlg0012.tlg001.msA:2.217urn:cts:greekLit:tlg5026.msAint.hmt:2.395|"  ψεδνή:"|urn:cts:greekLit:tlg0012.tlg001.msA:2.219
+urn:cts:greekLit:tlg5026.msAint.hmt:2.340|"   Θερσίτης:" | urn:cts:greekLit:tlg0012.tlg001.msA:2.212urn:cts:greekLit:tlg5026.msAint.hmt:2.394|
+"  φολκὸς:"|urn:cts:greekLit:tlg0012.tlg001.msA:2.217urn:cts:greekLit:tlg5026.msAint.hmt:2.395|"  ψεδνή:"|urn:cts:greekLit:tlg0012.tlg001.msA:2.219
 urn:cts:greekLit:tlg5026.msAint.hmt:17.6|"  ἀρητόν"|urn:cts:greekLit:tlg0012.tlg001.msA:17.37
 urn:cts:greekLit:tlg5026.msAext.hmt:3.743|"  ορωῶν"|urn:cts:greekLit:tlg0012.tlg001.msA:3.325
 

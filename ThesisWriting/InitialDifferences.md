@@ -107,5 +107,3 @@ In order to analyze the types of discourse within the scholia, this would have t
 |msAil|4800|4755 (99.06%)|4 (0.08%)|41 (0.85%)|45 (0.94%)|
 |msAext|466|414 (88.84%)|0 (0.0%)|52 (11.16%)|52 (11.16%)|
 
-
-

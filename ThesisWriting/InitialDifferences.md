@@ -75,15 +75,19 @@ Exterior Scholia|240|1|0.42%
 
 Scholia with Lemma Urn|Supposed Lemma|Iliad Line commented On
 --- | --- | ---
-urn:cts:greekLit:tlg5026.msAim.hmt:2.389|"  εἴσαιτο:"|urn:cts:greekLit:tlg0012.tlg001.msA:2.215|legitimate|no room in main. comment on how it is better as optative than indicative
-urn:cts:greekLit:tlg5026.msAim.hmt:5.5005|"   Ἄϊδος κυνέην"|urn:cts:greekLit:tlg0012.tlg001.msA:5.845|legitimate|room in main. explaining what is meant by the helm of Hades
-urn:cts:greekLit:tlg5026.msAim.hmt:6.270|"  τῆ γ' ἔλθ'(οντες)"|urn:cts:greekLit:tlg0012.tlg001.msA:6.435|not legitimate|should be a quote
-urn:cts:greekLit:tlg5026.msAim.hmt:11.4|"  φθαν δὲ:"|urn:cts:greekLit:tlg0012.tlg001.msA:11.51|legitimate|in the upper margin on a rather full page
-urn:cts:greekLit:tlg5026.msAim.hmt:12.E1|"  ‡τυκτῇσι βοεσσι"|urn:cts:greekLit:tlg0012.tlg001.msA:12.105|not legitimate|should be a quote
-urn:cts:greekLit:tlg5026.msAim.hmt:15.26|"  καὶ κεῖνος|"|urn:cts:greekLit:tlg0012.tlg001.msA:15.179|legitimate|set off by a comma. no room in main
-urn:cts:greekLit:tlg5026.msAim.hmt:17.17|"  σχέτλι'"|urn:cts:greekLit:tlg0012.tlg001.msA:17.150-17.151|legitimate|at bottom fo page
-urn:cts:greekLit:tlg5026.msAint.hmt:2.332|"  ἀκούσαμεν:"|urn:cts:greekLit:tlg0012.tlg001.msA:2.194|legitimate|obelos. no room on page
-urn:cts:greekLit:tlg5026.msAint.hmt:2.340|"   Θερσίτης:" | urn:cts:greekLit:tlg0012.tlg001.msA:2.212urn:cts:greekLit:tlg5026.msAint.hmt:2.394|
+urn:cts:greekLit:tlg5026.msAim.hmt:2.389|εἴσαιτο:|urn:cts:greekLit:tlg0012.tlg001.msA:2.215|
+urn:cts:greekLit:tlg5026.msAim.hmt:5.5005|Ἄϊδος κυνέην|urn:cts:greekLit:tlg0012.tlg001.msA:5.845|
+urn:cts:greekLit:tlg5026.msAim.hmt:6.270|τῆ γ' ἔλθ'(οντες)|urn:cts:greekLit:tlg0012.tlg001.msA:6.435|
+urn:cts:greekLit:tlg5026.msAim.hmt:11.4|φθαν δὲ:|urn:cts:greekLit:tlg0012.tlg001.msA:11.51|
+urn:cts:greekLit:tlg5026.msAim.hmt:12.E1|‡τυκτῇσι βοεσσι|urn:cts:greekLit:tlg0012.tlg001.msA:12.105|
+urn:cts:greekLit:tlg5026.msAim.hmt:15.26|καὶ κεῖνος|urn:cts:greekLit:tlg0012.tlg001.msA:15.179|
+urn:cts:greekLit:tlg5026.msAim.hmt:17.17|σχέτλι'|urn:cts:greekLit:tlg0012.tlg001.msA:17.150-17.151|
+urn:cts:greekLit:tlg5026.msAint.hmt:2.332|ἀκούσαμεν:|urn:cts:greekLit:tlg0012.tlg001.msA:2.194|
+urn:cts:greekLit:tlg5026.msAint.hmt:2.340|Θερσίτης:| urn:cts:greekLit:tlg0012.tlg001.msA:2.212|
+urn:cts:greekLit:tlg5026.msAint.hmt:2.394|φολκὸς:|urn:cts:greekLit:tlg0012.tlg001.msA:2.217,legitimate,obelos. no room on page
+urn:cts:greekLit:tlg5026.msAint.hmt:2.395| ψεδνή:|urn:cts:greekLit:tlg0012.tlg001.msA:2.219,legitimate,obelos. no room on page
+
+
 "  φολκὸς:"|urn:cts:greekLit:tlg0012.tlg001.msA:2.217urn:cts:greekLit:tlg5026.msAint.hmt:2.395|"  ψεδνή:"|urn:cts:greekLit:tlg0012.tlg001.msA:2.219
 urn:cts:greekLit:tlg5026.msAint.hmt:17.6|"  ἀρητόν"|urn:cts:greekLit:tlg0012.tlg001.msA:17.37
 urn:cts:greekLit:tlg5026.msAext.hmt:3.743|"  ορωῶν"|urn:cts:greekLit:tlg0012.tlg001.msA:3.325

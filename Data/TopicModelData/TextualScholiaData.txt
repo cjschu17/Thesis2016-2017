@@ -1,0 +1,284 @@
+This is scholia set table1.tsv contains:
+main scholia: 86.0 (84.31%)
+intermarginal scholia: 9.0 (8.82%)
+interior scholia: 7.0 (6.86%)
+interlinear scholia: 0.0 (0.0%)
+exterior scholia: 0.0 (0.0%)
+In total there are 102.0 scholia.
+
+
+Within this set, table1.tsv, here is how it splits up among the textual scholia:
+startIm: 2.0 (1.96%)
+endInt: 1.0 (0.98%)
+startInt: 6.0 (5.88%)
+endIm:7.0 (6.86%)
+start: 8.0 (7.84%)
+end:8.0 (7.84%)
+im: 9.0 (8.82%)
+int: 7.0 (6.86%)
+
+This is scholia set table10.tsv contains:
+main scholia: 35.0 (61.4%)
+intermarginal scholia: 7.0 (12.28%)
+interior scholia: 10.0 (17.54%)
+interlinear scholia: 4.0 (7.02%)
+exterior scholia: 1.0 (1.75%)
+In total there are 57.0 scholia.
+
+
+Within this set, table10.tsv, here is how it splits up among the textual scholia:
+startIm: 2.0 (3.51%)
+endInt: 2.0 (3.51%)
+startInt: 8.0 (14.04%)
+endIm:5.0 (8.77%)
+start: 10.0 (17.54%)
+end:7.0 (12.28%)
+im: 7.0 (12.28%)
+int: 10.0 (17.54%)
+
+This is scholia set table11.tsv contains:
+main scholia: 61.0 (69.32%)
+intermarginal scholia: 6.0 (6.82%)
+interior scholia: 17.0 (19.32%)
+interlinear scholia: 4.0 (4.55%)
+exterior scholia: 0.0 (0.0%)
+In total there are 88.0 scholia.
+
+
+Within this set, table11.tsv, here is how it splits up among the textual scholia:
+startIm: 4.0 (4.55%)
+endInt: 8.0 (9.09%)
+startInt: 9.0 (10.23%)
+endIm:2.0 (2.27%)
+start: 13.0 (14.77%)
+end:10.0 (11.36%)
+im: 6.0 (6.82%)
+int: 17.0 (19.32%)
+
+This is scholia set table12.tsv contains:
+main scholia: 41.0 (67.21%)
+intermarginal scholia: 11.0 (18.03%)
+interior scholia: 8.0 (13.11%)
+interlinear scholia: 1.0 (1.64%)
+exterior scholia: 0.0 (0.0%)
+In total there are 61.0 scholia.
+
+
+Within this set, table12.tsv, here is how it splits up among the textual scholia:
+startIm: 9.0 (14.75%)
+endInt: 3.0 (4.92%)
+startInt: 5.0 (8.2%)
+endIm:2.0 (3.28%)
+start: 14.0 (22.95%)
+end:5.0 (8.2%)
+im: 11.0 (18.03%)
+int: 8.0 (13.11%)
+
+This is scholia set table13.tsv contains:
+main scholia: 32.0 (52.46%)
+intermarginal scholia: 14.0 (22.95%)
+interior scholia: 10.0 (16.39%)
+interlinear scholia: 4.0 (6.56%)
+exterior scholia: 1.0 (1.64%)
+In total there are 61.0 scholia.
+
+
+Within this set, table13.tsv, here is how it splits up among the textual scholia:
+startIm: 9.0 (14.75%)
+endInt: 4.0 (6.56%)
+startInt: 6.0 (9.84%)
+endIm:5.0 (8.2%)
+start: 15.0 (24.59%)
+end:9.0 (14.75%)
+im: 14.0 (22.95%)
+int: 10.0 (16.39%)
+
+This is scholia set table14.tsv contains:
+main scholia: 36.0 (52.17%)
+intermarginal scholia: 19.0 (27.54%)
+interior scholia: 6.0 (8.7%)
+interlinear scholia: 7.0 (10.14%)
+exterior scholia: 1.0 (1.45%)
+In total there are 69.0 scholia.
+
+
+Within this set, table14.tsv, here is how it splits up among the textual scholia:
+startIm: 13.0 (18.84%)
+endInt: 2.0 (2.9%)
+startInt: 4.0 (5.8%)
+endIm:6.0 (8.7%)
+start: 17.0 (24.64%)
+end:8.0 (11.59%)
+im: 19.0 (27.54%)
+int: 6.0 (8.7%)
+
+This is scholia set table15.tsv contains:
+main scholia: 27.0 (41.54%)
+intermarginal scholia: 25.0 (38.46%)
+interior scholia: 10.0 (15.38%)
+interlinear scholia: 2.0 (3.08%)
+exterior scholia: 1.0 (1.54%)
+In total there are 65.0 scholia.
+
+
+Within this set, table15.tsv, here is how it splits up among the textual scholia:
+startIm: 16.0 (24.62%)
+endInt: 0.0 (0.0%)
+startInt: 10.0 (15.38%)
+endIm:9.0 (13.85%)
+start: 26.0 (40.0%)
+end:9.0 (13.85%)
+im: 25.0 (38.46%)
+int: 10.0 (15.38%)
+
+This is scholia set table2.tsv contains:
+main scholia: 65.0 (83.33%)
+intermarginal scholia: 5.0 (6.41%)
+interior scholia: 5.0 (6.41%)
+interlinear scholia: 3.0 (3.85%)
+exterior scholia: 0.0 (0.0%)
+In total there are 78.0 scholia.
+
+
+Within this set, table2.tsv, here is how it splits up among the textual scholia:
+startIm: 3.0 (3.85%)
+endInt: 2.0 (2.56%)
+startInt: 3.0 (3.85%)
+endIm:2.0 (2.56%)
+start: 6.0 (7.69%)
+end:4.0 (5.13%)
+im: 5.0 (6.41%)
+int: 5.0 (6.41%)
+
+This is scholia set table3.tsv contains:
+main scholia: 65.0 (75.58%)
+intermarginal scholia: 9.0 (10.47%)
+interior scholia: 6.0 (6.98%)
+interlinear scholia: 6.0 (6.98%)
+exterior scholia: 0.0 (0.0%)
+In total there are 86.0 scholia.
+
+
+Within this set, table3.tsv, here is how it splits up among the textual scholia:
+startIm: 9.0 (10.47%)
+endInt: 2.0 (2.33%)
+startInt: 4.0 (4.65%)
+endIm:0.0 (0.0%)
+start: 13.0 (15.12%)
+end:2.0 (2.33%)
+im: 9.0 (10.47%)
+int: 6.0 (6.98%)
+
+This is scholia set table4.tsv contains:
+main scholia: 105.0 (81.4%)
+intermarginal scholia: 13.0 (10.08%)
+interior scholia: 10.0 (7.75%)
+interlinear scholia: 1.0 (0.78%)
+exterior scholia: 0.0 (0.0%)
+In total there are 129.0 scholia.
+
+
+Within this set, table4.tsv, here is how it splits up among the textual scholia:
+startIm: 7.0 (5.43%)
+endInt: 2.0 (1.55%)
+startInt: 8.0 (6.2%)
+endIm:6.0 (4.65%)
+start: 15.0 (11.63%)
+end:8.0 (6.2%)
+im: 13.0 (10.08%)
+int: 10.0 (7.75%)
+
+This is scholia set table5.tsv contains:
+main scholia: 65.0 (50.0%)
+intermarginal scholia: 39.0 (30.0%)
+interior scholia: 24.0 (18.46%)
+interlinear scholia: 2.0 (1.54%)
+exterior scholia: 0.0 (0.0%)
+In total there are 130.0 scholia.
+
+
+Within this set, table5.tsv, here is how it splits up among the textual scholia:
+startIm: 26.0 (20.0%)
+endInt: 7.0 (5.38%)
+startInt: 17.0 (13.08%)
+endIm:13.0 (10.0%)
+start: 43.0 (33.08%)
+end:20.0 (15.38%)
+im: 39.0 (30.0%)
+int: 24.0 (18.46%)
+
+This is scholia set table6.tsv contains:
+main scholia: 74.0 (61.67%)
+intermarginal scholia: 28.0 (23.33%)
+interior scholia: 16.0 (13.33%)
+interlinear scholia: 1.0 (0.83%)
+exterior scholia: 1.0 (0.83%)
+In total there are 120.0 scholia.
+
+
+Within this set, table6.tsv, here is how it splits up among the textual scholia:
+startIm: 12.0 (10.0%)
+endInt: 6.0 (5.0%)
+startInt: 10.0 (8.33%)
+endIm:16.0 (13.33%)
+start: 22.0 (18.33%)
+end:22.0 (18.33%)
+im: 28.0 (23.33%)
+int: 16.0 (13.33%)
+
+This is scholia set table7.tsv contains:
+main scholia: 58.0 (69.05%)
+intermarginal scholia: 10.0 (11.9%)
+interior scholia: 14.0 (16.67%)
+interlinear scholia: 2.0 (2.38%)
+exterior scholia: 0.0 (0.0%)
+In total there are 84.0 scholia.
+
+
+Within this set, table7.tsv, here is how it splits up among the textual scholia:
+startIm: 4.0 (4.76%)
+endInt: 4.0 (4.76%)
+startInt: 10.0 (11.9%)
+endIm:6.0 (7.14%)
+start: 14.0 (16.67%)
+end:10.0 (11.9%)
+im: 10.0 (11.9%)
+int: 14.0 (16.67%)
+
+This is scholia set table8.tsv contains:
+main scholia: 41.0 (66.13%)
+intermarginal scholia: 10.0 (16.13%)
+interior scholia: 6.0 (9.68%)
+interlinear scholia: 5.0 (8.06%)
+exterior scholia: 0.0 (0.0%)
+In total there are 62.0 scholia.
+
+
+Within this set, table8.tsv, here is how it splits up among the textual scholia:
+startIm: 9.0 (14.52%)
+endInt: 1.0 (1.61%)
+startInt: 5.0 (8.06%)
+endIm:1.0 (1.61%)
+start: 14.0 (22.58%)
+end:2.0 (3.23%)
+im: 10.0 (16.13%)
+int: 6.0 (9.68%)
+
+This is scholia set table9.tsv contains:
+main scholia: 45.0 (32.37%)
+intermarginal scholia: 65.0 (46.76%)
+interior scholia: 28.0 (20.14%)
+interlinear scholia: 0.0 (0.0%)
+exterior scholia: 1.0 (0.72%)
+In total there are 139.0 scholia.
+
+
+Within this set, table9.tsv, here is how it splits up among the textual scholia:
+startIm: 51.0 (36.69%)
+endInt: 6.0 (4.32%)
+startInt: 22.0 (15.83%)
+endIm:14.0 (10.07%)
+start: 73.0 (52.52%)
+end:20.0 (14.39%)
+im: 65.0 (46.76%)
+int: 28.0 (20.14%)

@@ -89,3 +89,14 @@ Intermarginal scholia | 1219 (15.4%)
 Interior scholia | 819 (10.3%)
 Interlinear scholia | 2067 (26.0%)
 Exterior scholia | 233 (2.9%)
+
+---
+## Types of Discourse in the Scholia
+
+- Direct Discourse
+- Indirect Discourse
+  - Quoted Text
+    - A quote from elsewhere in the *Iliad* or any other source
+  - Quoted Language
+    - A quote from the *Iliad* line being commented on, or using a word as a word
+      - "Running" is the gerund form of the verb "run."

@@ -81,7 +81,7 @@ val tTestStartIntEndIm = tTest(statsEndIm,endImScholCount,statsStartInt,startInt
 
 val tTestStartEnd =tTest(statsStart,startScholCount,statsEnd,endScholCount)
 
-println("\n\nTypes of Scholia\tT-value\tStatistically Significant (p=0.05)\n")
+println("\n\nTypes of Scholia\tT-value\tStatistically Significant (p=0.05)")
 println("StartIm and EndIm\t" + math.BigDecimal(tTestStartImEndIm._1).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble + "\t" + tTestStartImEndIm._2)
 println("StartInt and EndInt\t" + math.BigDecimal(tTestStartIntEndInt._1).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble + "\t" + tTestStartIntEndInt._2)
 println("StartIm and StartInt\t" + math.BigDecimal(tTestStartIntStartIm._1).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble + "\t" + tTestStartIntStartIm._2)

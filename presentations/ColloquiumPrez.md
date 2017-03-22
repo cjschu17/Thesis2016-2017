@@ -42,10 +42,10 @@ Lying beside [the text of the *Iliad*] are the following works. *The Signs* by A
 
 ![Folio12Again](https://github.com/cjschu17/Thesis2016-2017/blob/master/images/DSE.jpg)
 
-- Red: Exterior
 - Yellow: Main
-- Green: Interior
 - Blue: Intermarginal
+- Green: Interior
 - Gray: Interlinear
+- Red: Exterior
 ---
 

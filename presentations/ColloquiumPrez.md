@@ -30,3 +30,17 @@ Advisor: Prof. Neel Smith, Dept. Classics
 παράκειται τὰ Ἀριστονίκου σημεῖα καὶ τὰ  Διδύμου περι τῆς Ἀρισταρχείου διορθώσεως· τινὰ δὲ καὶ ἐκ τῆς Ἰλιακῆς προσωδίας Ἡρωδιανου καὶ ἐκ  τοῦ Νικάνορος περὶ στιγμης⁑
  
 Lying beside [the text of the *Iliad*] are the following works. *The Signs* by Aristonicus, *On the Aristarchean Recension* by Didymus. And there is something from *Iliadic Prosody* by Herodian and *On Punctuation* by Nicanor.
+
+---
+
+**By understanding the layout of and sources for the Venetus A two things can be accomplished:**
+1. bridge the thousand year gap in scholarship between Alexandrians and Venetus A creation
+2. by refining what information hails from the Alexandrians, shed light on pre-Alexandrian scholarship
+
+---
+## Five-zoned Layout of the Scholia
+
+![Folio12Again](https://github.com/cjschu17/Thesis2016-2017/blob/master/images/DSE.jpg)
+
+---
+

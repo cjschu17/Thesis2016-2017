@@ -24,7 +24,7 @@ Advisor: Prof. Neel Smith, Dept. Classics
 ![Folio 65r](https://github.com/cjschu17/Thesis2016-2017/blob/master/images/65rCritSigns.jpg)
 
 ---
-### Book 2 Subscription
+### Book 2 Subscription (41v)
 ![Subscription](https://github.com/cjschu17/Thesis2016-2017/blob/master/images/Book2Subscription.jpg)
 
 παράκειται τὰ Ἀριστονίκου σημεῖα καὶ τὰ  Διδύμου περι τῆς Ἀρισταρχείου διορθώσεως· τινὰ δὲ καὶ ἐκ τῆς Ἰλιακῆς προσωδίας Ἡρωδιανου καὶ ἐκ  τοῦ Νικάνορος περὶ στιγμης⁑

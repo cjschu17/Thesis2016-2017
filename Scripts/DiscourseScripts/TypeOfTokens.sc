@@ -1,3 +1,7 @@
+//this script is meant to run in the sbt console within the hmt-twiddle repo
+//This script is meant to give descriptive statistics about the frequency of types of
+//discourse across the 5 zones of scholia.
+
 :load loadhmt.sc
 import scala.io.math
 

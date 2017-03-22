@@ -18,14 +18,21 @@ val im = startIm ++ endIm
 
 val corpus = CorpusSource.fromFile("data/hmt_2cols.tsv")
 val scholia = corpus.~~(CtsUrn("urn:cts:greekLit:tlg5026:"))
-val scholiaTypes = Vector(start,end,int,im)
+val scholiaTypes = Vector(startIm,endInt,startInt,endIm,start,end,im,int)
 
 println("Scholia Type\tNumber Of Scholia\tNumber of Scholia With Non-Direct Speech\tNumber of Scholia with no Non-Direct Speech")
 
 
 val data = scholiaTypes.map(frequency(_,scholia))
-seChiSq(data(0),data(1))
-intImChiSq(data(2),data(3))
+
+chiSq("StartIm EndIm",data(0),data(3))
+chiSq("StartInt EndInt",data(2),data(1))
+chiSq("StartIm StartInt",data(0),data(2))
+chiSq("EndIm EndInt",data(3),data(1))
+chiSq("StartIm EndInt",data(0),data(1))
+chiSq("StartInt EndIm",data(2),data(3))
+chiSq("Start End",data(4),data(5))
+chiSq("Im Int",data(6),data(7))
 
 
 
@@ -46,39 +53,12 @@ def frequency(scholiaType: Vector[CtsUrn], scholia: edu.holycross.shot.ohco2.Cor
   frequencies
 }
 
-def seChiSq(startData: Array[Double], endData: Array[Double]) = {
+def chiSq(label: String, data: Array[Double], endData: Array[Double]) = {
 
-  val a = startData(0)
-  val b = startData(1)
-  val c = endData(0)
-  val d = endData(1)
-
-  val numerator1 = math.pow(((a * d)-(b * c)),2.0)
-  val numerator2 = (a + b + c + d)
-  val numeratorFinal = numerator1 * numerator2
-
-  val denominator = ((a + b) * (c + d) * (b + d) * (a + c))
-
-  val chiSq = numeratorFinal / denominator
-
-  var significance = ""
-  if (chiSq > 3.841) {
-    significance += "Statisically Significant"
-  } else {
-    significance += "Not Statistically Significant"
-  }
-
-  val significanceArray = Array("Start End Data",math.BigDecimal(chiSq).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble,significance)
-  println(significanceArray(0) + "\t" + significanceArray(1) + "\t" + significanceArray(2))
-
-}
-
-def intImChiSq(intData: Array[Double], imData: Array[Double]) = {
-
-  val a = intData(0)
-  val b = intData(1)
-  val c = imData(0)
-  val d = imData(1)
+  val a = data(0)
+  val b = data(1)
+  val c = data(0)
+  val d = data(1)
 
   val numerator1 = math.pow(((a * d)-(b * c)),2.0)
   val numerator2 = (a + b + c + d)
@@ -95,7 +75,7 @@ def intImChiSq(intData: Array[Double], imData: Array[Double]) = {
     significance += "Not Statistically Significant"
   }
 
-  val significanceArray = Array("Int Im Data",math.BigDecimal(chiSq).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble,significance)
+  val significanceArray = Array(label,math.BigDecimal(chiSq).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble,significance)
   println(significanceArray(0) + "\t" + significanceArray(1) + "\t" + significanceArray(2))
 
 }

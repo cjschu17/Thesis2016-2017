@@ -70,7 +70,7 @@ Lying beside [the text of the *Iliad*] are the following works. *The Signs* by A
 ![Topic9](https://github.com/cjschu17/Thesis2016-2017/blob/master/images/TranslatedToPan9.jpg)
 
 ---
-## Topic 9 Broken Down by Zones of Schola
+## Topic 9 Broken Down by Zones of Scholia
 
 Scholia Zone | Frequency of Scholia Type within this Topic
 --- | ---

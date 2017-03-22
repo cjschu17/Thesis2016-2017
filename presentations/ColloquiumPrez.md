@@ -1,4 +1,4 @@
-# On the Format of the Scholia to the Iliad of the Venetus A Manuscript
+# On the Format of the Scholia to the Iliad in the Venetus A Manuscript
 
  Charlie Schufreider
 

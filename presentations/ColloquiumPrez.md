@@ -161,3 +161,15 @@ Scholia Type|ChiSquare	Significance|(p < 0.05, if χ2 > 3.841 for df = 1)
 ---|---|---
 Start and End|13.07|Statisically Significant
 Intermarginal and Interior|12.04|Statisically Significant
+---
+## Text Content (Topic 9)
+
+Scholia Zone | Frequency of Scholia Type within this Topic
+--- | ---
+Main scholia | 45.0 (32.37%)
+**Intermarginal scholia** | **65.0 (46.76%)**
+Interior scholia | 28.0 (20.14%)
+**Start scholia**|**73.0 (52.52%)**
+End scholia|20.0 (14.39%)
+Interlinear scholia | 0.0 (0.0%)
+Exterior scholia | 1.0 (0.72%)

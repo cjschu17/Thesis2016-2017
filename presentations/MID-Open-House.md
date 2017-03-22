@@ -1,4 +1,4 @@
-#The Homer Multitext project#
+# The Homer Multitext project#
 
 ![Imgur](http://i65.tinypic.com/wbw702.jpg)
 
@@ -10,27 +10,27 @@
 >seeks to present the Homeric poems in a framework that reflects the oral tradition in which they were composed
 
 ----
-##Turning Digital Photography...
+## Turning Digital Photography...
 
 ![VenA](http://i66.tinypic.com/28iahbt.jpg "Ven A 15.1-10")
 ----
-##Into a Digital Edition!
+## Into a Digital Edition!
 
 ![XML](http://i68.tinypic.com/120rnf9.png "XML of 15.1-10")
 ----
-#The Venetus A Manuscript (*Marcianus Graecus* 822)#
+# The Venetus A Manuscript (*Marcianus Graecus* 822) #
 
 [Folio 12r](http://www.homermultitext.org/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA012RN-0013)
 
 ----
-##Advantages of working with a Digital Photography
+## Advantages of working with a Digital Photography
 
 [MS Today:](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA012RN-0013.tif&RGN=0.782,0.0968,0.106,0.2222&WID=9000&CVT=JPEG)
 
 [Enhanced](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA012RUVD-0895.tif&RGN=0.603,0.1396,0.179,0.4384&WID=9000&CVT=JPEG)
 
 ----
-#Other Iliad MS; Other Research Possibilites!
+# Other Iliad MS; Other Research Possibilites!
 
 - [Omega 1.12 (11th c.)](http://www.homermultitext.org/hmt-image-archive/E4/E4-Pages/015r-537.jpg) - Bar Marks
 
@@ -47,14 +47,14 @@ Pelops
 Homer
 
 ----
-#Twin Manuscripts?
+# Twin Manuscripts?
 
 [Escorial Upsilon 1.1 (11th c.)](http://www.homermultitext.org/hmt-image-archive/E3/E3-RGB/E3-013v.jpg)
 
 [Venetus B (11th c.)](http://www.homermultitext.org/hmt-digital/facs?urn=urn:cite:hmt:msB.14v)
 
 ----
-#Edents
+# Edents
 
 ![VenB](http://i65.tinypic.com/sqtu1j.png)
 
@@ -65,5 +65,5 @@ Detail from the Venetus B
 | 433 Edents | 523 Edents | 347 Edents | 
 
 ----
-#Just One of Many Possible Routes in the HMT project!
+# Just One of Many Possible Routes in the HMT project!
 

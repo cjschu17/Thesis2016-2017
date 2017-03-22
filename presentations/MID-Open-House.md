@@ -12,7 +12,7 @@
 ----
 ##Turning Digital Photography...
 
-![VenA](http://i66.tinypic.com/28iahbt. jpg "Ven A 15.1-10")
+![VenA](http://i66.tinypic.com/28iahbt.jpg "Ven A 15.1-10")
 ----
 ##Into a Digital Edition!
 

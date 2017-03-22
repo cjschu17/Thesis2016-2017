@@ -162,7 +162,7 @@ Scholia Type|ChiSquare	Significance|(p < 0.05, if χ2 > 3.841 for df = 1)
 Start and End|13.07|Statisically Significant
 Intermarginal and Interior|12.04|Statisically Significant
 ---
-## Text Content (Topic 9)
+## Text Content (Topic 9 - Aristarchus Topic)
 
 Scholia Zone | Frequency of Scholia Type within this Topic
 --- | ---

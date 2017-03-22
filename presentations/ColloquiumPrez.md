@@ -2,7 +2,7 @@
 
  Charlie Schufreider
 
-Advisor: Prof. Neel Smith, Dept. Classics
+Advisor: Prof. Neel Smith, Classics Dept. 
 
 ---
 ## Brief History of the *Iliad* and Its Scholarship

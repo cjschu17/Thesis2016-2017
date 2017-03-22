@@ -76,8 +76,8 @@ Lying beside [the text of the *Iliad*] are the following works. *The Signs* by A
 Scholia Zone | Frequency of Scholia Type within this Topic
 --- | ---
 Main scholia | 45.0 (32.37%)
-Intermarginal scholia: 65.0 (46.76%)
-Interior scholia: 28.0 (20.14%)
-Interlinear scholia: 0.0 (0.0%)
-Exterior scholia: 1.0 (0.72%)
+Intermarginal scholia | 65.0 (46.76%)
+Interior scholia | 28.0 (20.14%)
+Interlinear scholia | 0.0 (0.0%)
+Exterior scholia | 1.0 (0.72%)
 

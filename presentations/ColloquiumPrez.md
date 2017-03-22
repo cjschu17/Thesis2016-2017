@@ -123,7 +123,9 @@ Exterior|466|414 (88.84%)|0 (0.0%)|52 (11.16%)|52 (11.16%)
 
 ---
 
-## Intermarginal and Interior or...
+## Intermarginal and Interior or Start and End of Line?
+
+Folios 12v and 13r
 
 ![12v13r](https://github.com/cjschu17/Thesis2016-2017/blob/master/images/12v13r.jpg)
 

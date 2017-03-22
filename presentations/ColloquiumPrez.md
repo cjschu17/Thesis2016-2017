@@ -52,7 +52,7 @@ Lying beside [the text of the *Iliad*] are the following works. *The Signs* by A
 - Distant reading over close reading
   - "macro" over "micro" analysis
  
- - Scholia is a huge corpus (148,978 words)
+ - Scholia is a huge corpus (148,978 words in 18 books)
  
  ---
  ## LDA Topic Modeling (Latent Dirichlect Allocation)

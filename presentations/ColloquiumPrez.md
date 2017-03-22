@@ -73,7 +73,7 @@ Lying beside [the text of the *Iliad*] are the following works. *The Signs* by A
 ---
 ## Topic 9 Broken Down by Zones of Schola
 
-Scholia Zone | fasdf
+Scholia Zone | Frequency of Scholia Type within this Topic
 --- | ---
 Main scholia | 45.0 (32.37%)
 Intermarginal scholia: 65.0 (46.76%)

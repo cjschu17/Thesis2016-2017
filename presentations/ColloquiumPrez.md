@@ -81,7 +81,7 @@ Interior scholia | 28.0 (20.14%)
 Interlinear scholia | 0.0 (0.0%)
 Exterior scholia | 1.0 (0.72%)
 
-## Normal Frequency of Scholia Zone 
+## Normal Frequency of Scholia Zones 
 Scholia Zone | Scholia Zone Frequency
 --- | ---
 Main scholia | 3597 (45.3%)

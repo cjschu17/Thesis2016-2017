@@ -20,7 +20,7 @@ val corpus = CorpusSource.fromFile("data/hmt_2cols.tsv")
 val scholia = corpus.~~(CtsUrn("urn:cts:greekLit:tlg5026:"))
 val scholiaTypes = Vector(startIm,endInt,startInt,endIm,start,end,im,int)
 
-println("Scholia Type\tNumber Of Scholia\tNumber of Scholia With Non-Direct Speech\tNumber of Scholia with no Non-Direct Speech")
+println("Scholia Type\tNumber of Scholia With Non-Direct Speech\tNumber of Scholia with no Non-Direct Speech\tNumber Of Scholia")
 
 
 val data = scholiaTypes.map(frequency(_,scholia))
@@ -49,16 +49,16 @@ def frequency(scholiaType: Vector[CtsUrn], scholia: edu.holycross.shot.ohco2.Cor
   val indirectVoiceSchol = tokensPerScholia.map(_.filter(_.notDirectVoice)).filterNot(_.isEmpty).size.toDouble
   val noIndirectVoiceSchol = numberOfScholia - indirectVoiceSchol
   val frequencies = Array(indirectVoiceSchol,noIndirectVoiceSchol)
-  println("Scholia Type\t" + numberOfScholia + "\t" + indirectVoiceSchol.toInt + "\t" + noIndirectVoiceSchol.toInt)
+  println("Scholia Type\t" + indirectVoiceSchol.toInt + "\t" + noIndirectVoiceSchol.toInt + numberOfScholia)
   frequencies
 }
 
-def chiSq(label: String, data: Array[Double], endData: Array[Double]) = {
+def chiSq(label: String, data1: Array[Double], data2: Array[Double]) = {
 
-  val a = data(0)
-  val b = data(1)
-  val c = data(0)
-  val d = data(1)
+  val a = data1(0)
+  val b = data1(1)
+  val c = data2(0)
+  val d = data2(1)
 
   val numerator1 = math.pow(((a * d)-(b * c)),2.0)
   val numerator2 = (a + b + c + d)

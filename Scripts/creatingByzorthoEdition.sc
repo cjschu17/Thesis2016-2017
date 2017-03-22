@@ -1,3 +1,8 @@
+//This script is for creating a o-normalized version of the Venetus A scholia
+//There are 2 source files:
+//The first, `parsedFile` is hmt-twiddle/data/schola-normalized.tsv
+//The second, `byzorthoLibrary`, is byzortho/orthoequivs.csv
+
 import scala.io.Source
 
 @main

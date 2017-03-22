@@ -1,3 +1,6 @@
+//This script is for determing how many lemmata there are per type of scholia
+//Source text is hmt-twiddle/data/hmt_2cols
+
 import scala.io.Source
 import scala.xml.XML
 import scala.math

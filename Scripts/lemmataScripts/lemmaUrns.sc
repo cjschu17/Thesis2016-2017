@@ -1,3 +1,6 @@
+//this script is for extrapoltating the Urns of non-main scholia who have a lemma.
+//Source file is hmt-twiddle/data/hmt2_cols
+
 import scala.io.Source
 import scala.xml.XML
 import scala.math

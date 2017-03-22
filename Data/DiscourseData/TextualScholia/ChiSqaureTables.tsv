@@ -1,11 +1,11 @@
-Scholia Type	Number Of Scholia	Number of Scholia With Non-Direct Speech	Number of Scholia with no Non-Direct Speech
-Start Scholia	1121	547	574
-End Scholia	712	286	426
-Total Start and End	1833	833	1000
+Scholia Type	Number of Scholia With Non-Direct Speech	Number of Scholia with no Non-Direct Speech	Number Of Scholia
+Start Scholia	547	574	1121
+End Scholia	286	426	712
+Total Start and End	833	1000	1833
 ---	---	---	---
-Im Scholia	1093	533	560
-Int Scholia	740	300	440
-Total Start and End	1833	833	1000
+Im Scholia	533	560	1093
+Int Scholia	300	440	740
+Total Start and End	833	1000	1833
 ---	---	---	---
 *Scholia Type*	*ChiSquare*	*Significance (p < 0.05, if χ2 > 3.841 for df = 1)*	---
 Start End Data	13.07	Statisically Significant	---

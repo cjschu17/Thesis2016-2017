@@ -1,8 +1,8 @@
 Scholia Type	Number of Scholia With Non-Direct Speech	Number of Scholia with no Non-Direct Speech	Number Of Scholia
-StartIm	633	326	307
-EndInt	252	79	173
-StartInt	488	221	267
-EndIm	460	207	253
+StartIm	326	307	633
+EndInt	79	173	252
+StartInt	221	267	488
+EndIm	207	253	460
 ---	---	---	---
 Start Scholia	547	574	1121
 End Scholia	286	426	712

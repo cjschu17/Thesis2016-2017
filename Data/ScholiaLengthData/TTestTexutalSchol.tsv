@@ -1,8 +1,8 @@
 Types of Scholia	T-value	Statistically Significant (p=0.05)	Comment
-StartIm and EndIm	2.62	Statistically Significant there is a definitive difference between Im schol of verso and recto pages
-StartInt and EndInt	1.46	not statistically Significant there is no definitive difference between Int schol of verso and recto pages
-StartIm and StartInt	1.82	Statistically Significant there is a definitve difference Im and Int schol which appear on the left side of a page
-EndIm and EndInt	1.26	not statistically Significant there is no definitive difference between Im and Int schol which appear on the right side of a page
-StartIm and EndInt	0.26	not statistically Significant there is no definitve between Im and Int scol on a verso page
-StartInt and EndIm	3.81	Statistically Significant there is a definitve difference between Im and Int schol on a recto page
-Start and End	3.03	Statistically Significant there is a significant difference between schol on the left side of a page and those on the right
+StartIm and EndIm	2.62	Statistically Significant	there is a definitive difference between Im schol of verso and recto pages
+StartInt and EndInt	1.46	not statistically Significant	there is no definitive difference between Int schol of verso and recto pages
+StartIm and StartInt	1.82	Statistically Significant	there is a definitve difference Im and Int schol which appear on the left side of a page
+EndIm and EndInt	1.26	not statistically Significant	there is no definitive difference between Im and Int schol which appear on the right side of a page
+StartIm and EndInt	0.26	not statistically Significant	there is no definitve between Im and Int scol on a verso page
+StartInt and EndIm	3.81	Statistically Significant	there is a definitve difference between Im and Int schol on a recto page
+Start and End	3.03	Statistically Significant	there is a significant difference between schol on the left side of a page and those on the right

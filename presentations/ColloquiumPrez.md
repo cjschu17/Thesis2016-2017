@@ -1,7 +1,7 @@
 # On the Format of the Scholia to the Iliad of the Venetus A Manuscript
 
-## Charlie Schufreider
+ Charlie Schufreider
 
-## Advisor: Prof. Neel Smith, Dept. Classics
+Advisor: Prof. Neel Smith, Dept. Classics
 
 ---

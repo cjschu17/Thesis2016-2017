@@ -122,3 +122,23 @@ Interlinear|4800|4755 (99.06%)|4 (0.08%)|41 (0.85%)|45 (0.94%)
 Exterior|466|414 (88.84%)|0 (0.0%)|52 (11.16%)|52 (11.16%)
 
 ---
+
+## Intermarginal and Interior or...
+
+![12v13r](https://github.com/cjschu17/Thesis2016-2017/blob/master/images/12v13r.jpg)
+
+---
+
+## Length of Scholia By Words
+
+Type of Scholia|Number of Scholia|Median Length (Wds)|Mean Length in Wds|Standard Deviation
+--- | --- | ---| --- | ---
+Start of Line Scholia|1255|7|7.57|4.87
+End of Line Scholia|783|6|6.92|4.56
+--- | --- | --- | --- |---
+Intermarginal Scholia|1220|6|7.1|3.97
+Interior Scholia|819|7|7.66|5.74
+
+Types of Scholia|T-value|Statistically Significant (for p < 0.05 & d.f. = infinity  t > 1.645)
+Start and End|3.03|Statistically Significant
+Intermarginal and Interior|2.44|Statistically Significant

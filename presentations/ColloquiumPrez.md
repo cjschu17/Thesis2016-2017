@@ -174,7 +174,7 @@ End scholia|20.0 (14.39%)
 Interlinear scholia | 0.0 (0.0%)
 Exterior scholia | 1.0 (0.72%)
 ---
-Initial Conclusions
+## Initial Conclusions
 
 - Distant reading allows us to break free of our closely held biases
   - The arragnement of interior and intermarginal are more complex than first thought

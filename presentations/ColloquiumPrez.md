@@ -69,3 +69,15 @@ Lying beside [the text of the *Iliad*] are the following works. *The Signs* by A
 ## 15-Topic Topic Model, from ToPan
 
 ![Topic9](https://github.com/cjschu17/Thesis2016-2017/blob/master/images/TranslatedToPan9.jpg)
+
+---
+## Topic 9 Broken Down by Zones of Schola
+
+Scholia Zone | fasdf
+--- | ---
+Main scholia | 45.0 (32.37%)
+Intermarginal scholia: 65.0 (46.76%)
+Interior scholia: 28.0 (20.14%)
+Interlinear scholia: 0.0 (0.0%)
+Exterior scholia: 1.0 (0.72%)
+

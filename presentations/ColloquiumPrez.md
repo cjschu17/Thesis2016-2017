@@ -68,4 +68,4 @@ Lying beside [the text of the *Iliad*] are the following works. *The Signs* by A
 ---
 ## 15-Topic Topic Model, from ToPan
 
-![Topic9](https://github.com/cjschu17/Thesis2016-2017/blob/master/images/Topic9ToPan.jpg)
+![Topic9](https://github.com/cjschu17/Thesis2016-2017/blob/master/images/TranslatedToPan9.jpg)

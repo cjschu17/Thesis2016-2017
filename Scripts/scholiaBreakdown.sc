@@ -1,3 +1,6 @@
+//This script creates an analysis of the various topics of a topic models
+//By breaking the heighest weighted topics into the zones of scholia
+
 import scala.io.Source
 
 @main
@@ -24,10 +27,15 @@ def scholiaBreakdown (folder: String) {
     require (totalScholia == mainScholia + interlinear + intermarg + interior + ext)
 
     println("\nThis is scholia set " + file + " contains:\nmain scholia: "
-      + mainScholia + " (" + (mainScholia / totalScholia) + ")\nintermarginal scholia: "
-       + intermarg + " (" + (intermarg / totalScholia) + ")\ninterior scholia: "
-       + interior + " (" + (interior / totalScholia) + ")\ninterlinear scholia: "
-       + interlinear + " (" + (interlinear / totalScholia) + ")\nexterior scholia: "
-       + ext + " (" + (ext / totalScholia) + ")\nIn total there are " + totalScholia + " scholia.")
+      + mainScholia + " (" + math.BigDecimal((mainScholia / totalScholia)*100).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
+  + "%)\nintermarginal scholia: "
+       + intermarg + " (" + math.BigDecimal((intermarg / totalScholia)*100).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
+  + "%)\ninterior scholia: "
+       + interior + " (" + math.BigDecimal((interior / totalScholia)*100).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
+  + "%)\ninterlinear scholia: "
+       + interlinear + " (" + math.BigDecimal((interlinear / totalScholia)*100).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
+  + "%)\nexterior scholia: "
+       + ext + " (" + math.BigDecimal((ext / totalScholia)*100).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
+  + "%)\nIn total there are " + totalScholia + " scholia.")
   }
 }

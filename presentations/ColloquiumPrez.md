@@ -140,5 +140,6 @@ Intermarginal Scholia|1220|6|7.1|3.97
 Interior Scholia|819|7|7.66|5.74
 
 Types of Scholia|T-value|Statistically Significant (for p < 0.05 & d.f. = infinity  t > 1.645)
+---|---|---
 Start and End|3.03|Statistically Significant
 Intermarginal and Interior|2.44|Statistically Significant

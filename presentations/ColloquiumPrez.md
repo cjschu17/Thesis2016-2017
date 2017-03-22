@@ -27,6 +27,6 @@ Advisor: Prof. Neel Smith, Dept. Classics
 ### Book 2 Subscription
 ![Subscription](https://github.com/cjschu17/Thesis2016-2017/blob/master/images/Book2Subscription.jpg)
 
-    παράκειται τὰ Ἀριστονίκου σημεῖα καὶ τὰ  Διδύμου περι τῆς Ἀρισταρχείου διορθώσεως· τινὰ δὲ καὶ ἐκ τῆς Ἰλιακῆς προσωδίας Ἡρωδιανου καὶ ἐκ  τοῦ Νικάνορος περὶ στιγμης⁑
+παράκειται τὰ Ἀριστονίκου σημεῖα καὶ τὰ  Διδύμου περι τῆς Ἀρισταρχείου διορθώσεως· τινὰ δὲ καὶ ἐκ τῆς Ἰλιακῆς προσωδίας Ἡρωδιανου καὶ ἐκ  τοῦ Νικάνορος περὶ στιγμης⁑
  
-     Lying beside [the text of the *Iliad*] are the following works. *The Signs* by Aristonicus, *On the Aristarchean Recension* by Didymus. And there is something from *Iliadic Prosody* by Herodian and *On Punctuation* by Nicanor.
+Lying beside [the text of the *Iliad*] are the following works. *The Signs* by Aristonicus, *On the Aristarchean Recension* by Didymus. And there is something from *Iliadic Prosody* by Herodian and *On Punctuation* by Nicanor.

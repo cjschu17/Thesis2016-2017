@@ -100,3 +100,12 @@ Exterior scholia | 233 (2.9%)
   - Quoted Language
     - A quote from the *Iliad* line being commented on, or using a word as a word
       - "Running" is the gerund form of the verb "run."
+---
+### Types of Discourse by Scholia Zone
+
+Scholia Type	Number of Words	Number of Direct Voice Words	Number of Quoted Text Words	Number of Quoted Language Words	Number of Non-Direct Voice Words
+msA	6830	108689 (89.66%)	6384 (5.27%)	6153 (5.08%)	12537 (10.34%)
+msAim	8170	6929 (84.81%)	88 (1.08%)	1153 (14.11%)	1241 (15.19%)
+msAint	6002	5361 (89.32%)	53 (0.88%)	588 (9.8%)	641 (10.68%)
+msAil	4800	4755 (99.06%)	4 (0.08%)	41 (0.85%)	45 (0.94%)
+msAext	466	414 (88.84%)	0 (0.0%)	52 (11.16%)	52 (11.16%)

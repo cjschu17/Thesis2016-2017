@@ -143,3 +143,21 @@ Types of Scholia|T-value|Statistically Significant (for p < 0.05 & d.f. = infini
 ---|---|---
 Start and End|3.03|Statistically Significant
 Intermarginal and Interior|2.44|Statistically Significant
+
+----
+## Discourse Measurements
+
+Scholia Type|Number of Scholia With Non-Direct Speech|Number of Scholia with no Non-Direct Speech|Number Of Scholia
+--- | --- | --- | ---
+Start Scholia|547|574|1121
+End Scholia|286|426|712
+Total Start and End|833|1000|1833
+---	---	---	---
+Im Scholia|533|560|1093
+Int Scholia|300|440|740
+Total Start and End|833|1000|1833
+
+Scholia Type|ChiSquare	Significance|(p < 0.05, if χ2 > 3.841 for df = 1)
+---|---|---
+Start and End|13.07|Statisically Significant
+Intermarginal and Interior|12.04|Statisically Significant

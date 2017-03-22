@@ -48,4 +48,24 @@ Lying beside [the text of the *Iliad*] are the following works. *The Signs* by A
 - Gray: Interlinear
 - Red: Exterior
 ---
+## Methodology
 
+- Distant reading over close reading
+  - "macro" over "micro" analysis
+ 
+ - Scholia is a huge corpus (148,978 words)
+ 
+ ---
+ ## LDA Topic Modeling (Latent Dirichlect Allocation)
+ 
+ - uncovering the repeating patterns of co-occurring words within a text
+ - requires a heavily prepared corpus
+   - elimination of common words 
+     - e.g. "the", "he", "am", etc.
+   - reduction of multiple forms of a word into a single form 
+     - e.g. reducing "singing", "sang", "sung" to "sing"
+     
+---
+## 15-Topic Topic Model, from ToPan
+
+![Topic9](https://github.com/cjschu17/Thesis2016-2017/blob/master/images/Topic9ToPan.jpg)

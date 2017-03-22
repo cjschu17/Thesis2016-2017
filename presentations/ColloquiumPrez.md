@@ -152,7 +152,7 @@ Scholia Type|Number of Scholia With Non-Direct Speech|Number of Scholia with no 
 Start Scholia|547|574|1121
 End Scholia|286|426|712
 Total Start and End|833|1000|1833
----	---	---	---
+---|---|---|---
 Im Scholia|533|560|1093
 Int Scholia|300|440|740
 Total Start and End|833|1000|1833

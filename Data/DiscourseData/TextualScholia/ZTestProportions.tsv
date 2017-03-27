@@ -1,5 +1,5 @@
 Zones Being Compared	Z-Score	Significance (p < 0.01)	Comment
-start Im & start Int	5.58209151176706	Statisically Significant	There is a statistically significant difference between the Intermarginal and Interior Zones of the scholia which happen to occur at the beginning of a scholia line.
-start Im & end Im	1.4412212319195954	Not Statistically Significant	There is no significant difference between zones of intermarginal scholia, no matter if they appear on a recto or verso page.
-end Int & start Int	-2.354650573129872	Not Statistically Significant	There is no significant difference between zones of interior scholia on verso and recto pages.
-end Int  end Im	-5.2056852224760854	Statisically Significant	There is a significant difference between the Inteermarginal and Interior zones which happen to occur at the end of an Iliad line.
+start Im & start Int	5.58	Statisically Significant	There is a statistically significant difference between the Intermarginal and Interior Zones of the scholia which happen to occur at the beginning of a scholia line.
+start Im & end Im	1.44	Not Statistically Significant	There is no significant difference between zones of intermarginal scholia, no matter if they appear on a recto or verso page.
+end Int & start Int	2.35	Not Statistically Significant	There is no significant difference between zones of interior scholia on verso and recto pages.
+end Int  end Im	5.21	Statisically Significant	There is a significant difference between the Inteermarginal and Interior zones which happen to occur at the end of an Iliad line.

@@ -4,7 +4,7 @@
 //according to word length.
 //Requires 2 parameters.
 //1: archive index of schol to folio: Thesis2016-2017/data/scholToFolioIndx.csv
-//2: archival edition of the HMT: Thesis2016-2017/data/hmt_2cols.tsv
+//2: archival edition of the HMT: Thesis2016-2017/datac
 
 import scala.io.Source
 import scala.math._

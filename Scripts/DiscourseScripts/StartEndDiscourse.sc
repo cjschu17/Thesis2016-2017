@@ -6,10 +6,10 @@
 :load loadhmt.sc
 import scala.math._
 
-val startIm = scala.io.Source.fromFile("../Thesis2016-2017/data/DiscourseData/TextualScholia/TextualScholiaColumns/startImUrns.txt").getLines.toVector.drop(1).map(CtsUrn(_))
-val endInt = scala.io.Source.fromFile("../Thesis2016-2017/data/DiscourseData/TextualScholia/TextualScholiaColumns/endIntUrns.txt").getLines.toVector.drop(1).map(CtsUrn(_))
-val startInt = scala.io.Source.fromFile("../Thesis2016-2017/data/DiscourseData/TextualScholia/TextualScholiaColumns/startIntUrns.txt").getLines.toVector.drop(1).map(CtsUrn(_))
-val endIm = scala.io.Source.fromFile("../Thesis2016-2017/data/DiscourseData/TextualScholia/TextualScholiaColumns/endImUrns.txt").getLines.toVector.drop(1).map(CtsUrn(_))
+val startIm = scala.io.Source.fromFile("../Thesis2016-2017/data/TextualScholiaColumns/startImUrns.txt").getLines.toVector.drop(1).map(CtsUrn(_))
+val endInt = scala.io.Source.fromFile("../Thesis2016-2017/data/TextualScholiaColumns/endIntUrns.txt").getLines.toVector.drop(1).map(CtsUrn(_))
+val startInt = scala.io.Source.fromFile("../Thesis2016-2017/data/TextualScholiaColumns/startIntUrns.txt").getLines.toVector.drop(1).map(CtsUrn(_))
+val endIm = scala.io.Source.fromFile("../Thesis2016-2017/data/TextualScholiaColumns/endImUrns.txt").getLines.toVector.drop(1).map(CtsUrn(_))
 val start = startIm ++ startInt
 val end = endInt ++ endIm
 val int = startInt ++ endInt

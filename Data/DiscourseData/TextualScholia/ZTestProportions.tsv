@@ -1,5 +1,5 @@
-Zones Being Compared	Z-Score	Significance
-startImandstartInt	5.58209151176706	Statisically Significant
+Zones Being Compared	Z-Score	Significance	Comment
+start Im & start Int	5.58209151176706	Statisically Significant	There is a statistically significant difference between the Intermarginal and Interior Zones of the scholia which happen to occur at the beginning of a scholia line.
 startImandendIm	1.4412212319195954	Not Statistically Significant
 endIntandstartInt	-2.354650573129872	Not Statistically Significant
 endIntandendIm	-5.2056852224760854	Statisically Significant

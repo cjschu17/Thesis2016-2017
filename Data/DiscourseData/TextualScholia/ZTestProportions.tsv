@@ -3,5 +3,5 @@ start Im & start Int	5.58	Statisically Significant	There is a statistically sign
 start Im & end Im	1.44	Not Statistically Significant	There is no significant difference between zones of intermarginal scholia, no matter if they appear on a recto or verso page.
 end Int & start Int	2.35	Not Statistically Significant	There is no significant difference between zones of interior scholia on verso and recto pages.
 end Int  end Im	5.21	Statisically Significant	There is a significant difference between the Inteermarginal and Interior zones which happen to occur at the end of an Iliad line.
-startInt & endIm	3.72	Statisically Significant  
-startIm & endInt	6.59	Statisically Significant  
+startInt & endIm	3.72	Statisically Significant	
+startIm & endInt	6.59	Statisically Significant	

@@ -2,7 +2,7 @@
 
  Charlie Schufreider
 
-Advisor: Prof. Neel Smith, Dept. Classics
+Advisor: Prof. Neel Smith, Classics Dept. 
 
 ---
 ## Brief History of the *Iliad* and Its Scholarship
@@ -35,8 +35,7 @@ Lying beside [the text of the *Iliad*] are the following works. *The Signs* by A
 
 **By understanding the layout of and sources for the Venetus A two things can be accomplished:**
 1. bridge the thousand year gap in scholarship between Alexandrians and Venetus A creation
-2. by refining what information hails from the Alexandrians, shed light on pre-Alexandrian scholarship
-
+2. by refining what information hails from the Alexandrians, shed light on pre-Alexandrian *Iliads*
 ---
 ## Five-zoned Layout of the Scholia
 
@@ -53,7 +52,7 @@ Lying beside [the text of the *Iliad*] are the following works. *The Signs* by A
 - Distant reading over close reading
   - "macro" over "micro" analysis
  
- - Scholia is a huge corpus (148,978 words)
+ - Scholia is a huge corpus (148,978 words in 18 books)
  
  ---
  ## LDA Topic Modeling (Latent Dirichlect Allocation)
@@ -71,7 +70,7 @@ Lying beside [the text of the *Iliad*] are the following works. *The Signs* by A
 ![Topic9](https://github.com/cjschu17/Thesis2016-2017/blob/master/images/TranslatedToPan9.jpg)
 
 ---
-## Topic 9 Broken Down by Zones of Schola
+## Topic 9 Broken Down by Zones of Scholia
 
 Scholia Zone | Frequency of Scholia Type within this Topic
 --- | ---
@@ -123,7 +122,9 @@ Exterior|466|414 (88.84%)|0 (0.0%)|52 (11.16%)|52 (11.16%)
 
 ---
 
-## Intermarginal and Interior or...
+## Intermarginal and Interior or Start and End of Line?
+
+Folios 12v and 13r
 
 ![12v13r](https://github.com/cjschu17/Thesis2016-2017/blob/master/images/12v13r.jpg)
 

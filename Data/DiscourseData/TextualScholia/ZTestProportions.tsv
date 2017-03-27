@@ -1,0 +1,5 @@
+Zones Being Compared	Z-Score	Significance
+startImandstartInt	5.58209151176706	Statisically Significant
+startImandendIm	1.4412212319195954	Not Statistically Significant
+endIntandstartInt	-2.354650573129872	Not Statistically Significant
+endIntandendIm	-5.2056852224760854	Statisically Significant

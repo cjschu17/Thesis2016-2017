@@ -1,6 +1,6 @@
 Type of Discourse	Number of Words Within that Type of Discourse	Number of words within Discouse and within msA	Number of words within Discouse and within msAim	Number of words within Discouse and within msAint	Number of words within Discouse and within msAil	Number of words within Discouse and within msAext
 Direct Discourse	120405.0	103748.0 (86.17%)	6487.0 (5.39%)	5053.0 (4.2%)	4707.0 (3.91%)	403.0 (0.33%)
-Quoted Text	6528.0	6383.0 (86.17%)	88.0 (5.39%)	53.0 (4.2%)	4.0 (3.91%)	0.0 (0.33%)
-Quoted Language	7506.0	5737.0 (86.17%)	1101.0 (5.39%)	575.0 (4.2%)	41.0 (3.91%)	52.0 (0.33%)
+Quoted Text	6528.0	6383.0 (97.78%)	88.0 (1.35%)	53.0 (0.81%)	4.0 (0.06%)	0.0 (0.0%)
+Quoted Language	7506.0	5737.0 (76.43%)	1101.0 (14.67%)	575.0 (7.66%)	41.0 (0.55%)	52.0 (0.69%)
 Indirect Discourse	14034.0	12120.0 (86.36%)	1189.0 (8.47%)	628.0 (4.47%)	45.0 (0.32%)	52.0 (0.37%)
 Total	134439.0	115868.0 (86.19%)	7676.0 (5.71%)	5681.0 (4.23%)	4752.0 (3.53%)	455.0 (0.34%)

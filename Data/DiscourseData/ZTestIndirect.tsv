@@ -1,0 +1,12 @@
+ones Being Compared	Z-Score	Significance (p < 0.05)
+msA & otherSchol	36.75	Statisically Significant
+msA & msAim	29.8	Statisically Significant
+msA & msAint	21.61	Statisically Significant
+msA & msAil	5.87	Statisically Significant
+msA & msAext	7.59	Statisically Significant
+msAim & msAint	0.79	Not Statistically Significant
+msAim & msAil	0.37	Not Statistically Significant
+msAim & msAext	2.04	Statisically Significant
+msAint & msAil	0.1	Not Statistically Significant
+msAint & msAext	2.18	Statisically Significant
+msAil & msAext	2.2	Statisically Significant

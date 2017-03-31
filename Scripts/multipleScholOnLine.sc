@@ -38,7 +38,12 @@ def analyzingScholTypes(iliadToSchol: (String, Vector[String])) = {
 val labelledTuple = iliadToScholTuple.map(analyzingScholTypes(_))
 
 val onlyDifferingTypes = labelledTuple.filter(_._3.contains("diff"))
-val readableTuple = onlyDifferingTypes.map(line => (line._1,line._2.mkString(","))) 
+val readableTuple = onlyDifferingTypes.map(line => (line._1,line._2.mkString(",")))
+
+val mainAndIm = readableTuple.filter(_._2.contains("6.msA.h")).filter(_._2.contains("msAim")).filterNot(_._2.contains("msAint")).size
+val mainAndInt = readableTuple.filter(_._2.contains("6.msA.h")).filterNot(_._2.contains("msAim")).filter(_._2.contains("msAint")).size
+val IntAndIm = readableTuple.filterNot(_._2.contains("6.msA.h")).filter(_._2.contains("msAim")).filter(_._2.contains("msAint")).size
+val allthree = readableTuple.filter(_._2.contains("6.msA.h")).filter(_._2.contains("msAim")).filter(_._2.contains("msAint")).size
 
 
 for (line <- readableTuple) {

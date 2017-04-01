@@ -97,7 +97,7 @@ Ultimately, these observations confirms expectations about the purpose of the le
 
 With the larger, more general forms of text analysis accomplised, there can begin a movement into the actual text of the scholia. One of the first analyses that was conducted was what kind of discourse does the scholiast use in the different zones of the scholia. By "kind of discourse," I am referring to whether the words being written as a quotation from the *Iliad* or any other source, or whether the words of a particular scholion are written in a "direct voice." Words in direct voice appear as if they are coming from the scholiast's own mind, even if many of these direct voice words are merely copying the words of a previous scholia. Thus the distinction between direct and indirect language bolils down to whether a word can be obviously identified as having to have appeared in another source. So if a string of words is explicitly attributed to another scholar, that string of words is considered indirect discourse. Additionally, indirect discourse is recognized in examples where a word does not fit within the syntax of the sentence. In the following English sentence, the word "running" would be considered indirect discourse by this logic: My favorite word is "running". "Running" is not part of the sentence's verb, nor is it being used as a gerund. Here, "running" is simply being used as an abstract word, and its typical English associations do not fit within the context of the sentence. In other words, "running" would be considered indirect discourse.
 
-In order to analyze the types of discourse within the scholia, this would have to have been marked-up ahead of time, and indeed the HMT editions of the scholia use TEI notation to demarcate direct and indirect discourse. However, it further classifies indirect discourse into two categories, quoted text and quoted language. Quoted text refers to words that can be directly attributed to a text outside of the *Iliad* line a scholion is commenting on. So if a scholion is quoting a passage from the *Odyssey*, from Greek tragedy, or a passage from a different book of the *Iliad*, that quote is considered quoted text. Quoted language, on the other hand, refers to words that exist in the *Iliad* line that the scholion is commenting on, or instances where the scholiast is using a word in its abstract form. The word "running" in the sentence "My favorite word is "running"" is one such example of using a word in its abstract form. In both cases the indirect discourse is set apart by the TEI element for a quote `<q>`, with quoted text having additonal mark-up to allow for the inclusion of a URN citation of where the quote is coming from. Given these mark-up conventions, the following table was created using a scala script. The table below breaks down how frequently each of the kinds of discourse appear in each zone of the scholia. It should be noted that scholia from Book 3 were excluded from this analysis since the HMT editors for book 3 were not working under the same editoral standards as current HMT editors.
+In order to analyze the types of discourse within the scholia, this would have to have been marked-up ahead of time, and indeed the HMT editions of the scholia use TEI notation to demarcate two types of discouse in the scholia: direct and indirect discourse. Direct discouse refers to words that appear to come directly from the scribe himself. So, for example, the main scholion to first line of the *Iliad* wonders why the poems begins as it does. It reads, "They question why [the poet] started in this way from the wrath [and] from the ill-omened name (ζητοῦσι δια τί ἀπὸ τῆς μήνιδος ἤρξατο οὕτως δυσφήμου ὀνόματος, urn:cts:greekLit:tlg5026.msA.hmt:1.1.comment). While the scribe of the Venetus A may be simply copying this sentence from a previous scholiast, but there is no indication given that this sentence comes from any other source than the scribe himself. Thus it is considered direct discourse. By contrast, indirect discourse are words that are obviously derived from a source other than the scribe's own mind. These include cited quotations from the *Iliad*, Greek tragedy, other ancient scholars, etc. Any time, the text can definitively attributed to a different source, it is indirect discouse. Regardless of the specific type of indirect dscouse, all words written in indirect discourse are marked up in the Homer Multitext's edition with the TEI element `<q>`. Thus, it is rather simple to identify what words are written in direct or indirect discourse. Below is the distribution of the two types of discouse by zone of scholia. It should be noted that scholia from Book 3 and 6 were excluded from this analysis since these two books were edited at a time in the HMT which did same editoral standards as those today.
 
 | Scholia Type  | Number of Words | Number of Direct Voice Words | Number of Quoted Text Words | Number of Quoted Language Words | Number of Indirect Voice Words |
 |---|---|---|---|---|---|
@@ -107,10 +107,6 @@ In order to analyze the types of discourse within the scholia, this would have t
 |Interlinear Scholia|4800|4755 (99.06%)|4 (0.08%)|41 (0.85%)|45 (0.94%)|
 |Exterior Scholia|466|414 (88.84%)|0 (0.0%)|52 (11.16%)|52 (11.16%)|
 
-There are number of things to say about the data above, but what is clear is that direct voice is, by far the most pervasive type of discourse for each of the types of scholia. This is especially true of the interlinear scholia, 99% of whose words are written in direct discourse. Again, this is consistent with the common usage of the interlinear scholia to provide a Byzantine gloss on the *Iliad* text. According to HMT editorial conventions, these interlinear glosses are considered "direct discourse" thus the high percentage of direct discourse is not surprising.
-
-Nor is it surprising that the main scholia
-
 | Scholia Type  | Words in Indirect Discouse | Words in Direct Discouse | Total Words |
 |---|---|---|---|
 |Main Scholia|12537 (10.34%)|108689 (89.66%)|121226|
@@ -118,3 +114,33 @@ Nor is it surprising that the main scholia
 |Interior Scholia|641 (10.68%)|5361 (89.32%)|6002|
 |Interlinear Scholia|45 (0.94%)|4755 (99.06%)|4800
 |Exterior Scholia|52 (11.16%)|414 (88.84%)|466|
+
+There are number of things to say about the data above, but what is most clear is that direct voice is, by far the most pervasive type of discourse for each of the types of scholia. This is especially true of the interlinear scholia, 99% of whose words are written in direct discourse. Again, this is consistent with the common usage of the interlinear scholia to provide a Byzantine gloss on the *Iliad* text. According to HMT editorial conventions, these interlinear glosses are considered "direct discourse" thus the high percentage of direct discourse is not surprising.
+
+What is perhaps surprising is the similarity in the distribution of the types of discourse among the main, intermarginal, and interior scholia. As mentioned previously, prior scholarship has furthered some theories about the relationship between these three zones of the scholia, including the idea that many intermarginal scholia are summaries of longer main scholia. Here, however, it appears there is a definitive difference between the distribution of direct and indirect discourse between the intermarginal scholia and the other two zones. In fact, running a Z-score test on proportions revealed that the intermarginal scholia had a significantly different distribution of the discourse from both the main and interior scholia. In order for a difference to statistically different, the probababiliity of the the two datasets being the same needs to be less than 5%, which occurs when there is a Z-score greater than 1.96. The data is displayed in the table below.
+
+Zones Being Compared|Z-Score|Significance (p < 0.05)
+---|---|---
+intermarginal & main|13.76|Statisically Significant
+intermarginal & interior|	7.39|Statisically Significant
+main & interior|1.43|Not Statistically Significant
+
+While this particuarly dataset shows that the distribution of direct and indirect discourse to be essentially for the main and interior scholia, one should not conclude that these two zones have identical content. This dataset says nothing about definitive about the content of scholia, just the systematic use of language in the two zones.
+
+Furthermore, it worth looking into the further classification of indirect discouse into two distinct categories: quoted text and quoted language. Quoted text refers to words that can be directly attributed to a text outside of the *Iliad* line a scholion is commenting on. So if a scholion is quoting a passage from the *Odyssey*, from Greek tragedy, or a passage from a different book of the *Iliad*, that quote is considered quoted text. Quoted language, on the other hand, refers to words that either exist in the *Iliad* line that the scholion is commenting on, or instances where the scholiast is using a word to refer to the word in its abstract form. Very often this abstract use of language usage occurs when the scholiast is discussing the morphology or etymology of a word. For example, a main scholion to line 182 of book 18 of the *Iliad* reads, "Just as "τίθεσθαι" is the infinitive form associated with "τίθενται", in this way "δίεσθαι" is the infinitve form associated with "δίενται" (ὥσπερ οὖν παρα τὸ τίθενται ἐστιν  ἀπαρέμφατον τίθεσθαι· οὕτως καὶ παρα τὸ δίενται τὸ δίεσθαι, urn:cts:greekLit:tlg5026.msA.hmt:18.62). Translating the scholion into English helps to make clear what sorts of words are examples of language usage, since legitimate language usages words should not be translated. The scholion is using the word to refer to the word in abstract, not what the word means. 
+
+While both types of indirect discourse are set apart by the TEI element for a quote `<q>`, quoted text has additonal mark-up to allow for a URN citation of where the quote is coming from. Given these mark-up conventions, the table below details the distribution of the two types of indirect discourse by each zone of the scholia. 
+
+
+Type Of Scholia|Words in Quoted Text|Words in Quoted Language|Total Words in Indirect Discourse
+---|---|---|---
+Main|6383.(52.67%)|5737 (47.33%)|12120
+Non-Main Schol|145 (7.58%)|1769.0 (92.42%)|1914
+Intermarginal|88 (7.4%)|1101 (92.6%)|1189
+Interior|53 (8.44%)|575 (91.56%)|628
+Interlinear|4 (8.89%)|41 (91.11%)|45
+Exterior|	0 (0.0%)|52 (100.0%)|52
+
+
+
+

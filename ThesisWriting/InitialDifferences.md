@@ -65,29 +65,13 @@ As for the interlinear and exterior scholia, this particular test was unble to s
 
 Before further linguistic tests, there is one more facet of the the scholia that can be investigated without having to really read a single scholion. As stated previously, the HMT edition of the Venetus A scholia breaks a scholion into three distinct portions which is reflected in three separate `<div>` elements per scholion. One of the `<div>` elements is the comment of the scholion, the second is a URN for the line of the *Iliad* which the scholion is commenting on. The final division and element of a scholion is its lemma. Again, this "lemma" is different from the meaning of "lemma" from chapter 2. In chapter 2, "lemma" referred to the form of a word one would use to look it up in a dictionary. In terms of the structure of the Venetus A, a "lemma" is a quotation from the line which is being commented on and is included at the beginning of a scholion. Thus the lemma acts as a footnote of sorts linking a scholion with the *Iliad*. In Myriam Hecquet's discussion of the paleography of the Venetus A, she describes that the lemmata of the main scholia are written in a distinct style of handwriting, but does mention that lemmata appear in any other type of scholia (Hecquet, 79-80). Thus it is worth investigating if Hecquet's implicit conclusion has any weight to it. In other words, do zones of scholia besides the main scholia have lemmata, and if so how many? Although lemmata are only expected in the main scholia, every zone of the scholia is edited by the HMT such that if a lemma should appear it can treated wrong. Thus I could simply search the lemmata for each of the zones of scholia and see how many of those scholia atually had content in them and were not simply blank. The results are shown below:
 
-Type of Scholia|Number of Scholia|Number of Lemmata|Frequency of Scholia with Lemmata
----|---|---|---
-Main Scholia|3607|3456|95.81%
-IntermarginalScholia|1223|5|0.41%
-Interior Scholia|823|5|0.61%
-Interlinear Scholia|2064|0|0.00%
-Exterior Scholia|240|1|0.42%
-
-Scholia with Lemma Urn|Supposed Lemma|Iliad Line commented On
---- | --- | ---
-urn:cts:greekLit:tlg5026.msAim.hmt:2.389|εἴσαιτο:|urn:cts:greekLit:tlg0012.tlg001.msA:2.215|
-urn:cts:greekLit:tlg5026.msAim.hmt:5.5005|Ἄϊδος κυνέην|urn:cts:greekLit:tlg0012.tlg001.msA:5.845|
-urn:cts:greekLit:tlg5026.msAim.hmt:11.4|φθαν δὲ:|urn:cts:greekLit:tlg0012.tlg001.msA:11.51|
-urn:cts:greekLit:tlg5026.msAim.hmt:15.26|καὶ κεῖνος|urn:cts:greekLit:tlg0012.tlg001.msA:15.179|
-urn:cts:greekLit:tlg5026.msAim.hmt:17.17|σχέτλι'|urn:cts:greekLit:tlg0012.tlg001.msA:17.150-17.151|
-urn:cts:greekLit:tlg5026.msAint.hmt:2.332|ἀκούσαμεν:|urn:cts:greekLit:tlg0012.tlg001.msA:2.194|
-urn:cts:greekLit:tlg5026.msAint.hmt:2.340|Θερσίτης:| urn:cts:greekLit:tlg0012.tlg001.msA:2.212|
-urn:cts:greekLit:tlg5026.msAint.hmt:2.394|φολκὸς:|urn:cts:greekLit:tlg0012.tlg001.msA:2.217|
-urn:cts:greekLit:tlg5026.msAint.hmt:2.395| ψεδνή:|urn:cts:greekLit:tlg0012.tlg001.msA:2.219,|
-urn:cts:greekLit:tlg5026.msAint.hmt:2.394|φολκὸς:|urn:cts:greekLit:tlg0012.tlg001.msA:2.217
-urn:cts:greekLit:tlg5026.msAint.hmt:2.395|ψεδνή:"|urn:cts:greekLit:tlg0012.tlg001.msA:2.219
-urn:cts:greekLit:tlg5026.msAint.hmt:17.6|ἀρητόν"|urn:cts:greekLit:tlg0012.tlg001.msA:17.37
-urn:cts:greekLit:tlg5026.msAext.hmt:3.743|ορωῶν|urn:cts:greekLit:tlg0012.tlg001.msA:3.325
+Type of Scholia|Number of Scholia with a Lemma|Total Number of Scholia
+---|---|---
+Main Scholia|3456 (95.81%)|3607
+IntermarginalScholia|5 (0.41%)|1223
+Interior Scholia|5 (0.61%)|823
+Interlinear Scholia|0 (0.00%)|2064|
+Exterior Scholia|1 (0.42%)|240
 
 Unsurprisingly, the main scholia are the zone of scholia which have the most scholia. Though such a conclusion is a bit understatement. More accurately, seeing a lemma in any of the scholia that are not the main scholia is downright rare. In the case of the interlinear scholia, there are no lemmata at all. Since there were so few lemmata on non-main scholia, it was rather simple to look into those instances where these lemmata appeared. In two instances (urn:cts:greekLit:tlg5026.msAim.hmt:11.4 and urn:cts:greekLit:tlg5026.msAim.hmt:17.17) the two intermarginal scholia appeared outside of the space typically associated with that particular zone. Intermarginal scholia usually appear in the vertical margin between the *Iliad* text and the main scholia. However the former scholion appears in the upper horizontal margin above the *Iliad* text and below the main scholia and the latter scholion appears in the lower horizontal margin below the *Iliad* text and above the main scholia. Further research would have to be done on intermarginal scholia that appear in these two margins, but it seems fair to say that their position makes them odd already. Beyond this, there is little that one can say definitively about the presence of lemmata in non-main scholia given this limited dataset. 9 out of the 11 non-main scholia with lemmata appear on pages that are extremely packed with comments in the main scholia. Thus, it is tempting to conclude that these scholia with lemmata are simply cases where the scholiast ran out of room in the main scholia zone and thus decided to record the scholia somewhere else. However, if this were true, it should also be true that whenever a manuscript page is full with main scholia, there should be some non-main scholia with lemmata. While a formal investigation into this matter has not been conducted, anecdotal evidence can substitute well enough. There are countless folios of the Venetus A which are completely filled to the brim with scholia, yet still contain no lemmata outside the main scholia. The first page of the *Iliad* text, folio 12r, serves as a prime example of this point since the nearly every margin of the page is completely filled yet there is not a single lemmata beyond the main scholia. In other words, while a formal analysis would be preferred, previous experience with the Venetus A has taught me that if there were supposed to be some link between pages with full main scholia zones and lemmata in the non-main scholia, there should be way more than 11 lemmata in the main scholia.
 
@@ -98,14 +82,6 @@ Ultimately, these observations confirms expectations about the purpose of the le
 With the larger, more general forms of text analysis accomplised, there can begin a movement into the actual text of the scholia. One of the first analyses that was conducted was what kind of discourse does the scholiast use in the different zones of the scholia. By "kind of discourse," I am referring to whether the words being written as a quotation from the *Iliad* or any other source, or whether the words of a particular scholion are written in a "direct voice." Words in direct voice appear as if they are coming from the scholiast's own mind, even if many of these direct voice words are merely copying the words of a previous scholia. Thus the distinction between direct and indirect language bolils down to whether a word can be obviously identified as having to have appeared in another source. So if a string of words is explicitly attributed to another scholar, that string of words is considered indirect discourse. Additionally, indirect discourse is recognized in examples where a word does not fit within the syntax of the sentence. In the following English sentence, the word "running" would be considered indirect discourse by this logic: My favorite word is "running". "Running" is not part of the sentence's verb, nor is it being used as a gerund. Here, "running" is simply being used as an abstract word, and its typical English associations do not fit within the context of the sentence. In other words, "running" would be considered indirect discourse.
 
 In order to analyze the types of discourse within the scholia, this would have to have been marked-up ahead of time, and indeed the HMT editions of the scholia use TEI notation to demarcate two types of discouse in the scholia: direct and indirect discourse. Direct discouse refers to words that appear to come directly from the scribe himself. So, for example, the main scholion to first line of the *Iliad* wonders why the poems begins as it does. It reads, "They question why [the poet] started in this way from the wrath [and] from the ill-omened name (ζητοῦσι δια τί ἀπὸ τῆς μήνιδος ἤρξατο οὕτως δυσφήμου ὀνόματος, urn:cts:greekLit:tlg5026.msA.hmt:1.1.comment). While the scribe of the Venetus A may be simply copying this sentence from a previous scholiast, but there is no indication given that this sentence comes from any other source than the scribe himself. Thus it is considered direct discourse. By contrast, indirect discourse are words that are obviously derived from a source other than the scribe's own mind. These include cited quotations from the *Iliad*, Greek tragedy, other ancient scholars, etc. Any time, the text can definitively attributed to a different source, it is indirect discouse. Regardless of the specific type of indirect dscouse, all words written in indirect discourse are marked up in the Homer Multitext's edition with the TEI element `<q>`. Thus, it is rather simple to identify what words are written in direct or indirect discourse. Below is the distribution of the two types of discouse by zone of scholia. It should be noted that scholia from Book 3 and 6 were excluded from this analysis since these two books were edited at a time in the HMT which did same editoral standards as those today.
-
-| Scholia Type  | Number of Words | Number of Direct Voice Words | Number of Quoted Text Words | Number of Quoted Language Words | Number of Indirect Voice Words |
-|---|---|---|---|---|---|
-|Main Scholia|121226|108689 (89.66%)|6384 (5.27%)|6153 (5.08%)|12537 (10.34%)|
-|Intermarginal Scholia|8170|6929 (84.81%)|88 (1.08%)|1153 (14.11%)|1241 (15.19%)|
-|Interior Scholia|6002|5361 (89.32%)|53 (0.88%)|588 (9.8%)|641 (10.68%)|
-|Interlinear Scholia|4800|4755 (99.06%)|4 (0.08%)|41 (0.85%)|45 (0.94%)|
-|Exterior Scholia|466|414 (88.84%)|0 (0.0%)|52 (11.16%)|52 (11.16%)|
 
 | Scholia Type  | Words in Indirect Discouse | Words in Direct Discouse | Total Words |
 |---|---|---|---|

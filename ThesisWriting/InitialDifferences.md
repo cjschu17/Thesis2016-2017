@@ -99,7 +99,7 @@ With the larger, more general forms of text analysis accomplised, there can begi
 
 In order to analyze the types of discourse within the scholia, this would have to have been marked-up ahead of time, and indeed the HMT editions of the scholia use TEI notation to demarcate direct and indirect discourse. However, it further classifies indirect discourse into two categories, quoted text and quoted language. Quoted text refers to words that can be directly attributed to a text outside of the *Iliad* line a scholion is commenting on. So if a scholion is quoting a passage from the *Odyssey*, from Greek tragedy, or a passage from a different book of the *Iliad*, that quote is considered quoted text. Quoted language, on the other hand, refers to words that exist in the *Iliad* line that the scholion is commenting on, or instances where the scholiast is using a word in its abstract form. The word "running" in the sentence "My favorite word is "running"" is one such example of using a word in its abstract form. In both cases the indirect discourse is set apart by the TEI element for a quote `<q>`, with quoted text having additonal mark-up to allow for the inclusion of a URN citation of where the quote is coming from. Given these mark-up conventions, the following table was created using a scala script. The table below breaks down how frequently each of the kinds of discourse appear in each zone of the scholia. It should be noted that scholia from Book 3 were excluded from this analysis since the HMT editors for book 3 were not working under the same editoral standards as current HMT editors.
 
-| Scholia Type  | Number of Words | Number of Direct Voice Words | Number of Quoted Text Words | Number of Quoted Language Words | Number of Non-Direct Voice Words |
+| Scholia Type  | Number of Words | Number of Direct Voice Words | Number of Quoted Text Words | Number of Quoted Language Words | Number of Indirect Voice Words |
 |---|---|---|---|---|---|
 |Main Scholia|121226|108689 (89.66%)|6384 (5.27%)|6153 (5.08%)|12537 (10.34%)|
 |Intermarginal Scholia|8170|6929 (84.81%)|88 (1.08%)|1153 (14.11%)|1241 (15.19%)|
@@ -107,6 +107,14 @@ In order to analyze the types of discourse within the scholia, this would have t
 |Interlinear Scholia|4800|4755 (99.06%)|4 (0.08%)|41 (0.85%)|45 (0.94%)|
 |Exterior Scholia|466|414 (88.84%)|0 (0.0%)|52 (11.16%)|52 (11.16%)|
 
-There are number of things to say about the data above, but what is clear is that direct voice is, by far the most pervasive type of discourse for each of the types of scholia. This is especially true of the interlinear scholia, 99% of whose words are written in direct discourse. Again, this is consistent with the common usage of the interlinear scholia to provide a Byzantine parse on the *Iliad* text. According to HMT editorial conventions, these interlinear parses are considered "direct discourse" thus the high percentage of direct disocourse is not surprising.
+There are number of things to say about the data above, but what is clear is that direct voice is, by far the most pervasive type of discourse for each of the types of scholia. This is especially true of the interlinear scholia, 99% of whose words are written in direct discourse. Again, this is consistent with the common usage of the interlinear scholia to provide a Byzantine gloss on the *Iliad* text. According to HMT editorial conventions, these interlinear glosses are considered "direct discourse" thus the high percentage of direct discourse is not surprising.
 
 Nor is it surprising that the main scholia
+
+| Scholia Type  | Words in Indirect Discouse | Words in Direct Discouse | Total Words |
+|---|---|---|---|
+|Main Scholia|12537 (10.34%)|108689 (89.66%)|121226|
+|Intermarginal Scholia|1241 (15.19%)|6929 (84.81%)|8170|
+|Interior Scholia|641 (10.68%)|5361 (89.32%)|6002|
+|Interlinear Scholia|45 (0.94%)|4755 (99.06%)|4800
+|Exterior Scholia|52 (11.16%)|414 (88.84%)|466|

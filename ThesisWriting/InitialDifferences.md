@@ -135,7 +135,7 @@ While both types of indirect discourse are set apart by the TEI element for a qu
 Type Of Scholia|Words in Quoted Text|Words in Quoted Language|Total Words in Indirect Discourse
 ---|---|---|---
 Main|6383.(52.67%)|5737 (47.33%)|12120
-Non-Main Schol|145 (7.58%)|1769.0 (92.42%)|1914
+Non-Main |145 (7.58%)|1769.0 (92.42%)|1914
 Intermarginal|88 (7.4%)|1101 (92.6%)|1189
 Interior|53 (8.44%)|575 (91.56%)|628
 Interlinear|4 (8.89%)|41 (91.11%)|45

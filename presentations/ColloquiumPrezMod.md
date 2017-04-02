@@ -194,8 +194,9 @@ Folios 12v and 13r
 
 | Types of Scholia           | T-value | Statistically Significant (for p < 0.05 & d.f. = infinity  t > 1.645) |
 |:---------------------------|:--------|:----------------------------------------------------------------------|
+ Intermarginal and Interior | 2.44    | Statistically Significant
 | Start and End              | 3.03    | Statistically Significant                                             |
-| Intermarginal and Interior | 2.44    | Statistically Significant                                             |
+
 
 ---
 

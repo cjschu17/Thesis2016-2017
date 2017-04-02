@@ -179,7 +179,7 @@ Folios 12v and 13r
 ![Start and End](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/12v13rSE.jpg)
 ---
 
-## Length of Scholia By Words
+## Number of Scholia
 
 | Type of Scholia       | Number of Scholia |
 |:----------------------|:------------------|

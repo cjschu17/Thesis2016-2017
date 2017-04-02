@@ -48,6 +48,11 @@ def nameHistogram(urnNames: (String,String), srcFile: String) = {
     val imHistogram = testing(venAIm,urnNames)
     val imNames = imHistogram.map(row => (row._1,row._2))
 
+    val over1im = imHistogram.filter(_._4.dropRight(1).toDouble > 1.0).map(row => (row._1,row._2))
+    val over1int = intHistogram.filter(_._4.dropRight(1).toDouble > 1.0).map(row => (row._1,row._2))
+    val over1main = mainHistogram.filter(_._4.dropRight(1).toDouble > 1.0).map(row => (row._1,row._2))
+    val intersectOver1 = over1im.intersect(over1int).intersect(over1main)
+
     val allScholiaNames = mainNames ++ mainHistogram.map(row => (row._1,row._2)) ++ intNames ++ extNames ++ ilNames ++ imNames
     val distinctScholiaNames = allScholiaNames.distinct
 
@@ -79,7 +84,7 @@ def testing(scholiaType: Vector[Array[String]], urnNames: Vector[(String, String
   val persNamePerSchol = xmlComment.map(_ \ "persName").filterNot(_.isEmpty)
   val allPersNames = persNamePerSchol.map(n => n.map(e => e \ "@n")).flatten.filterNot(_.isEmpty)
   val totalNamesMentioned = allPersNames.size.toDouble
-  val persStrings = allPersNames.map(_.toString)
+  val persStrings = allPersNames.map(_.toString).map(_.replaceAll("urn:cite:hmt:pers.pers75","urn:cite:hmt:pers.pers493"))
   val persNameFreqs = persStrings.groupBy(w => w).map { case (k,v) => (k,v.size)}
   val sorted = persNameFreqs.toSeq.sortBy(_._2).reverse
 

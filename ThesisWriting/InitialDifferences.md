@@ -135,4 +135,10 @@ Interior|236|5678|4.16%
 Interlinear|56|4658|1.2%
 Exterior|27|963|2.8%
 
-This beginning analysis is, again, more focused on the language and composition of the various zones than interested in the content, per se. Were a particular zone 
+This beginning analysis is, again, more focused on the language and composition of the various zones than interested in the content, per se. Were a particular zone to have a very large proportion of personal names, one would assume that it served a fundamentally different purpose than one which contained nearly no personal names. This dataset contains no such clear cut difference when looking at the proportions. Particularly, among the main, intermarginal, and interior scholia there is a difference of, at most 1.5%. A Z-test for proportions, however, reveals that the difference among all three zones is indeed significant.
+
+Scholia Zones|Z-score|Significance (p < 0.05)
+---|---|---
+main & im|7.49|Statisically Significant
+int & im|2.72|Statisically Significant
+int & main|2.52|Statisically Significant

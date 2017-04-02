@@ -1,38 +1,39 @@
-urn:cite:hmt:pers.pers494	2.090738030524775E-4
-urn:cite:hmt:pers.pers31	2.090738030524775E-4
-urn:cite:hmt:pers.pers270	2.090738030524775E-4
-urn:cite:hmt:pers.pers116	2.090738030524775E-4
-urn:cite:hmt:pers.pers129	2.090738030524775E-4
-urn:cite:hmt:pers.pers498	2.090738030524775E-4
-urn:cite:hmt:pers.pers104	2.090738030524775E-4
-urn:cite:hmt:pers.pers922	2.090738030524775E-4
-urn:cite:hmt:pers.pers71	2.090738030524775E-4
-urn:cite:hmt:pers.pers168	2.090738030524775E-4
-urn:cite:hmt:pers.pers681	2.090738030524775E-4
-urn:cite:hmt:pers.pers500	2.090738030524775E-4
-urn:cite:hmt:pers.pers47	2.090738030524775E-4
-urn:cite:hmt:pers.pers118	2.090738030524775E-4
-urn:cite:hmt:pers.pers127	2.090738030524775E-4
-urn:cite:hmt:pers.pers40	2.090738030524775E-4
-urn:cite:hmt:pers.pers215	2.090738030524775E-4
-urn:cite:hmt:pers.pers83	2.090738030524775E-4
-urn:cite:hmt:pers.pers322	2.090738030524775E-4
-urn:cite:hmt:pers.pers113	2.090738030524775E-4
-urn:cite:hmt:pers.pers37	2.090738030524775E-4
-urn:cite:hmt:pers.pers21	2.090738030524775E-4
-urn:cite:hmt:pers.pers193	2.090738030524775E-4
-urn:cite:hmt:pers.pers312	2.090738030524775E-4
-urn:cite:hmt:pers.pers17	2.090738030524775E-4
-urn:cite:hmt:pers.pers1	2.090738030524775E-4
-urn:cite:hmt:pers.pers158	4.18147606104955E-4
-urn:cite:hmt:pers.pers497	4.18147606104955E-4
-urn:cite:hmt:pers.pers464	4.18147606104955E-4
-urn:cite:hmt:pers.pers204	4.18147606104955E-4
-urn:cite:hmt:pers.pers148	4.18147606104955E-4
-urn:cite:hmt:pers.HELP	4.18147606104955E-4
-urn:cite:hmt:pers.pers117	4.18147606104955E-4
-urn:cite:hmt:pers.pers8	6.272214091574326E-4
-urn:cite:hmt:pers.pers172	6.272214091574326E-4
-urn:cite:hmt:pers.pers22	6.272214091574326E-4
-urn:cite:hmt:pers.pers16	8.3629521220991E-4
-urn:cite:hmt:pers.pers15	0.0010453690152623877
+-	-	Most Frequent Occuring Words for Scholia Type	-	-
+urn	name	Occurrences of Name in Scholia Type	Percentage of Name against Total Names Mentioned	Percentage of Name against Total Nummber of Words in Scholia Type
+urn:cite:hmt:pers.pers15	Zenodotus	5	8.93%	0.0%
+urn:cite:hmt:pers.pers16	Aristarchus	4	7.14%	0.0%
+urn:cite:hmt:pers.pers22	Agamemnon	3	5.36%	0.0%
+urn:cite:hmt:pers.pers8	Zeus	3	5.36%	0.0%
+urn:cite:hmt:pers.pers172	Hector	3	5.36%	0.0%
+urn:cite:hmt:pers.pers204	Neleus	2	3.57%	0.0%
+urn:cite:hmt:pers.pers497	Meges	2	3.57%	0.0%
+urn:cite:hmt:pers.pers158	Patroclus	2	3.57%	0.0%
+urn:cite:hmt:pers.pers464	Euphorbus	2	3.57%	0.0%
+urn:cite:hmt:pers.pers148	Pirithous	2	3.57%	0.0%
+urn:cite:hmt:pers.pers117	Nestor	2	3.57%	0.0%
+urn:cite:hmt:pers.pers168	Nereus	1	1.79%	0.0%
+urn:cite:hmt:pers.pers215	Diomedes	1	1.79%	0.0%
+urn:cite:hmt:pers.pers270	Sthenelus	1	1.79%	0.0%
+urn:cite:hmt:pers.pers118	Odysseus	1	1.79%	0.0%
+urn:cite:hmt:pers.pers37	Titans	1	1.79%	0.0%
+urn:cite:hmt:pers.pers17	Homer	1	1.79%	0.0%
+urn:cite:hmt:pers.pers681	Leuconotus	1	1.79%	0.0%
+urn:cite:hmt:pers.pers129	Paris	1	1.79%	0.0%
+urn:cite:hmt:pers.pers47	Poseidon	1	1.79%	0.0%
+urn:cite:hmt:pers.pers193	Graces	1	1.79%	0.0%
+urn:cite:hmt:pers.pers113	Briseis	1	1.79%	0.0%
+urn:cite:hmt:pers.pers1	Achilles	1	1.79%	0.0%
+urn:cite:hmt:pers.pers322	Laertes	1	1.79%	0.0%
+urn:cite:hmt:pers.pers104	Hermes	1	1.79%	0.0%
+urn:cite:hmt:pers.pers21	Aristophanes	1	1.79%	0.0%
+urn:cite:hmt:pers.pers71	Heracles	1	1.79%	0.0%
+urn:cite:hmt:pers.pers40	Apollo	1	1.79%	0.0%
+urn:cite:hmt:pers.pers312	Meleager	1	1.79%	0.0%
+urn:cite:hmt:pers.pers116	Hera	1	1.79%	0.0%
+urn:cite:hmt:pers.pers31	Laodike	1	1.79%	0.0%
+urn:cite:hmt:pers.pers498	Cisseus	1	1.79%	0.0%
+urn:cite:hmt:pers.pers127	Ajax	1	1.79%	0.0%
+urn:cite:hmt:pers.pers83	Ares	1	1.79%	0.0%
+urn:cite:hmt:pers.pers494	Ilos	1	1.79%	0.0%
+urn:cite:hmt:pers.pers922	Alegenor	1	1.79%	0.0%
+urn:cite:hmt:pers.pers500	Hippodamia	1	1.79%	0.0%

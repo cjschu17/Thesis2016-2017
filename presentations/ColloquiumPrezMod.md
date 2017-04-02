@@ -153,13 +153,6 @@ Type Of Scholia|Words in Quoted Text|Words in Quoted Language|Total Words in Ind
 Main|6383 (52.67%)|5737 (47.33%)|12120
 Non-Main |145 (7.58%)|1769.0 (92.42%)|1914
 
----
-
-## Z-score Test for Proportions on Indirect Discourse Data
-
-Zones being bompared|Z-score|Significance (p < 0.05 when Z > 1.96))
----|---|---
-Main vs. all other zones|36.75|Statisically Significant
 
 ---
 

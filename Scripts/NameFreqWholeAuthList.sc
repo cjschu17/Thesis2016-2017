@@ -52,18 +52,38 @@ def nameHistogram(urnNames: (String,String), srcFile: String) = {
     val over1int = intHistogram.filter(_._4.dropRight(1).toDouble > 1.0).map(row => (row._1,row._2))
     val over1main = mainHistogram.filter(_._4.dropRight(1).toDouble > 1.0).map(row => (row._1,row._2))
     val intersectOver1 = over1im.intersect(over1int).intersect(over1main)
+    println("Words which appear in main, Im, & Int, with a frequency within that zone's names grater than 1%")
+    for (i <- intersectOver1){
+      println(i)
+    }
+
+    val imNotInt = imNames.diff(intNames)
+    val meaningImNoInt = imNotInt.map(matching(_,imHistogram)).filter(_.size > 0)
+    println("Words which appear in the Im, not the Int, but at least more than once")
+    println("Urn\tName\tAppearances in the Im")
+    for (m <- meaningImNoInt){
+      println(m(0)._1 + "\t" + m(0)._2 + "\t" + m(0)._3)
+    }
+    val intNotIm = intNames.diff(imNames)
+    val meaningIntNoIm = intNotIm.map(matching(_,imHistogram)).filter(_.size > 0)
+    println("Words which appear in the Int, not the Im, but at least more than once")
+    println("Urn\tName\tAppearances in the Im")
+    for (m <- meaningIntNoIm){
+      println(m(0)._1 + "\t" + m(0)._2 + "\t" + m(0)._3)
+    }
+
+    val meaninfulMainExcl = (mainNames.diff(intNames).diff(imNames)).map(matching(_,mainHistogram)).filter(_.size > 0)
+    for (m <- meaninfulMainExcl){
+      println(m(0)._1 + "\t" + m(0)._2 + "\t" + m(0)._3)
+    }
 
     val allScholiaNames = mainNames ++ mainHistogram.map(row => (row._1,row._2)) ++ intNames ++ extNames ++ ilNames ++ imNames
     val distinctScholiaNames = allScholiaNames.distinct
 
-    val exclusiveMainNames = mainNames.diff((intNames ++ ilNames ++ extNames ++ imNames).distinct)
-    val exclusiveImNames = imNames.diff((intNames ++ ilNames ++ extNames ++ mainNames).distinct)
-    val exclusiveIntNames = intNames.diff((mainNames ++ ilNames ++ extNames ++ imNames).distinct)
-    val exclusiveIlNames = ilNames.diff((intNames ++ mainNames ++ extNames ++ imNames).distinct)
-    val exclusiveExtNames = extNames.diff((intNames ++ ilNames ++ mainNames ++ imNames).distinct)
-
     val imNotInt = imNames.diff(intNames)
+    val meaningImNoInt = imNotInt.map(matching(_,imHistogram)).filter(_.size > 0).size
     val intNotIm = intNames.diff(imNames)
+    val meaningIntNoIm = intNotIm.map(matching(_,imHistogram)).filter(_.size > 0).size
 
     //println(mainHistogram)
     //println(intHistogram)
@@ -75,6 +95,12 @@ def nameHistogram(urnNames: (String,String), srcFile: String) = {
     //finalPrint(urnNames,mainHistogram,intHistogram,ilHistogram,extHistogram,imHistogram)
 }
 
+def matching(differeData: (String, String), row: Vector[(String, String, Int, String, String)]) = {
+
+  row.filter(_._1 == differeData._1).filter(_._3 > 3)
+
+}
+
 def testing(scholiaType: Vector[Array[String]], urnNames: Vector[(String, String)]) = {
 
   val justScholia = scholiaType.map(_(1)).filterNot(_.contains("lemma"))
@@ -84,7 +110,7 @@ def testing(scholiaType: Vector[Array[String]], urnNames: Vector[(String, String
   val persNamePerSchol = xmlComment.map(_ \ "persName").filterNot(_.isEmpty)
   val allPersNames = persNamePerSchol.map(n => n.map(e => e \ "@n")).flatten.filterNot(_.isEmpty)
   val totalNamesMentioned = allPersNames.size.toDouble
-  val persStrings = allPersNames.map(_.toString).map(_.replaceAll("urn:cite:hmt:pers.pers75","urn:cite:hmt:pers.pers493"))
+  val persStrings = allPersNames.map(_.toString).map(_.replaceAll("urn:cite2:hmt:pers.r1:pers75","urn:cite2:hmt:pers.r1:pers493"))
   val persNameFreqs = persStrings.groupBy(w => w).map { case (k,v) => (k,v.size)}
   val sorted = persNameFreqs.toSeq.sortBy(_._2).reverse
 

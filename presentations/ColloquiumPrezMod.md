@@ -150,8 +150,8 @@ Latent Dirichlect Allocation:
 
 Type Of Scholia|Words in Quoted Text|Words in Quoted Language|Total Words in Indirect Discourse
 ---|---|---|---
-Main|6383 (52.67%)|5737 (47.33%)|12120
-Non-Main |145 (7.58%)|1769.0 (92.42%)|1914
+Main|6383 (**52.67%**)|5737 (47.33%)|12120
+Non-Main |145 (**7.58%**)|1769.0 (92.42%)|1914
 
 
 ---

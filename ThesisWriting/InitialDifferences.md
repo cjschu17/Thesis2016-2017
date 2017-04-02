@@ -170,6 +170,7 @@ Aristarchus|300|7.59%
 |Poseidon|41|1.04%|
 |Diomedes|40|1.01%|
 |Apollo|40|1.01%|
+Total Main|3951|100%
 
 |name|Occurrences of Name in Intermarginal Scholia|Percentage of Name against Total Names Mentioned|
 ---|---|---
@@ -179,3 +180,4 @@ Aristarchus|300|7.59%
 |Herodianus|7|1.75%
 |Homer|5|1.25%|
 |Agamemnon|5|1.25%|
+Total Intermarginal|401|100%

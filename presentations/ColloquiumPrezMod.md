@@ -33,6 +33,22 @@ Folio 12r
 
 ---
 
+
+
+## Layout of Scholia in five zones
+
+![Folio12Again](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/DSE.jpg)
+
+
+---
+
+## Why five zones?
+
+Does layout relate to sources?
+
+
+---
+
 ## Aristarchus' Critical Signs
 
 Folio 65r
@@ -66,22 +82,6 @@ Book 2 Subscription
 > -  **On the Aristarchean Recension** by Didymus
 > -  And there is something from **Iliadic Prosody** by Herodian and
 > - **On Punctuation** by Nicanor.
-
----
-
-
-
-## Layout of Scholia in five zones
-
-![Folio12Again](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/DSE.jpg)
-
-
----
-
-## Why five zones?
-
-Does layout relate to sources?
-
 
 ---
 

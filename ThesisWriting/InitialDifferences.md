@@ -150,6 +150,7 @@ However, as mentioned, the focus has shifted away from compositional aspects and
 Full histograms of the most commonly appearing for the [main](https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/NameData/HistogramsOfScholiaTypes/mainScholiaHistogram.tsv), [intermarginal](https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/NameData/HistogramsOfScholiaTypes/imScholiaHistogram.tsv), and [interior](https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/NameData/HistogramsOfScholiaTypes/intScholiaHistogram.tsv) scholia are available in my thesis github page. In all three zones, the Alexandrian editor Aristarchus is most frequently occuring name and in all three zones Zenodotus comes in as the second most frequent. After this initial unity, however, the three begin to diverge considerably. In the main scholia, there are 19 names which comprise at least 1% of the total name appearances in the main scholia. By contrast, there are only 6 names in the intermarginal scholia which  appear with a frequency of at least 1% and only 10 in the interior scholia.
 
 name|Occurrences of Name in Scholia Type|Percentage of Names against Total Names Mentioned
+---|---|---
 Aristarchus|300|7.59%
 |Zenodotus|285|7.21%
 |Zeus|204|5.16%

@@ -1,3 +1,5 @@
+-	-	Most Frequent Occuring Words for Scholia Type	-	-
+urn	name	Occurrences of Name in Scholia Type	Percentage of Name against Total Names Mentioned	Percentage of Name against Total Nummber of Words in Scholia Type
 urn:cite:hmt:pers.pers16	Aristarchus	91	38.56%	1.6%
 urn:cite:hmt:pers.pers21	Aristophanes	21	8.9%	0.37%
 urn:cite:hmt:pers.pers15	Zenodotus	21	8.9%	0.37%

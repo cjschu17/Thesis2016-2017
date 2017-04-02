@@ -147,24 +147,14 @@ Latent Dirichlect Allocation:
 
 ### Types of Discourse by Scholia Zone
 
-| Scholia Type  | Number of Words | **Number of Direct Voice Words** | Number of Quoted Text Words | Number of Quoted Language Words | Number of Non-Direct Voice Words |
-|:--------------|:----------------|:---------------------------------|:----------------------------|:--------------------------------|:---------------------------------|
-| **Main**      | 6830            | 108689 (89.66%)                  | **6384 (5.27%)**            | 6153 (5.08%)                    | 12537 (10.34%)                   |
-| Intermarginal | 8170            | 6929 (84.81%)                    | 88 (1.08%)                  | 1153 (14.11%)                   | 1241 (15.19%)                    |
-| Interior      | 6002            | 5361 (89.32%)                    | 53 (0.88%)                  | 588 (9.8%)                      | 641 (10.68%)                     |
-| Interlinear   | 4800            | 4755 (99.06%)                    | 4 (0.08%)                   | 41 (0.85%)                      | 45 (0.94%)                       |
-| Exterior      | 466             | 414 (88.84%)                     | 0 (0.0%)                    | 52 (11.16%)                     | 52 (11.16%)                      |
-
----
-
-| Scholia Type      | Number of Words | Number of Direct Voice Words | Number of Quoted Text Words | Number of Quoted Language Words | **Number of Non-Direct Voice Words** |
-|:------------------|:----------------|:-----------------------------|:----------------------------|:--------------------------------|:-------------------------------------|
-| Main              | 6830            | 108689 (89.66%)              | 6384 (5.27%)                | 6153 (5.08%)                    | 12537 (10.34%)                       |
-| **Intermarginal** | 8170            | 6929 (84.81%)                | 88 (1.08%)                  | 1153 (14.11%)                   | **1241 (15.19%)**                    |
-| **Interior**      | 6002            | 5361 (89.32%)                | 53 (0.88%)                  | 588 (9.8%)                      | **641 (10.68%)**                     |
-| Interlinear       | 4800            | 4755 (99.06%)                | 4 (0.08%)                   | 41 (0.85%)                      | 45 (0.94%)                           |
-| Exterior          | 466             | 414 (88.84%)                 | 0 (0.0%)                    | 52 (11.16%)                     | 52 (11.16%)                          |
-
+Type Of Scholia|Words in Quoted Text|Words in Quoted Language|Total Words in Indirect Discourse
+---|---|---|---
+Main|6383.(52.67%)|5737 (47.33%)|12120
+Intermarginal|88 (7.4%)|1101 (92.6%)|1189
+Interior|53 (8.44%)|575 (91.56%)|628
+Interlinear|4 (8.89%)|41 (91.11%)|45
+Exterior|	0 (0.0%)|52 (100.0%)|52
+Non-Main |145 (7.58%)|1769.0 (92.42%)|1914
 ---
 
 ## Intermarginal and Interior or Start and End of Line?

@@ -196,10 +196,10 @@ Folios 12v and 13r
 
 Scholia zone|Words in direct discourse|Words in indirect discourse|Total words in zone
 ---|---|---|---
-Start Im|3849 (84.02%)|732 (15.98%)|4581
-End Im|2638 (85.23%)|457 (14.77%)|3095
-Start Int|3385 (88.27%)|450 (11.73%)|3835
-End Int|1668 (90.36%)|178 (9.64%)|1846
+Start Im|3849 (84.02%)|732 (**15.98%**)|4581
+End Im|2638 (85.23%)|457 (**14.77%**)|3095
+Start Int|3385 (88.27%)|450 (**11.73%**)|3835
+End Int|1668 (90.36%)|178 (**9.64%**)|1846
 
 ---
 

@@ -192,7 +192,7 @@ Folios 12v and 13r
 
 ## T-test for Difference in Mean Scholion Length
 
-| Types of Scholia           | T-value | Statistically Significant (for p < 0.05 & d.f. = infinity  t > 1.645) |
+| Types of Scholia           | T-value | Statistically Significant (p < 0.05 when t > 1.96) |
 |:---------------------------|:--------|:----------------------------------------------------------------------|
  Intermarginal and Interior | 2.44    | Statistically Significant
 | Start and End              | 3.03    | Statistically Significant                                             |

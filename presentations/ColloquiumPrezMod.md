@@ -155,6 +155,13 @@ Interior|53 (8.44%)|575 (91.56%)|628
 Interlinear|4 (8.89%)|41 (91.11%)|45
 Exterior|	0 (0.0%)|52 (100.0%)|52
 Non-Main |145 (7.58%)|1769.0 (92.42%)|1914
+
+---
+
+Zones being bompared|Z-score|Significance (p < 0.05 when Z > 1.96))
+---|---|---
+Main vs. all other zones|36.75|Statisically Significant
+
 ---
 
 ## Intermarginal and Interior or Start and End of Line?
@@ -179,6 +186,10 @@ Folios 12v and 13r
 | Intermarginal Scholia | 1220              | 6                   | 7.1                | 3.97               |
 | Interior Scholia      | 819               | 7                   | 7.66               | 5.74               |
 
+---
+
+## T-test test for Difference in Mean Scholion Length
+
 | Types of Scholia           | T-value | Statistically Significant (for p < 0.05 & d.f. = infinity  t > 1.645) |
 |:---------------------------|:--------|:----------------------------------------------------------------------|
 | Start and End              | 3.03    | Statistically Significant                                             |
@@ -188,20 +199,6 @@ Folios 12v and 13r
 
 ## Discourse Measurements
 
-| Scholia Type        | Number of Scholia With Non-Direct Speech | Number of Scholia with no Non-Direct Speech | Number Of Scholia |
-|:--------------------|:-----------------------------------------|:--------------------------------------------|:------------------|
-| Start Scholia       | 547                                      | 574                                         | 1121              |
-| End Scholia         | 286                                      | 426                                         | 712               |
-| Total Start and End | 833                                      | 1000                                        | 1833              |
-| ---                 | ---                                      | ---                                         | ---               |
-| Im Scholia          | 533                                      | 560                                         | 1093              |
-| Int Scholia         | 300                                      | 440                                         | 740               |
-| Total Start and End | 833                                      | 1000                                        | 1833              |
-
-| Scholia Type               | ChiSquare	Significance | (p < 0.05, if χ2 > 3.841 for df = 1) |
-|:---------------------------|:----------------------|:-------------------------------------|
-| Start and End              | 13.07                 | Statisically Significant             |
-| Intermarginal and Interior | 12.04                 | Statisically Significant             |
 
 ---
 

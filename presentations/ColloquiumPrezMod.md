@@ -181,37 +181,16 @@ Folios 12v and 13r
 
 ## Length of Scholia By Words
 
-| Type of Scholia       | Number of Scholia | Median Length (Wds) | Mean Length in Wds | Standard Deviation |
-|:----------------------|:------------------|:--------------------|:-------------------|:-------------------|
-| Start of Line | 1255              | 7                   | 7.57               | 4.87               |
-| End of Line   | 783               | 6                   | 6.92               | 4.56               |
-| ---                   | ---               | ---                 | ---                | ---                |
-| Intermarginal | 1220              | 6                   | 7.1                | 3.97               |
-| Interior      | 819               | 7                   | 7.66               | 5.74               |
+| Type of Scholia       | Number of Scholia |
+|:----------------------|:------------------|
+| Start of Line | 1255              | 
+| End of Line   | 783               | 
+| ---                   | ---               | 
+| Intermarginal | 1220              | 
+| Interior      | 819               | 
 
 ---
 
-## T-test for Difference in Mean Scholion Length
-
-| Types of Scholia           | T-value | Significance (p < 0.05 when t > 1.96) |
-|:---------------------------|:--------|:----------------------------------------------------------------------|
- Intermarginal and Interior | 2.44    | Statistically Significant
-| Start and End              | 3.03    | Statistically Significant                                             |
-
-
----
-
-## Text Content (Topic 9 - Aristarchus Topic)
-
-| Scholia Zone              | Frequency of Scholia Type within this Topic |
-|:--------------------------|:--------------------------------------------|
-| **Intermarginal scholia** | **65.0 (46.76%)**                           |
-| Interior scholia          | 28.0 (20.14%)                               |
-|---|---|
-| **Start scholia**         | **73.0 (52.52%)**                           |
-| End scholia               | 20.0 (14.39%)                               |
-
-----
 
 ## Discourse Measurements
 

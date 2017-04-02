@@ -115,7 +115,7 @@ Latent Dirichlect Allocation:
 ## Distribution of Scholia
 
 | Zone          |  Distrib. with Ven. A | Distrib. within Topic 9
-|:----------------------|:-----------------------|
+|:----------------------|:-----------------------|---
 | Main scholia          |3597 (45.3%)           |45.0 (32.37%)  |
 | **Intermarginal scholia** |**1219 (15.4%)**           |**65.0 (46.76%)** |
 | Interior scholia      | 819 (10.3%)            |28.0 (20.14%)|

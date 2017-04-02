@@ -127,9 +127,10 @@ In sum, he different types of discourse employed in the five scholia zones, part
 
 One rather simple method for assessing content is to look at what names appear most frequently in each of the five zones of the scholia. Named entities can give a deal of insight into the content and purpose of various scholia. If a scholion abounds in in characters from characters from the *Iliad*, for example this might mean that the scholia is explaining a particular plot point, mythology, or is dealing with quotes from the text. On the other hand, if a scholion is full of famous ancient grammarians, that gives the reader a clue that grammar is that sholion's focus. To start off this analysis, the table below
 
-Scholia Zone,Total appearance of all names,Total words in zone,Ratio of all names to all words
-Main,3951,112206,3.52%
-Intermarginal,401,7763,5.17%
-Interior,236,5678,4.16%
-Interlinear,56,4658,1.2%
-Exterior,27,963,2.8%
+Scholia Zone|Total appearance of all names|Total words in zone|Ratio of all names to all words
+---|---|---|---
+Main|3951|112206|3.52%
+Intermarginal|401|7763|5.17%
+Interior|236|5678|4.16%
+Interlinear|56|4658|1.2%
+Exterior|27|963|2.8%

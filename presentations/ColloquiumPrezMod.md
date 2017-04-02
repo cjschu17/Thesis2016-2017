@@ -222,6 +222,15 @@ End Int|1668 (90.36%)|178 (9.64%)|1846
 
 ---
 
+Zones Being Compared|Z-Score|Significance (p < 0.01)
+---|---|---
+start Im & start Int|5.58|Statisically Significant
+start Im & end Im|1.44|Not Statistically Significant
+end Int & start Int|2.35|Not Statistically Significant
+end Int  end Im|5.21|Statisically Significant
+
+
+---
 ## Initial Conclusions
 
 - Distant reading to:

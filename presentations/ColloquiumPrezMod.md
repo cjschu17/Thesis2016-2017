@@ -182,11 +182,11 @@ Folios 12v and 13r
 
 | Type of Scholia       | Number of Scholia | Median Length (Wds) | Mean Length in Wds | Standard Deviation |
 |:----------------------|:------------------|:--------------------|:-------------------|:-------------------|
-| Start of Line Scholia | 1255              | 7                   | 7.57               | 4.87               |
-| End of Line Scholia   | 783               | 6                   | 6.92               | 4.56               |
+| Start of Line | 1255              | 7                   | 7.57               | 4.87               |
+| End of Line   | 783               | 6                   | 6.92               | 4.56               |
 | ---                   | ---               | ---                 | ---                | ---                |
-| Intermarginal Scholia | 1220              | 6                   | 7.1                | 3.97               |
-| Interior Scholia      | 819               | 7                   | 7.66               | 5.74               |
+| Intermarginal | 1220              | 6                   | 7.1                | 3.97               |
+| Interior      | 819               | 7                   | 7.66               | 5.74               |
 
 ---
 

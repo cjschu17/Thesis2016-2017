@@ -171,3 +171,11 @@ Aristarchus|300|7.59%
 |Diomedes|40|1.01%|
 |Apollo|40|1.01%|
 
+|name|Occurrences of Name in Intermarginal Scholia|Percentage of Name against Total Names Mentioned| Nummber of Words in Scholia Type
+---|---|---
+|Aristarchus|209|52.12%|
+|Zenodotus|73|18.2%|
+|Aristophanes|36|8.98%|
+|Herodianus|7|1.75%
+|Homer|5|1.25%|
+|Agamemnon|5|1.25%|

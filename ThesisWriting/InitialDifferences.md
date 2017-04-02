@@ -140,5 +140,9 @@ This beginning analysis is, again, more focused on the language and composition 
 Scholia Zones|Z-score|Significance (p < 0.05)
 ---|---|---
 main & im|7.49|Statisically Significant
-int & im|2.72|Statisically Significant
-int & main|2.52|Statisically Significant
+main & int|2.52|Statisically Significant
+im & int|2.72|Statisically Significant
+
+Although there is a statisitically significant difference, it is worth noting that this difference, which is only 0.64% between the main and interior zone, may not practically significant, in isolation. However, within the content of the rest of the data presented up to this point, it acts as further support for the argument that these three zones differ in fundamental compositional aspects and should not be treated as coming from the same source.
+
+However, as mentioned, the focus has shifted away from compositional aspects and towards content. So, returning to the main, intermarginal, interior zones, there is significant overlap in their most commonly occuring names. Full histograms of the most commonly appearing for the [main](https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/NameData/HistogramsOfScholiaTypes/mainScholiaHistogram.tsv), [intermarginal](https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/NameData/HistogramsOfScholiaTypes/imScholiaHistogram.tsv), and [interior](https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/NameData/HistogramsOfScholiaTypes/intScholiaHistogram.tsv) scholia are available in my thesis github page.

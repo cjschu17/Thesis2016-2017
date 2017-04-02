@@ -13,6 +13,14 @@ Advisor: Prof. Neel Smith, Classics Dept.
 
 ---
 
+## Venetus A (Marcianus Gr. Z. 454)
+
+Folio 12r
+
+![Folio 12r](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/12r.jpg)
+
+---
+
 ## Transmission of the *Iliad*
 
 - orally composed (2nd millennium B.C.E.)
@@ -21,13 +29,7 @@ Advisor: Prof. Neel Smith, Classics Dept.
 - MS rediscovered by Villoison (late 18th c. C.E.)
 - Homer Multitext project (21st c. C.E.)
 
----
 
-## Venetus A (Marcianus Gr. Z. 454)
-
-Folio 12r
-
-![Folio 12r](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/12r.jpg)
 
 ---
 

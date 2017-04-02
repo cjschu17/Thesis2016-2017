@@ -26,7 +26,6 @@ Folio 12r
 - orally composed (2nd millennium B.C.E.)
 - **Library of Alexandria : editions (3rd and 2nd c. B.C.E.)**
 - **Venetus A manuscript (10th c. C.E.)**
-- MS rediscovered by Villoison (late 18th c. C.E.)
 - Homer Multitext project (21st c. C.E.)
 
 

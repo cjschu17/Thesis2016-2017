@@ -165,7 +165,7 @@ Aristarchus|300|7.59%
 |Athena|57|1.44%|
 |"Ptolemy of Ascalon"|46|1.16%|
 |Ajax|46|1.16%|
-7|Nestor|46|1.16%|%
+|Nestor|46|1.16%
 |Heracles|45|1.14%
 |Poseidon|41|1.04%|
 |Diomedes|40|1.01%|

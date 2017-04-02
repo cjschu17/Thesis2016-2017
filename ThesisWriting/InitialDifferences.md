@@ -35,7 +35,7 @@ The above chart describes the length of scholia, grouped by scholia zone. Length
 
 As discussed above, however, confirming that the main and interlinear scholia are definitively different from one another is not necessarily that exciting. What would be of more interest would be a significant difference between the intermarginal and interior scholia. Just based on the descriptive statistics, the two do not appear all that different. Both have a average length of about 7 words, though the interior are a bit longer on average (7.66 words on average for the interior versus 7.1 words for the intermarginal). However, the standard deviation for the two throws uncertainty over the significance of this slight difference. With a standard deviation of 5.74 for the interior and 3.97 for the intermarginal, the two sets of scholia definitely overlap in terms of scholia length. Since it is not apparent from just looking at the descriptive statistics, inferential statistics are required in order to determine if there is a statistically significant difference between the average length of the intermarginal scholia and the average length of the interior scholia.
 
-| Types of Scholia | t-value | Statistically Significant (for p < 0.05, t > 1.645) |
+| Types of Scholia | t-value | Statistically Significant (for p < 0.05, t > 1.96) |
 | --- | --- | --- |
 | Main and Intermarginal | 50.35 | Statistically Significant |
 | Main and Interior | 47.06 | Statistically Significant |
@@ -45,7 +45,7 @@ As discussed above, however, confirming that the main and interlinear scholia ar
 | Intermarginal and Interlinear | 39.56 | Statistically Significant |
 | Intermarginal and Exterior | 1.55 | not statistically Significant |
 | Interior and Interlinear | 26.14 | Statistically Significant |
-| Interior and Exterior | 1.84 | Statistically Significant |
+| Interior and Exterior | 1.84 | not Statistically Significant |
 | Interlinear and Exterior | 1.01 | not statistically Significant |
 
 The above table is the result of a Welch's t-Test, which is able to compare to samples of data in order to conclude if the difference in their means are statistically significant. Since the number of scholia is so large, with the lowest occurring zones being the 233, it was assumed that there were essentially infinite degrees of freedom when conducting these tests. Unsurprsingly, given the previous discussion, the difference between the main and interlinear scholia was extremely significant, with a t-score of 60.61. In fact, all the t-tests where the main scholia were one of the sets of data were extremely statistically significant. This only reaffirms the fact already put forth by scholars that the main scholia are home to a particular set of scholia that are not found in the other zones of scholia.
@@ -54,7 +54,7 @@ To return to the intermarginal and interior scholia, a t-Test found there to be 
 
 As for the rest of t-tests, it is unsurprising that most of them demonstrate that there are statistically significant differences between the types of scholia. Only two of the tests could not demonstrate that the types of scholia were significantly different. However, both of the instances involved the exterior scholia, a particularly confusing zone of scholia. As the descriptive statistics demonstrate, the median length of a exterior scholion is one, but its mean is 4.19 and its standard deviation 28.56. This suggests that there are a few exterior scholia which are extremely wordy, and that these outliers are skewing the data. In fact, while at least half of the exterior scholia are just a single word, there is one exterior on folio 154v that is composed of 436 words. Such an extreme outlier is without a doubt skewing the data. So after removing this single scholia from the dataset, I re-ran the t-tests and came up with the results belows.  As predicted, the removal of the outlier scholion allowed the difference between intermarginal and exterior to become statistically significant. Thus, there should be no doubt that these two zones of scholia contains different types of comments. 
 
-Types of Scholia|T-value|Statistically Significant (for p < 0.05, t > 1.645)
+Types of Scholia|T-value|Statistically Significant (for p < 0.05, t > 1.96)
 --- | --- | ---
 Main and Exterior|56.92|Statistically Significant
 Intermarginal and Exterior|21.25|Statistically Significant
@@ -145,4 +145,28 @@ im & int|2.72|Statisically Significant
 
 Although there is a statisitically significant difference, it is worth noting that this difference, which is only 0.64% between the main and interior zone, may not practically significant, in isolation. However, within the content of the rest of the data presented up to this point, it acts as further support for the argument that these three zones differ in fundamental compositional aspects and should not be treated as coming from the same source.
 
-However, as mentioned, the focus has shifted away from compositional aspects and towards content. So, returning to the main, intermarginal, interior zones, there is significant overlap in their most commonly occuring names. Full histograms of the most commonly appearing for the [main](https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/NameData/HistogramsOfScholiaTypes/mainScholiaHistogram.tsv), [intermarginal](https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/NameData/HistogramsOfScholiaTypes/imScholiaHistogram.tsv), and [interior](https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/NameData/HistogramsOfScholiaTypes/intScholiaHistogram.tsv) scholia are available in my thesis github page.
+However, as mentioned, the focus has shifted away from compositional aspects and towards content. Additionally, from here on out, datawill often be provided on the interlinear and exterior scholia, but the main, intermarginal, interior zones will be the primary focus of any analyses. This is because even a cursory reading of the manuscipt will show that these three zones, provide the commentary on the *Iliad*. Interlinear and exterior scholia are usually no more than a word or two in length, and thus, by nature of their extreme brevity canot provide commentary comparable to the other three zones.  
+
+Full histograms of the most commonly appearing for the [main](https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/NameData/HistogramsOfScholiaTypes/mainScholiaHistogram.tsv), [intermarginal](https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/NameData/HistogramsOfScholiaTypes/imScholiaHistogram.tsv), and [interior](https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/NameData/HistogramsOfScholiaTypes/intScholiaHistogram.tsv) scholia are available in my thesis github page. In all three zones, the Alexandrian editor Aristarchus is most frequently occuring name and in all three zones Zenodotus comes in as the second most frequent. After this initial unity, however, the three begin to diverge considerably. In the main scholia, there are 19 names which comprise at least 1% of the total name appearances in the main scholia. By contrast, there are only 6 names in the intermarginal scholia which  appear with a frequency of at least 1% and only 10 in the interior scholia.
+
+name|Occurrences of Name in Scholia Type|Percentage of Names against Total Names Mentioned
+Aristarchus|300|7.59%
+|Zenodotus|285|7.21%
+|Zeus|204|5.16%
+|Homer|148|3.75%
+|Achilles|129|3.26%
+|Hector|77|1.95%
+|Agamemnon|74|1.87%|
+|Aristophanes|70|1.77%|
+|Patroclus|64|1.62%|
+|Odysseus|62|1.57%|
+|Hera|62|1.57%|
+|Athena|57|1.44%|
+|"Ptolemy of Ascalon"|46|1.16%|
+|Ajax|46|1.16%|
+7|Nestor|46|1.16%|%
+|Heracles|45|1.14%
+|Poseidon|41|1.04%|
+|Diomedes|40|1.01%|
+|Apollo|40|1.01%|
+

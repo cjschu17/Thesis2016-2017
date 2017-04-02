@@ -16,7 +16,7 @@ Advisor: Prof. Neel Smith, Classics Dept.
 ## Transmission of the *Iliad*
 
 - orally composed (2nd millennium B.C.E.)
-- Library of Alexandria : **editions (3rd and 2nd c. B.C.E.)**
+- **Library of Alexandria : editions (3rd and 2nd c. B.C.E.)**
 - **Venetus A manuscript (10th c. C.E.)**
 - MS rediscovered by Villoison (late 18th c. C.E.)
 - Homer Multitext project (21st c. C.E.)
@@ -27,7 +27,7 @@ Advisor: Prof. Neel Smith, Classics Dept.
 
 Folio 12r
 
-![Folio 12r](http://i68.tinypic.com/5cim9d.jpg)
+![Folio 12r](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/12r.jpg)
 
 ---
 

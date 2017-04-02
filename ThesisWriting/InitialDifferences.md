@@ -125,4 +125,12 @@ In fact, a Z-score test for proportions found no significant difference in the d
 
 In sum, he different types of discourse employed in the five scholia zones, particularly the differences observed among the main, intermarginal, and interior scholia, further the argument begun by their differences in length of scholia in words, that the five zones should be treated as five distinct zones. There has been no strong evidence thus far to suggest that treating the scholia zones as anything other than separate texts is a valid way of approaching the Venetus A. However, it should be conceded that neither length of scholia no type of discourse says anything about the content of the scholia. It is entirely possible that the zones of the scholia talk about the exact same content, but are merely presented in different types of language that are reflected in the difference in discourse across the fie zones. What is required is some way to study systematically the content of the five zones of the scholia.
 
-One rather simple method for assessing content is to look at what names appear most frequently in each of the five zones of the scholia.
+One rather simple method for assessing content is to look at what names appear most frequently in each of the five zones of the scholia. Named entities can give a deal of insight into the content and purpose of various scholia. If a scholion abounds in in characters from characters from the *Iliad*, for example this might mean that the scholia is explaining a particular plot point, mythology, or is dealing with quotes from the text. On the other hand, if a scholion is full of famous ancient grammarians, that gives the reader a clue that grammar is that sholion's focus. To start off this analysis, the table below
+
+Scholia Zone|Total appearance of all names|Total words in zone|Ratio of all names to all words
+---|---|---|---
+Main|3951|112206|3.52%
+Intermarginal|401|7763|5.17%
+Interior|236|5678|4.16%
+Interlinear|56|4658|1.2%
+Exterior|27|963|2.8%

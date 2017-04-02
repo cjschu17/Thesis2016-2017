@@ -213,6 +213,12 @@ Folios 12v and 13r
 
 ## Discourse Measurements
 
+Scholia zone|Words in direct discourse|Words in indirect discourse|Total words in zone
+---|---|---|---
+Start Im|3849 (84.02%)|56 (1.22%)|676 (14.76%)|732 (15.98%)|4581
+End Im|2638 (85.23%)|32 (1.03%)|425 (13.73%)|457 (14.77%)|3095
+Start Int|3385 (88.27%)|31 (0.81%)|419 (10.93%)|450 (11.73%)|3835
+End Int|1668 (90.36%)|22 (1.19%)|156 (8.45%)|178 (9.64%)|1846
 
 ---
 

@@ -161,7 +161,7 @@ Non-Main |145 (7.58%)|1769.0 (92.42%)|1914
 
 Folios 12v and 13r
 
-![12v13r](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/12v13r.jpg)
+![12v13r](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/raw/master/images/12v13rSE.jpg)
 
 ---
 

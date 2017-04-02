@@ -145,7 +145,7 @@ Latent Dirichlect Allocation:
 
 ---
 
-## Types of Discourse by Scholia Zone
+## Indirect Discourse by Zone
 
 Type Of Scholia|Words in Quoted Text|Words in Quoted Language|Total Words in Indirect Discourse
 ---|---|---|---
@@ -190,17 +190,12 @@ Folios 12v and 13r
 
 ---
 
-## T-test test for Difference in Mean Scholion Length
+## T-test for Difference in Mean Scholion Length
 
 | Types of Scholia           | T-value | Statistically Significant (for p < 0.05 & d.f. = infinity  t > 1.645) |
 |:---------------------------|:--------|:----------------------------------------------------------------------|
 | Start and End              | 3.03    | Statistically Significant                                             |
 | Intermarginal and Interior | 2.44    | Statistically Significant                                             |
-
-----
-
-## Discourse Measurements
-
 
 ---
 
@@ -208,13 +203,16 @@ Folios 12v and 13r
 
 | Scholia Zone              | Frequency of Scholia Type within this Topic |
 |:--------------------------|:--------------------------------------------|
-| Main scholia              | 45.0 (32.37%)                               |
 | **Intermarginal scholia** | **65.0 (46.76%)**                           |
 | Interior scholia          | 28.0 (20.14%)                               |
+|---|---|
 | **Start scholia**         | **73.0 (52.52%)**                           |
 | End scholia               | 20.0 (14.39%)                               |
-| Interlinear scholia       | 0.0 (0.0%)                                  |
-| Exterior scholia          | 1.0 (0.72%)                                 |
+
+----
+
+## Discourse Measurements
+
 
 ---
 

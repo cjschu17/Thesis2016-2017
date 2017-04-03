@@ -36,7 +36,7 @@ Folio 12r
 
 ##  Why five zones?
 
-![Folio12Again](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/DSE2.JPG)
+![Folio 12r again](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/DSE2.JPG)
 
 ---
 
@@ -130,11 +130,11 @@ Folios 12v and 13r
 
 | Type of Scholia       | Number of Scholia |
 |:----------------------|:------------------|
-| Start of Line | 1255              | 
-| End of Line   | 783               | 
-| ---                   | ---               | 
-| Intermarginal | 1220              | 
-| Interior      | 819               | 
+| Start of Line | 1255              |
+| End of Line   | 783               |
+| ---                   | ---               |
+| Intermarginal | 1220              |
+| Interior      | 819               |
 
 ---
 
@@ -165,6 +165,7 @@ end Int  end Im|5.21|Statisically Significant
 
 
 ---
+
 ## Initial Conclusions
 
 - Distant reading to:
@@ -189,3 +190,7 @@ end Int  end Im|5.21|Statisically Significant
 - Professor Eric Ruggieri, statistics consult
 - Professor Susan Sweeny and CHP
 - Classics Department
+
+
+
+---

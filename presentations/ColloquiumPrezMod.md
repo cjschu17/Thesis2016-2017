@@ -34,7 +34,7 @@ Folio 12r
 
 
 
-##  Why five zones?
+##  Layout of Venetus A
 
 ![Folio 12r again](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/DSE2.JPG)
 
@@ -68,7 +68,7 @@ Book 2 Subscription
 
 
 
-##  Why five zones?
+##  Why five distinct zones?
 
 ![Folio12Again](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/DSE2.JPG)
 
@@ -79,8 +79,11 @@ Book 2 Subscription
 
 - Distant reading over close reading
   - "macro" over "micro" analysis
+  - account for features of discourse
+- Incorporate layout zone in analysis
+- Scholia are a huge corpus (148,978 words in 18 books)
 
- - Scholia are a huge corpus (148,978 words in 18 books)
+
 
 ---
 
@@ -104,11 +107,11 @@ Latent Dirichlect Allocation:
 
 ## Distribution of Scholia
 
-| Zone          |  Distrib. with Ven. A | Distrib. within Topic 9
-|:----------------------|:-----------------------|---
-| Main scholia (yellow)         |3597 (45.3%)           |45.0 (32.37%)  |
-| **Intermarginal scholia (red)** |**1219 (15.4%)**           |**65.0 (46.76%)** |
-| Interior scholia (blue)      | 819 (10.3%)            |28.0 (20.14%)|
+| Zone                            | Total distrib. in Ven. A | Distrib. within Topic 9 |
+|:--------------------------------|:---------------------|:------------------------|
+| Main scholia (yellow)           | 3597 (45.3%)         | 45.0 (32.37%)           |
+| **Intermarginal scholia (red)** | **1219 (15.4%)**     | **65.0 (46.76%)**       |
+| Interior scholia (blue)         | 819 (10.3%)          | 28.0 (20.14%)           |
 
 ---
 
@@ -128,13 +131,14 @@ Folios 12v and 13r
 
 ## Number of Scholia
 
-| Type of Scholia       | Number of Scholia |
-|:----------------------|:------------------|
-| Start of Line | 1255              |
-| End of Line   | 783               |
-| ---                   | ---               |
-| Intermarginal | 1220              |
-| Interior      | 819               |
+| Type of Scholia | Number of Scholia |
+|:----------------|:------------------|
+| Start of Line   | 1255              |
+| End of Line     | 783               |
+| ---             | ---               |
+| Intermarginal   | 1220              |
+| Interior        | 819               |
+
 
 ---
 
@@ -147,21 +151,24 @@ Folios 12v and 13r
 
 ## Discourse Measurements
 
-Scholia zone|Words in direct discourse|Words in indirect discourse|Total words in zone
----|---|---|---
-Start Im|3849 (84.02%)|732 (**15.98%**)|4581
-End Im|2638 (85.23%)|457 (**14.77%**)|3095
-Start Int|3385 (88.27%)|450 (**11.73%**)|3835
-End Int|1668 (90.36%)|178 (**9.64%**)|1846
+| Scholia zone | Words in direct discourse | Words in indirect discourse | Total words in zone |
+|:-------------|:--------------------------|:----------------------------|:--------------------|
+| Start Im     | 3849 (84.02%)             | 732 (**15.98%**)            | 4581                |
+| End Im       | 2638 (85.23%)             | 457 (**14.77%**)            | 3095                |
+| Start Int    | 3385 (88.27%)             | 450 (**11.73%**)            | 3835                |
+| End Int      | 1668 (90.36%)             | 178 (**9.64%**)             | 1846                |
+
+
 
 ---
 
-Zones Being Compared|Z-Score|Significance (p < 0.01)
----|---|---
-start Im & start Int|5.58|Statisically Significant
-start Im & end Im|1.44|Not Statistically Significant
-end Int & start Int|2.35|Not Statistically Significant
-end Int  end Im|5.21|Statisically Significant
+| Zones Being Compared | Z-Score | Significance (p < 0.01)       |
+|:---------------------|:--------|:------------------------------|
+| start Im & start Int | 5.58    | Statisically Significant      |
+| start Im & end Im    | 1.44    | Not Statistically Significant |
+| end Int & start Int  | 2.35    | Not Statistically Significant |
+| end Int  end Im      | 5.21    | Statisically Significant      |
+
 
 
 ---
@@ -186,7 +193,7 @@ end Int  end Im|5.21|Statisically Significant
 - Professor Neel Smith, advisor
 - Melody Wauke, collaborator
 - Professor Mary Ebbott, reader
-- Professor Thomas Kontges, developer of ToPan
+- Professor Thomas Köntges, developer of ToPan
 - Professor Eric Ruggieri, statistics consult
 - Professor Susan Sweeny and CHP
 - Classics Department

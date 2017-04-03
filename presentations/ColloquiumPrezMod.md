@@ -153,8 +153,6 @@ Folios 12v and 13r
 
 - Direct discourse
 - Indirect discourse:
-    - Quoted text
-    - Quoted language
 
 ---
 

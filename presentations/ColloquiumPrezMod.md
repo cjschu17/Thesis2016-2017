@@ -141,7 +141,7 @@ Folios 12v and 13r
 ## Types of Discourse
 
 - Direct discourse
-- Indirect discourse:
+- Indirect discourse
 
 ---
 

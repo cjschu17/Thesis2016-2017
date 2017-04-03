@@ -40,16 +40,6 @@ Folio 12r
 
 ---
 
-## Aristarchus' Critical Signs
-
-Folio 65r
-
-![Folio 65r](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/65rCritSigns.jpg)
-
-
-
----
-
 ## Cited Sources
 
 Book 2 Subscription
@@ -131,6 +121,7 @@ Folios 12v and 13r
 ![Im and Int](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/12v13rImInt.jpg)
 
 ---
+
 Folios 12v and 13r
 
 ![Start and End](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/12v13rSE.jpg)

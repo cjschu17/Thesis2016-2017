@@ -183,3 +183,11 @@ end Int  end Im|5.21|Statisically Significant
 ---
 
 ## Thank you
+
+- Professor Neel Smith, advisor
+- Melody Wauke, collaborator
+- Professor Mary Ebbott, reader
+- Professor Thomas Kontges, developer of ToPan
+- Professor Eric Ruggieri, statistics consult
+- Professor Susan Sweeny and CHP
+- Classics Department

@@ -36,7 +36,7 @@ Folio 12r
 
 ##  Why five zones?
 
-![Folio12Again](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/DSE.jpg)
+![Folio12Again](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/DSE2.JPG)
 
 ---
 
@@ -70,7 +70,7 @@ Book 2 Subscription
 
 ##  Why five zones?
 
-![Folio12Again](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/DSE.jpg)
+![Folio12Again](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/DSE2.JPG)
 
 ---
 

@@ -122,27 +122,6 @@ Latent Dirichlect Allocation:
 | Interlinear scholia   | 2067 (26.0%)           |0.0 (0.0%) |
 | Exterior scholia      |233 (2.9%)             |1.0 (0.72%)| 
 
-
-
----
-
-## Types of Discourse
-
-- Direct discourse
-- Indirect discourse:
-    - Quoted text
-    - Quoted language
-
----
-
-## Indirect Discourse by Zone
-
-Type Of Scholia|Words in Quoted Text|Words in Quoted Language|Total Words in Indirect Discourse
----|---|---|---
-Main|6383 (**52.67%**)|5737 (47.33%)|12120
-Non-Main |145 (**7.58%**)|1769.0 (92.42%)|1914
-
-
 ---
 
 ## Intermarginal and Interior or Start and End of Line?
@@ -155,6 +134,7 @@ Folios 12v and 13r
 Folios 12v and 13r
 
 ![Start and End](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/12v13rSE.jpg)
+
 ---
 
 ## Number of Scholia
@@ -169,6 +149,14 @@ Folios 12v and 13r
 
 ---
 
+## Types of Discourse
+
+- Direct discourse
+- Indirect discourse:
+    - Quoted text
+    - Quoted language
+
+---
 
 ## Discourse Measurements
 

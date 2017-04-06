@@ -168,6 +168,8 @@ In ToPan, the results of a topic are displayed in a visualization like the one s
 
 In this visualization, each of the circles represents a different topic, and when a topic is highlighted, the words which are most strongly associated with the topic are listed on the right. So in this particular topic, words like διασταλτέον (must be stopped short), βραχύς (short), λόγος (word) στικτέον (must be punctuated), ἑξῆς (order of the sentence), στίχος (line), σύνδεσμος (conjunction), τέλειος (ending), συναπτέον (must be joined), and στίζω (punctuate) make it clear that this topic has something with syntax and punctuation. It is a clear grammar topic. Other topics had words that clearly related to battles, the gods, and even the Alexandiran editors.
 
-In order to determine if a certain number of topics will produce a good topic model, each topic needs to be analyzed in order to determine find an optimal balance between topic which can be clearly interpreted and topics which cannot be so easily interpreted. After running a number of trials, fifteen topics seemed to produce the clearest results, and it has become the default number of topics for running a topic model  on the scholia.
+In order to determine what number of topics will produce a good topic model, every one of the topics needs to be analyzed in order to determine an optimal balance between topics which can be clearly interpreted and topics which cannot be so easily interpreted. After running a number of trials, fifteen topics seemed to produce the clearest results, and it has become the default number of topics for running a topic model on the scholia.
+
+
 
 [Note on the original topic model data, note on reproducibility, and then results of topic 9 and implications, end chapter... finally]

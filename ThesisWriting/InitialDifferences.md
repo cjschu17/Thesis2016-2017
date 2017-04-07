@@ -180,4 +180,10 @@ Still, despite this original topic model being created without a p-normalized, o
 
 ![Unnormalized Topic](https://raw.githubusercontent.com/cjschu17/drdwPortfolio/master/images/ToPanViz12-6-16/Topic13.png)
 
+ Among this topic's strongly associated words are βοῦς βοάω βοή βόα and βόειος which translate, respectively into: cow, shout (verb), shout (noun), fish, and cow-like. Clearly there is no connection among the meaning of the words, and their similarity in form reveals that they are only associated with one another since the commonly occuring form βοή can be m-normalized into any of the above five forms. Thus the lack of concatenation is making the topic modelling software observe patterns that do not actually exist.
+ 
+ thus the other two topic models were run on cleaner data, using a p-, o-, and m-normalized corpus. The first of the two topic models was run at 2000 iterations while the second topic model was run at 5000 iterations. It is worth noting that the two topic models were not only similar to each other, but similar in many ways to the first topic model ran on the much less clean data. This suggests that the topics which are common to all three topic models are undoubtedly significant topics within the scholia.
+ 
+These difinitive topics common to all three topic models include the two grammar topics, one for punctuation and one for accentuation, as well as the two editor's topics, one for talking about Aristarchus and one for talking about the two Alexandrian editor's other than Aristarchus.
+
 [Note on the original topic model data, note on reproducibility, and then results of topic 9 and implications, end chapter... finally]

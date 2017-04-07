@@ -184,6 +184,8 @@ Still, despite this original topic model being created without a p-normalized, o
  
  thus the other two topic models were run on cleaner data, using a p-, o-, and m-normalized corpus. The first of the two topic models was run at 2000 iterations while the second topic model was run at 5000 iterations. It is worth noting that the two topic models were not only similar to each other, but similar in many ways to the first topic model ran on the much less clean data. This suggests that the topics which are common to all three topic models are undoubtedly significant topics within the scholia.
  
-These difinitive topics common to all three topic models include the two grammar topics, one for punctuation and one for accentuation, as well as the two editor's topics, one for talking about Aristarchus and one for talking about the two Alexandrian editor's other than Aristarchus.
+These difinitive topics common to all three topic models include the two grammar topics, one for punctuation and one for accentuation, as well as the two editor's topics, one for talking about Aristarchus and one for talking about the two Alexandrian editor's other than Aristarchus. The gods and genealogy topic also ocurs in all three topic models. 
+
+When considering just the two topic models run on the clean data
 
 [Note on the original topic model data, note on reproducibility, and then results of topic 9 and implications, end chapter... finally]

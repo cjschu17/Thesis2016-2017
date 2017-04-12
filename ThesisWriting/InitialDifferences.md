@@ -201,7 +201,7 @@ Each row of the table corresponds to a single scholion, and each row is comprise
 
 Using this table, I was able to identify which scholia had the strongest associations with each of the topics. I defined a "strong association" as a scholion having a theta-score equal to or greater than 0.9. Thus I made fifteen tables, one for each topic, which simply consistd aof a list of every scholion hose theta-score was equal to or grater than 0.9 for that topic. These tables can be found [here](https://github.com/cjschu17/Thesis2016-2017/tree/master/Data/TopicModelData/ThetaTables-3-15-2017). 
 
-Now that the scholia which are most strongly associated with each topic had been assembled, it was now possible to analyze the distribution of content by zone of the scholia. For each of the tables just created, it was determined how many came from the main, interior, intermarginal, interlinear, and exterior. If the distribution of the zones within each topic should match the distribution of scholia across the entire Venetus A, an argument could be made that the five zones do not differ in their content. As a reference, below is a table displaying the frequency of each type of scholia across 18 books of the Venetus A:
+Now that the scholia which are most strongly associated with each topic had been assembled, it was now possible to analyze the distribution of content by zone of the scholia. For each of the tables just created, it was determined how many came from the main, interior, intermarginal, interlinear, and exterior. If the distribution of the zones within each topic should match the distribution of scholia across the entire Venetus A, an argument could be made that the five zones do not differ in their content. A full list of the distribution of each zone among the scholia with the strongest associations is located [here](https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/TopicModelData/newToPanResult.txt). As a reference, below is a table displaying the frequency of each type of scholia across 18 books of the Venetus A:
 
 | Type of Scholia | Number of Scholia | Percentage of the Manuscript
 | --- | --- | --- 
@@ -210,6 +210,37 @@ Now that the scholia which are most strongly associated with each topic had been
 | Interior Scholia | 819 | 10.3%
 | Interlinear Scholia | 2067 | 26.0%
 | Exterior Scholia | 233 | 2.9%
+5640
 
+While I will not examine all of the topics individually, there are a few things which can be said in general about the distribution of the topics by zone. For example, none of the topics' distributions comes close to resembling the distribution of scholia across the Venetus A. This primarily due to the fact that, while interlinear scholia constitute 26% of the scholia in the Venetus A, their extremely short length, rarely longer than two words, makes it hard for any topic to appear with any sort of frequency in this zone. This is also probably happening in the case of exterior scholia, since they also rarely contain more than two words. Thus it may make more sense to present with relative frequency of main, intermarginal, and interior scholia, separate from the interlinear and exterior scholia. Given these citeria, a new distribution of strongly associated scholia by topic was created and it can be found [here](https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/TopicModelData/noIlExtToPanResult.txt). The table below provides the new reference point for comparing just main, intermarginal, and interior zones of the scholia:
+
+| Type of Scholia | Number of Scholia | Percentage of the Manuscript
+| --- | --- | --- 
+| Main Scholia | 3601 | 63.8%
+| Intermarginal Scholia | 1220 | 21.6%
+| Interior Scholia | 819 | 14.5%
+
+
+Re-evaluating the data, there are still a number of noteworthy features. For example, of the fifteen topics, ten have a ditribution that mirrors the distribution of scholia zones across the manuscript. In other words, in these ten topics, main constitute the greatest proprtion of teh scholia for that topic, intermarginal constitute the second highest proportion, and interior constitute the lowest. However, the eact proportions differ widely among the various topics. Furthermore, fourteen of the fifteen topcis listed the main shcolia as constiutiing the greatest proportion of the most strongly associated scholia, regardless of the interior and intermarginal shcolia. For example, topic 1, a topic comprised of words for accentuation, is made up of 84.3% main scholia, a significantly higher percentage than the main's 63.8% prevalence across the whole Venetus A. Conversely, topic 15, a topic comprised of words that seem to have some connection to human emotions, is comprised of only 43.55% main scholia. However, in both cases, the main still appear the most frequently within their respective topics. In light of this, it is fair to say that, generally, the various topics seem to mirror the distribution of scholia across the manuscript, suggesting that, in general, content is not zone specific. Rather, many of these topics appear in the zones at the same rate at which the zones appear at all.
+
+Topic 6, shown below, best mirrors the expected distribution of scholia zones. Topic 6 is a topic focused on talking about the work of two of the Alexandrian scholars, Zenodotus and Aristophanes, and not the third of the Alexandrians, Aristarchus.
+
+##Topic 6##
+| Type of Scholia | Number of Scholia | Percentage of the Manuscript
+| --- | --- | --- 
+main scholia|74 |62.71%
+intermarginal scholia|28|23.73%
+interior scholia|16 |13.56%
+
+Given this obsevation, the data seems to argue that the langugae which talks about Zenodotus and Aristophanes separate from Aristarchus is language that is used evenly across the main, intermarginal, and interior scholia. In other words, this particular topic is not zone-specific.
+
+However, the lack of zone-specific content is not absolute. It is worth examining the one example where a zone other than the main shcolia constitutes the largest proportion of the most strongly associated scholia. This occurs in topic 9, a topic which is almost the opposite of the previously discussed topic 6. Whereas topic 6 dealt with language discussing Zenodotus and Aristophanes separate from Aristarchus, topic 9 deals with language that discusses all three, but places a particular emphasis on discussing Aristarchus. Below is the proportion of each zone among the most strongly assciated scholia within topic 9.
+
+##Topic 9##
+| Type of Scholia | Number of Scholia | Percentage of the Manuscript
+| --- | --- | --- 
+main scholia| 45 |32.61%
+intermarginal scholia| 65|47.1%
+interior scholia| 28|20.29%
 
 [Note on the original topic model data, note on reproducibility, and then results of topic 9 and implications, end chapter... finally]

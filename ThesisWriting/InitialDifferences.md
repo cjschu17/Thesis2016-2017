@@ -244,6 +244,6 @@ main scholia| 45 |32.61%
 intermarginal scholia| 65|47.1%
 interior scholia| 28|20.29%
 
-What is noticeable about the above table is that not only do the intermarginal scholia constitute so much greater a proportion than the main scholia, but also that their proportion is over two times that of the proportion of intermarginal scholia throughout the manuscript.
+What is noticeable about the above table is that not only do the intermarginal scholia constitute so much greater a proportion than the main scholia, but also that their proportion is over two times that of the proportion of intermarginal scholia throughout the manuscript. Clearly, the zone distribution for topic 9 goes against the typical zone distribution seen across the maunscript which was mirrored by the distribution of zones within topic 6. This suggests that, unlike topic 6, the language of topic 9 *is* topic specfic. Specifically, this "Aristarchus: seems to have a disproprotionate concentration in the intermarginal scholia.
 
 [Note on the original topic model data, note on reproducibility, and then results of topic 9 and implications, end chapter... finally]

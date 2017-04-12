@@ -194,11 +194,22 @@ In order to conduct such analysis, I made use of the data-tables created by ToPa
 
 Scholion Indentifier|Comment Text| Topic 1 Score | Topic 2 Score
 ---|---|---|---
-urn:cts:greekLit:tlg5026.msA.hmt:1.10|ἀρίσταρχος συνάπτω πάρειμιXπαρόω φαίνω | 0.0021505376344086 | 0.0021505376344086 | 
+urn:cts:greekLit:tlg5026.msA.hmt:1.10 | ἀρίσταρχος συνάπτω πάρειμιXπαρόω φαίνω | 0.0021505376344086 | 0.0021505376344086 | 
 urn:cts:greekLit:tlg5026.msA.hmt:1.100 | πεφυλάγμενος δεισιδαίμων ὄρκος | 0.0021505376344086 | 0.0021505376344086 | 
 
-Each row of the table corresponds to a single scholion, and each row is comprised of 18 columns. The first three columns contain identifiers for the scholion, while each of the other 15 columns contains a theta-scores for each of the 15 topics. A theta-score is a measurement of associative strength. Were a scholion to score a 0.0 in a particular topic, this would indicate that it is extremely unlikely for this particular scholion to contain content from that particular topic. Conversely, a score of 1.0 would indicate that the content of this scholion would likely come *only* from this topic. Since a topic model by definition classifies all the patterns of langauge into whatever number of topics is initally defined, the sum of all the theta-scores for each scholion should be equal to 1.0, since the content of a scholion cannot come from anywhere else but the defined topics.
+Each row of the table corresponds to a single scholion, and each row is comprised of 18 columns. The first three columns contain identifiers for the scholion, though in this sample table I have eliminated the first column leaving only the Urn identifier and the text of the scholion. The other 15 columns contains a theta-scors for each of the 15 topics, though here I reduced 15 columns just to two. A theta-score is a measurement of associative strength. Were a scholion to score a 0.0 in a particular topic, this would indicate that this particular scholion contains no content from that particular topic. Conversely, a score of 1.0 would indicate that the content of this scholion would likely come *only* from this topic. Since a topic model by definition classifies all the patterns of langauge into defined number of topics, the sum of all the theta-scores in a single row has to equal 1.0, since the content of a scholion cannot come from anywhere else but the defined topics.
 
+Using this table, I was able to identify which scholia had the strongest associations with each of the topics. I defined a "strong association" as a scholion having a theta-score equal to or greater than 0.9. Thus I made fifteen tables, one for each topic, which simply consistd aof a list of every scholion hose theta-score was equal to or grater than 0.9 for that topic. These tables can be found [here](https://github.com/cjschu17/Thesis2016-2017/tree/master/Data/TopicModelData/ThetaTables-3-15-2017). 
+
+Now that the scholia which are most strongly associated with each topic had been assembled, it was now possible to analyze the distribution of content by zone of the scholia. For each of the tables just created, it was determined how many came from the main, interior, intermarginal, interlinear, and exterior. If the distribution of the zones within each topic should match the distribution of scholia across the entire Venetus A, an argument could be made that the five zones do not differ in their content. As a reference, below is a table displaying the frequency of each type of scholia across 18 books of the Venetus A:
+
+| Type of Scholia | Number of Scholia | Percentage of the Manuscript
+| --- | --- | --- 
+| Main Scholia | 3601 | 45.4%
+| Intermarginal Scholia | 1220 | 15.4%
+| Interior Scholia | 819 | 10.3%
+| Interlinear Scholia | 2067 | 26.0%
+| Exterior Scholia | 233 | 2.9%
 
 
 [Note on the original topic model data, note on reproducibility, and then results of topic 9 and implications, end chapter... finally]

@@ -225,7 +225,7 @@ Re-evaluating the data, there are still a number of noteworthy features. For exa
 
 Topic 6, shown below, best mirrors the expected distribution of scholia zones. Topic 6 is a topic focused on talking about the work of two of the Alexandrian scholars, Zenodotus and Aristophanes, and not the third of the Alexandrians, Aristarchus.
 
-##Topic 6
+**Topic 6**
 
 | Type of Scholia | Number of Scholia | Percentage of the Manuscript
 | --- | --- | --- 
@@ -237,7 +237,7 @@ Given this obsevation, the data seems to argue that the langugae which talks abo
 
 However, the lack of zone-specific content is not absolute. It is worth examining the one example where a zone other than the main shcolia constitutes the largest proportion of the most strongly associated scholia. This occurs in topic 9, a topic which is almost the opposite of the previously discussed topic 6. Whereas topic 6 dealt with language discussing Zenodotus and Aristophanes separate from Aristarchus, topic 9 deals with language that discusses all three, but places a particular emphasis on discussing Aristarchus. Below is the proportion of each zone among the most strongly assciated scholia within topic 9.
 
-##Topic 9
+**Topic 9**
 
 | Type of Scholia | Number of Scholia | Percentage of the Manuscript
 | --- | --- | --- 

@@ -194,8 +194,8 @@ In order to conduct such analysis, I made use of the data-tables created by ToPa
 
 Scholion Indentifier|Comment Text| Topic 1 Score | Topic 2 Score
 ---|---|---|---
-urn:cts:greekLit:tlg5026.msA.hmt:1.10.comment|ἀρίσταρχος συνάπτω πάρειμιXπαρόω φαίνω | 0.0021505376344086 | 0.0021505376344086 | 
-urn:cts:greekLit:tlg5026.msA.hmt:1.100.comment | πεφυλάγμενος δεισιδαίμων ὄρκος | 0.0021505376344086 | 0.0021505376344086 | 
+urn:cts:greekLit:tlg5026.msA.hmt:1.10|ἀρίσταρχος συνάπτω πάρειμιXπαρόω φαίνω | 0.0021505376344086 | 0.0021505376344086 | 
+urn:cts:greekLit:tlg5026.msA.hmt:1.100 | πεφυλάγμενος δεισιδαίμων ὄρκος | 0.0021505376344086 | 0.0021505376344086 | 
 
 Each row of the table corresponds to a single scholion, and each row is comprised of 18 columns. The first three columns contain identifiers for the scholion, while each of the other 15 columns contains a theta-scores for each of the 15 topics. A theta-score is a measurement of associative strength. Were a scholion to score a 0.0 in a particular topic, this would indicate that it is extremely unlikely for this particular scholion to contain content from that particular topic. Conversely, a score of 1.0 would indicate that the content of this scholion would likely come *only* from this topic. Since a topic model by definition classifies all the patterns of langauge into whatever number of topics is initally defined, the sum of all the theta-scores for each scholion should be equal to 1.0, since the content of a scholion cannot come from anywhere else but the defined topics.
 

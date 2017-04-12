@@ -1,0 +1,89 @@
+This is scholia set table1.tsv contains:
+main scholia: 86.0 (84.31%)
+intermarginal scholia: 9.0 (8.82%)
+interior scholia: 7.0 (6.86%)
+In total there are 102.0 scholia.
+
+This is scholia set table10.tsv contains:
+main scholia: 35.0 (67.31%)
+intermarginal scholia: 7.0 (13.46%)
+interior scholia: 10.0 (19.23%)
+In total there are 52.0 scholia.
+
+This is scholia set table11.tsv contains:
+main scholia: 61.0 (72.62%)
+intermarginal scholia: 6.0 (7.14%)
+interior scholia: 17.0 (20.24%)
+In total there are 84.0 scholia.
+
+This is scholia set table12.tsv contains:
+main scholia: 41.0 (68.33%)
+intermarginal scholia: 11.0 (18.33%)
+interior scholia: 8.0 (13.33%)
+In total there are 60.0 scholia.
+
+This is scholia set table13.tsv contains:
+main scholia: 32.0 (57.14%)
+intermarginal scholia: 14.0 (25.0%)
+interior scholia: 10.0 (17.86%)
+In total there are 56.0 scholia.
+
+This is scholia set table14.tsv contains:
+main scholia: 36.0 (59.02%)
+intermarginal scholia: 19.0 (31.15%)
+interior scholia: 6.0 (9.84%)
+In total there are 61.0 scholia.
+
+This is scholia set table15.tsv contains:
+main scholia: 27.0 (43.55%)
+intermarginal scholia: 25.0 (40.32%)
+interior scholia: 10.0 (16.13%)
+In total there are 62.0 scholia.
+
+This is scholia set table2.tsv contains:
+main scholia: 65.0 (86.67%)
+intermarginal scholia: 5.0 (6.67%)
+interior scholia: 5.0 (6.67%)
+In total there are 75.0 scholia.
+
+This is scholia set table3.tsv contains:
+main scholia: 65.0 (81.25%)
+intermarginal scholia: 9.0 (11.25%)
+interior scholia: 6.0 (7.5%)
+In total there are 80.0 scholia.
+
+This is scholia set table4.tsv contains:
+main scholia: 105.0 (82.03%)
+intermarginal scholia: 13.0 (10.16%)
+interior scholia: 10.0 (7.81%)
+In total there are 128.0 scholia.
+
+This is scholia set table5.tsv contains:
+main scholia: 65.0 (50.78%)
+intermarginal scholia: 39.0 (30.47%)
+interior scholia: 24.0 (18.75%)
+In total there are 128.0 scholia.
+
+This is scholia set table6.tsv contains:
+main scholia: 74.0 (62.71%)
+intermarginal scholia: 28.0 (23.73%)
+interior scholia: 16.0 (13.56%)
+In total there are 118.0 scholia.
+
+This is scholia set table7.tsv contains:
+main scholia: 58.0 (70.73%)
+intermarginal scholia: 10.0 (12.2%)
+interior scholia: 14.0 (17.07%)
+In total there are 82.0 scholia.
+
+This is scholia set table8.tsv contains:
+main scholia: 41.0 (71.93%)
+intermarginal scholia: 10.0 (17.54%)
+interior scholia: 6.0 (10.53%)
+In total there are 57.0 scholia.
+
+This is scholia set table9.tsv contains:
+main scholia: 45.0 (32.61%)
+intermarginal scholia: 65.0 (47.1%)
+interior scholia: 28.0 (20.29%)
+In total there are 138.0 scholia.

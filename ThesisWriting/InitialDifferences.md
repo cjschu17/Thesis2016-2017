@@ -210,7 +210,6 @@ Now that the scholia which are most strongly associated with each topic had been
 | Interior Scholia | 819 | 10.3%
 | Interlinear Scholia | 2067 | 26.0%
 | Exterior Scholia | 233 | 2.9%
-5640
 
 While I will not examine all of the topics individually, there are a few things which can be said in general about the distribution of the topics by zone. For example, none of the topics' distributions comes close to resembling the distribution of scholia across the Venetus A. This primarily due to the fact that, while interlinear scholia constitute 26% of the scholia in the Venetus A, their extremely short length, rarely longer than two words, makes it hard for any topic to appear with any sort of frequency in this zone. This is also probably happening in the case of exterior scholia, since they also rarely contain more than two words. Thus it may make more sense to present with relative frequency of main, intermarginal, and interior scholia, separate from the interlinear and exterior scholia. Given these citeria, a new distribution of strongly associated scholia by topic was created and it can be found [here](https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/TopicModelData/noIlExtToPanResult.txt). The table below provides the new reference point for comparing just main, intermarginal, and interior zones of the scholia:
 
@@ -244,5 +243,7 @@ However, the lack of zone-specific content is not absolute. It is worth examinin
 main scholia| 45 |32.61%
 intermarginal scholia| 65|47.1%
 interior scholia| 28|20.29%
+
+What is noticeable about the above table is that not only do the intermarginal scholia constitute so much greater a proportion than the main scholia, but also that their proportion is over two times that of the proportion of intermarginal scholia throughout the manuscript.
 
 [Note on the original topic model data, note on reproducibility, and then results of topic 9 and implications, end chapter... finally]

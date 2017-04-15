@@ -45,3 +45,23 @@ If nothing else, this alternate and fully plausible model forces one to challeng
 | End of Line     | 783               |
 
 As one can see, the frequency of start and end scholia nearly mirrors the frequency of intermarginal and interior scholia. If the start and end model had no strength to it, one would expect there to be an equal number of start and end line scholia. However, the disproprtionate number of start-of-line scholia suggests that there may be something to this model that has not been otherwise recognied. Still, this data point alone is not enough to lead to the conclusion about which model is better. At this point, both the intermarginal-interior model and the start-end model appear to have some validity for classifying this area of scholia.
+
+Next, it was investigated whether start and end scholia also had some significant difference between their use of direct and indirect discourse. Below is a table showing the proportion of the two types of discourse within start and end of line scholia:
+
+Scholia Type|Number of words in Indirect Discourse|Number of Words in Direct Discourse|Number of Words
+---|---|---|---
+Start of line|1182 (14.04%)|7234 (85.96%)|8416
+End of line|635 (12.85%)|4306 (87.15%)|4941
+
+While the difference in the proportion of indirect discourse words is smaller than the difference when comparing intermarginal and interior scholia, a Z-test for proportions still found this difference to be significant (CITE), thus based on discourse data, again one cannot conclude that the start and end of line model is an inaccurate or invalid one.
+
+Finally, it was investigated whether start and end of line scholia differed at all in their content, or if finally content was one area which was identical between the two zones. Whereas in the last chapter there was an analysis of personal names which appeared in one zone or the other, this analysis was passed over entirely. Instead, I examined immediately the data from the topic model, searching for any odd patterns of scholia distribution amongst the main, start of line, and end of line scholia. So, again for reference, below is the general frequency of these three zones of the scholia across the Venetus A:
+
+| Type of Scholia | Number of Scholia | Percentage of the Manuscript
+| --- | --- | --- 
+| Main Scholia | 3601 | 63.9%
+| Start-of-line Scholia | 1255 | 22.3%
+| End-of-line Scholia | 783 | 13.9%
+
+Now below is the distribution of scholia within topic 9, the Aristarchus topic, which had a theta-score of at least 0.9, meaning that the language of that particular scholion was strongly related 
+

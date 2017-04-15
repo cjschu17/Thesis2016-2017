@@ -23,6 +23,25 @@ Dindorf is one of the foremost scholars when it comes to the Iliadic scholia, th
 It is easiest to combat Dindorf's intital thinking that there is no difference between the two zones. As seen in the last chapter, there is a significant difference just in the sheer frequency of intermarginal and interior scholia.
 
 | Type of Scholia | Number of Scholia 
-| --- | --- | --- 
+| --- | --- 
 | Intermarginal Scholia | 1220 
 | Interior Scholia | 819 
+
+It would be unlikely that, were there no actual difference in the two zones, that one would observe there being roughly 1.5 times more intermarginal than interior scholia. If there truly was no difference, one would expect instead for there to be a nearly equal number of intermarginal and interior scholia.
+
+Beyond just the frequency of scholia, the last chapter demonstrated a number of different ways in which these two zones were different. Interior scholia were found to contain more words on average than intermarginal scholia. Intermarginal scholia tended to use indirect discourse more than interior scholia, thus demonstrating the two differed rather fundamentally since they used language in fundamentally different ways. Finally, the two were shown to differ in terms of content. The distribution of topic 9, the Aristarchus topic, among the main, intermarginal, and interior scholia, revealed how that particular pattern of language was concentrated within the intermarginal scholia at a rate disproportionate with the frequency of scholia across the entire manuscript. Thus, it is clear, with little room for doubt, that the interior and intermarginal scholia cannot be considered as identical as Dindorf does.
+
+Still, even if Dindorf's model has been proven to be incorrect by the evidence provided in the previous chapter, the evidence does not definitively prove that the model adopted by the Homer Multitext project is the correct one either. While it has been shown that the four zones across the bifolio cannot be considered identical, it is possible that there is a different and more correct way of modelling this area of the Venetus A than splitting it up into intermarginal scholia and interior scholia. For example, it is entirely possible that this area of the manuscript page should be more accurately divided into scholia which comment on the beginning of a line and scholia which comment on the end of a line. A picture of this proposed model in shown below:
+
+![StartEnd](https://github.com/cjschu17/Thesis2016-2017/raw/master/images/12v13rSE.jpg)
+
+One should notice that this is the same exact bifolio spread as shown above, except that in this picture the red and blue zones represent different zones of the manuscript. On each folio shown above, the text of the *Iliad* is situated in between the red and blue zones, and since Greek is read from left-to-right like English, the beginning of the *Iliad* line on each page lies next to the red zone while the end of the line lies next to the blue zone. This alternate model of these two zones of scholia is certainly plausible. Would it not make sense if a scholion were to comment on the last word of a line for it to be placed directly adjacent to the first word in the blue zone, and conversely if a scholion were to comment on the first word of a line for it to be placed directly adjacent to that first word in the red zone?
+
+If nothing else, this alternate and fully plausible model forces one to challenge the assumed division of these scholia into intermarginal and interior scholia, something which has not been proven to be the correct model otherwise. So now with two competing models, it was necessary to collect data on the start-of-line, end-of-line model. The first data point, as above, is just the frequency of start-of-line and end-of-line scholia.
+
+| Type of Scholia | Number of Scholia |
+|:----------------|:------------------|
+| Start of Line   | 1255              |
+| End of Line     | 783               |
+
+As one can see, the frequency of start and end scholia nearly mirrors the frequency of intermarginal and interior scholia. If the start and end model had no strength to it, one would expect there to be an equal number of start and end line scholia. However, the disproprtionate number of start-of-line scholia suggests that there may be something to this model that has not been otherwise recognied. Still, this data point alone is not enough to lead to the conclusion about which model is better. At this point, both the intermarginal-interior model and the start-end model appear to have some validity for classifying this area of scholia.

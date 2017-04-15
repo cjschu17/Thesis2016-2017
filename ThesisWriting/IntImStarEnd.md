@@ -64,4 +64,18 @@ Finally, it was investigated whether start and end of line scholia differed at a
 | End-of-line Scholia | 783 | 13.9%
 
 
-Again, if the difference between start-of-line and end-of-line scholia were truly meaningless, then there should
+Again, if the difference between start-of-line and end-of-line scholia were truly meaningless, then the distribution of scholia within each of the topics should roughly mirror the above frequency of scholia throughout the Venetus A. For almost all this topics this generally holds true. There were only three topics which did not obey the expected frequency distribution, wherein main scholia would constitute the largest proportion of the topic's scholia, start-of-line would constitute the second largest proportion, and end-of-line scholia would have the smallest proportions. These were topics 1, 6, and 9 which correspond to topics on accentuation, 
+the work of Zenodotus and Aristophanes separate from Aristarchus, and the work of Aristarchus, respectively. In the case of topics 1 and 6, start and end of line scholia were seen to be represented equally in each of the two topics. Since one would expect, given the typical frequency distribution of start and end of line scholia, that there should be a larger proportion of start-of-line scholia, one can show that, at least in both cases, the topic seems to have a higher concentration within interior scholia than intermarginal scholia. In other words, the two zones do seem to differ in their content since the distribution of content does not follow the expected distribution of scholia across the Venetus A.
+
+Strengthening this argument is the distribution of scholia which are closely associated with topic 9, the Aristarchus topic. In the previous chapter, topic 9 was instrumental in demonstrating that some of the content of scholia is zone-specific since topic 9 was disproportionately concentrated within the intermarginal scholia. Here too, the topic 9 is disproportionately more concentrated within the start-of-line  than even the intermarginal scholia.
+
+| Type of Scholia | Number of Scholia | Percentage of the Manuscript
+| --- | --- | --- 
+main scholia|45|32.61%
+start scholia|73|52.9%
+end scholia|20|14.49%
+
+The 52.9% of the scholia which are strongly associated with topic 9 shows that it appears with far greater frequency within that topic than it does in the Venetus A, in general, where is only shows up with a frequency of 22.3%. So again, this point highlights the fact that the start-of-line and end-of-line model cannot be easily ignored. Clearly topic 9 is far more concentrated in the start-of-line scholia, suggesting that start-of-line and end-of-line scholia should also not be treated the same.
+
+So at this point, it appears that both models are completely valid ways of divvying of this area of the Venetus A manuscript. Both the intermarginal-interior and the start-end models presents models which allow for two clearly distinct zones with obvious differences in language and content. However, just because two models work does not mean that both are correct. Therefore, there needs to be a test in order to analyze which of the two models is a better approximation of the reality. Only by directly comparing the two models can a conclusion be made how best to label this area of the manuscript page.
+

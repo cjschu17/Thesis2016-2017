@@ -97,12 +97,16 @@ As for which analysis would be most effective, it was decided that the discourse
 
 Initial analysis reveals an interesting pattern. The frequencies of indirect discourse words in the two intermarginal columns (start im & end im) differ by only 1.21%. The corresponding frequencies in the two interior columns (start int & end int) differ only by 2.09%. By contrast the two start columns (start im & start int) differ in frequency of indirect discourse words by 4.25% while the two end columns (end im & end int) differ in their frequencies by 5.13%. Thus it appears that the intermarginal-interior model is stronger than the start-end model, since the frequencies associated with the intermarginal-interior model appeared more similar than those of the start-end model. However, it should be noted that the differences are slight, and one may wonder if the 2.09% difference between the frequencies of the two interior columns is really that much better an indicator of similarity than the 4.25% difference between the frequencies of the two start columns. 
 
-In order to test this, a Z-test for proportions was carried out in order to compare the difference in frequencies between the start, end, intermarginal, and interior columns. The results of the test are shown below:
+In order to test this, a Z-test for proportions was carried out in order to compare the difference in frequencies between the start, end, intermarginal, and interior columns. The results of this test are shown below:
 
 
 | Columns Being Compared | Z-Score | Significance (p < 0.01)       |
 |:---------------------|:--------|:------------------------------|
 | Start Columns | 5.58    | Statisically Significant      |
 | End Columns    | 5.21    | Statisically Significant      |
-Intermarginal Columns   | 1.44    | Not Statistically Significant |
+| Intermarginal Columns   | 1.44    | Not Statistically Significant |
 | Interior Columns  | 2.35    | Not Statistically Significant |
+
+In order to achieve significance, the test needed to result in a Z-score of at least 2.576, which corresponds at a p-value of less than 0.01, meaning that the chances of getting this result by chance are less than 1%. As one can see, the initial conclusions began above were completely confirmed by running the Z-test. The difference in frequency among the start and end columns was statistically significant, meaning that one could not treat them as being identical. In other words, it would be incorrect to view the four columns as corresponding to a start-end model. On the contrary, the difference in frequency among the intermarginal and interior columns was not significant, meaning that one could treat them as being identical. In other words, the intermarginal-interior model can be appropriately applied to these four columns of the Venetus A.
+
+

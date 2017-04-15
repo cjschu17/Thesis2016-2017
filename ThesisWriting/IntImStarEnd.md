@@ -63,5 +63,5 @@ Finally, it was investigated whether start and end of line scholia differed at a
 | Start-of-line Scholia | 1255 | 22.3%
 | End-of-line Scholia | 783 | 13.9%
 
-Now below is the distribution of scholia within topic 9, the Aristarchus topic, which had a theta-score of at least 0.9, meaning that the language of that particular scholion was strongly related 
 
+Again, if the difference between start-of-line and end-of-line scholia were truly meaningless, then there should

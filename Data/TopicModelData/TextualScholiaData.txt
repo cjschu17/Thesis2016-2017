@@ -79,7 +79,7 @@ main scholia: 32.0 (56.14%)
 intermarginal scholia: 14.0 (24.56%)
 interior scholia: 10.0 (17.54%)
 start scholia: 15.0 (26.32%)
-end scholia: 9.0 (54.79%)
+end scholia: 9.0 (15.79%)
 In total there are 57.0 scholia.
 
 

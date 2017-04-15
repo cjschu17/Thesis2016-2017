@@ -75,12 +75,12 @@ im: 11.0 (18.03%)
 int: 8.0 (13.11%)
 
 This is scholia set table13.tsv contains:
-main scholia: 32.0 (56.14%)
-intermarginal scholia: 14.0 (24.56%)
-interior scholia: 10.0 (17.54%)
-start scholia: 15.0 (26.32%)
-end scholia: 9.0 (15.79%)
-In total there are 57.0 scholia.
+main scholia: 32.0 (57.14%)
+intermarginal scholia: 14.0 (25%)
+interior scholia: 10.0 (17.86%)
+start scholia: 15.0 (26.79%)
+end scholia: 9.0 (16.07%)
+In total there are 56.0 scholia.
 
 
 Within this set, table13.tsv, here is how it splits up among the textual scholia:
@@ -187,7 +187,7 @@ start: 15.0 (11.63%)
 end:8.0 (6.2%)
 im: 13.0 (10.08%)
 int: 10.0 (7.75%)
--------------------------------------------------
+
 This is scholia set table5.tsv contains:
 main scholia: 65.0 (50.78%)
 intermarginal scholia: 39.0 (30.47%)

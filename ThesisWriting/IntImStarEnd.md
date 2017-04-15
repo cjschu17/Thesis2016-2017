@@ -79,3 +79,30 @@ The 52.9% of the scholia which are strongly associated with topic 9 shows that i
 
 So at this point, it appears that both models are completely valid ways of divvying of this area of the Venetus A manuscript. Both the intermarginal-interior and the start-end models presents models which allow for two clearly distinct zones with obvious differences in language and content. However, just because two models work does not mean that both are correct. In fact, the start-end model seems to be merely mirroring almost exactly the data from the intermarginal-interior model. So, if one were to assume that the intermarginal0inteerior model were the correct model, then whatever similar observations are made about the differences between the start-of=line and end-of-line scholia is merely observing same exact observations just categorized different. The same can be said about the observed differences between intermarginal and interior scholia if the start-end model were assumed to be true. Only by directly comparing the two models against one another can a conclusion about which model is better and therefore how best to label this area of the manuscript page.
 
+In order to directly compare these two models, I decided to strip away all assumptions about the four columns which were being classified as being either belonging to the intermarginal-interior model or the start-end model. Once these four columns were isolated, the features of the individual columns could be analyzed and their features could be compared to he two existing models. If there seemed to be a model that the features of the four independent columns fit better with, than that model must be the correct way to classify these four columns. For the sake of clarity, the picture below demonstrates how these four columns will be referred to in the upcoming analysis.
+
+![StartEndImInt](https://github.com/cjschu17/Thesis2016-2017/raw/master/images/StartEndImInt.jpg)
+
+The labels are simply the composite of that columns identity under the two possible models. So the leftmost column is considered an intermarginal scholion in the intermarginal-interior model and a start-of-line scholion in the start-end model.
+
+As for which analysis would be most effective, it was decided that the discourse analysis would be the most effective way to illustrate which of the models was better suited for the four columns. While using the topic model data offers slightly more understandable data, a systematic analysis would require taking into account all 15 topics. The discourse analysis would just be comprised of two variables: frequency of words in direct discourse and frequency of words in indirect discourse. As stated above, this discourse analysis gives a hint at the sources behind the various zones of scholia. If zones differ in how frequently they utilize quotations, this suggests that they came from different sources since a fundamental unit of composing a scholion, quoting text, is different. Thus below is a table showing the use of direct and indirect discourse in each of the four columns of this area of the manuscript.
+
+
+| Scholia zone | Words in direct discourse | Words in indirect discourse | Total words in zone |
+|:-------------|:--------------------------|:----------------------------|:--------------------|
+| Start Im     | 3849 (84.02%)             | 732 (**15.98%**)            | 4581                |
+| End Int      | 1668 (90.36%)             | 178 (**9.64%**)             | 1846                |
+| Start Int    | 3385 (88.27%)             | 450 (**11.73%**)            | 3835                |
+| End Im       | 2638 (85.23%)             | 457 (**14.77%**)            | 3095                |
+
+Initial analysis reveals an interesting pattern. The frequencies of indirect discourse words in the two intermarginal columns (start im & end im) differ by only 1.21%. The corresponding frequencies in the two interior columns (start int & end int) differ only by 2.09%. By contrast the two start columns (start im & start int) differ in frequency of indirect discourse words by 4.25% while the two end columns (end im & end int) differ in their frequencies by 5.13%. Thus it appears that the intermarginal-interior model is stronger than the start-end model, since the frequencies associated with the intermarginal-interior model appeared more similar than those of the start-end model. However, it should be noted that the differences are slight, and one may wonder if the 2.09% difference between the frequencies of the two interior columns is really that much better an indicator of similarity than the 4.25% difference between the frequencies of the two start columns. 
+
+In order to test this, a Z-test for proportions was carried out in order to compare the difference in frequencies between the start, end, intermarginal, and interior columns. The results of the test are shown below:
+
+
+| Columns Being Compared | Z-Score | Significance (p < 0.01)       |
+|:---------------------|:--------|:------------------------------|
+| Start Columns | 5.58    | Statisically Significant      |
+| End Columns    | 5.21    | Statisically Significant      |
+Intermarginal Columns   | 1.44    | Not Statistically Significant |
+| Interior Columns  | 2.35    | Not Statistically Significant |

@@ -1,6 +1,27 @@
 Types of Scholia	Number of Co-occurences of these types on the same Iliad line 
-Main & Im	347
-Main & Int	241
-Im & Int	83
-Main & Im & Int	50
-Total	721
+mainAndIm	272
+mainAndInt	189
+mainAndIl	229
+mainAndExt	48
+imAndIl	73
+IntAndIm	59
+imAndExt	25
+extAndInt	13
+intAndIl	49
+ilAndExt	5
+mainImInt	35
+mainImIl	53
+mainImExt	19
+mainIntIl	37
+mainIntExt	13
+mainIlExt	1
+ImIntIl	17
+ImIntExt	7
+ImIlExt	3
+IntIlExt	5
+mainImIntIl	12
+mainImIntExt	2
+mainImIlExt	3
+mainIntIlExt	2
+ImIntIlExt	0
+mainImIntIlExt	1

@@ -25,7 +25,13 @@ mainImIlExt	3
 mainIntIlExt	2
 ImIntIlExt	0
 mainImIntIlExt	1
-All Ext & Main	89
-All Ext & Im	60
-All Ext & Int	43
-All Ext & Il	15
+allExtMain	89
+allExtIm	60
+allExtInt	43
+allExtIl	20
+allMainIm	72
+allMainInt	291
+allMainIl	338
+allImInt	119
+allImIl	162
+allIntIl	123

@@ -1,601 +1,613 @@
-Line Number	Scholia Being Compared	Percentage of Words from the Small Schol in the Longer Schol
-urn:cts:greekLit:tlg0012.tlg001.msA:1.113	msA.hmt:1.125 vs msA.hmt:1.126	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.113	msA.hmt:1.125 vs msAil.hmt:1.362	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.113	msA.hmt:1.125 vs msAil.hmt:1.363	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.113	msA.hmt:1.126 vs msAil.hmt:1.362	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.113	msA.hmt:1.126 vs msAil.hmt:1.363	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.113	msAil.hmt:1.362 vs msAil.hmt:1.363	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.131	msA.hmt:1.419 vs msA.hmt:1.420	8.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.131	msA.hmt:1.419 vs msAil.hmt:1.436	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.131	msA.hmt:1.419 vs msAil.hmt:1.437	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.131	msA.hmt:1.420 vs msAil.hmt:1.436	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.131	msA.hmt:1.420 vs msAil.hmt:1.437	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.131	msAil.hmt:1.436 vs msAil.hmt:1.437	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.175	msA.hmt:1.495 vs msA.hmt:1.496	16.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.175	msA.hmt:1.495 vs msAim.hmt:1.501	16.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.175	msA.hmt:1.495 vs msAint.hmt:1.506	36.36%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.175	msA.hmt:1.496 vs msAim.hmt:1.501	16.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.175	msA.hmt:1.496 vs msAint.hmt:1.506	27.27%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.175	msAim.hmt:1.501 vs msAint.hmt:1.506	18.18%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.189	msA.hmt:1.555 vs msA.hmt:1.556	12.9%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.189	msA.hmt:1.555 vs msA.hmt:1.557	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.189	msA.hmt:1.555 vs msAil.hmt:1.579	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.189	msA.hmt:1.556 vs msA.hmt:1.557	12.5%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.189	msA.hmt:1.556 vs msAil.hmt:1.579	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.189	msA.hmt:1.557 vs msAil.hmt:1.579	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.204	msA.hmt:1.595 vs msA.hmt:1.596	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.204	msA.hmt:1.595 vs msAil.hmt:1.623	50.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.204	msA.hmt:1.595 vs msAint.hmt:1.617	25.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.204	msA.hmt:1.596 vs msAil.hmt:1.623	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.204	msA.hmt:1.596 vs msAint.hmt:1.617	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.204	msAil.hmt:1.623 vs msAint.hmt:1.617	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.220	msA.hmt:1.606 vs msA.hmt:1.607	50.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.220	msA.hmt:1.606 vs msAil.hmt:1.636	25.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.220	msA.hmt:1.606 vs msAil.hmt:1.637	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.220	msA.hmt:1.607 vs msAil.hmt:1.636	25.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.220	msA.hmt:1.607 vs msAil.hmt:1.637	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.220	msAil.hmt:1.636 vs msAil.hmt:1.637	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.222	msA.hmt:1.609 vs msA.hmt:1.610	17.86%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.222	msA.hmt:1.609 vs msAil.hmt:1.638	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.222	msA.hmt:1.609 vs msAim.hmt:1.615	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.222	msA.hmt:1.610 vs msAil.hmt:1.638	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.222	msA.hmt:1.610 vs msAim.hmt:1.615	20.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.222	msAil.hmt:1.638 vs msAim.hmt:1.615	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.225	msAil.hmt:1.641 vs msAil.hmt:1.642	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.225	msAil.hmt:1.641 vs msAil.hmt:1.643	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.225	msAil.hmt:1.641 vs msAint.hmt:1.619	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.225	msAil.hmt:1.642 vs msAil.hmt:1.643	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.225	msAil.hmt:1.642 vs msAint.hmt:1.619	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.225	msAil.hmt:1.643 vs msAint.hmt:1.619	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.249	msA.hmt:1.665 vs msA.hmt:1.666	12.5%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.249	msA.hmt:1.665 vs msAil.hmt:1.694	11.11%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.249	msA.hmt:1.665 vs msAim.hmt:1.671	7.69%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.249	msA.hmt:1.666 vs msAil.hmt:1.694	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.249	msA.hmt:1.666 vs msAim.hmt:1.671	15.38%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.249	msAil.hmt:1.694 vs msAim.hmt:1.671	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.251	msA.hmt:1.720 vs msAil.hmt:1.743	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.251	msA.hmt:1.720 vs msAil.hmt:1.744	10.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.251	msA.hmt:1.720 vs msAim.hmt:1.735	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.251	msAil.hmt:1.743 vs msAil.hmt:1.744	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.251	msAil.hmt:1.743 vs msAim.hmt:1.735	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.251	msAil.hmt:1.744 vs msAim.hmt:1.735	12.5%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.273	msA.hmt:1.734 vs msAil.hmt:1.768	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.273	msA.hmt:1.734 vs msAil.hmt:1.769	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.273	msA.hmt:1.734 vs msAint.hmt:1.741	44.44%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.273	msAil.hmt:1.768 vs msAil.hmt:1.769	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.273	msAil.hmt:1.768 vs msAint.hmt:1.741	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.273	msAil.hmt:1.769 vs msAint.hmt:1.741	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.275	msAil.hmt:1.771 vs msAil.hmt:1.772	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.275	msAil.hmt:1.771 vs msAil.hmt:1.773	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.275	msAil.hmt:1.771 vs msAim.hmt:1.738	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.275	msAil.hmt:1.772 vs msAil.hmt:1.773	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.275	msAil.hmt:1.772 vs msAim.hmt:1.738	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.275	msAil.hmt:1.773 vs msAim.hmt:1.738	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.293	msA.hmt:1.799 vs msAil.hmt:1.826	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.293	msA.hmt:1.799 vs msAil.hmt:1.827	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.293	msA.hmt:1.799 vs msAint.hmt:1.808	50.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.293	msAil.hmt:1.826 vs msAil.hmt:1.827	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.293	msAil.hmt:1.826 vs msAint.hmt:1.808	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.293	msAil.hmt:1.827 vs msAint.hmt:1.808	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.332	msA.hmt:1.929 vs msAil.hmt:1.949	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.332	msA.hmt:1.929 vs msAil.hmt:1.950	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.332	msA.hmt:1.929 vs msAim.hmt:1.939	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.332	msAil.hmt:1.949 vs msAil.hmt:1.950	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.332	msAil.hmt:1.949 vs msAim.hmt:1.939	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.332	msAil.hmt:1.950 vs msAim.hmt:1.939	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.342	msAil.hmt:1.960 vs msAil.hmt:1.961	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.342	msAil.hmt:1.960 vs msAil.hmt:1.962	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.342	msAil.hmt:1.960 vs msAint.hmt:1.942	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.342	msAil.hmt:1.961 vs msAil.hmt:1.962	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.342	msAil.hmt:1.961 vs msAint.hmt:1.942	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.342	msAil.hmt:1.962 vs msAint.hmt:1.942	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.353	msA.hmt:1.988 vs msAil.hmt:1.1005	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.353	msA.hmt:1.988 vs msAil.hmt:1.1006	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.353	msA.hmt:1.988 vs msAim.hmt:1.999	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.353	msAil.hmt:1.1005 vs msAil.hmt:1.1006	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.353	msAil.hmt:1.1005 vs msAim.hmt:1.999	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.353	msAil.hmt:1.1006 vs msAim.hmt:1.999	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.363	msA.hmt:1.994 vs msAil.hmt:1.1015	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.363	msA.hmt:1.994 vs msAil.hmt:1.1016	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.363	msA.hmt:1.994 vs msAil.hmt:1.1017	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.363	msAil.hmt:1.1015 vs msAil.hmt:1.1016	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.363	msAil.hmt:1.1015 vs msAil.hmt:1.1017	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.363	msAil.hmt:1.1016 vs msAil.hmt:1.1017	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.365	msA.hmt:1.995 vs msAil.hmt:1.1019	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.365	msA.hmt:1.995 vs msAil.hmt:1.1020	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.365	msA.hmt:1.995 vs msAil.hmt:1.1021	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.365	msAil.hmt:1.1019 vs msAil.hmt:1.1020	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.365	msAil.hmt:1.1019 vs msAil.hmt:1.1021	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.365	msAil.hmt:1.1020 vs msAil.hmt:1.1021	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.366	msA.hmt:1.996 vs msA.hmt:1.997	19.12%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.366	msA.hmt:1.996 vs msAil.hmt:1.1022	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.366	msA.hmt:1.996 vs msAim.hmt:1.1000	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.366	msA.hmt:1.997 vs msAil.hmt:1.1022	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.366	msA.hmt:1.997 vs msAim.hmt:1.1000	100.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.366	msAil.hmt:1.1022 vs msAim.hmt:1.1000	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.38	msA.hmt:1.37 vs msA.hmt:1.38	28.57%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.38	msA.hmt:1.37 vs msAil.hmt:1.287	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.38	msA.hmt:1.37 vs msAil.hmt:1.288	25.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.38	msA.hmt:1.38 vs msAil.hmt:1.287	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.38	msA.hmt:1.38 vs msAil.hmt:1.288	75.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.38	msAil.hmt:1.287 vs msAil.hmt:1.288	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.39	msA.hmt:1.39 vs msA.hmt:1.40	24.32%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.39	msA.hmt:1.39 vs msA.hmt:1.41	42.42%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.39	msA.hmt:1.39 vs msAint.hmt:1.56	25.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.39	msA.hmt:1.40 vs msA.hmt:1.41	24.24%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.39	msA.hmt:1.40 vs msAint.hmt:1.56	25.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.39	msA.hmt:1.41 vs msAint.hmt:1.56	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.399	msA.hmt:1.1041 vs msAil.hmt:1.1052	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.399	msA.hmt:1.1041 vs msAil.hmt:1.1053	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.399	msA.hmt:1.1041 vs msAil.hmt:1.1054	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.399	msAil.hmt:1.1052 vs msAil.hmt:1.1053	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.399	msAil.hmt:1.1052 vs msAil.hmt:1.1054	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.399	msAil.hmt:1.1053 vs msAil.hmt:1.1054	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.420	msA.hmt:1.1065 vs msA.hmt:1.1066	18.18%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.420	msA.hmt:1.1065 vs msA.hmt:1.1067	18.18%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.420	msA.hmt:1.1065 vs msAim.hmt:1.1074	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.420	msA.hmt:1.1066 vs msA.hmt:1.1067	13.04%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.420	msA.hmt:1.1066 vs msAim.hmt:1.1074	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.420	msA.hmt:1.1067 vs msAim.hmt:1.1074	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.435	msA.hmt:1.1121 vs msA.hmt:1.1123	5.56%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.435	msA.hmt:1.1121 vs msAil.hmt:1.1144	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.435	msA.hmt:1.1121 vs msAim.hmt:1.1134	16.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.435	msA.hmt:1.1123 vs msAil.hmt:1.1144	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.435	msA.hmt:1.1123 vs msAim.hmt:1.1134	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.435	msAil.hmt:1.1144 vs msAim.hmt:1.1134	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.486	msA.hmt:1.1229 vs msA.hmt:1.1230	20.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.486	msA.hmt:1.1229 vs msAil.hmt:1.1247	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.486	msA.hmt:1.1229 vs msAil.hmt:1.1248	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.486	msA.hmt:1.1230 vs msAil.hmt:1.1247	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.486	msA.hmt:1.1230 vs msAil.hmt:1.1248	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.486	msAil.hmt:1.1247 vs msAil.hmt:1.1248	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.499	msAil.hmt:1.1259 vs msAil.hmt:1.1261	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.499	msAil.hmt:1.1259 vs msAil.hmt:1.1262	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.499	msAil.hmt:1.1259 vs msAint.hmt:1.1240	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.499	msAil.hmt:1.1261 vs msAil.hmt:1.1262	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.499	msAil.hmt:1.1261 vs msAint.hmt:1.1240	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.499	msAil.hmt:1.1262 vs msAint.hmt:1.1240	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.513	msAil.hmt:1.1299 vs msAil.hmt:1.1300	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.513	msAil.hmt:1.1299 vs msAil.hmt:1.1301	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.513	msAil.hmt:1.1299 vs msAim.hmt:1.1292	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.513	msAil.hmt:1.1300 vs msAil.hmt:1.1301	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.513	msAil.hmt:1.1300 vs msAim.hmt:1.1292	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.513	msAil.hmt:1.1301 vs msAim.hmt:1.1292	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.528	msA.hmt:1.1332 vs msA.hmt:1.1333	10.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.528	msA.hmt:1.1332 vs msAil.hmt:1.1351	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.528	msA.hmt:1.1332 vs msAil.hmt:1.1352	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.528	msA.hmt:1.1333 vs msAil.hmt:1.1351	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.528	msA.hmt:1.1333 vs msAil.hmt:1.1352	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.528	msAil.hmt:1.1351 vs msAil.hmt:1.1352	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.554	msA.hmt:1.1390 vs msA.hmt:1.1391	19.05%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.554	msA.hmt:1.1390 vs msAil.hmt:1.1411	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.554	msA.hmt:1.1390 vs msAil.hmt:1.1412	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.554	msA.hmt:1.1391 vs msAil.hmt:1.1411	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.554	msA.hmt:1.1391 vs msAil.hmt:1.1412	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.554	msAil.hmt:1.1411 vs msAil.hmt:1.1412	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.607	msA.hmt:1.1497 vs msAil.hmt:1.1505	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.607	msA.hmt:1.1497 vs msAil.hmt:1.1506	12.5%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.607	msA.hmt:1.1497 vs msAint.hmt:1.1503	11.76%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.607	msAil.hmt:1.1505 vs msAil.hmt:1.1506	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.607	msAil.hmt:1.1505 vs msAint.hmt:1.1503	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.607	msAil.hmt:1.1506 vs msAint.hmt:1.1503	12.5%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.65	msA.hmt:1.74 vs msAil.hmt:1.222	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.65	msA.hmt:1.74 vs msAim.hmt:1.85	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.65	msA.hmt:1.74 vs msAint.hmt:1.91	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.65	msAil.hmt:1.222 vs msAim.hmt:1.85	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.65	msAil.hmt:1.222 vs msAint.hmt:1.91	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.65	msAim.hmt:1.85 vs msAint.hmt:1.91	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.69	msA.hmt:1.78 vs msAil.hmt:1.225	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.69	msA.hmt:1.78 vs msAil.hmt:1.226	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.69	msA.hmt:1.78 vs msAil.hmt:1.227	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.69	msAil.hmt:1.225 vs msAil.hmt:1.226	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.69	msAil.hmt:1.225 vs msAil.hmt:1.227	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.69	msAil.hmt:1.226 vs msAil.hmt:1.227	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.71	msA.hmt:1.79 vs msAil.hmt:1.231	100.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.71	msA.hmt:1.79 vs msAil.hmt:1.232	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.71	msA.hmt:1.79 vs msAim.hmt:1.86	25.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.71	msAil.hmt:1.231 vs msAil.hmt:1.232	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.71	msAil.hmt:1.231 vs msAim.hmt:1.86	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.71	msAil.hmt:1.232 vs msAim.hmt:1.86	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.85	msA.hmt:1.96 vs msA.hmt:1.97	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.85	msA.hmt:1.96 vs msAil.hmt:1.148	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.85	msA.hmt:1.96 vs msAim.hmt:1.111	50.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.85	msA.hmt:1.97 vs msAil.hmt:1.148	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.85	msA.hmt:1.97 vs msAim.hmt:1.111	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.85	msAil.hmt:1.148 vs msAim.hmt:1.111	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.86	msA.hmt:1.98 vs msA.hmt:1.99	12.5%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.86	msA.hmt:1.98 vs msAil.hmt:1.149	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.86	msA.hmt:1.98 vs msAil.hmt:1.150	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.86	msA.hmt:1.99 vs msAil.hmt:1.149	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.86	msA.hmt:1.99 vs msAil.hmt:1.150	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:1.86	msAil.hmt:1.149 vs msAil.hmt:1.150	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.258	msA.hmt:10.2503 vs msA.hmt:10.2504	26.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.258	msA.hmt:10.2503 vs msA.hmt:10.2505	13.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.258	msA.hmt:10.2503 vs msAint.hmt:10.2516	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.258	msA.hmt:10.2504 vs msA.hmt:10.2505	14.29%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.258	msA.hmt:10.2504 vs msAint.hmt:10.2516	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.258	msA.hmt:10.2505 vs msAint.hmt:10.2516	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.349	msA.hmt:10.3510 vs msAext.hmt:10.3529	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.349	msA.hmt:10.3510 vs msAim.hmt:10.3519	25.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.349	msA.hmt:10.3510 vs msAint.hmt:10.3523	40.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.349	msAext.hmt:10.3529 vs msAim.hmt:10.3519	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.349	msAext.hmt:10.3529 vs msAint.hmt:10.3523	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.349	msAim.hmt:10.3519 vs msAint.hmt:10.3523	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.359	msA.hmt:10.3544 vs msA.hmt:10.3545	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.359	msA.hmt:10.3544 vs msAim.hmt:10.3554	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.359	msA.hmt:10.3544 vs msAint.hmt:10.3561	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.359	msA.hmt:10.3545 vs msAim.hmt:10.3554	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.359	msA.hmt:10.3545 vs msAint.hmt:10.3561	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.359	msAim.hmt:10.3554 vs msAint.hmt:10.3561	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.364	msA.hmt:10.3548 vs msA.hmt:10.3549	14.29%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.364	msA.hmt:10.3548 vs msA.hmt:10.3550	30.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.364	msA.hmt:10.3548 vs msAim.hmt:10.3555	100.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.364	msA.hmt:10.3549 vs msA.hmt:10.3550	9.52%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.364	msA.hmt:10.3549 vs msAim.hmt:10.3555	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:10.364	msA.hmt:10.3550 vs msAim.hmt:10.3555	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.413	msA.hmt:11.158 vs msA.hmt:11.159	35.29%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.413	msA.hmt:11.158 vs msA.hmt:11.160	9.09%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.413	msA.hmt:11.158 vs msAim.hmt:11.47	20.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.413	msA.hmt:11.159 vs msA.hmt:11.160	27.27%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.413	msA.hmt:11.159 vs msAim.hmt:11.47	40.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.413	msA.hmt:11.160 vs msAim.hmt:11.47	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.421	msA.hmt:11.161 vs msAext.hmt:11.9	100.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.421	msA.hmt:11.161 vs msAim.hmt:11.48	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.421	msA.hmt:11.161 vs msAint.hmt:11.16	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.421	msAext.hmt:11.9 vs msAim.hmt:11.48	100.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.421	msAext.hmt:11.9 vs msAint.hmt:11.16	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.421	msAim.hmt:11.48 vs msAint.hmt:11.16	50.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.686	msA.hmt:11.254 vs msA.hmt:11.255	23.53%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.686	msA.hmt:11.254 vs msAext.hmt:11.15	100.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.686	msA.hmt:11.254 vs msAint.hmt:11.40	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.686	msA.hmt:11.255 vs msAext.hmt:11.15	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.686	msA.hmt:11.255 vs msAint.hmt:11.40	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.686	msAext.hmt:11.15 vs msAint.hmt:11.40	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.688	msA.hmt:11.256 vs msA.hmt:11.257	24.14%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.688	msA.hmt:11.256 vs msAim.hmt:11.82	40.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.688	msA.hmt:11.256 vs msAint.hmt:11.41	25.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.688	msA.hmt:11.257 vs msAim.hmt:11.82	40.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.688	msA.hmt:11.257 vs msAint.hmt:11.41	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:11.688	msAim.hmt:11.82 vs msAint.hmt:11.41	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:12.340	msA.hmt:12.H33 vs msA.hmt:12.H34	30.77%
-urn:cts:greekLit:tlg0012.tlg001.msA:12.340	msA.hmt:12.H33 vs msAext.hmt:12.H2	66.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:12.340	msA.hmt:12.H33 vs msAint.hmt:12.H4	60.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:12.340	msA.hmt:12.H34 vs msAext.hmt:12.H2	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:12.340	msA.hmt:12.H34 vs msAint.hmt:12.H4	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:12.340	msAext.hmt:12.H2 vs msAint.hmt:12.H4	66.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:14.376	msA.hmt:14.A10 vs msA.hmt:14.A11	14.29%
-urn:cts:greekLit:tlg0012.tlg001.msA:14.376	msA.hmt:14.A10 vs msAim.hmt:14.A6	16.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:14.376	msA.hmt:14.A10 vs msAint.hmt:14.A2	8.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:14.376	msA.hmt:14.A11 vs msAim.hmt:14.A6	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:14.376	msA.hmt:14.A11 vs msAint.hmt:14.A2	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:14.376	msAim.hmt:14.A6 vs msAint.hmt:14.A2	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.187	msA.hmt:15.55 vs msA.hmt:15.56	21.21%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.187	msA.hmt:15.55 vs msA.hmt:15.57	22.22%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.187	msA.hmt:15.55 vs msAim.hmt:15.28	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.187	msA.hmt:15.56 vs msA.hmt:15.57	25.93%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.187	msA.hmt:15.56 vs msAim.hmt:15.28	16.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.187	msA.hmt:15.57 vs msAim.hmt:15.28	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.189	msA.hmt:15.58 vs msA.hmt:15.59	15.79%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.189	msA.hmt:15.58 vs msA.hmt:15.65	44.12%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.189	msA.hmt:15.58 vs msAint.hmt:15.21	9.09%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.189	msA.hmt:15.59 vs msA.hmt:15.65	21.05%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.189	msA.hmt:15.59 vs msAint.hmt:15.21	18.18%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.189	msA.hmt:15.65 vs msAint.hmt:15.21	18.18%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.694	msAext.hmt:15.21 vs msAext.hmt:15.22	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.694	msAext.hmt:15.21 vs msAim.hmt:15.73	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.694	msAext.hmt:15.21 vs msAint.hmt:15.53	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.694	msAext.hmt:15.22 vs msAim.hmt:15.73	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.694	msAext.hmt:15.22 vs msAint.hmt:15.53	50.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.694	msAim.hmt:15.73 vs msAint.hmt:15.53	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.705	msA.hmt:15.187 vs msA.hmt:15.188	32.84%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.705	msA.hmt:15.187 vs msAext.hmt:15.23	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.705	msA.hmt:15.187 vs msAint.hmt:15.54	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.705	msA.hmt:15.188 vs msAext.hmt:15.23	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.705	msA.hmt:15.188 vs msAint.hmt:15.54	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:15.705	msAext.hmt:15.23 vs msAint.hmt:15.54	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:18.100	msA.hmt:18.39 vs msA.hmt:18.40	42.31%
-urn:cts:greekLit:tlg0012.tlg001.msA:18.100	msA.hmt:18.39 vs msA.hmt:18.41	38.46%
-urn:cts:greekLit:tlg0012.tlg001.msA:18.100	msA.hmt:18.39 vs msAim.hmt:18.13	16.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:18.100	msA.hmt:18.40 vs msA.hmt:18.41	28.26%
-urn:cts:greekLit:tlg0012.tlg001.msA:18.100	msA.hmt:18.40 vs msAim.hmt:18.13	66.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:18.100	msA.hmt:18.41 vs msAim.hmt:18.13	16.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:18.550	msA.hmt:18.197 vs msA.hmt:18.198	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:18.550	msA.hmt:18.197 vs msAext.hmt:18.7	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:18.550	msA.hmt:18.197 vs msAint.hmt:18.48	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:18.550	msA.hmt:18.198 vs msAext.hmt:18.7	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:18.550	msA.hmt:18.198 vs msAint.hmt:18.48	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:18.550	msAext.hmt:18.7 vs msAint.hmt:18.48	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:19.386	msA.hmt:19.hc_12 vs msA.hmt:19.hc_13	55.56%
-urn:cts:greekLit:tlg0012.tlg001.msA:19.386	msA.hmt:19.hc_12 vs msAext.hmt:19.hc_1	100.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:19.386	msA.hmt:19.hc_12 vs msAint.hmt:19.hc_1	100.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:19.386	msA.hmt:19.hc_13 vs msAext.hmt:19.hc_1	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:19.386	msA.hmt:19.hc_13 vs msAint.hmt:19.hc_1	50.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:19.386	msAext.hmt:19.hc_1 vs msAint.hmt:19.hc_1	100.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.111	msA.hmt:2.168 vs msA.hmt:2.169	34.29%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.111	msA.hmt:2.168 vs msAil.hmt:2.197	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.111	msA.hmt:2.168 vs msAil.hmt:2.198	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.111	msA.hmt:2.169 vs msAil.hmt:2.197	66.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.111	msA.hmt:2.169 vs msAil.hmt:2.198	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.111	msAil.hmt:2.197 vs msAil.hmt:2.198	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.115	msA.hmt:2.172 vs msA.hmt:2.173	7.14%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.115	msA.hmt:2.172 vs msAil.hmt:2.202	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.115	msA.hmt:2.172 vs msAil.hmt:2.203	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.115	msA.hmt:2.173 vs msAil.hmt:2.202	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.115	msA.hmt:2.173 vs msAil.hmt:2.203	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.115	msAil.hmt:2.202 vs msAil.hmt:2.203	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.122	msA.hmt:2.177 vs msAil.hmt:2.214	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.122	msA.hmt:2.177 vs msAil.hmt:2.215	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.122	msA.hmt:2.177 vs msAim.hmt:2.189	14.29%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.122	msAil.hmt:2.214 vs msAil.hmt:2.215	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.122	msAil.hmt:2.214 vs msAim.hmt:2.189	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.122	msAil.hmt:2.215 vs msAim.hmt:2.189	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.125	msA.hmt:2.180 vs msA.hmt:2.181	28.57%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.125	msA.hmt:2.180 vs msAil.hmt:2.216	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.125	msA.hmt:2.180 vs msAim.hmt:2.190	25.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.125	msA.hmt:2.181 vs msAil.hmt:2.216	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.125	msA.hmt:2.181 vs msAim.hmt:2.190	12.5%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.125	msAil.hmt:2.216 vs msAim.hmt:2.190	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.137	msAext.hmt:2.271 vs msAil.hmt:2.247	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.137	msAext.hmt:2.271 vs msAil.hmt:2.248	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.137	msAext.hmt:2.271 vs msAil.hmt:2.249	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.137	msAil.hmt:2.247 vs msAil.hmt:2.248	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.137	msAil.hmt:2.247 vs msAil.hmt:2.249	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.137	msAil.hmt:2.248 vs msAil.hmt:2.249	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.148	msA.hmt:2.229 vs msAil.hmt:2.258	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.148	msA.hmt:2.229 vs msAil.hmt:2.259	50.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.148	msA.hmt:2.229 vs msAim.hmt:2.240	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.148	msAil.hmt:2.258 vs msAil.hmt:2.259	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.148	msAil.hmt:2.258 vs msAim.hmt:2.240	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.148	msAil.hmt:2.259 vs msAim.hmt:2.240	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.155	msA.hmt:2.234 vs msA.hmt:2.235	8.7%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.155	msA.hmt:2.234 vs msAil.hmt:2.267	40.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.155	msA.hmt:2.234 vs msAil.hmt:2.268	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.155	msA.hmt:2.235 vs msAil.hmt:2.267	20.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.155	msA.hmt:2.235 vs msAil.hmt:2.268	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.155	msAil.hmt:2.267 vs msAil.hmt:2.268	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.164	msA.hmt:2.274 vs msAil.hmt:2.292	100.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.164	msA.hmt:2.274 vs msAil.hmt:2.293	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.164	msA.hmt:2.274 vs msAint.hmt:2.286	20.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.164	msAil.hmt:2.292 vs msAil.hmt:2.293	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.164	msAil.hmt:2.292 vs msAint.hmt:2.286	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.164	msAil.hmt:2.293 vs msAint.hmt:2.286	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.192	msA.hmt:2.308 vs msA.hmt:2.309	15.15%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.192	msA.hmt:2.308 vs msAil.hmt:2.348	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.192	msA.hmt:2.308 vs msAil.hmt:2.349	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.192	msA.hmt:2.309 vs msAil.hmt:2.348	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.192	msA.hmt:2.309 vs msAil.hmt:2.349	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.192	msAil.hmt:2.348 vs msAil.hmt:2.349	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.193	msA.hmt:2.310 vs msAil.hmt:2.350	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.193	msA.hmt:2.310 vs msAil.hmt:2.351	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.193	msA.hmt:2.310 vs msAil.hmt:2.352	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.193	msAil.hmt:2.350 vs msAil.hmt:2.351	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.193	msAil.hmt:2.350 vs msAil.hmt:2.352	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.193	msAil.hmt:2.351 vs msAil.hmt:2.352	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.204	msA.hmt:2.314 vs msA.hmt:2.316	30.43%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.204	msA.hmt:2.314 vs msAil.hmt:2.365	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.204	msA.hmt:2.314 vs msAil.hmt:2.366	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.204	msA.hmt:2.316 vs msAil.hmt:2.365	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.204	msA.hmt:2.316 vs msAil.hmt:2.366	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.204	msAil.hmt:2.365 vs msAil.hmt:2.366	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.207	msA.hmt:2.325 vs msAil.hmt:2.367	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.207	msA.hmt:2.325 vs msAim.hmt:2.330	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.207	msA.hmt:2.325 vs msAint.hmt:2.337	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.207	msAil.hmt:2.367 vs msAim.hmt:2.330	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.207	msAil.hmt:2.367 vs msAint.hmt:2.337	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.207	msAim.hmt:2.330 vs msAint.hmt:2.337	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.269	msA.hmt:2.426 vs msA.hmt:2.427	8.7%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.269	msA.hmt:2.426 vs msA.hmt:2.428	21.74%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.269	msA.hmt:2.426 vs msAil.hmt:2.441	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.269	msA.hmt:2.427 vs msA.hmt:2.428	29.23%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.269	msA.hmt:2.427 vs msAil.hmt:2.441	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.269	msA.hmt:2.428 vs msAil.hmt:2.441	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.36	msA.hmt:2.25 vs msA.hmt:2.54	14.29%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.36	msA.hmt:2.25 vs msAil.hmt:2.75	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.36	msA.hmt:2.25 vs msAim.hmt:2.69	7.14%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.36	msA.hmt:2.54 vs msAil.hmt:2.75	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.36	msA.hmt:2.54 vs msAim.hmt:2.69	14.29%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.36	msAil.hmt:2.75 vs msAim.hmt:2.69	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.43	msA.hmt:2.57 vs msA.hmt:2.58	13.04%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.43	msA.hmt:2.57 vs msAil.hmt:2.84	50.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.43	msA.hmt:2.57 vs msAil.hmt:2.85	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.43	msA.hmt:2.58 vs msAil.hmt:2.84	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.43	msA.hmt:2.58 vs msAil.hmt:2.85	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.43	msAil.hmt:2.84 vs msAil.hmt:2.85	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.99	msA.hmt:2.125 vs msAil.hmt:2.160	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.99	msA.hmt:2.125 vs msAil.hmt:2.161	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.99	msA.hmt:2.125 vs msAint.hmt:2.143	19.05%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.99	msAil.hmt:2.160 vs msAil.hmt:2.161	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.99	msAil.hmt:2.160 vs msAint.hmt:2.143	100.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:2.99	msAil.hmt:2.161 vs msAint.hmt:2.143	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.108	msA.hmt:3.179 vs msAil.hmt:3.697	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.108	msA.hmt:3.179 vs msAil.hmt:3.698	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.108	msA.hmt:3.179 vs msAil.hmt:3.699	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.108	msAil.hmt:3.697 vs msAil.hmt:3.698	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.108	msAil.hmt:3.697 vs msAil.hmt:3.699	50.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.108	msAil.hmt:3.698 vs msAil.hmt:3.699	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.122	msA.hmt:3.191 vs msAil.hmt:3.701	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.122	msA.hmt:3.191 vs msAim.hmt:3.694	21.43%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.122	msA.hmt:3.191 vs msAint.hmt:3.192	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.122	msAil.hmt:3.701 vs msAim.hmt:3.694	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.122	msAil.hmt:3.701 vs msAint.hmt:3.192	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.122	msAim.hmt:3.694 vs msAint.hmt:3.192	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.126	msA.hmt:3.201 vs msA.hmt:3.691	86.36%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.126	msA.hmt:3.201 vs msAil.hmt:3.703	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.126	msA.hmt:3.201 vs msAint.hmt:3.692	7.14%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.126	msA.hmt:3.691 vs msAil.hmt:3.703	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.126	msA.hmt:3.691 vs msAint.hmt:3.692	7.14%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.126	msAil.hmt:3.703 vs msAint.hmt:3.692	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.182	msA.hmt:3.711 vs msAil.hmt:3.715	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.182	msA.hmt:3.711 vs msAim.hmt:3.712	11.11%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.182	msA.hmt:3.711 vs msAim.hmt:3.713	25.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.182	msAil.hmt:3.715 vs msAim.hmt:3.712	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.182	msAil.hmt:3.715 vs msAim.hmt:3.713	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.182	msAim.hmt:3.712 vs msAim.hmt:3.713	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.354	msA.hmt:3.514 vs msA.hmt:3.518	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.354	msA.hmt:3.514 vs msA.hmt:3.753	20.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.354	msA.hmt:3.514 vs msAim.hmt:3.756	14.29%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.354	msA.hmt:3.518 vs msA.hmt:3.753	22.73%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.354	msA.hmt:3.518 vs msAim.hmt:3.756	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:3.354	msA.hmt:3.753 vs msAim.hmt:3.756	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:4.109	msA.hmt:4.185 vs msA.hmt:4.186	16.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:4.109	msA.hmt:4.185 vs msA.hmt:4.801	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:4.109	msA.hmt:4.185 vs msAint.hmt:4.187	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:4.109	msA.hmt:4.186 vs msA.hmt:4.801	12.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:4.109	msA.hmt:4.186 vs msAint.hmt:4.187	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:4.109	msA.hmt:4.801 vs msAint.hmt:4.187	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:4.308	msA.hmt:4.495 vs msAext.hmt:4.841	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:4.308	msA.hmt:4.495 vs msAil.hmt:4.839	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:4.308	msA.hmt:4.495 vs msAim.hmt:4.836	60.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:4.308	msAext.hmt:4.841 vs msAil.hmt:4.839	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:4.308	msAext.hmt:4.841 vs msAim.hmt:4.836	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:4.308	msAil.hmt:4.839 vs msAim.hmt:4.836	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:5.249	msA.hmt:5.1072 vs msA.hmt:5.1074	47.06%
-urn:cts:greekLit:tlg0012.tlg001.msA:5.249	msA.hmt:5.1072 vs msAil.hmt:5.6106	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:5.249	msA.hmt:5.1072 vs msAint.hmt:5.6097	75.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:5.249	msA.hmt:5.1074 vs msAil.hmt:5.6106	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:5.249	msA.hmt:5.1074 vs msAint.hmt:5.6097	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:5.249	msAil.hmt:5.6106 vs msAint.hmt:5.6097	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:5.252	msA.hmt:5.1073 vs msAext.hmt:5.6101	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:5.252	msA.hmt:5.1073 vs msAil.hmt:5.6107	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:5.252	msA.hmt:5.1073 vs msAint.hmt:5.6098	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:5.252	msAext.hmt:5.6101 vs msAil.hmt:5.6107	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:5.252	msAext.hmt:5.6101 vs msAint.hmt:5.6098	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:5.252	msAil.hmt:5.6107 vs msAint.hmt:5.6098	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:5.39	msA.hmt:5.1014 vs msA.hmt:5.1016	13.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:5.39	msA.hmt:5.1014 vs msAim.hmt:5.6012	60.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:5.39	msA.hmt:5.1014 vs msAint.hmt:5.6018	28.57%
-urn:cts:greekLit:tlg0012.tlg001.msA:5.39	msA.hmt:5.1016 vs msAim.hmt:5.6012	20.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:5.39	msA.hmt:5.1016 vs msAint.hmt:5.6018	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:5.39	msAim.hmt:5.6012 vs msAint.hmt:5.6018	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.160	msA.hmt:6.55 vs msA.hmt:6.56	14.29%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.160	msA.hmt:6.55 vs msA.hmt:6.57	14.29%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.160	msA.hmt:6.55 vs msAil.hmt:6.A8	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.160	msA.hmt:6.56 vs msA.hmt:6.57	22.22%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.160	msA.hmt:6.56 vs msAil.hmt:6.A8	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.160	msA.hmt:6.57 vs msAil.hmt:6.A8	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.226	msA.hmt:6.76 vs msAil.hmt:6.A12	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.226	msA.hmt:6.76 vs msAim.hmt:6.233	14.29%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.226	msA.hmt:6.76 vs msAint.hmt:6.179	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.226	msAil.hmt:6.A12 vs msAim.hmt:6.233	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.226	msAil.hmt:6.A12 vs msAint.hmt:6.179	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.226	msAim.hmt:6.233 vs msAint.hmt:6.179	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.237	msA.hmt:6.80 vs msAil.hmt:6.289	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.237	msA.hmt:6.80 vs msAil.hmt:6.290	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.237	msA.hmt:6.80 vs msAint.hmt:6.180	83.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.237	msAil.hmt:6.289 vs msAil.hmt:6.290	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.237	msAil.hmt:6.289 vs msAint.hmt:6.180	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.237	msAil.hmt:6.290 vs msAint.hmt:6.180	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.248	msA.hmt:6.88 vs msAim.hmt:6.236	18.18%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.248	msA.hmt:6.88 vs msAim.hmt:6.237	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.248	msA.hmt:6.88 vs msAint.hmt:6.181	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.248	msAim.hmt:6.236 vs msAim.hmt:6.237	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.248	msAim.hmt:6.236 vs msAint.hmt:6.181	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.248	msAim.hmt:6.237 vs msAint.hmt:6.181	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.518	msA.hmt:6.158 vs msA.hmt:6.159	24.07%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.518	msA.hmt:6.158 vs msA.hmt:6.160	23.68%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.518	msA.hmt:6.158 vs msAim.hmt:6.280	40.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.518	msA.hmt:6.159 vs msA.hmt:6.160	26.32%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.518	msA.hmt:6.159 vs msAim.hmt:6.280	60.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:6.518	msA.hmt:6.160 vs msAim.hmt:6.280	40.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:7.410	msA.hmt:7.3053 vs msAil.hmt:7.3018	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:7.410	msA.hmt:7.3053 vs msAil.hmt:7.3019	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:7.410	msA.hmt:7.3053 vs msAil.hmt:7.3020	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:7.410	msAil.hmt:7.3018 vs msAil.hmt:7.3019	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:7.410	msAil.hmt:7.3018 vs msAil.hmt:7.3020	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:7.410	msAil.hmt:7.3019 vs msAil.hmt:7.3020	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:7.6	msA.hmt:7.2 vs msA.hmt:7.3	8.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:7.6	msA.hmt:7.2 vs msAext.hmt:7.22	50.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:7.6	msA.hmt:7.2 vs msAint.hmt:7.15	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:7.6	msA.hmt:7.3 vs msAext.hmt:7.22	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:7.6	msA.hmt:7.3 vs msAint.hmt:7.15	16.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:7.6	msAext.hmt:7.22 vs msAint.hmt:7.15	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:7.8	msA.hmt:7.4 vs msA.hmt:7.6	17.65%
-urn:cts:greekLit:tlg0012.tlg001.msA:7.8	msA.hmt:7.4 vs msAint.hmt:7.16	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:7.8	msA.hmt:7.4 vs msAint.hmt:7.17	27.27%
-urn:cts:greekLit:tlg0012.tlg001.msA:7.8	msA.hmt:7.6 vs msAint.hmt:7.16	11.11%
-urn:cts:greekLit:tlg0012.tlg001.msA:7.8	msA.hmt:7.6 vs msAint.hmt:7.17	27.27%
-urn:cts:greekLit:tlg0012.tlg001.msA:7.8	msAint.hmt:7.16 vs msAint.hmt:7.17	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:8.213	msA.hmt:8.152 vs msA.hmt:8.153	47.89%
-urn:cts:greekLit:tlg0012.tlg001.msA:8.213	msA.hmt:8.152 vs msA.hmt:8.154	39.66%
-urn:cts:greekLit:tlg0012.tlg001.msA:8.213	msA.hmt:8.152 vs msAim.hmt:8.159	66.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:8.213	msA.hmt:8.153 vs msA.hmt:8.154	46.48%
-urn:cts:greekLit:tlg0012.tlg001.msA:8.213	msA.hmt:8.153 vs msAim.hmt:8.159	50.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:8.213	msA.hmt:8.154 vs msAim.hmt:8.159	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:8.441	msA.hmt:8.274 vs msA.hmt:8.275	18.18%
-urn:cts:greekLit:tlg0012.tlg001.msA:8.441	msA.hmt:8.274 vs msAim.hmt:8.281	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:8.441	msA.hmt:8.274 vs msAint.hmt:8.286	40.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:8.441	msA.hmt:8.275 vs msAim.hmt:8.281	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:8.441	msA.hmt:8.275 vs msAint.hmt:8.286	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:8.441	msAim.hmt:8.281 vs msAint.hmt:8.286	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.143	msA.hmt:9.158 vs msA.hmt:9.159	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.143	msA.hmt:9.158 vs msAil.hmt:9.182	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.143	msA.hmt:9.158 vs msAim.hmt:9.168	16.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.143	msA.hmt:9.159 vs msAil.hmt:9.182	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.143	msA.hmt:9.159 vs msAim.hmt:9.168	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.143	msAil.hmt:9.182 vs msAim.hmt:9.168	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.167	msA.hmt:9.188 vs msAext.hmt:9.200	50.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.167	msA.hmt:9.188 vs msAil.hmt:9.203	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.167	msA.hmt:9.188 vs msAim.hmt:9.687	20.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.167	msAext.hmt:9.200 vs msAil.hmt:9.203	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.167	msAext.hmt:9.200 vs msAim.hmt:9.687	50.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.167	msAil.hmt:9.203 vs msAim.hmt:9.687	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.209	msA.hmt:9.221 vs msA.hmt:9.222	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.209	msA.hmt:9.221 vs msAil.hmt:9.240	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.209	msA.hmt:9.221 vs msAil.hmt:9.241	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.209	msA.hmt:9.222 vs msAil.hmt:9.240	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.209	msA.hmt:9.222 vs msAil.hmt:9.241	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.209	msAil.hmt:9.240 vs msAil.hmt:9.241	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.214	msA.hmt:9.244 vs msA.hmt:9.245	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.214	msA.hmt:9.244 vs msAil.hmt:9.263	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.214	msA.hmt:9.244 vs msAim.hmt:9.258	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.214	msA.hmt:9.245 vs msAil.hmt:9.263	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.214	msA.hmt:9.245 vs msAim.hmt:9.258	16.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.214	msAil.hmt:9.263 vs msAim.hmt:9.258	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.225	msA.hmt:9.254 vs msA.hmt:9.255	28.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.225	msA.hmt:9.254 vs msAext.hmt:9.262	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.225	msA.hmt:9.254 vs msAim.hmt:9.260	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.225	msA.hmt:9.255 vs msAext.hmt:9.262	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.225	msA.hmt:9.255 vs msAim.hmt:9.260	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.225	msAext.hmt:9.262 vs msAim.hmt:9.260	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.381	msAext.hmt:9.369 vs msAil.hmt:9.373	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.381	msAext.hmt:9.369 vs msAil.hmt:9.374	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.381	msAext.hmt:9.369 vs msAim.hmt:9.365	12.5%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.381	msAil.hmt:9.373 vs msAil.hmt:9.374	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.381	msAil.hmt:9.373 vs msAim.hmt:9.365	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.381	msAil.hmt:9.374 vs msAim.hmt:9.365	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.472	msA.hmt:9.439 vs msAil.hmt:9.463	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.472	msA.hmt:9.439 vs msAim.hmt:9.448	50.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.472	msA.hmt:9.439 vs msAint.hmt:9.452	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.472	msAil.hmt:9.463 vs msAim.hmt:9.448	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.472	msAil.hmt:9.463 vs msAint.hmt:9.452	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.472	msAim.hmt:9.448 vs msAint.hmt:9.452	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.562	msA.hmt:9.527 vs msA.hmt:9.528	46.43%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.562	msA.hmt:9.527 vs msAil.hmt:9.540	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.562	msA.hmt:9.527 vs msAim.hmt:9.531	57.14%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.562	msA.hmt:9.528 vs msAil.hmt:9.540	66.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.562	msA.hmt:9.528 vs msAim.hmt:9.531	42.86%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.562	msAil.hmt:9.540 vs msAim.hmt:9.531	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.632	msA.hmt:9.600 vs msAil.hmt:9.612	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.632	msA.hmt:9.600 vs msAil.hmt:9.613	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.632	msA.hmt:9.600 vs msAim.hmt:9.603	27.27%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.632	msAil.hmt:9.612 vs msAil.hmt:9.613	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.632	msAil.hmt:9.612 vs msAim.hmt:9.603	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.632	msAil.hmt:9.613 vs msAim.hmt:9.603	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.653	msA.hmt:9.618 vs msAil.hmt:9.636	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.653	msA.hmt:9.618 vs msAim.hmt:9.624	12.5%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.653	msA.hmt:9.618 vs msAint.hmt:9.627	16.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.653	msAil.hmt:9.636 vs msAim.hmt:9.624	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.653	msAil.hmt:9.636 vs msAint.hmt:9.627	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.653	msAim.hmt:9.624 vs msAint.hmt:9.627	33.33%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.685	msA.hmt:9.643 vs msAil.hmt:9.659	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.685	msA.hmt:9.643 vs msAil.hmt:9.660	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.685	msA.hmt:9.643 vs msAint.hmt:9.651	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.685	msAil.hmt:9.659 vs msAil.hmt:9.660	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.685	msAil.hmt:9.659 vs msAint.hmt:9.651	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.685	msAil.hmt:9.660 vs msAint.hmt:9.651	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.694	msA.hmt:9.662 vs msA.hmt:9.697	5.88%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.694	msA.hmt:9.662 vs msAim.hmt:9.668	16.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.694	msA.hmt:9.662 vs msAint.hmt:9.670	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.694	msA.hmt:9.697 vs msAim.hmt:9.668	41.67%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.694	msA.hmt:9.697 vs msAint.hmt:9.670	0.0%
-urn:cts:greekLit:tlg0012.tlg001.msA:9.694	msAim.hmt:9.668 vs msAint.hmt:9.670	0.0%
+Line Number	Scholia Being Compared and percentage of Words from the Small Schol in the Longer Schol
+urn:cts:greekLit:tlg0012.tlg001.msA:1.113	msA.hmt:1.125 (15) vs msA.hmt:1.126 (9): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.113	msA.hmt:1.125 (15) vs msAil.hmt:1.362 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.113	msA.hmt:1.125 (15) vs msAil.hmt:1.363 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.113	msA.hmt:1.126 (9) vs msAil.hmt:1.362 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.113	msA.hmt:1.126 (9) vs msAil.hmt:1.363 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.113	msAil.hmt:1.362 (2) vs msAil.hmt:1.363 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.131	msA.hmt:1.420 (22) vs msA.hmt:1.419 (12): 1.0 (8.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.131	msA.hmt:1.419 (12) vs msAil.hmt:1.436 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.131	msA.hmt:1.419 (12) vs msAil.hmt:1.437 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.131	msA.hmt:1.420 (22) vs msAil.hmt:1.436 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.131	msA.hmt:1.420 (22) vs msAil.hmt:1.437 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.131	msAil.hmt:1.436 (1) vs msAil.hmt:1.437 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.175	msA.hmt:1.495 (43) vs msA.hmt:1.496 (24): 4.0 (16.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.175	msA.hmt:1.495 (43) vs msAim.hmt:1.501 (18): 3.0 (16.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.175	msA.hmt:1.495 (43) vs msAint.hmt:1.506 (11): 4.0 (36.36%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.175	msA.hmt:1.496 (24) vs msAim.hmt:1.501 (18): 3.0 (16.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.175	msA.hmt:1.496 (24) vs msAint.hmt:1.506 (11): 3.0 (27.27%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.175	msAim.hmt:1.501 (18) vs msAint.hmt:1.506 (11): 2.0 (18.18%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.189	msA.hmt:1.556 (42) vs msA.hmt:1.555 (31): 4.0 (12.9%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.189	msA.hmt:1.555 (31) vs msA.hmt:1.557 (8): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.189	msA.hmt:1.555 (31) vs msAil.hmt:1.579 (3): 1.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.189	msA.hmt:1.556 (42) vs msA.hmt:1.557 (8): 1.0 (12.5%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.189	msA.hmt:1.556 (42) vs msAil.hmt:1.579 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.189	msA.hmt:1.557 (8) vs msAil.hmt:1.579 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.204	msA.hmt:1.595 (36) vs msA.hmt:1.596 (15): 5.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.204	msA.hmt:1.595 (36) vs msAil.hmt:1.623 (4): 2.0 (50.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.204	msA.hmt:1.595 (36) vs msAint.hmt:1.617 (4): 1.0 (25.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.204	msA.hmt:1.596 (15) vs msAil.hmt:1.623 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.204	msA.hmt:1.596 (15) vs msAint.hmt:1.617 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.204	msAil.hmt:1.623 (4) vs msAint.hmt:1.617 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.220	msA.hmt:1.607 (8) vs msA.hmt:1.606 (4): 2.0 (50.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.220	msA.hmt:1.606 (4) vs msAil.hmt:1.636 (4): 1.0 (25.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.220	msA.hmt:1.606 (4) vs msAil.hmt:1.637 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.220	msA.hmt:1.607 (8) vs msAil.hmt:1.636 (4): 1.0 (25.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.220	msA.hmt:1.607 (8) vs msAil.hmt:1.637 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.220	msAil.hmt:1.636 (4) vs msAil.hmt:1.637 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.222	msA.hmt:1.610 (63) vs msA.hmt:1.609 (28): 5.0 (17.86%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.222	msA.hmt:1.609 (28) vs msAil.hmt:1.638 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.222	msA.hmt:1.609 (28) vs msAim.hmt:1.615 (5): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.222	msA.hmt:1.610 (63) vs msAil.hmt:1.638 (3): 1.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.222	msA.hmt:1.610 (63) vs msAim.hmt:1.615 (5): 1.0 (20.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.222	msAim.hmt:1.615 (5) vs msAil.hmt:1.638 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.225	msAil.hmt:1.641 (1) vs msAil.hmt:1.642 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.225	msAil.hmt:1.641 (1) vs msAil.hmt:1.643 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.225	msAint.hmt:1.619 (10) vs msAil.hmt:1.641 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.225	msAil.hmt:1.642 (1) vs msAil.hmt:1.643 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.225	msAint.hmt:1.619 (10) vs msAil.hmt:1.642 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.225	msAint.hmt:1.619 (10) vs msAil.hmt:1.643 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.249	msA.hmt:1.666 (17) vs msA.hmt:1.665 (16): 2.0 (12.5%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.249	msA.hmt:1.665 (16) vs msAil.hmt:1.694 (9): 1.0 (11.11%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.249	msA.hmt:1.665 (16) vs msAim.hmt:1.671 (13): 1.0 (7.69%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.249	msA.hmt:1.666 (17) vs msAil.hmt:1.694 (9): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.249	msA.hmt:1.666 (17) vs msAim.hmt:1.671 (13): 2.0 (15.38%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.249	msAim.hmt:1.671 (13) vs msAil.hmt:1.694 (9): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.251	msA.hmt:1.720 (11) vs msAil.hmt:1.743 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.251	msA.hmt:1.720 (11) vs msAil.hmt:1.744 (10): 1.0 (10.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.251	msA.hmt:1.720 (11) vs msAim.hmt:1.735 (8): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.251	msAil.hmt:1.744 (10) vs msAil.hmt:1.743 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.251	msAim.hmt:1.735 (8) vs msAil.hmt:1.743 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.251	msAil.hmt:1.744 (10) vs msAim.hmt:1.735 (8): 1.0 (12.5%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.273	msA.hmt:1.734 (16) vs msAil.hmt:1.768 (3): 1.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.273	msA.hmt:1.734 (16) vs msAil.hmt:1.769 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.273	msA.hmt:1.734 (16) vs msAint.hmt:1.741 (9): 4.0 (44.44%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.273	msAil.hmt:1.768 (3) vs msAil.hmt:1.769 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.273	msAint.hmt:1.741 (9) vs msAil.hmt:1.768 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.273	msAint.hmt:1.741 (9) vs msAil.hmt:1.769 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.275	msAil.hmt:1.771 (7) vs msAil.hmt:1.772 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.275	msAil.hmt:1.771 (7) vs msAil.hmt:1.773 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.275	msAil.hmt:1.771 (7) vs msAim.hmt:1.738 (6): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.275	msAil.hmt:1.772 (1) vs msAil.hmt:1.773 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.275	msAim.hmt:1.738 (6) vs msAil.hmt:1.772 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.275	msAim.hmt:1.738 (6) vs msAil.hmt:1.773 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.293	msA.hmt:1.799 (15) vs msAil.hmt:1.826 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.293	msA.hmt:1.799 (15) vs msAil.hmt:1.827 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.293	msA.hmt:1.799 (15) vs msAint.hmt:1.808 (6): 3.0 (50.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.293	msAil.hmt:1.827 (3) vs msAil.hmt:1.826 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.293	msAint.hmt:1.808 (6) vs msAil.hmt:1.826 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.293	msAint.hmt:1.808 (6) vs msAil.hmt:1.827 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.332	msA.hmt:1.929 (18) vs msAil.hmt:1.949 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.332	msA.hmt:1.929 (18) vs msAil.hmt:1.950 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.332	msA.hmt:1.929 (18) vs msAim.hmt:1.939 (12): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.332	msAil.hmt:1.949 (3) vs msAil.hmt:1.950 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.332	msAim.hmt:1.939 (12) vs msAil.hmt:1.949 (3): 1.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.332	msAim.hmt:1.939 (12) vs msAil.hmt:1.950 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.342	msAil.hmt:1.961 (3) vs msAil.hmt:1.960 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.342	msAil.hmt:1.962 (3) vs msAil.hmt:1.960 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.342	msAint.hmt:1.942 (4) vs msAil.hmt:1.960 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.342	msAil.hmt:1.961 (3) vs msAil.hmt:1.962 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.342	msAint.hmt:1.942 (4) vs msAil.hmt:1.961 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.342	msAint.hmt:1.942 (4) vs msAil.hmt:1.962 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.353	msA.hmt:1.988 (16) vs msAil.hmt:1.1005 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.353	msA.hmt:1.988 (16) vs msAil.hmt:1.1006 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.353	msA.hmt:1.988 (16) vs msAim.hmt:1.999 (6): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.353	msAil.hmt:1.1006 (2) vs msAil.hmt:1.1005 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.353	msAim.hmt:1.999 (6) vs msAil.hmt:1.1005 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.353	msAim.hmt:1.999 (6) vs msAil.hmt:1.1006 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.363	msA.hmt:1.994 (37) vs msAil.hmt:1.1015 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.363	msA.hmt:1.994 (37) vs msAil.hmt:1.1016 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.363	msA.hmt:1.994 (37) vs msAil.hmt:1.1017 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.363	msAil.hmt:1.1016 (2) vs msAil.hmt:1.1015 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.363	msAil.hmt:1.1015 (1) vs msAil.hmt:1.1017 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.363	msAil.hmt:1.1016 (2) vs msAil.hmt:1.1017 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.365	msA.hmt:1.995 (10) vs msAil.hmt:1.1019 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.365	msA.hmt:1.995 (10) vs msAil.hmt:1.1020 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.365	msA.hmt:1.995 (10) vs msAil.hmt:1.1021 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.365	msAil.hmt:1.1020 (3) vs msAil.hmt:1.1019 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.365	msAil.hmt:1.1019 (1) vs msAil.hmt:1.1021 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.365	msAil.hmt:1.1020 (3) vs msAil.hmt:1.1021 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.366	msA.hmt:1.996 (165) vs msA.hmt:1.997 (68): 13.0 (19.12%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.366	msA.hmt:1.996 (165) vs msAil.hmt:1.1022 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.366	msA.hmt:1.996 (165) vs msAim.hmt:1.1000 (3): 1.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.366	msA.hmt:1.997 (68) vs msAil.hmt:1.1022 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.366	msA.hmt:1.997 (68) vs msAim.hmt:1.1000 (3): 3.0 (100.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.366	msAim.hmt:1.1000 (3) vs msAil.hmt:1.1022 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.38	msA.hmt:1.38 (153) vs msA.hmt:1.37 (126): 36.0 (28.57%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.38	msA.hmt:1.37 (126) vs msAil.hmt:1.287 (3): 1.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.38	msA.hmt:1.37 (126) vs msAil.hmt:1.288 (4): 1.0 (25.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.38	msA.hmt:1.38 (153) vs msAil.hmt:1.287 (3): 1.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.38	msA.hmt:1.38 (153) vs msAil.hmt:1.288 (4): 3.0 (75.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.38	msAil.hmt:1.288 (4) vs msAil.hmt:1.287 (3): 1.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.39	msA.hmt:1.39 (100) vs msA.hmt:1.40 (74): 18.0 (24.32%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.39	msA.hmt:1.39 (100) vs msA.hmt:1.41 (33): 14.0 (42.42%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.39	msA.hmt:1.39 (100) vs msAint.hmt:1.56 (4): 1.0 (25.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.39	msA.hmt:1.40 (74) vs msA.hmt:1.41 (33): 8.0 (24.24%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.39	msA.hmt:1.40 (74) vs msAint.hmt:1.56 (4): 1.0 (25.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.39	msA.hmt:1.41 (33) vs msAint.hmt:1.56 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.399	msA.hmt:1.1041 (93) vs msAil.hmt:1.1052 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.399	msA.hmt:1.1041 (93) vs msAil.hmt:1.1053 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.399	msA.hmt:1.1041 (93) vs msAil.hmt:1.1054 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.399	msAil.hmt:1.1052 (1) vs msAil.hmt:1.1053 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.399	msAil.hmt:1.1054 (2) vs msAil.hmt:1.1052 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.399	msAil.hmt:1.1054 (2) vs msAil.hmt:1.1053 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.420	msA.hmt:1.1066 (53) vs msA.hmt:1.1065 (11): 2.0 (18.18%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.420	msA.hmt:1.1067 (46) vs msA.hmt:1.1065 (11): 2.0 (18.18%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.420	msA.hmt:1.1065 (11) vs msAim.hmt:1.1074 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.420	msA.hmt:1.1066 (53) vs msA.hmt:1.1067 (46): 6.0 (13.04%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.420	msA.hmt:1.1066 (53) vs msAim.hmt:1.1074 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.420	msA.hmt:1.1067 (46) vs msAim.hmt:1.1074 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.435	msA.hmt:1.1121 (18) vs msA.hmt:1.1123 (18): 1.0 (5.56%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.435	msA.hmt:1.1121 (18) vs msAil.hmt:1.1144 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.435	msA.hmt:1.1121 (18) vs msAim.hmt:1.1134 (6): 1.0 (16.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.435	msA.hmt:1.1123 (18) vs msAil.hmt:1.1144 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.435	msA.hmt:1.1123 (18) vs msAim.hmt:1.1134 (6): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.435	msAim.hmt:1.1134 (6) vs msAil.hmt:1.1144 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.486	msA.hmt:1.1229 (41) vs msA.hmt:1.1230 (10): 2.0 (20.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.486	msA.hmt:1.1229 (41) vs msAil.hmt:1.1247 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.486	msA.hmt:1.1229 (41) vs msAil.hmt:1.1248 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.486	msA.hmt:1.1230 (10) vs msAil.hmt:1.1247 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.486	msA.hmt:1.1230 (10) vs msAil.hmt:1.1248 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.486	msAil.hmt:1.1247 (2) vs msAil.hmt:1.1248 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.499	msAil.hmt:1.1259 (3) vs msAil.hmt:1.1261 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.499	msAil.hmt:1.1262 (6) vs msAil.hmt:1.1259 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.499	msAint.hmt:1.1240 (7) vs msAil.hmt:1.1259 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.499	msAil.hmt:1.1262 (6) vs msAil.hmt:1.1261 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.499	msAint.hmt:1.1240 (7) vs msAil.hmt:1.1261 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.499	msAint.hmt:1.1240 (7) vs msAil.hmt:1.1262 (6): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.513	msAil.hmt:1.1300 (3) vs msAil.hmt:1.1299 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.513	msAil.hmt:1.1299 (1) vs msAil.hmt:1.1301 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.513	msAim.hmt:1.1292 (8) vs msAil.hmt:1.1299 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.513	msAil.hmt:1.1300 (3) vs msAil.hmt:1.1301 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.513	msAim.hmt:1.1292 (8) vs msAil.hmt:1.1300 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.513	msAim.hmt:1.1292 (8) vs msAil.hmt:1.1301 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.528	msA.hmt:1.1332 (46) vs msA.hmt:1.1333 (20): 2.0 (10.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.528	msA.hmt:1.1332 (46) vs msAil.hmt:1.1351 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.528	msA.hmt:1.1332 (46) vs msAil.hmt:1.1352 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.528	msA.hmt:1.1333 (20) vs msAil.hmt:1.1351 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.528	msA.hmt:1.1333 (20) vs msAil.hmt:1.1352 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.528	msAil.hmt:1.1351 (1) vs msAil.hmt:1.1352 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.554	msA.hmt:1.1391 (43) vs msA.hmt:1.1390 (42): 8.0 (19.05%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.554	msA.hmt:1.1390 (42) vs msAil.hmt:1.1411 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.554	msA.hmt:1.1390 (42) vs msAil.hmt:1.1412 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.554	msA.hmt:1.1391 (43) vs msAil.hmt:1.1411 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.554	msA.hmt:1.1391 (43) vs msAil.hmt:1.1412 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.554	msAil.hmt:1.1412 (2) vs msAil.hmt:1.1411 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.607	msA.hmt:1.1497 (22) vs msAil.hmt:1.1505 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.607	msA.hmt:1.1497 (22) vs msAil.hmt:1.1506 (8): 1.0 (12.5%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.607	msA.hmt:1.1497 (22) vs msAint.hmt:1.1503 (17): 2.0 (11.76%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.607	msAil.hmt:1.1506 (8) vs msAil.hmt:1.1505 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.607	msAint.hmt:1.1503 (17) vs msAil.hmt:1.1505 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.607	msAint.hmt:1.1503 (17) vs msAil.hmt:1.1506 (8): 1.0 (12.5%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.65	msA.hmt:1.74 (31) vs msAil.hmt:1.222 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.65	msA.hmt:1.74 (31) vs msAim.hmt:1.85 (5): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.65	msA.hmt:1.74 (31) vs msAint.hmt:1.91 (14): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.65	msAim.hmt:1.85 (5) vs msAil.hmt:1.222 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.65	msAint.hmt:1.91 (14) vs msAil.hmt:1.222 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.65	msAint.hmt:1.91 (14) vs msAim.hmt:1.85 (5): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.69	msA.hmt:1.78 (14) vs msAil.hmt:1.225 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.69	msA.hmt:1.78 (14) vs msAil.hmt:1.226 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.69	msA.hmt:1.78 (14) vs msAil.hmt:1.227 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.69	msAil.hmt:1.225 (1) vs msAil.hmt:1.226 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.69	msAil.hmt:1.227 (2) vs msAil.hmt:1.225 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.69	msAil.hmt:1.227 (2) vs msAil.hmt:1.226 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.71	msA.hmt:1.79 (22) vs msAil.hmt:1.231 (1): 1.0 (100.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.71	msA.hmt:1.79 (22) vs msAil.hmt:1.232 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.71	msA.hmt:1.79 (22) vs msAim.hmt:1.86 (4): 1.0 (25.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.71	msAil.hmt:1.232 (2) vs msAil.hmt:1.231 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.71	msAim.hmt:1.86 (4) vs msAil.hmt:1.231 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.71	msAim.hmt:1.86 (4) vs msAil.hmt:1.232 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.85	msA.hmt:1.96 (26) vs msA.hmt:1.97 (17): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.85	msA.hmt:1.96 (26) vs msAil.hmt:1.148 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.85	msA.hmt:1.96 (26) vs msAim.hmt:1.111 (4): 2.0 (50.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.85	msA.hmt:1.97 (17) vs msAil.hmt:1.148 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.85	msA.hmt:1.97 (17) vs msAim.hmt:1.111 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.85	msAim.hmt:1.111 (4) vs msAil.hmt:1.148 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.86	msA.hmt:1.98 (24) vs msA.hmt:1.99 (8): 1.0 (12.5%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.86	msA.hmt:1.98 (24) vs msAil.hmt:1.149 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.86	msA.hmt:1.98 (24) vs msAil.hmt:1.150 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.86	msA.hmt:1.99 (8) vs msAil.hmt:1.149 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.86	msA.hmt:1.99 (8) vs msAil.hmt:1.150 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:1.86	msAil.hmt:1.150 (4) vs msAil.hmt:1.149 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.258	msA.hmt:10.2504 (53) vs msA.hmt:10.2503 (30): 8.0 (26.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.258	msA.hmt:10.2505 (42) vs msA.hmt:10.2503 (30): 4.0 (13.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.258	msA.hmt:10.2503 (30) vs msAint.hmt:10.2516 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.258	msA.hmt:10.2504 (53) vs msA.hmt:10.2505 (42): 6.0 (14.29%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.258	msA.hmt:10.2504 (53) vs msAint.hmt:10.2516 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.258	msA.hmt:10.2505 (42) vs msAint.hmt:10.2516 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.349	msA.hmt:10.3510 (69) vs msAext.hmt:10.3529 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.349	msA.hmt:10.3510 (69) vs msAim.hmt:10.3519 (4): 1.0 (25.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.349	msA.hmt:10.3510 (69) vs msAint.hmt:10.3523 (10): 4.0 (40.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.349	msAim.hmt:10.3519 (4) vs msAext.hmt:10.3529 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.349	msAint.hmt:10.3523 (10) vs msAext.hmt:10.3529 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.349	msAint.hmt:10.3523 (10) vs msAim.hmt:10.3519 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.359	msA.hmt:10.3545 (14) vs msA.hmt:10.3544 (11): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.359	msA.hmt:10.3544 (11) vs msAim.hmt:10.3554 (5): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.359	msA.hmt:10.3544 (11) vs msAint.hmt:10.3561 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.359	msA.hmt:10.3545 (14) vs msAim.hmt:10.3554 (5): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.359	msA.hmt:10.3545 (14) vs msAint.hmt:10.3561 (3): 1.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.359	msAim.hmt:10.3554 (5) vs msAint.hmt:10.3561 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.364	msA.hmt:10.3548 (30) vs msA.hmt:10.3549 (21): 3.0 (14.29%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.364	msA.hmt:10.3550 (61) vs msA.hmt:10.3548 (30): 9.0 (30.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.364	msA.hmt:10.3548 (30) vs msAim.hmt:10.3555 (1): 1.0 (100.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.364	msA.hmt:10.3550 (61) vs msA.hmt:10.3549 (21): 2.0 (9.52%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.364	msA.hmt:10.3549 (21) vs msAim.hmt:10.3555 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:10.364	msA.hmt:10.3550 (61) vs msAim.hmt:10.3555 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.413	msA.hmt:11.159 (31) vs msA.hmt:11.158 (17): 6.0 (35.29%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.413	msA.hmt:11.158 (17) vs msA.hmt:11.160 (11): 1.0 (9.09%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.413	msA.hmt:11.158 (17) vs msAim.hmt:11.47 (5): 1.0 (20.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.413	msA.hmt:11.159 (31) vs msA.hmt:11.160 (11): 3.0 (27.27%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.413	msA.hmt:11.159 (31) vs msAim.hmt:11.47 (5): 2.0 (40.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.413	msA.hmt:11.160 (11) vs msAim.hmt:11.47 (5): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.421	msA.hmt:11.161 (44) vs msAext.hmt:11.9 (1): 1.0 (100.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.421	msA.hmt:11.161 (44) vs msAim.hmt:11.48 (3): 1.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.421	msA.hmt:11.161 (44) vs msAint.hmt:11.16 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.421	msAim.hmt:11.48 (3) vs msAext.hmt:11.9 (1): 1.0 (100.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.421	msAint.hmt:11.16 (2) vs msAext.hmt:11.9 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.421	msAim.hmt:11.48 (3) vs msAint.hmt:11.16 (2): 1.0 (50.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.686	msA.hmt:11.255 (30) vs msA.hmt:11.254 (17): 4.0 (23.53%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.686	msA.hmt:11.254 (17) vs msAext.hmt:11.15 (1): 1.0 (100.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.686	msA.hmt:11.254 (17) vs msAint.hmt:11.40 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.686	msA.hmt:11.255 (30) vs msAext.hmt:11.15 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.686	msA.hmt:11.255 (30) vs msAint.hmt:11.40 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.686	msAint.hmt:11.40 (3) vs msAext.hmt:11.15 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.688	msA.hmt:11.256 (44) vs msA.hmt:11.257 (29): 7.0 (24.14%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.688	msA.hmt:11.256 (44) vs msAim.hmt:11.82 (5): 2.0 (40.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.688	msA.hmt:11.256 (44) vs msAint.hmt:11.41 (4): 1.0 (25.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.688	msA.hmt:11.257 (29) vs msAim.hmt:11.82 (5): 2.0 (40.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.688	msA.hmt:11.257 (29) vs msAint.hmt:11.41 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:11.688	msAim.hmt:11.82 (5) vs msAint.hmt:11.41 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:12.340	msA.hmt:12.H33 (28) vs msA.hmt:12.H34 (13): 4.0 (30.77%)
+urn:cts:greekLit:tlg0012.tlg001.msA:12.340	msA.hmt:12.H33 (28) vs msAext.hmt:12.H2 (3): 2.0 (66.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:12.340	msA.hmt:12.H33 (28) vs msAint.hmt:12.H4 (5): 3.0 (60.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:12.340	msA.hmt:12.H34 (13) vs msAext.hmt:12.H2 (3): 1.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:12.340	msA.hmt:12.H34 (13) vs msAint.hmt:12.H4 (5): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:12.340	msAint.hmt:12.H4 (5) vs msAext.hmt:12.H2 (3): 2.0 (66.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:14.376	msA.hmt:14.A10 (20) vs msA.hmt:14.A11 (7): 1.0 (14.29%)
+urn:cts:greekLit:tlg0012.tlg001.msA:14.376	msA.hmt:14.A10 (20) vs msAim.hmt:14.A6 (6): 1.0 (16.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:14.376	msA.hmt:14.A10 (20) vs msAint.hmt:14.A2 (12): 1.0 (8.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:14.376	msA.hmt:14.A11 (7) vs msAim.hmt:14.A6 (6): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:14.376	msAint.hmt:14.A2 (12) vs msA.hmt:14.A11 (7): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:14.376	msAint.hmt:14.A2 (12) vs msAim.hmt:14.A6 (6): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.187	msA.hmt:15.56 (93) vs msA.hmt:15.55 (33): 7.0 (21.21%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.187	msA.hmt:15.55 (33) vs msA.hmt:15.57 (27): 6.0 (22.22%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.187	msA.hmt:15.55 (33) vs msAim.hmt:15.28 (6): 2.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.187	msA.hmt:15.56 (93) vs msA.hmt:15.57 (27): 7.0 (25.93%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.187	msA.hmt:15.56 (93) vs msAim.hmt:15.28 (6): 1.0 (16.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.187	msA.hmt:15.57 (27) vs msAim.hmt:15.28 (6): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.189	msA.hmt:15.58 (34) vs msA.hmt:15.59 (19): 3.0 (15.79%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.189	msA.hmt:15.65 (170) vs msA.hmt:15.58 (34): 15.0 (44.12%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.189	msA.hmt:15.58 (34) vs msAint.hmt:15.21 (11): 1.0 (9.09%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.189	msA.hmt:15.65 (170) vs msA.hmt:15.59 (19): 4.0 (21.05%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.189	msA.hmt:15.59 (19) vs msAint.hmt:15.21 (11): 2.0 (18.18%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.189	msA.hmt:15.65 (170) vs msAint.hmt:15.21 (11): 2.0 (18.18%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.694	msAext.hmt:15.22 (2) vs msAext.hmt:15.21 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.694	msAim.hmt:15.73 (2) vs msAext.hmt:15.21 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.694	msAint.hmt:15.53 (12) vs msAext.hmt:15.21 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.694	msAext.hmt:15.22 (2) vs msAim.hmt:15.73 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.694	msAint.hmt:15.53 (12) vs msAext.hmt:15.22 (2): 1.0 (50.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.694	msAint.hmt:15.53 (12) vs msAim.hmt:15.73 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.705	msA.hmt:15.188 (82) vs msA.hmt:15.187 (67): 22.0 (32.84%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.705	msA.hmt:15.187 (67) vs msAext.hmt:15.23 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.705	msA.hmt:15.187 (67) vs msAint.hmt:15.54 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.705	msA.hmt:15.188 (82) vs msAext.hmt:15.23 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.705	msA.hmt:15.188 (82) vs msAint.hmt:15.54 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:15.705	msAext.hmt:15.23 (3) vs msAint.hmt:15.54 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:18.100	msA.hmt:18.40 (46) vs msA.hmt:18.39 (26): 11.0 (42.31%)
+urn:cts:greekLit:tlg0012.tlg001.msA:18.100	msA.hmt:18.41 (50) vs msA.hmt:18.39 (26): 10.0 (38.46%)
+urn:cts:greekLit:tlg0012.tlg001.msA:18.100	msA.hmt:18.39 (26) vs msAim.hmt:18.13 (6): 1.0 (16.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:18.100	msA.hmt:18.41 (50) vs msA.hmt:18.40 (46): 13.0 (28.26%)
+urn:cts:greekLit:tlg0012.tlg001.msA:18.100	msA.hmt:18.40 (46) vs msAim.hmt:18.13 (6): 4.0 (66.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:18.100	msA.hmt:18.41 (50) vs msAim.hmt:18.13 (6): 1.0 (16.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:18.550	msA.hmt:18.198 (26) vs msA.hmt:18.197 (6): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:18.550	msA.hmt:18.197 (6) vs msAext.hmt:18.7 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:18.550	msA.hmt:18.197 (6) vs msAint.hmt:18.48 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:18.550	msA.hmt:18.198 (26) vs msAext.hmt:18.7 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:18.550	msA.hmt:18.198 (26) vs msAint.hmt:18.48 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:18.550	msAint.hmt:18.48 (4) vs msAext.hmt:18.7 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:19.386	msA.hmt:19.hc
+urn:cts:greekLit:tlg0012.tlg001.msA:19.386	12 (53) vs msA.hmt:19.hc
+urn:cts:greekLit:tlg0012.tlg001.msA:19.386	13 (27): 15.0 (55.56%)
+urn:cts:greekLit:tlg0012.tlg001.msA:19.386	msA.hmt:19.hc
+urn:cts:greekLit:tlg0012.tlg001.msA:19.386	12 (53) vs msAext.hmt:19.hc
+urn:cts:greekLit:tlg0012.tlg001.msA:19.386	1 (1): 1.0 (100.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:19.386	msA.hmt:19.hc
+urn:cts:greekLit:tlg0012.tlg001.msA:19.386	12 (53) vs msAint.hmt:19.hc
+urn:cts:greekLit:tlg0012.tlg001.msA:19.386	1 (2): 2.0 (100.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:19.386	msA.hmt:19.hc
+urn:cts:greekLit:tlg0012.tlg001.msA:19.386	13 (27) vs msAext.hmt:19.hc
+urn:cts:greekLit:tlg0012.tlg001.msA:19.386	1 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:19.386	msA.hmt:19.hc
+urn:cts:greekLit:tlg0012.tlg001.msA:19.386	13 (27) vs msAint.hmt:19.hc
+urn:cts:greekLit:tlg0012.tlg001.msA:19.386	1 (2): 1.0 (50.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:19.386	msAint.hmt:19.hc
+urn:cts:greekLit:tlg0012.tlg001.msA:19.386	1 (2) vs msAext.hmt:19.hc
+urn:cts:greekLit:tlg0012.tlg001.msA:19.386	1 (1): 1.0 (100.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.111	msA.hmt:2.169 (220) vs msA.hmt:2.168 (35): 12.0 (34.29%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.111	msA.hmt:2.168 (35) vs msAil.hmt:2.197 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.111	msA.hmt:2.168 (35) vs msAil.hmt:2.198 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.111	msA.hmt:2.169 (220) vs msAil.hmt:2.197 (3): 2.0 (66.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.111	msA.hmt:2.169 (220) vs msAil.hmt:2.198 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.111	msAil.hmt:2.197 (3) vs msAil.hmt:2.198 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.115	msA.hmt:2.172 (15) vs msA.hmt:2.173 (14): 1.0 (7.14%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.115	msA.hmt:2.172 (15) vs msAil.hmt:2.202 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.115	msA.hmt:2.172 (15) vs msAil.hmt:2.203 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.115	msA.hmt:2.173 (14) vs msAil.hmt:2.202 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.115	msA.hmt:2.173 (14) vs msAil.hmt:2.203 (3): 1.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.115	msAil.hmt:2.203 (3) vs msAil.hmt:2.202 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.122	msA.hmt:2.177 (22) vs msAil.hmt:2.214 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.122	msA.hmt:2.177 (22) vs msAil.hmt:2.215 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.122	msA.hmt:2.177 (22) vs msAim.hmt:2.189 (7): 1.0 (14.29%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.122	msAil.hmt:2.214 (1) vs msAil.hmt:2.215 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.122	msAim.hmt:2.189 (7) vs msAil.hmt:2.214 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.122	msAim.hmt:2.189 (7) vs msAil.hmt:2.215 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.125	msA.hmt:2.180 (70) vs msA.hmt:2.181 (14): 4.0 (28.57%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.125	msA.hmt:2.180 (70) vs msAil.hmt:2.216 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.125	msA.hmt:2.180 (70) vs msAim.hmt:2.190 (8): 2.0 (25.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.125	msA.hmt:2.181 (14) vs msAil.hmt:2.216 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.125	msA.hmt:2.181 (14) vs msAim.hmt:2.190 (8): 1.0 (12.5%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.125	msAim.hmt:2.190 (8) vs msAil.hmt:2.216 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.137	msAext.hmt:2.271 (5) vs msAil.hmt:2.247 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.137	msAext.hmt:2.271 (5) vs msAil.hmt:2.248 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.137	msAext.hmt:2.271 (5) vs msAil.hmt:2.249 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.137	msAil.hmt:2.248 (3) vs msAil.hmt:2.247 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.137	msAil.hmt:2.247 (1) vs msAil.hmt:2.249 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.137	msAil.hmt:2.248 (3) vs msAil.hmt:2.249 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.148	msA.hmt:2.229 (26) vs msAil.hmt:2.258 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.148	msA.hmt:2.229 (26) vs msAil.hmt:2.259 (6): 3.0 (50.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.148	msA.hmt:2.229 (26) vs msAim.hmt:2.240 (5): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.148	msAil.hmt:2.259 (6) vs msAil.hmt:2.258 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.148	msAim.hmt:2.240 (5) vs msAil.hmt:2.258 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.148	msAil.hmt:2.259 (6) vs msAim.hmt:2.240 (5): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.155	msA.hmt:2.234 (54) vs msA.hmt:2.235 (23): 2.0 (8.7%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.155	msA.hmt:2.234 (54) vs msAil.hmt:2.267 (5): 2.0 (40.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.155	msA.hmt:2.234 (54) vs msAil.hmt:2.268 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.155	msA.hmt:2.235 (23) vs msAil.hmt:2.267 (5): 1.0 (20.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.155	msA.hmt:2.235 (23) vs msAil.hmt:2.268 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.155	msAil.hmt:2.267 (5) vs msAil.hmt:2.268 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.164	msA.hmt:2.274 (54) vs msAil.hmt:2.292 (2): 2.0 (100.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.164	msA.hmt:2.274 (54) vs msAil.hmt:2.293 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.164	msA.hmt:2.274 (54) vs msAint.hmt:2.286 (10): 2.0 (20.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.164	msAil.hmt:2.292 (2) vs msAil.hmt:2.293 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.164	msAint.hmt:2.286 (10) vs msAil.hmt:2.292 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.164	msAint.hmt:2.286 (10) vs msAil.hmt:2.293 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.192	msA.hmt:2.308 (33) vs msA.hmt:2.309 (33): 5.0 (15.15%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.192	msA.hmt:2.308 (33) vs msAil.hmt:2.348 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.192	msA.hmt:2.308 (33) vs msAil.hmt:2.349 (10): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.192	msA.hmt:2.309 (33) vs msAil.hmt:2.348 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.192	msA.hmt:2.309 (33) vs msAil.hmt:2.349 (10): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.192	msAil.hmt:2.349 (10) vs msAil.hmt:2.348 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.193	msA.hmt:2.310 (21) vs msAil.hmt:2.350 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.193	msA.hmt:2.310 (21) vs msAil.hmt:2.351 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.193	msA.hmt:2.310 (21) vs msAil.hmt:2.352 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.193	msAil.hmt:2.350 (2) vs msAil.hmt:2.351 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.193	msAil.hmt:2.350 (2) vs msAil.hmt:2.352 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.193	msAil.hmt:2.351 (1) vs msAil.hmt:2.352 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.204	msA.hmt:2.316 (86) vs msA.hmt:2.314 (23): 7.0 (30.43%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.204	msA.hmt:2.314 (23) vs msAil.hmt:2.365 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.204	msA.hmt:2.314 (23) vs msAil.hmt:2.366 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.204	msA.hmt:2.316 (86) vs msAil.hmt:2.365 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.204	msA.hmt:2.316 (86) vs msAil.hmt:2.366 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.204	msAil.hmt:2.365 (2) vs msAil.hmt:2.366 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.207	msA.hmt:2.325 (4) vs msAil.hmt:2.367 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.207	msAim.hmt:2.330 (10) vs msA.hmt:2.325 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.207	msA.hmt:2.325 (4) vs msAint.hmt:2.337 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.207	msAim.hmt:2.330 (10) vs msAil.hmt:2.367 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.207	msAint.hmt:2.337 (3) vs msAil.hmt:2.367 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.207	msAim.hmt:2.330 (10) vs msAint.hmt:2.337 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.269	msA.hmt:2.427 (65) vs msA.hmt:2.426 (23): 2.0 (8.7%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.269	msA.hmt:2.428 (70) vs msA.hmt:2.426 (23): 5.0 (21.74%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.269	msA.hmt:2.426 (23) vs msAil.hmt:2.441 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.269	msA.hmt:2.428 (70) vs msA.hmt:2.427 (65): 19.0 (29.23%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.269	msA.hmt:2.427 (65) vs msAil.hmt:2.441 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.269	msA.hmt:2.428 (70) vs msAil.hmt:2.441 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.36	msA.hmt:2.54 (17) vs msA.hmt:2.25 (14): 2.0 (14.29%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.36	msA.hmt:2.25 (14) vs msAil.hmt:2.75 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.36	msA.hmt:2.25 (14) vs msAim.hmt:2.69 (14): 1.0 (7.14%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.36	msA.hmt:2.54 (17) vs msAil.hmt:2.75 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.36	msA.hmt:2.54 (17) vs msAim.hmt:2.69 (14): 2.0 (14.29%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.36	msAim.hmt:2.69 (14) vs msAil.hmt:2.75 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.43	msA.hmt:2.57 (25) vs msA.hmt:2.58 (23): 3.0 (13.04%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.43	msA.hmt:2.57 (25) vs msAil.hmt:2.84 (2): 1.0 (50.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.43	msA.hmt:2.57 (25) vs msAil.hmt:2.85 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.43	msA.hmt:2.58 (23) vs msAil.hmt:2.84 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.43	msA.hmt:2.58 (23) vs msAil.hmt:2.85 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.43	msAil.hmt:2.84 (2) vs msAil.hmt:2.85 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.99	msA.hmt:2.125 (66) vs msAil.hmt:2.160 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.99	msA.hmt:2.125 (66) vs msAil.hmt:2.161 (5): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.99	msA.hmt:2.125 (66) vs msAint.hmt:2.143 (21): 4.0 (19.05%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.99	msAil.hmt:2.161 (5) vs msAil.hmt:2.160 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.99	msAint.hmt:2.143 (21) vs msAil.hmt:2.160 (1): 1.0 (100.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:2.99	msAint.hmt:2.143 (21) vs msAil.hmt:2.161 (5): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.108	msA.hmt:3.179 (29) vs msAil.hmt:3.697 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.108	msA.hmt:3.179 (29) vs msAil.hmt:3.698 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.108	msA.hmt:3.179 (29) vs msAil.hmt:3.699 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.108	msAil.hmt:3.697 (2) vs msAil.hmt:3.698 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.108	msAil.hmt:3.697 (2) vs msAil.hmt:3.699 (2): 1.0 (50.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.108	msAil.hmt:3.698 (2) vs msAil.hmt:3.699 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.122	msA.hmt:3.191 (29) vs msAil.hmt:3.701 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.122	msA.hmt:3.191 (29) vs msAim.hmt:3.694 (14): 3.0 (21.43%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.122	msA.hmt:3.191 (29) vs msAint.hmt:3.192 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.122	msAim.hmt:3.694 (14) vs msAil.hmt:3.701 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.122	msAint.hmt:3.192 (3) vs msAil.hmt:3.701 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.122	msAim.hmt:3.694 (14) vs msAint.hmt:3.192 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.126	msA.hmt:3.201 (24) vs msA.hmt:3.691 (22): 19.0 (86.36%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.126	msA.hmt:3.201 (24) vs msAil.hmt:3.703 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.126	msA.hmt:3.201 (24) vs msAint.hmt:3.692 (14): 1.0 (7.14%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.126	msA.hmt:3.691 (22) vs msAil.hmt:3.703 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.126	msA.hmt:3.691 (22) vs msAint.hmt:3.692 (14): 1.0 (7.14%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.126	msAint.hmt:3.692 (14) vs msAil.hmt:3.703 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.182	msA.hmt:3.711 (82) vs msAil.hmt:3.715 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.182	msA.hmt:3.711 (82) vs msAim.hmt:3.712 (9): 1.0 (11.11%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.182	msA.hmt:3.711 (82) vs msAim.hmt:3.713 (12): 3.0 (25.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.182	msAim.hmt:3.712 (9) vs msAil.hmt:3.715 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.182	msAim.hmt:3.713 (12) vs msAil.hmt:3.715 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.182	msAim.hmt:3.713 (12) vs msAim.hmt:3.712 (9): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.354	msA.hmt:3.518 (22) vs msA.hmt:3.514 (15): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.354	msA.hmt:3.753 (42) vs msA.hmt:3.514 (15): 3.0 (20.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.354	msA.hmt:3.514 (15) vs msAim.hmt:3.756 (7): 1.0 (14.29%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.354	msA.hmt:3.753 (42) vs msA.hmt:3.518 (22): 5.0 (22.73%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.354	msA.hmt:3.518 (22) vs msAim.hmt:3.756 (7): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:3.354	msA.hmt:3.753 (42) vs msAim.hmt:3.756 (7): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:4.109	msA.hmt:4.186 (43) vs msA.hmt:4.185 (12): 2.0 (16.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:4.109	msA.hmt:4.801 (25) vs msA.hmt:4.185 (12): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:4.109	msA.hmt:4.185 (12) vs msAint.hmt:4.187 (3): 1.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:4.109	msA.hmt:4.186 (43) vs msA.hmt:4.801 (25): 3.0 (12.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:4.109	msA.hmt:4.186 (43) vs msAint.hmt:4.187 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:4.109	msA.hmt:4.801 (25) vs msAint.hmt:4.187 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:4.308	msA.hmt:4.495 (65) vs msAext.hmt:4.841 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:4.308	msA.hmt:4.495 (65) vs msAil.hmt:4.839 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:4.308	msA.hmt:4.495 (65) vs msAim.hmt:4.836 (5): 3.0 (60.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:4.308	msAil.hmt:4.839 (2) vs msAext.hmt:4.841 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:4.308	msAim.hmt:4.836 (5) vs msAext.hmt:4.841 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:4.308	msAim.hmt:4.836 (5) vs msAil.hmt:4.839 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:5.249	msA.hmt:5.1072 (28) vs msA.hmt:5.1074 (17): 8.0 (47.06%)
+urn:cts:greekLit:tlg0012.tlg001.msA:5.249	msA.hmt:5.1072 (28) vs msAil.hmt:5.6106 (3): 1.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:5.249	msA.hmt:5.1072 (28) vs msAint.hmt:5.6097 (4): 3.0 (75.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:5.249	msA.hmt:5.1074 (17) vs msAil.hmt:5.6106 (3): 1.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:5.249	msA.hmt:5.1074 (17) vs msAint.hmt:5.6097 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:5.249	msAint.hmt:5.6097 (4) vs msAil.hmt:5.6106 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:5.252	msA.hmt:5.1073 (17) vs msAext.hmt:5.6101 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:5.252	msA.hmt:5.1073 (17) vs msAil.hmt:5.6107 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:5.252	msA.hmt:5.1073 (17) vs msAint.hmt:5.6098 (6): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:5.252	msAil.hmt:5.6107 (4) vs msAext.hmt:5.6101 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:5.252	msAint.hmt:5.6098 (6) vs msAext.hmt:5.6101 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:5.252	msAint.hmt:5.6098 (6) vs msAil.hmt:5.6107 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:5.39	msA.hmt:5.1014 (75) vs msA.hmt:5.1016 (15): 2.0 (13.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:5.39	msA.hmt:5.1014 (75) vs msAim.hmt:5.6012 (5): 3.0 (60.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:5.39	msA.hmt:5.1014 (75) vs msAint.hmt:5.6018 (7): 2.0 (28.57%)
+urn:cts:greekLit:tlg0012.tlg001.msA:5.39	msA.hmt:5.1016 (15) vs msAim.hmt:5.6012 (5): 1.0 (20.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:5.39	msA.hmt:5.1016 (15) vs msAint.hmt:5.6018 (7): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:5.39	msAint.hmt:5.6018 (7) vs msAim.hmt:5.6012 (5): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.160	msA.hmt:6.56 (18) vs msA.hmt:6.55 (7): 1.0 (14.29%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.160	msA.hmt:6.57 (26) vs msA.hmt:6.55 (7): 1.0 (14.29%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.160	msA.hmt:6.55 (7) vs msAil.hmt:6.A8 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.160	msA.hmt:6.57 (26) vs msA.hmt:6.56 (18): 4.0 (22.22%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.160	msA.hmt:6.56 (18) vs msAil.hmt:6.A8 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.160	msA.hmt:6.57 (26) vs msAil.hmt:6.A8 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.226	msA.hmt:6.76 (76) vs msAil.hmt:6.A12 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.226	msA.hmt:6.76 (76) vs msAim.hmt:6.233 (7): 1.0 (14.29%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.226	msA.hmt:6.76 (76) vs msAint.hmt:6.179 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.226	msAim.hmt:6.233 (7) vs msAil.hmt:6.A12 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.226	msAint.hmt:6.179 (3) vs msAil.hmt:6.A12 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.226	msAim.hmt:6.233 (7) vs msAint.hmt:6.179 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.237	msA.hmt:6.80 (6) vs msAil.hmt:6.289 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.237	msA.hmt:6.80 (6) vs msAil.hmt:6.290 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.237	msA.hmt:6.80 (6) vs msAint.hmt:6.180 (6): 5.0 (83.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.237	msAil.hmt:6.289 (2) vs msAil.hmt:6.290 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.237	msAint.hmt:6.180 (6) vs msAil.hmt:6.289 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.237	msAint.hmt:6.180 (6) vs msAil.hmt:6.290 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.248	msA.hmt:6.88 (26) vs msAim.hmt:6.236 (11): 2.0 (18.18%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.248	msA.hmt:6.88 (26) vs msAim.hmt:6.237 (5): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.248	msA.hmt:6.88 (26) vs msAint.hmt:6.181 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.248	msAim.hmt:6.236 (11) vs msAim.hmt:6.237 (5): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.248	msAim.hmt:6.236 (11) vs msAint.hmt:6.181 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.248	msAim.hmt:6.237 (5) vs msAint.hmt:6.181 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.518	msA.hmt:6.159 (59) vs msA.hmt:6.158 (54): 13.0 (24.07%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.518	msA.hmt:6.158 (54) vs msA.hmt:6.160 (38): 9.0 (23.68%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.518	msA.hmt:6.158 (54) vs msAim.hmt:6.280 (5): 2.0 (40.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.518	msA.hmt:6.159 (59) vs msA.hmt:6.160 (38): 10.0 (26.32%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.518	msA.hmt:6.159 (59) vs msAim.hmt:6.280 (5): 3.0 (60.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:6.518	msA.hmt:6.160 (38) vs msAim.hmt:6.280 (5): 2.0 (40.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:7.410	msA.hmt:7.3053 (9) vs msAil.hmt:7.3018 (5): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:7.410	msA.hmt:7.3053 (9) vs msAil.hmt:7.3019 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:7.410	msA.hmt:7.3053 (9) vs msAil.hmt:7.3020 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:7.410	msAil.hmt:7.3018 (5) vs msAil.hmt:7.3019 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:7.410	msAil.hmt:7.3018 (5) vs msAil.hmt:7.3020 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:7.410	msAil.hmt:7.3020 (3) vs msAil.hmt:7.3019 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:7.6	msA.hmt:7.2 (12) vs msA.hmt:7.3 (12): 1.0 (8.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:7.6	msA.hmt:7.2 (12) vs msAext.hmt:7.22 (2): 1.0 (50.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:7.6	msA.hmt:7.2 (12) vs msAint.hmt:7.15 (6): 2.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:7.6	msA.hmt:7.3 (12) vs msAext.hmt:7.22 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:7.6	msA.hmt:7.3 (12) vs msAint.hmt:7.15 (6): 1.0 (16.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:7.6	msAint.hmt:7.15 (6) vs msAext.hmt:7.22 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:7.8	msA.hmt:7.6 (70) vs msA.hmt:7.4 (17): 3.0 (17.65%)
+urn:cts:greekLit:tlg0012.tlg001.msA:7.8	msA.hmt:7.4 (17) vs msAint.hmt:7.16 (9): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:7.8	msA.hmt:7.4 (17) vs msAint.hmt:7.17 (11): 3.0 (27.27%)
+urn:cts:greekLit:tlg0012.tlg001.msA:7.8	msA.hmt:7.6 (70) vs msAint.hmt:7.16 (9): 1.0 (11.11%)
+urn:cts:greekLit:tlg0012.tlg001.msA:7.8	msA.hmt:7.6 (70) vs msAint.hmt:7.17 (11): 3.0 (27.27%)
+urn:cts:greekLit:tlg0012.tlg001.msA:7.8	msAint.hmt:7.17 (11) vs msAint.hmt:7.16 (9): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:8.213	msA.hmt:8.152 (116) vs msA.hmt:8.153 (71): 34.0 (47.89%)
+urn:cts:greekLit:tlg0012.tlg001.msA:8.213	msA.hmt:8.152 (116) vs msA.hmt:8.154 (116): 46.0 (39.66%)
+urn:cts:greekLit:tlg0012.tlg001.msA:8.213	msA.hmt:8.152 (116) vs msAim.hmt:8.159 (6): 4.0 (66.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:8.213	msA.hmt:8.154 (116) vs msA.hmt:8.153 (71): 33.0 (46.48%)
+urn:cts:greekLit:tlg0012.tlg001.msA:8.213	msA.hmt:8.153 (71) vs msAim.hmt:8.159 (6): 3.0 (50.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:8.213	msA.hmt:8.154 (116) vs msAim.hmt:8.159 (6): 2.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:8.441	msA.hmt:8.274 (49) vs msA.hmt:8.275 (33): 6.0 (18.18%)
+urn:cts:greekLit:tlg0012.tlg001.msA:8.441	msA.hmt:8.274 (49) vs msAim.hmt:8.281 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:8.441	msA.hmt:8.274 (49) vs msAint.hmt:8.286 (5): 2.0 (40.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:8.441	msA.hmt:8.275 (33) vs msAim.hmt:8.281 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:8.441	msA.hmt:8.275 (33) vs msAint.hmt:8.286 (5): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:8.441	msAint.hmt:8.286 (5) vs msAim.hmt:8.281 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.143	msA.hmt:9.159 (13) vs msA.hmt:9.158 (11): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.143	msA.hmt:9.158 (11) vs msAil.hmt:9.182 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.143	msA.hmt:9.158 (11) vs msAim.hmt:9.168 (6): 1.0 (16.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.143	msA.hmt:9.159 (13) vs msAil.hmt:9.182 (3): 1.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.143	msA.hmt:9.159 (13) vs msAim.hmt:9.168 (6): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.143	msAim.hmt:9.168 (6) vs msAil.hmt:9.182 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.167	msA.hmt:9.188 (88) vs msAext.hmt:9.200 (2): 1.0 (50.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.167	msA.hmt:9.188 (88) vs msAil.hmt:9.203 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.167	msA.hmt:9.188 (88) vs msAim.hmt:9.687 (5): 1.0 (20.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.167	msAext.hmt:9.200 (2) vs msAil.hmt:9.203 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.167	msAim.hmt:9.687 (5) vs msAext.hmt:9.200 (2): 1.0 (50.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.167	msAim.hmt:9.687 (5) vs msAil.hmt:9.203 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.209	msA.hmt:9.221 (14) vs msA.hmt:9.222 (7): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.209	msA.hmt:9.221 (14) vs msAil.hmt:9.240 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.209	msA.hmt:9.221 (14) vs msAil.hmt:9.241 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.209	msA.hmt:9.222 (7) vs msAil.hmt:9.240 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.209	msA.hmt:9.222 (7) vs msAil.hmt:9.241 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.209	msAil.hmt:9.240 (1) vs msAil.hmt:9.241 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.214	msA.hmt:9.245 (22) vs msA.hmt:9.244 (10): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.214	msA.hmt:9.244 (10) vs msAil.hmt:9.263 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.214	msA.hmt:9.244 (10) vs msAim.hmt:9.258 (6): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.214	msA.hmt:9.245 (22) vs msAil.hmt:9.263 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.214	msA.hmt:9.245 (22) vs msAim.hmt:9.258 (6): 1.0 (16.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.214	msAim.hmt:9.258 (6) vs msAil.hmt:9.263 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.225	msA.hmt:9.254 (33) vs msA.hmt:9.255 (25): 7.0 (28.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.225	msA.hmt:9.254 (33) vs msAext.hmt:9.262 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.225	msA.hmt:9.254 (33) vs msAim.hmt:9.260 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.225	msA.hmt:9.255 (25) vs msAext.hmt:9.262 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.225	msA.hmt:9.255 (25) vs msAim.hmt:9.260 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.225	msAim.hmt:9.260 (2) vs msAext.hmt:9.262 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.381	msAext.hmt:9.369 (10) vs msAil.hmt:9.373 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.381	msAext.hmt:9.369 (10) vs msAil.hmt:9.374 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.381	msAext.hmt:9.369 (10) vs msAim.hmt:9.365 (8): 1.0 (12.5%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.381	msAil.hmt:9.373 (3) vs msAil.hmt:9.374 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.381	msAim.hmt:9.365 (8) vs msAil.hmt:9.373 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.381	msAim.hmt:9.365 (8) vs msAil.hmt:9.374 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.472	msA.hmt:9.439 (32) vs msAil.hmt:9.463 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.472	msA.hmt:9.439 (32) vs msAim.hmt:9.448 (4): 2.0 (50.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.472	msA.hmt:9.439 (32) vs msAint.hmt:9.452 (6): 2.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.472	msAim.hmt:9.448 (4) vs msAil.hmt:9.463 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.472	msAint.hmt:9.452 (6) vs msAil.hmt:9.463 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.472	msAint.hmt:9.452 (6) vs msAim.hmt:9.448 (4): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.562	msA.hmt:9.527 (119) vs msA.hmt:9.528 (28): 13.0 (46.43%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.562	msA.hmt:9.527 (119) vs msAil.hmt:9.540 (3): 1.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.562	msA.hmt:9.527 (119) vs msAim.hmt:9.531 (7): 4.0 (57.14%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.562	msA.hmt:9.528 (28) vs msAil.hmt:9.540 (3): 2.0 (66.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.562	msA.hmt:9.528 (28) vs msAim.hmt:9.531 (7): 3.0 (42.86%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.562	msAim.hmt:9.531 (7) vs msAil.hmt:9.540 (3): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.632	msA.hmt:9.600 (20) vs msAil.hmt:9.612 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.632	msA.hmt:9.600 (20) vs msAil.hmt:9.613 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.632	msA.hmt:9.600 (20) vs msAim.hmt:9.603 (11): 3.0 (27.27%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.632	msAil.hmt:9.612 (1) vs msAil.hmt:9.613 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.632	msAim.hmt:9.603 (11) vs msAil.hmt:9.612 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.632	msAim.hmt:9.603 (11) vs msAil.hmt:9.613 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.653	msA.hmt:9.618 (18) vs msAil.hmt:9.636 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.653	msA.hmt:9.618 (18) vs msAim.hmt:9.624 (8): 1.0 (12.5%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.653	msA.hmt:9.618 (18) vs msAint.hmt:9.627 (6): 1.0 (16.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.653	msAim.hmt:9.624 (8) vs msAil.hmt:9.636 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.653	msAint.hmt:9.627 (6) vs msAil.hmt:9.636 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.653	msAim.hmt:9.624 (8) vs msAint.hmt:9.627 (6): 2.0 (33.33%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.685	msA.hmt:9.643 (10) vs msAil.hmt:9.659 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.685	msA.hmt:9.643 (10) vs msAil.hmt:9.660 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.685	msA.hmt:9.643 (10) vs msAint.hmt:9.651 (7): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.685	msAil.hmt:9.659 (1) vs msAil.hmt:9.660 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.685	msAint.hmt:9.651 (7) vs msAil.hmt:9.659 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.685	msAint.hmt:9.651 (7) vs msAil.hmt:9.660 (1): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.694	msA.hmt:9.662 (37) vs msA.hmt:9.697 (34): 2.0 (5.88%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.694	msA.hmt:9.662 (37) vs msAim.hmt:9.668 (12): 2.0 (16.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.694	msA.hmt:9.662 (37) vs msAint.hmt:9.670 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.694	msA.hmt:9.697 (34) vs msAim.hmt:9.668 (12): 5.0 (41.67%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.694	msA.hmt:9.697 (34) vs msAint.hmt:9.670 (2): 0.0 (0.0%)
+urn:cts:greekLit:tlg0012.tlg001.msA:9.694	msAim.hmt:9.668 (12) vs msAint.hmt:9.670 (2): 0.0 (0.0%)

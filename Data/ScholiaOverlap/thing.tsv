@@ -1,7 +1,7 @@
-	Number of Lines with only one scholion	Number of lines with more than one scholion
-Main	1857	916
-Im	629	581
-Int	375	485
-Il	1266	436
-Ext	89	142
-Total	4216	1535
+	Number of Lines with only one scholion	Number of lines with more than one scholion, but from same zone	Number of lines with more than one scholion
+Main	1857		916
+Im	629		581
+Int	375		485
+Il	1266		436
+Ext	89		142
+Total	4216		1535

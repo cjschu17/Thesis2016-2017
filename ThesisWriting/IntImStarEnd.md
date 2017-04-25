@@ -33,7 +33,7 @@ Beyond just the frequency of scholia, the last chapter demonstrated a number of 
 
 Still, even if Dindorf's model has been proven to be incorrect by the evidence provided in the previous chapter, the evidence does not definitively prove that the model adopted by the Homer Multitext project is the correct one either. While it has been shown that the four zones across the bifolio cannot be considered identical, it is possible that there is a different and more correct way of modelling this area of the Venetus A than splitting it up into intermarginal scholia and interior scholia. For example, it is entirely possible that this area of the manuscript page should be more accurately divided into scholia which comment on the beginning of a line and scholia which comment on the end of a line. A picture of this proposed model in shown below:
 
-![StartEnd](https://github.com/cjschu17/Thesis2016-2017/raw/master/images/12v13rSE.jpg)
+![StartEnd](../images/12v13rSE.jpg)
 
 One should notice that this is the same exact bifolio spread as shown above, except that in this picture the red and blue zones represent different zones of the manuscript. On each folio shown above, the text of the *Iliad* is situated in between the red and blue zones, and since Greek is read from left-to-right like English, the beginning of the *Iliad* line on each page lies next to the red zone while the end of the line lies next to the blue zone. This alternate model of these two zones of scholia is certainly plausible. Would it not make sense if a scholion were to comment on the last word of a line for it to be placed directly adjacent to the first word in the blue zone, and conversely if a scholion were to comment on the first word of a line for it to be placed directly adjacent to that first word in the red zone?
 
@@ -81,7 +81,7 @@ So at this point, it appears that both models are completely valid ways of divvy
 
 In order to directly compare these two models, I decided to strip away all assumptions about the four columns which were being classified as being either belonging to the intermarginal-interior model or the start-end model. Once these four columns were isolated, the features of the individual columns could be analyzed and their features could be compared to the two existing models. If there seemed to be a model that the features of the four independent columns fit better with, than that model must be the correct way to classify these four columns. For the sake of clarity, the picture below demonstrates how these four columns will be referred to in the upcoming analysis.
 
-![StartEndImInt](https://github.com/cjschu17/Thesis2016-2017/raw/master/images/StartEndImInt.jpg)
+![StartEndImInt](../images/StartEndImInt.jpg)
 
 The labels are simply the composite of that columns identity under the two possible models. So the leftmost column is considered an intermarginal scholion in the intermarginal-interior model and a start-of-line scholion in the start-end model.
 

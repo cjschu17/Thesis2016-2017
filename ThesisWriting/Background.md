@@ -54,7 +54,7 @@ Very often scholia on lines which have critical signs will begin with some sort 
 
 The above discussion of exploring critical signs and content is the first real hint of the type of questions this thesis is interested in exploring. However, before diving into any statistics, one of the hallmarks of the Homer Multitext project is its focus on visual evidence. This chapter began by asserting that the format of a text can be just as important as its content, thus it seems appropriate to spend some time addressing the manuscript's form. 
 
-![12r](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/12r.jpg)
+![12r](../images/12r.jpg)
 
 Pictured above is the first page, or folio, of the Venetus A manuscript which contains text of the *Iliad*. Admittedly, this folio, folio 12 recto, is a misrepresentation of the average manuscript page as few folii come close to rivaling 12r in terms of scholia density. Still, due to this exaggerated density, it is a very useful folio for demonstrating the general layout of the manuscript.
 
@@ -62,7 +62,7 @@ Pictured above is the first page, or folio, of the Venetus A manuscript which co
 
 In the middle of every manuscript page, highlighted in the picture above, are the verses of the *Iliad* and almost every folio contains exactly twenty-five lines of the poem. Every other mark or letter that is not highlighted in the above picture constitutes this folio's scholia. 
 
-![12rZones](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/DSE2.JPG)
+![12rZones](../images/DSE2.JPG)
 
 Even for someone who did not know any Greek, it is clear the scholia do not form a singular document. Rather the scholia are divided into five distinct zones. As, but as Mary Ebbott notes in a 2011 talk on the Venetus A and multiformity, "It's impossible to just read it from top to bottom, left to right" (2011). The above picture illustrates more easily the five distinct sets of scholia, as each color represents a different set. As one can see from the distribution, the different sets of scholia are distributed evenly among the manuscript, but rather each set occupies a unique zone of the manuscript page. The naming conventions for each set of scholia are rather straightforward as a set’s name intuitively reflects its position on the page. Thus those blue scholia located in between the *Iliad* text and the inner binding of the codex are referred to as the interior scholia. Similarly the green scholia located on the outer edge furthest from the binding of codex are the exterior scholia. The main set of scholia, located in the primary margin and highlighted in yellow are simply referred to as the main scholia. The scholia highlighted in red, located in the margin between the *Iliad* text and the main scholia are the intermarginal scholia. Finally, the scholia highlighted which are located in between the lines of the *Iliad* are simply referred to as the interlinear scholia. In this picture they are not highlighted by any color. 
 

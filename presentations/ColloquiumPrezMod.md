@@ -13,7 +13,7 @@ Advisor: Prof. Neel Smith, Classics Dept.
 
 ---
 
-## Venetus A (Marcianus Gr. Z. 454)
+## Venetus A (Marcianus Gr. Z. 454): Text & Scholia
 
 Folio 12r
 

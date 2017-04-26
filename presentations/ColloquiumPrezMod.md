@@ -68,9 +68,11 @@ Book 2 Subscription
 
 
 
-##  Why five distinct zones?
+##  Why important? Scholia Overlap
 
-![Folio12Again](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/DSE2.JPG)
+*Iliad* Lines|Lines With Scholia|Lines w/ Overlapping Scholia
+--- | --- |  ---
+~12000|4216 (35%)|1167 (9.7%)
 
 ---
 
@@ -86,6 +88,19 @@ Book 2 Subscription
 
 
 ---
+
+## Overlapping content: Scholia share at least 3 words
+
+Scholia|Frequency
+---|---  
+Total Main (Green)|3604
+Total Im (Red)|1231
+Total Int (Blue)|816
+Main & Im|100
+Main & Int|65
+Im & Int|7
+
+--- 
 
 ## LDA Topic Modeling
 

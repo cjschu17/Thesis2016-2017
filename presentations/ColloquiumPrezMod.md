@@ -93,7 +93,7 @@ Book 2 Subscription
 
 Scholia|Frequency
 ---|---  
-Total Main (Green)|3604
+Total Main (Yellow)|3604
 Total Im (Red)|1231
 Total Int (Blue)|816
 Main & Im|100

@@ -40,7 +40,7 @@ Folio 12r
 
 ---
 
-## Cited Sources
+## Internal Evidence of Function
 
 Book 2 Subscription
 

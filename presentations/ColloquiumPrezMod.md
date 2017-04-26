@@ -95,10 +95,7 @@ Scholia|Frequency
 ---|---  
 Total Main (Yellow)|3604
 Total Im (Red)|1231
-Total Int (Blue)|816
 Main & Im|100
-Main & Int|65
-Im & Int|7
 
 --- 
 

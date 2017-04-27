@@ -40,22 +40,7 @@ Folio 12r
 
 ---
 
-## Internal evidence of function
-
-Book 2 Subscription
-
-
-![Folio 41v](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/Book2Subscription.jpg)
-
-
-
-παράκειται τὰ Ἀριστονίκου σημεῖα καὶ τὰ  Διδύμου περι τῆς Ἀρισταρχείου διορθώσεως· τινὰ δὲ καὶ ἐκ τῆς Ἰλιακῆς προσωδίας Ἡρωδιανου καὶ ἐκ  τοῦ Νικάνορος περὶ στιγμης⁑
-
-
-
----
-
-## Subscription
+## Subscription: internal evidence for zone functions
 
 >Lying beside [the text of the *Iliad*] are the following works:
 >
@@ -66,13 +51,19 @@ Book 2 Subscription
 
 ---
 
-
-
 ##  Why important? Scholia Overlap
 
 *Iliad* Lines|Lines With Scholia|Lines w/ Overlapping Scholia
 --- | --- |  ---
 ~12000|4216 (35%)|1167 (9.7%)
+
+---
+
+
+##  Previous scholarship
+
+![Folio 12r again](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/DSE2.JPG)
+
 
 ---
 
@@ -84,18 +75,6 @@ Book 2 Subscription
   - account for features of discourse
 - Incorporate layout zone in analysis
 - Scholia are a huge corpus (148,978 words in 18 books)
-
-
-
----
-
-## Overlapping content: Scholia share at least 3 words
-
-Scholia|Frequency
----|---  
-Total Main (Yellow)|3604
-Total Im (Red)|1231
-Main & Im|100
 
 --- 
 
@@ -154,10 +133,16 @@ Folios 12v and 13r
 
 ---
 
+
+![StartEndImInt](https://github.com/cjschu17/Thesis2016-2017/raw/master/images/StartEndImInt.jpg)
+
+
+---
+
 ## Types of Discourse
 
 - Direct discourse
-- Indirect discourse
+- Indirect discourse (quotes)
 
 ---
 

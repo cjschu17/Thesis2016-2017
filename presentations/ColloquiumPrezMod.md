@@ -186,7 +186,7 @@ Folios 12v and 13r
 - Professor Mary Ebbott, reader
 - Professor Thomas Köntges, developer of ToPan
 - Professor Eric Ruggieri, statistics consult
-- Professor Susan Sweeny and CHP
+- Professor Susan Sweeney and CHP
 - Classics Department
 
 

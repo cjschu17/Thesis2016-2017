@@ -28,8 +28,6 @@ Folio 12r
 - **Venetus A manuscript (10th c. C.E.)**
 - Thesis Work (21st c. C.E.)
 
-
-
 ---
 
 
@@ -59,11 +57,9 @@ Folio 12r
 
 ---
 
-
 ##  Previous scholarship
 
 ![Folio 12r again](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/images/DSE2.JPG)
-
 
 ---
 
@@ -84,9 +80,7 @@ Latent Dirichlect Allocation:
 
 - repeating patterns of co-occurring words
 - requires a heavily prepared corpus:
-    - eliminate common words
-    - reduce words to a single form
-
+    - eliminate common words, e.g.
 
 ---
 

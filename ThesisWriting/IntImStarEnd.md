@@ -4,13 +4,13 @@ By contrast, this chapter will focus on a more specific question. Namely, it see
 
 This sort of question highlights the advantage of distant reading to separate scholars from innate biases and reach conclusions based solely on hard evidence. I say this because since my time working in the Homer Multitext project, never has it been explained to me why the scholia are divided into the intermarginal and interior scholia. Looking at the a single folio of the Venetus A below demonstrates how the Homer Multitext project has traditionally thought of these two zones of the scholia:
 
-![12r](../images/DSE2.JPG)
+![12r](./images/DSE2.JPG)
 
 The above picture shows folio 12 recto. The zone on the folio highlighted in red represent the intermarginal zone while the zone in blue represent the interior zone. This division by the Homer Multitext project follows the divisions put forth by Hartmut Erbse in his 1969 edition of the scholia to the Iliad (xiv). However, Erbse's division is not the only division present in the history of scholarship on this manuscript. In Karl Dindorf's prior 1875 edition of the Venetus A scholia, he presents no difference between the scholia now referred to as intermarginal scholia and the scholia now referred to as interior scholia. According to Dindorf, there should be no separate red and blue zones as seen in the picture above, but they should be treated as a single zone.
 
 Dindorf in his preface explicitly recognizes only three zones of scholia: marginal, intermarginal, and interlinear. Dindorf's "marginal" scholia are equivalent to the HMT's main scholia (seen above in yellow), and both have the same conception of what an "interlinear" scholion is (Dindorf, ix). Dindorf's description of intermarginal scholia is a bit harder to figure out. He writes that "very short scholia hold a middle place in between the marginal scholia and the *Iliad* text which we 'intermarginal' (Dindorf, vii). This short definition fits perfectly with the Homer Multitext definition of the intermarginal scholia, which can be seen in the previous photo in red. Dindorf, however, clarifies his definition saying, "that is, the intermarginal scholia are the scholia which have been inserted in the narrow space of the interior margin which remains in between the marginal scholia and the *Iliad* text" (Dindorf, vii). What is troubling about this description is the phrase "interior margin," which has a particular meaning according to the Homer Multitext conventions. To the HMT, "interior margin" refers only to the blue zones seen in the picture above. This is a seemingly contradictory definition, until one thinks about the Venetus A as a bifolio rather than as a manuscript consisted of individual folios:
 
-![ImInt](../images/12v13rImInt.jpg)
+![ImInt](./images/12v13rImInt.jpg)
 
 In the above picture, the two red zones correspond to the same intermarginal zones and the two blue zones correspond to the same interior zones. As one can see in the bifolio spread, one the left, or verso, page, the intermarginal zone appears first then the interior, when reading left to right, while on the right, or recto page, the interior zone appears first then the intermarginal.
 
@@ -22,10 +22,10 @@ Dindorf is one of the foremost scholars when it comes to the Iliadic scholia, th
 
 It is easiest to combat Dindorf's initial thinking that there is no difference between the two zones. As seen in the last chapter, there is a significant difference just in the sheer frequency of intermarginal and interior scholia.
 
-| Type of Scholia | Number of Scholia 
-| --- | --- 
-| Intermarginal Scholia | 1220 
-| Interior Scholia | 819 
+| Type of Scholia | Number of Scholia
+| --- | ---
+| Intermarginal Scholia | 1220
+| Interior Scholia | 819
 
 It would be unlikely that, were there no actual difference in the two zones, that one would observe there being roughly 1.5 times more intermarginal than interior scholia. If there truly was no difference, one would expect instead for there to be a nearly equal number of intermarginal and interior scholia.
 
@@ -33,7 +33,7 @@ Beyond just the frequency of scholia, the last chapter demonstrated a number of 
 
 Still, even if Dindorf's model has been proven to be incorrect by the evidence provided in the previous chapter, the evidence does not definitively prove that the model adopted by the Homer Multitext project is the correct one either. While it has been shown that the four zones across the bifolio cannot be considered identical, it is possible that there is a different and more correct way of modelling this area of the Venetus A than splitting it up into intermarginal scholia and interior scholia. For example, it is entirely possible that this area of the manuscript page should be more accurately divided into scholia which comment on the beginning of a line and scholia which comment on the end of a line. A picture of this proposed model in shown below:
 
-![StartEnd](../images/12v13rSE.jpg)
+![StartEnd](./images/12v13rSE.jpg)
 
 One should notice that this is the same exact bifolio spread as shown above, except that in this picture the red and blue zones represent different zones of the manuscript. On each folio shown above, the text of the *Iliad* is situated in between the red and blue zones, and since Greek is read from left-to-right like English, the beginning of the *Iliad* line on each page lies next to the red zone while the end of the line lies next to the blue zone. This alternate model of these two zones of scholia is certainly plausible. Would it not make sense if a scholion were to comment on the last word of a line for it to be placed directly adjacent to the first word in the blue zone, and conversely if a scholion were to comment on the first word of a line for it to be placed directly adjacent to that first word in the red zone?
 
@@ -58,30 +58,30 @@ The difference in the proportion of indirect discourse words is smaller than the
 Finally, it was investigated whether start and end of line scholia differed at all in their content, or if finally content was one area which was identical between the two zones. Whereas in the last chapter there was an analysis of personal names which appeared in one zone or the other, this analysis was passed over entirely. Instead, I examined immediately the data from the topic model, searching for any odd patterns of scholia distribution amongst the main, start of line, and end of line scholia. So, again for reference, below is the general frequency of these three zones of the scholia across the Venetus A:
 
 | Type of Scholia | Number of Scholia | Percentage of the Manuscript
-| --- | --- | --- 
+| --- | --- | ---
 | Main Scholia | 3601 | 63.9%
 | Start-of-line Scholia | 1255 | 22.3%
 | End-of-line Scholia | 783 | 13.9%
 
 
-Again, if the difference between start-of-line and end-of-line scholia were truly meaningless, then the distribution of scholia within each of the topics should roughly mirror the above frequency of scholia throughout the Venetus A. For almost all this topics this generally holds true. There were only three topics which did not obey the expected frequency distribution, wherein main scholia would constitute the largest proportion of the topic's scholia, start-of-line would constitute the second largest proportion, and end-of-line scholia would have the smallest proportions. These were topics 1, 6, and 9 which correspond to topics on accentuation, 
+Again, if the difference between start-of-line and end-of-line scholia were truly meaningless, then the distribution of scholia within each of the topics should roughly mirror the above frequency of scholia throughout the Venetus A. For almost all this topics this generally holds true. There were only three topics which did not obey the expected frequency distribution, wherein main scholia would constitute the largest proportion of the topic's scholia, start-of-line would constitute the second largest proportion, and end-of-line scholia would have the smallest proportions. These were topics 1, 6, and 9 which correspond to topics on accentuation,
 The work of Zenodotus and Aristophanes separate from Aristarchus, and the work of Aristarchus, respectively. In the case of topics 1 and 6, start and end of line scholia were seen to be represented equally in each of the two topics. Since one would expect, given the typical frequency distribution of start and end of line scholia, that there should be a larger proportion of start-of-line scholia, one can show that, at least in both cases, the topic seems to have a higher concentration within interior scholia than intermarginal scholia. In other words, the two zones do seem to differ in their content since the distribution of content does not follow the expected distribution of scholia across the Venetus A.
 
 Strengthening this argument is the distribution of scholia which are closely associated with topic 9, the Aristarchus topic. In the previous chapter, topic 9 was instrumental in demonstrating that some of the content of scholia is zone-specific since topic 9 was disproportionately concentrated within the intermarginal scholia. Here too, the topic 9 is disproportionately more concentrated within the start-of-line than even the intermarginal scholia.
 
 | Type of Scholia | Number of Scholia | Percentage of the Manuscript
-| --- | --- | --- 
+| --- | --- | ---
 main scholia|45|32.61%
 start scholia|73|52.9%
 end scholia|20|14.49%
 
-The 52.9% of the scholia which are strongly associated with topic 9 shows that it appears with far greater frequency within that topic than it does in the Venetus A, in general, where it only shows up with a frequency of 22.3%. So again, this point highlights the fact that the start-of-line and end-of-line model cannot be easily ignored. Clearly topic 9 is far more concentrated in the start-of-line scholia, suggesting that start-of-line and end-of-line scholia should also not be treated the same. 
+The 52.9% of the scholia which are strongly associated with topic 9 shows that it appears with far greater frequency within that topic than it does in the Venetus A, in general, where it only shows up with a frequency of 22.3%. So again, this point highlights the fact that the start-of-line and end-of-line model cannot be easily ignored. Clearly topic 9 is far more concentrated in the start-of-line scholia, suggesting that start-of-line and end-of-line scholia should also not be treated the same.
 
 So at this point, it appears that both models are completely valid ways of divvying of this area of the Venetus A manuscript. Both the intermarginal-interior and the start-end models presents models which allow for two clearly distinct zones with obvious differences in language and content. However, just because two models work does not mean that both are correct. In fact, the start-end model seems to be merely mirroring almost exactly the data from the intermarginal-interior model. So, if one were to assume that the intermarginal0inteerior model were the correct model, then whatever similar observations are made about the differences between the start-of=line and end-of-line scholia is merely observing same exact observations just categorized different. The same can be said about the observed differences between intermarginal and interior scholia if the start-end model were assumed to be true. Only by directly comparing the two models against one another can a conclusion about which model is better and therefore how best to label this area of the manuscript page.
 
 In order to directly compare these two models, I decided to strip away all assumptions about the four columns which were being classified as being either belonging to the intermarginal-interior model or the start-end model. Once these four columns were isolated, the features of the individual columns could be analyzed and their features could be compared to the two existing models. If there seemed to be a model that the features of the four independent columns fit better with, than that model must be the correct way to classify these four columns. For the sake of clarity, the picture below demonstrates how these four columns will be referred to in the upcoming analysis.
 
-![StartEndImInt](../images/StartEndImInt.jpg)
+![StartEndImInt](./images/StartEndImInt.jpg)
 
 The labels are simply the composite of that columns identity under the two possible models. So the leftmost column is considered an intermarginal scholion in the intermarginal-interior model and a start-of-line scholion in the start-end model.
 
@@ -95,7 +95,7 @@ As for which analysis would be most effective, it was decided that the discourse
 | Start Int    | 3385 (88.27%)             | 450 (**11.73%**)            | 3835                |
 | End Im       | 2638 (85.23%)             | 457 (**14.77%**)            | 3095                |
 
-Initial analysis reveals an interesting pattern. The frequencies of indirect discourse words in the two intermarginal columns (start im & end im) differ by only 1.21%. The corresponding frequencies in the two interior columns (start int & end int) differ only by 2.09%. By contrast the two start columns (start im & start int) differ in frequency of indirect discourse words by 4.25% while the two end columns (end im & end int) differ in their frequencies by 5.13%. Thus it appears that the intermarginal-interior model is stronger than the start-end model, since the frequencies associated with the intermarginal-interior model appeared more similar than those of the start-end model. However, it should be noted that the differences are slight, and one may wonder if the 2.09% difference between the frequencies of the two interior columns is really that much better an indicator of similarity than the 4.25% difference between the frequencies of the two start columns. 
+Initial analysis reveals an interesting pattern. The frequencies of indirect discourse words in the two intermarginal columns (start im & end im) differ by only 1.21%. The corresponding frequencies in the two interior columns (start int & end int) differ only by 2.09%. By contrast the two start columns (start im & start int) differ in frequency of indirect discourse words by 4.25% while the two end columns (end im & end int) differ in their frequencies by 5.13%. Thus it appears that the intermarginal-interior model is stronger than the start-end model, since the frequencies associated with the intermarginal-interior model appeared more similar than those of the start-end model. However, it should be noted that the differences are slight, and one may wonder if the 2.09% difference between the frequencies of the two interior columns is really that much better an indicator of similarity than the 4.25% difference between the frequencies of the two start columns.
 
 In order to test this, a Z-test for proportions was carried out in order to compare the difference in frequencies between the start, end, intermarginal, and interior columns. The results of this test are shown below:
 

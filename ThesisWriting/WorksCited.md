@@ -22,5 +22,3 @@ Smith, D. Neel and Nikolas Churik. "Design and Layout of the Richest Manuscript 
 West, Martin L. Editor. *Ilias*, by Homer. Preface. *De Gruyter*, 2012, pp. v - xxxvii.
 
 Wolf, Friedrich A. *Prolegomena to Homer, 1795*. Translated by Anthony Grafton. Princeton UP, 1985.
-
-Author(s). "Title of Article." Title of Journal, Volume, Issue, Year, pages.

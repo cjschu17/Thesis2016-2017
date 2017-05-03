@@ -10,31 +10,13 @@ More about topic modelling, and the problems it poses for replicable and reliabl
 
 Where these observations become less clear is in the interior and intermarginal scholia. For all intents and purposes, these two scholia share the same amount of space on the manuscript page, and to the naked eye, the individual comments tend to be about equal in length. Here, then, is the advantage of digital technologies. The current data from the Homer Multitext archive includes the completely edited edition of seventeen books from the Venetus A edition of the *Iliad* including all the scholia from that book. The only books missing from this analysis are books 13, 16, and 20-24. Even with an incomplete corpus of scholia, the HMT edition of the scholia includes 148,978 words, which is a sizable enough corpus that members of the HMT feel comfortable asserting that this sample will be representative of the entire corpus of Venetus A scholia. It should be noted that since the scripts which were used to create this data are included in the GitHub repository for my thesis work, any and all of these results should be updated once the entirety of the Venetus A scholia are edited and made available. With all that said, it is time to turns to the data.
 
-
-| Type of Scholia | Number of Scholia | Median Length in Words | Mean Length in Words | Standard Deviation |
-| --- | --- | --- | --- | --- | 
-| Main Scholia | 3601 | 24 | 33.78 | 31.06 |
-| Intermarginal Scholia | 1220 | 6 | 7.1 | 3.97 |
-| Interior Scholia | 819 | 7 | 7.66 | 5.74 |
-| Interlinear Scholia | 2067 | 2 | 2.31 | 1.88 |
-| Exterior Scholia | 233 | 1 | 4.19 | 28.56 |
+![Scholia Zone Length in Words](../images/LengthOfScholInWords.png)
 
 The above chart describes the length of scholia, grouped by scholia zone. Length here is defined by the number of words in the scholia. In all these calculations, only the actual comment of the scholia was considered, so the words of the lemma were not included in the various calculations. As discussed above, the main scholia are unsurprisingly the longest scholia, with the average scholion consisting of 33.78 words, and the interlinear scholia are unsurprisingly the shortest scholia, with the average scholion consisting of 2.31 words. The main and interlinear scholia also sit at the two extremes for the values of standard deviation. The large variance for the main scholia is expected as some main scholia are as short as a few words, while others easily go on for at least one hundred words. Again, this fits the accepted view of the main scholia's function in providing space for expanded discussions of grammar, mythology, etc. as well as more clipped notes. On the other hand, the low standard deviation for the interlinear scholia (1.88), combined with its low mean number of words (2.31) confirms the matches the expectation that the interlinear scholia are mostly used to provide short glosses on words and phrases in the *Iliad* text.
 
 As discussed above, however, confirming that the main and interlinear scholia are definitively different from one another is not necessarily that exciting. What would be of more interest would be a significant difference between the intermarginal and interior scholia. Just based on the descriptive statistics, the two do not appear all that different. Both have an average length of about 7 words, though the interior are a bit longer on average (7.66 words on average for the interior versus 7.1 words for the intermarginal). However, the standard deviation for the two throws uncertainty over the significance of this slight difference. With a standard deviation of 5.74 for the interior and 3.97 for the intermarginal, the two sets of scholia definitely overlap in terms of scholia length. Since it is not apparent from just looking at the descriptive statistics, inferential statistics are required in order to determine if there is a statistically significant difference between the average length of the intermarginal scholia and the average length of the interior scholia.
 
-| Types of Scholia | t-value | Statistically Significant (for p < 0.05, t > 1.96) |
-| --- | --- | --- |
-| Main and Intermarginal | 50.35 | Statistically Significant |
-| Main and Interior | 47.06 | Statistically Significant |
-| Main and Interlinear | 60.61 | Statistically Significant |
-| Main and Exterior | 15.24 | Statistically Significant |
-| **Intermarginal and Interior** | **2.44** | **Statistically Significant** |
-| Intermarginal and Interlinear | 39.56 | Statistically Significant |
-| Intermarginal and Exterior | 1.55 | not statistically Significant |
-| Interior and Interlinear | 26.14 | Statistically Significant |
-| Interior and Exterior | 1.84 | not Statistically Significant |
-| Interlinear and Exterior | 1.01 | not statistically Significant |
+![T-Test Comparing Average Lengths of Scholia Zones](../images/lengthTTEst1.png)
 
 The above table is the result of a Welch's t-Test, which is able to compare to samples of data in order to conclude if the difference in their means are statistically significant. Since the number of scholia is so large, with the lowest occurring zones being the 233, it was assumed that there were essentially infinite degrees of freedom when conducting these tests. Unsurprisingly, given the previous discussion, the difference between the main and interlinear scholia was extremely significant, with a t-score of 60.61. In fact, all the t-tests where the main scholia were one of the sets of data were extremely statistically significant. This only reaffirms the fact already put forth by scholars that the main scholia are home to a particular set of scholia that are not found in the other zones of scholia.
 
@@ -42,24 +24,14 @@ To return to the intermarginal and interior scholia, a t-Test found there to be 
 
 As for the rest of t-tests, it is unsurprising that most of them demonstrate that there are statistically significant differences between the types of scholia. Only two of the tests could not demonstrate that the types of scholia were significantly different. However, both of the instances involved the exterior scholia, a particularly confusing zone of scholia. As the descriptive statistics demonstrate, the median length of an exterior scholion is one, but its mean is 4.19 and its standard deviation 28.56. This suggests that there are a few exterior scholia which are extremely wordy, and that these outliers are skewing the data. In fact, while at least half of the exterior scholia are just a single word, there is one exterior on folio 154v that is composed of 436 words. Such an extreme outlier is without a doubt skewing the data. So after removing this single scholia from the dataset, I re-ran the t-tests and came up with the results below.  As predicted, the removal of the outlier scholion allowed the difference between intermarginal and exterior to become statistically significant. Thus, there should be no doubt that these two zones of scholia contains different types of comments. 
 
-Types of Scholia|T-value|Statistically Significant (for p < 0.05, t > 1.96)
---- | --- | ---
-Main and Exterior|56.92|Statistically Significant
-Intermarginal and Exterior|21.25|Statistically Significant
-Interior and Exterior|19.14|Statistically Significant
-Interlinear and Exterior|0.11|not statistically Significant
+
+![Revised T-test for Length of Scholia Zones](../images/lengthTTest2.png)
 
 As for the interlinear and exterior scholia, this particular test was unable to show them as being any different, and this should not be particularly exciting. Both zones of scholia mostly contain comments that consist of a single word. 82.24% of the interlinear scholia are 3 or fewer words, while a similar 84.55% of exterior scholia are 3 or fewer words. So further tests will be required to demonstrate if there is any difference among these zones of scholia.
 
 Before further linguistic tests, there is one more facet of the scholia that can be investigated without having to really read a single scholion. As stated previously, the HMT edition of the Venetus A scholia breaks a scholion into three distinct portions which is reflected in three separate `<div>` elements per scholion. One of the `<div>` elements is the comment of the scholion, the second is a URN for the line of the *Iliad* which the scholion is commenting on. The final division and element of a scholion is its lemma. Again, this "lemma" is different from the meaning of "lemma" from chapter 2. In chapter 2, "lemma" referred to the form of a word one would use to look it up in a dictionary. In terms of the structure of the Venetus A, a "lemma" is a quotation from the line which is being commented on and is included at the beginning of a scholion. Thus the lemma acts as a footnote of sorts linking a scholion with the *Iliad*. In Myriam Hecquet's discussion of the paleography of the Venetus A, she describes that the lemmata of the main scholia are written in a distinct style of handwriting, but does mention that lemmata appear in any other type of scholia (Hecquet, 79-80). Thus it is worth investigating if Hecquet's implicit conclusion has any weight to it. In other words, do zones of scholia besides the main scholia have lemmata, and if so how many? Although lemmata are only expected in the main scholia, every zone of the scholia is edited by the HMT such that if a lemma should appear it can treated wrong. Thus I could simply search the lemmata for each of the zones of scholia and see how many of those scholia actually had content in them and were not simply blank. The results are shown below:
 
-Type of Scholia|Number of Scholia with a Lemma|Total Number of Scholia
----|---|---
-Main Scholia|3456 (95.81%)|3607
-IntermarginalScholia|5 (0.41%)|1223
-Interior Scholia|5 (0.61%)|823
-Interlinear Scholia|0 (0.00%)|2064|
-Exterior Scholia|1 (0.42%)|240
+![Number of Lemmata per Zone](../images/lemmata.png)
 
 Unsurprisingly, the main scholia are the zone of scholia which have the most scholia. Though such a conclusion is a bit understatement. More accurately, seeing a lemma in any of the scholia that are not the main scholia is downright rare. In the case of the interlinear scholia, there are no lemmata at all. Since there were so few lemmata on non-main scholia, it was rather simple to look into those instances where these lemmata appeared. In two instances (urn:cts:greekLit:tlg5026.msAim.hmt:11.4 and urn:cts:greekLit:tlg5026.msAim.hmt:17.17) the two intermarginal scholia appeared outside of the space typically associated with that particular zone. Intermarginal scholia usually appear in the vertical margin between the *Iliad* text and the main scholia. However the former scholion appears in the upper horizontal margin above the *Iliad* text and below the main scholia and the latter scholion appears in the lower horizontal margin below the *Iliad* text and above the main scholia. Further research would have to be done on intermarginal scholia that appear in these two margins, but it seems fair to say that their position makes them odd already. Beyond this, there is little that one can say definitively about the presence of lemmata in non-main scholia given this limited dataset. 9 out of the 11 non-main scholia with lemmata appear on pages that are extremely packed with comments in the main scholia. Thus, it is tempting to conclude that these scholia with lemmata are simply cases where the scholiast ran out of room in the main scholia zone and thus decided to record the scholia somewhere else. However, if this were true, it should also be true that whenever a manuscript page is full with main scholia, there should be some non-main scholia with lemmata. While a formal investigation into this matter has not been conducted, anecdotal evidence can substitute well enough. There are countless folios of the Venetus A which are completely filled to the brim with scholia, yet still contain no lemmata outside the main scholia. The first page of the *Iliad* text, folio 12r, serves as a prime example of this point since the nearly every margin of the page is completely filled yet there is not a single lemmata beyond the main scholia. In other words, while a formal analysis would be preferred, previous experience with the Venetus A has taught me that if there were supposed to be some link between pages with full main scholia zones and lemmata in the non-main scholia, there should be way more than 11 lemmata in the main scholia.
 
@@ -69,23 +41,13 @@ Ultimately, these observations confirms expectations about the purpose of the le
 
 With the larger, more general forms of text analysis accomplished, there can begin a movement into the actual text of the scholia. One of the first analyses conducted was a look into the kinds of employed in the different zones of the scholia. There are two main kinds of discourse in the scholia: direct and indirect discourse. Direct discourse refers to words that appear to come directly from the scribe himself. So, for example, the main scholion to first line of the *Iliad* wonders why the poems begins as it does. It reads, "They question why [the poet] started in this way from the wrath [and] from the ill-omened name (ζητοῦσι δια τί ἀπὸ τῆς μήνιδος ἤρξατο οὕτως δυσφήμου ὀνόματος, urn:cts:greekLit:tlg5026.msA.hmt:1.1.comment). While the scribe of the Venetus A may be simply copying this sentence from a previous scholiast, but there is no indication given that this sentence comes from any other source than the scribe himself. Thus it is considered direct discourse. By contrast, indirect discourse are words that are obviously derived from a source other than the scribe's own mind. These include cited quotations from the *Iliad*, Greek tragedy, other ancient scholars, etc. Any time, the text can definitively attributed to a different source, it is indirect discourse. Regardless of the specific type of indirect discourse, all words written in indirect discourse are marked up in the Homer Multitext's edition with the TEI element `<q>`. Thus, it is rather simple to identify what words are written in direct or indirect discourse. Below is the distribution of the two types of discourse by zone of scholia. It should be noted that scholia from Book 3 and 6 were excluded from this analysis since these two books were edited at a time in the HMT which did same editorial standards as those today.
 
-| Scholia Type  | Words in Indirect Discourse | Words in Direct Discourse | Total Words |
-|---|---|---|---|
-|Main Scholia|12537 (10.34%)|108689 (89.66%)|121226|
-|Intermarginal Scholia|1241 (15.19%)|6929 (84.81%)|8170|
-|Interior Scholia|641 (10.68%)|5361 (89.32%)|6002|
-|Interlinear Scholia|45 (0.94%)|4755 (99.06%)|4800
-|Exterior Scholia|52 (11.16%)|414 (88.84%)|466|
+![Discourse Measurements by Scholia Zone](../images/discource1.png)
 
 There are number of things to say about the data above, but what is most clear is that direct voice is, by far the most pervasive type of discourse for each of the types of scholia. This is especially true of the interlinear scholia, 99% of whose words are written in direct discourse. Again, this is consistent with the common usage of the interlinear scholia to provide a Byzantine gloss on the *Iliad* text. According to HMT editorial conventions, these interlinear glosses are considered "direct discourse" thus the high percentage of direct discourse is not surprising.
 
 What is perhaps surprising is the similarity in the distribution of the types of discourse among the main, intermarginal, and interior scholia. As mentioned previously, prior scholarship has furthered some theories about the relationship between these three zones of the scholia, including the idea that many intermarginal scholia are summaries of longer main scholia. Here, however, it appears there is a definitive difference between the distribution of direct and indirect discourse between the intermarginal scholia and the other two zones. In fact, running a Z-score test on proportions revealed that the intermarginal scholia had a significantly different distribution of the discourse from both the main and interior scholia. In order for a difference to statistically different, the probability of the two datasets being the same needs to be less than 5%, which occurs when there is a Z-score greater than 1.96. The data is displayed in the table below.
 
-Zones Being Compared|Z-Score|Significance (p < 0.05)
----|---|---
-intermarginal & main|13.76|Statisically Significant
-intermarginal & interior|	7.39|Statisically Significant
-main & interior|1.43|Not Statistically Significant
+![Z-test for Proportion on Discourse Data](../images/discourseZTest1.png)
 
 While this particularly dataset shows that the distribution of direct and indirect discourse to be essentially for the main and interior scholia, one should not conclude that these two zones have identical content. This dataset says nothing about definitive about the content of scholia, just the systematic use of language in the two zones.
 
@@ -93,15 +55,7 @@ Furthermore, it worth looking into the further classification of indirect discou
 
 While both types of indirect discourse are set apart by the TEI element for a quote `<q>`, quoted text has additional mark-up to allow for a URN citation of where the quote is coming from. Given these mark-up conventions, the table below details the distribution of the two types of indirect discourse by each zone of the scholia. 
 
-
-Type Of Scholia|Words in Quoted Text|Words in Quoted Language|Total Words in Indirect Discourse
----|---|---|---
-Main|6383.(52.67%)|5737 (47.33%)|12120
-Intermarginal|88 (7.4%)|1101 (92.6%)|1189
-Interior|53 (8.44%)|575 (91.56%)|628
-Interlinear|4 (8.89%)|41 (91.11%)|45
-Exterior|	0 (0.0%)|52 (100.0%)|52
-Non-Main |145 (7.58%)|1769.0 (92.42%)|1914
+![Indirect Discourse Measurements by Zone](../images/discourse2.png)
 
 The most striking detail of the above table is how the main scholia are the only zone of the scholia to utilize quoted text to any meaningful degree, with 53% of the words in indirect discourse relating being a quoted text word. By contrast, quoted text comprises only about 7% to 9% of the indirect discourse words for intermarginal, interior, and interlinear scholia, and none of the indirect discourse for the exterior scholia. When a Z-score test for proportions was run on this dataset, all of the non-main scholia were combined into a single data point, and this is represented in table above with the row labeled "Non-Main". Comparing distribution of quoted text and quoted language words between the main and non-main scholia resulted in a Z-score of 36.75. To repeat, in order to achieve be a statistically significant difference, the Z-score must be above 1.96, which corresponds to there being a less than 5% chance that the two datasets are the same. A Z-score of 36.75 corresponds with there being a less than 0.001% chance of the two datasets being identical. Thus, it can be stated with great confidence that the distribution of words within indirect discourse differs significantly between the main scholia and the non-main scholia.
 
@@ -113,21 +67,12 @@ In sum, he different types of discourse employed in the five scholia zones, part
 
 One rather simple method for assessing content is to look at what names appear most frequently in each of the five zones of the scholia. Named entities can give a deal of insight into the content and purpose of various scholia. If a scholion abounds in in characters from characters from the *Iliad*, for example this might mean that the scholia is explaining a particular plot point, mythology, or is dealing with quotes from the text. On the other hand, if a scholion is full of famous ancient grammarians, the reader can guess that grammar is that sholion's focus. To start off this analysis, the table below presents total number instances of a name appearing compared to the total number of words in each scholia zone.
 
-Scholia Zone|Frequency of any name|Words in scholia zone|Ratio of all names to all words
----|---|---|---
-Main|3951|112206|3.52%
-Intermarginal|401|7763|5.17%
-Interior|236|5678|4.16%
-Interlinear|56|4658|1.2%
-Exterior|27|963|2.8%
+
+![Ratio of Names to All Word per Scholia Zone](../images/names.png)
 
 This beginning analysis is, again, more focused on the language and composition of the various zones than interested in the content, per se. Were a particular zone to have a very large proportion of personal names, one would assume that it served a fundamentally different purpose than one which contained nearly no personal names. This dataset contains no such clear cut difference when looking at the proportions. Particularly, among the main, intermarginal, and interior scholia there is a difference of, at most 1.5%. A Z-test for proportions, however, reveals that the difference among all three zones is indeed significant.
 
-Scholia Zones|Z-score|Significance (p < 0.05)
----|---|---
-main & im|7.49|Statisically Significant
-main & int|2.52|Statisically Significant
-im & int|2.72|Statisically Significant
+![Z-test for Proportions on Ratio of Names to Words per Scholia Zone](../images/namesZScore.png)
 
 Although there is a statistically significant difference, it is worth noting that this difference, which is only 0.64% between the main and interior zone, may not practically significant, in isolation. However, within the content of the rest of the data presented up to this point, it acts as further support for the argument that these three zones differ in fundamental compositional aspects and should not be treated as coming from the same source.
 
@@ -186,6 +131,8 @@ When considering just the two topic models run on the clean data, the similarity
 While it is certainly significant that using a topic model to analyze the content of the scholia works, a successful topic model is not an end in itself. ToPan provides data such that one can examine the relationship between scholia and topics in two ways. For example, one can analyze the relationship with respect to scholia, meaning that for each scholion, which topics are contributing the most to its content. However, I chose to analyze the relationship with respect to topic, meaning that for each topic which scholia are most strongly associated with it.  
 
 In order to conduct such analysis, I made use of the data-tables created by ToPan. The original data table for the first run on clean data is located [here](https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/Data/TopicModelData/theta.csv). However, a sample table is shown below:
+
+![Sample theta table](../images/SampleToPanTable.png)
 
 Scholion Indentifier|Comment Text| Topic 1 Score | Topic 2 Score
 ---|---|---|---

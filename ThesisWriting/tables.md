@@ -83,3 +83,38 @@ im & int|2.72|Statisically Significant
 main scholia| 45 |32.61%
 intermarginal scholia| 65|47.1%
 interior scholia| 28|20.29%
+
+| Type of Scholia | Number of Scholia
+| --- | ---
+| Intermarginal Scholia | 1220
+| Interior Scholia | 819
+
+| Type of Scholia | Number of Scholia |
+|:----------------|:------------------|
+| Start of Line   | 1255              |
+| End of Line     | 783               |
+
+Scholia Type|Number of words in Indirect Discourse|Number of Words in Direct Discourse|Number of Words
+---|---|---|---
+Start of line|1182 (14.04%)|7234 (85.96%)|8416
+End of line|635 (12.85%)|4306 (87.15%)|4941
+
+| Type of Scholia | Number of Scholia | Percentage of the Manuscript
+| --- | --- | ---
+| Main Scholia | 3601 | 63.9%
+| Start-of-line Scholia | 1255 | 22.3%
+| End-of-line Scholia | 783 | 13.9%
+
+| Scholia zone | Words in direct discourse | Words in indirect discourse | Total words in zone |
+|:-------------|:--------------------------|:----------------------------|:--------------------|
+| Start Im     | 3849 (84.02%)             | 732 (**15.98%**)            | 4581                |
+| End Int      | 1668 (90.36%)             | 178 (**9.64%**)             | 1846                |
+| Start Int    | 3385 (88.27%)             | 450 (**11.73%**)            | 3835                |
+| End Im       | 2638 (85.23%)             | 457 (**14.77%**)            | 3095                |
+
+| Columns Being Compared | Z-Score | Significance (p < 0.01)       |
+|:---------------------|:--------|:------------------------------|
+| Start Columns | 5.58    | Statistically Significant      |
+| End Columns    | 5.21    | Statistically Significant      |
+| Intermarginal Columns   | 1.44    | Not Statistically Significant |
+| Interior Columns  | 2.35    | Not Statistically Significant |

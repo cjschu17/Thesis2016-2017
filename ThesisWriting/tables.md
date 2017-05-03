@@ -105,6 +105,12 @@ End of line|635 (12.85%)|4306 (87.15%)|4941
 | Start-of-line Scholia | 1255 | 22.3%
 | End-of-line Scholia | 783 | 13.9%
 
+| Type of Scholia | Number of Scholia | Percentage of the Manuscript
+| --- | --- | ---
+main scholia|45|32.61%
+start scholia|73|52.9%
+end scholia|20|14.49%
+
 | Scholia zone | Words in direct discourse | Words in indirect discourse | Total words in zone |
 |:-------------|:--------------------------|:----------------------------|:--------------------|
 | Start Im     | 3849 (84.02%)             | 732 (**15.98%**)            | 4581                |

@@ -55,13 +55,9 @@ The HMT has reached a compromise on this issue; they record both the abbreviated
 
 ![Aristarchus: abbreviated and expanded](../images/exampleXML.png)
 
-`<choice><abbr>Ἀρίσταρχ</abbr><expan>Ἀρίσταρχος</expan></choice>` 
-
 While the above mark-up allows for the editors to make a compromise between presenting a purely diplomatic edition, and a normalized, more easily readable edition, it poses a challenge for textual analysis. As can clearly be seen, if one were to simply extract all the text from the XML mark-up, every instance of 
 
 ![Aristarchus: abbreviated and expanded](../images/exampleXML.png)
-
-`<choice><abbr>Ἀρίσταρχ</abbr><expan>Ἀρίσταρχος</expan></choice>` 
 
 would yield both Ἀρίσταρχ and Ἀρίσταρχος. This poses a problem for analysis, obviously because now there are two words to represent one. If one wanted to know how often the string of characters Ἀρίστ appeared in the scholia, the result would be double what the reality is. 
 

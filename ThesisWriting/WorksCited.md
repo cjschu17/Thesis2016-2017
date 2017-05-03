@@ -1,3 +1,5 @@
+## Chapter 1 - Background
+
 Bird, Graeme. "Critical Signs — Drawing Attention to "Special" Lines of Homer’s Iliad in the Manuscript Venetus A." *Recapturing a Homeric Legacy*, edited by Casey Dué, Center for Hellenic Studies, 2009, pp. 89 - 116,
 www.homermultitext.org/Pubs/Due_Recapturing_a_Homeric_Legacy.pdf. Accessed May 2 2017.
 
@@ -22,3 +24,11 @@ Smith, D. Neel and Nikolas Churik. "Design and Layout of the Richest Manuscript 
 West, Martin L. Editor. *Ilias*, by Homer. Preface. *De Gruyter*, 2012, pp. v - xxxvii.
 
 Wolf, Friedrich A. *Prolegomena to Homer, 1795*. Translated by Anthony Grafton. Princeton UP, 1985.
+
+---
+
+## Chapter 2 - Citation and Text Wrangling
+
+Jockers, Matthew. *Macroanalysis: Digital Methods and Literary History*. University of Illinois Press, 2013.
+
+Smith, D. Neel, and Gabriel A. Weaver. "Applying Domain Knowledge from Structured Citation Formats to Text and Data Mining: Examples Using the CITE Architecture." *Dartmouth Computer Science Technical Report TR2009-649,* 2009, katahdin.cs.dartmouth.edu/reports/TR2009-649.pdf, Accessed May 3 2017.

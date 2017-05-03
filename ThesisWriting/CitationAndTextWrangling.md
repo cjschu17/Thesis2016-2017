@@ -45,18 +45,7 @@ When it comes to creating an XML edition of the scholia, the Homer Multitext pro
 
 So below is an edited scholion commenting on *Iliad* 18, line 4 with its complete XML mark-up.
 
-<div n="4" type="scholion">
-   <div n="lemma">
-      <p>τα φρονέοντ' ἀνα θυμὸν,</p>
-   </div>
-   <div type="ref">
-      <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.4</p>
-   </div>
-   <div n="comment">
-     <p>οἱ περι τῶν φαύλων αγωνιῶντες ἐν τοῖς κινδύνοις δυσέλπιδές εἰσὶν ἔστι
-        δὲ τῶν ἐν ατυχίᾳ προληπτικῶς ὁ νοῦς ⁑</p>
-   </div>
-</div>
+![A scholion to *Iliad* 18.4](../images/exampleXML2.png)
 
 While the XML mark-up helps keep a text structured and organized, this additional structural information hinders textual analysis. While something like `<div type="text"><l>Wrath sing, oh goddess, of son of Peleus Achilles</l></div>` is a valid and logical XML transcription of the first line of the *Iliad*, clearly text like `<div>` and `<l>` should not be included if one wanted to analyze the number of characters are in the first line of the poem. If one were working with a small amount of scholia, it may make sense just to manually copy and paste all of the actual text out of the XML mark-up. The 8,000 scholia of this dataset, however, render manual extraction impractical. In order to avoid this labor-intensive process, we wrote a program using scala, a computer programming language, which was able to perform this extraction automatically.
 
@@ -64,9 +53,13 @@ Even with a complete collection of only the text characters words from all the s
 
 The HMT has reached a compromise on this issue; they record both the abbreviated and expanded form of word in their XML edition, by utilizing the TEI element `<choice>` which allows two versions of the same word to be recorded. So in the example of Ἀρίσταρχ, it would be marked-up like this: 
 
+![Aristarchus: abbreviated and expanded](../images/exampleXML.png)
+
 `<choice><abbr>Ἀρίσταρχ</abbr><expan>Ἀρίσταρχος</expan></choice>` 
 
 While the above mark-up allows for the editors to make a compromise between presenting a purely diplomatic edition, and a normalized, more easily readable edition, it poses a challenge for textual analysis. As can clearly be seen, if one were to simply extract all the text from the XML mark-up, every instance of 
+
+![Aristarchus: abbreviated and expanded](../images/exampleXML.png)
 
 `<choice><abbr>Ἀρίσταρχ</abbr><expan>Ἀρίσταρχος</expan></choice>` 
 

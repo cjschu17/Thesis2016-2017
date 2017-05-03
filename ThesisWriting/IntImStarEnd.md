@@ -57,12 +57,6 @@ Strengthening this argument is the distribution of scholia which are closely ass
 
 ![Distribution of Topic 9 among the Main, Start, and End Scholia](../images/newTopic9.png)
 
-| Type of Scholia | Number of Scholia | Percentage of the Manuscript
-| --- | --- | ---
-main scholia|45|32.61%
-start scholia|73|52.9%
-end scholia|20|14.49%
-
 The 52.9% of the scholia which are strongly associated with topic 9 shows that it appears with far greater frequency within that topic than it does in the Venetus A, in general, where it only shows up with a frequency of 22.3%. So again, this point highlights the fact that the start-of-line and end-of-line model cannot be easily ignored. Clearly topic 9 is far more concentrated in the start-of-line scholia, suggesting that start-of-line and end-of-line scholia should also not be treated the same.
 
 So at this point, it appears that both models are completely valid ways of divvying of this area of the Venetus A manuscript. Both the intermarginal-interior and the start-end models presents models which allow for two clearly distinct zones with obvious differences in language and content. However, just because two models work does not mean that both are correct. In fact, the start-end model seems to be merely mirroring almost exactly the data from the intermarginal-interior model. So, if one were to assume that the intermarginal0inteerior model were the correct model, then whatever similar observations are made about the differences between the start-of=line and end-of-line scholia is merely observing same exact observations just categorized different. The same can be said about the observed differences between intermarginal and interior scholia if the start-end model were assumed to be true. Only by directly comparing the two models against one another can a conclusion about which model is better and therefore how best to label this area of the manuscript page.

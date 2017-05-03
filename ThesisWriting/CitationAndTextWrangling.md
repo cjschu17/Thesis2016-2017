@@ -50,18 +50,18 @@ When it comes to creating an XML edition of the scholia, the Homer Multitext pro
 
 So below is an edited scholion commenting on *Iliad* 18, line 4 with its complete XML mark-up.
 
-`<div n="4" type="scholion">
-   <div n="lemma">
-      <p>τα φρονέοντ' ἀνα θυμὸν,</p>
-   </div>
-   <div type="ref">
-      <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.4</p>
-   </div>
-   <div n="comment">
-     <p>οἱ περι τῶν φαύλων αγωνιῶντες ἐν τοῖς κινδύνοις δυσέλπιδές εἰσὶν ἔστι
-        δὲ τῶν ἐν ατυχίᾳ προληπτικῶς ὁ νοῦς ⁑</p>
-   </div>
-</div>`
+> `<div n="4" type="scholion">`
+> `<div n="lemma">`
+> `<p>τα φρονέοντ' ἀνα θυμὸν,</p>`
+> `</div>`
+> `<div type="ref">`
+> `<p>urn:cts:greekLit:tlg0012.tlg001.msA:18.4</p>`
+> `</div>`
+> `<div n="comment">`
+>  `<p>οἱ περι τῶν φαύλων αγωνιῶντες ἐν τοῖς κινδύνοις δυσέλπιδές εἰσὶν ἔστι`
+> `δὲ τῶν ἐν ατυχίᾳ προληπτικῶς ὁ νοῦς ⁑</p>`
+> `</div>`
+> `</div>`
 
 While the XML mark-up helps keep a text structured and organized, this additional structural information hinders textual analysis. While something like `<div type="text"><l>Wrath sing, oh goddess, of son of Peleus Achilles</l></div>` is a valid and logical XML transcription of the first line of the *Iliad*, clearly text like "<div>" and "<l>" should not be included if one wanted to analyze the number of characters are in the first line of the poem. If one were working with a small amount of scholia, it may make sense just to manually copy and paste all of the actual text out of the XML mark-up. The 8,000 scholia of this dataset, however, render manual extraction impractical. In order to avoid this labor-intensive process, we wrote a program using scala, a computer programming language, which was able to perform this extraction automatically.
 

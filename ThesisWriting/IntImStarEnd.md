@@ -22,10 +22,7 @@ Dindorf is one of the foremost scholars when it comes to the Iliadic scholia, th
 
 It is easiest to combat Dindorf's initial thinking that there is no difference between the two zones. As seen in the last chapter, there is a significant difference just in the sheer frequency of intermarginal and interior scholia.
 
-| Type of Scholia | Number of Scholia
-| --- | ---
-| Intermarginal Scholia | 1220
-| Interior Scholia | 819
+![Frequency of Im and Int Scholia in Venetus A](../images/ImInt.png)
 
 It would be unlikely that, were there no actual difference in the two zones, that one would observe there being roughly 1.5 times more intermarginal than interior scholia. If there truly was no difference, one would expect instead for there to be a nearly equal number of intermarginal and interior scholia.
 
@@ -39,35 +36,26 @@ One should notice that this is the same exact bifolio spread as shown above, exc
 
 If nothing else, this alternate and fully plausible model forces one to challenge the assumed division of these scholia into intermarginal and interior scholia, something which has not been proven to be the correct model otherwise. So now with two competing models, it was necessary to collect data on the start-of-line, end-of-line model. The first data point, as above, is just the frequency of start-of-line and end-of-line scholia.
 
-| Type of Scholia | Number of Scholia |
-|:----------------|:------------------|
-| Start of Line   | 1255              |
-| End of Line     | 783               |
+![Frequency of Start and End Scholia in Venetus A](../images/StartEnd.png)
 
 As one can see, the frequency of start and end scholia nearly mirrors the frequency of intermarginal and interior scholia. If the start and end model had no strength to it, one would expect there to be an equal number of start and end line scholia. However, the disproportionate number of start-of-line scholia suggests that there may be something to this model that has not been otherwise recognized. Still, this data point alone is not enough to lead to the conclusion about which model is better. At this point, both the intermarginal-interior model and the start-end model appear to have some validity for classifying this area of scholia.
 
 Next, it was investigated whether start and end scholia also had some significant difference between their use of direct and indirect discourse. Below is a table showing the proportion of the two types of discourse within start and end of line scholia:
 
-Scholia Type|Number of words in Indirect Discourse|Number of Words in Direct Discourse|Number of Words
----|---|---|---
-Start of line|1182 (14.04%)|7234 (85.96%)|8416
-End of line|635 (12.85%)|4306 (87.15%)|4941
+![Discourse Measurement between the Start and End Scholia](../images/StartEndDiscourse.png)
 
 The difference in the proportion of indirect discourse words is smaller than the difference between the proportions of indirect discourse words in intermarginal and interior scholia. And indeed, a Z-test for proportions did not find this difference to be significant, with a p-value of less than 0.05. However, it was only just barely not significant. While a score of 1.96 is need for significance, this difference warranted a score of 1.94. It is highly possible that the inclusion of the rest of the Venetus A might alter this data such that this difference actually become significant. Thus based on discourse data, one cannot definitely conclude that the start and end of line model is either inaccurate or invalid.
 
 Finally, it was investigated whether start and end of line scholia differed at all in their content, or if finally content was one area which was identical between the two zones. Whereas in the last chapter there was an analysis of personal names which appeared in one zone or the other, this analysis was passed over entirely. Instead, I examined immediately the data from the topic model, searching for any odd patterns of scholia distribution amongst the main, start of line, and end of line scholia. So, again for reference, below is the general frequency of these three zones of the scholia across the Venetus A:
 
-| Type of Scholia | Number of Scholia | Percentage of the Manuscript
-| --- | --- | ---
-| Main Scholia | 3601 | 63.9%
-| Start-of-line Scholia | 1255 | 22.3%
-| End-of-line Scholia | 783 | 13.9%
-
+![Frequency of Main, Start, and End Scholia in the Venetus A](../images/newFreqTable.png)
 
 Again, if the difference between start-of-line and end-of-line scholia were truly meaningless, then the distribution of scholia within each of the topics should roughly mirror the above frequency of scholia throughout the Venetus A. For almost all this topics this generally holds true. There were only three topics which did not obey the expected frequency distribution, wherein main scholia would constitute the largest proportion of the topic's scholia, start-of-line would constitute the second largest proportion, and end-of-line scholia would have the smallest proportions. These were topics 1, 6, and 9 which correspond to topics on accentuation,
 The work of Zenodotus and Aristophanes separate from Aristarchus, and the work of Aristarchus, respectively. In the case of topics 1 and 6, start and end of line scholia were seen to be represented equally in each of the two topics. Since one would expect, given the typical frequency distribution of start and end of line scholia, that there should be a larger proportion of start-of-line scholia, one can show that, at least in both cases, the topic seems to have a higher concentration within interior scholia than intermarginal scholia. In other words, the two zones do seem to differ in their content since the distribution of content does not follow the expected distribution of scholia across the Venetus A.
 
 Strengthening this argument is the distribution of scholia which are closely associated with topic 9, the Aristarchus topic. In the previous chapter, topic 9 was instrumental in demonstrating that some of the content of scholia is zone-specific since topic 9 was disproportionately concentrated within the intermarginal scholia. Here too, the topic 9 is disproportionately more concentrated within the start-of-line than even the intermarginal scholia.
+
+![Distribution of Topic 9 among the Main, Start, and End Scholia](../images/newTopic9.png)
 
 | Type of Scholia | Number of Scholia | Percentage of the Manuscript
 | --- | --- | ---
@@ -87,25 +75,13 @@ The labels are simply the composite of that columns identity under the two possi
 
 As for which analysis would be most effective, it was decided that the discourse analysis would be the most effective way to illustrate which of the models was better suited for the four columns. While using the topic model data offers slightly more understandable data, a systematic analysis would require taking into account all 15 topics. The discourse analysis would just be comprised of two variables: frequency of words in direct discourse and frequency of words in indirect discourse. As stated above, this discourse analysis gives a hint at the sources behind the various zones of scholia. If zones differ in how frequently they utilize quotations, this suggests that they came from different sources since a fundamental unit of composing a scholion, quoting text, is different. Thus below is a table showing the use of direct and indirect discourse in each of the four columns of this area of the manuscript.
 
-
-| Scholia zone | Words in direct discourse | Words in indirect discourse | Total words in zone |
-|:-------------|:--------------------------|:----------------------------|:--------------------|
-| Start Im     | 3849 (84.02%)             | 732 (**15.98%**)            | 4581                |
-| End Int      | 1668 (90.36%)             | 178 (**9.64%**)             | 1846                |
-| Start Int    | 3385 (88.27%)             | 450 (**11.73%**)            | 3835                |
-| End Im       | 2638 (85.23%)             | 457 (**14.77%**)            | 3095                |
+![Discourse Measurements across the four columns of Im, Int, Start, and End Scholia](../images/ImIntStartEnd.png)
 
 Initial analysis reveals an interesting pattern. The frequencies of indirect discourse words in the two intermarginal columns (start im & end im) differ by only 1.21%. The corresponding frequencies in the two interior columns (start int & end int) differ only by 2.09%. By contrast the two start columns (start im & start int) differ in frequency of indirect discourse words by 4.25% while the two end columns (end im & end int) differ in their frequencies by 5.13%. Thus it appears that the intermarginal-interior model is stronger than the start-end model, since the frequencies associated with the intermarginal-interior model appeared more similar than those of the start-end model. However, it should be noted that the differences are slight, and one may wonder if the 2.09% difference between the frequencies of the two interior columns is really that much better an indicator of similarity than the 4.25% difference between the frequencies of the two start columns.
 
 In order to test this, a Z-test for proportions was carried out in order to compare the difference in frequencies between the start, end, intermarginal, and interior columns. The results of this test are shown below:
 
-
-| Columns Being Compared | Z-Score | Significance (p < 0.01)       |
-|:---------------------|:--------|:------------------------------|
-| Start Columns | 5.58    | Statistically Significant      |
-| End Columns    | 5.21    | Statistically Significant      |
-| Intermarginal Columns   | 1.44    | Not Statistically Significant |
-| Interior Columns  | 2.35    | Not Statistically Significant |
+![Z-test for proportions on the four-column discourse measurements](../images/ImIntStartEndZTest.png)
 
 In order to achieve significance, the test needed to result in a Z-score of at least 2.576, which corresponds at a p-value of less than 0.01, meaning that the chances of getting this result by chance are less than 1%. As one can see, the initial conclusions began above were completely confirmed by running the Z-test. The difference in frequency among the start and end columns was statistically significant, meaning that one could not treat them as being identical. In other words, it would be incorrect to view the four columns as corresponding to a start-end model. On the contrary, the difference in frequency among the intermarginal and interior columns was not significant, meaning that one could treat them as being identical. In other words, the intermarginal-interior model can be appropriately applied to these four columns of the Venetus A.
 

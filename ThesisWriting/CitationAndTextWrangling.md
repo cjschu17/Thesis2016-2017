@@ -12,17 +12,12 @@ Still, even the line `Once upon a midnight dreary, while I pondered, weak and we
 
 The simplest way of creating a citable text of a work is to prepare a text in two columns. The first column carries a citation, the second column carries the text. The depth of one's citation depends heavily on what sort of analysis is required. It is reasonable that if one wanted to compare the entire corpus of Robert Frost poems, one would have the first column contain a citation of a particular poem and the second column contain the entire poem. More commonly though, scholars like to refer to chapters of a book, or line of a poem. Thus a citable text version of the first two lines of Frost's "The Road Not Taken" might look something like:
 
-| Citation | Text |
-| --- | --- |
-| urn:EnglishLit:Poetry:American:Robfrost:poem1.poetryFound:1 | Two roads diverged in a yellow wood. |
-| urn:EnglishLit:Poetry:American:Robfrost:poem1.poetryFound:2 | And sorry I could not travel both |
+![Example of Citable Text](../images/urnExample1.png)
+
  
 While the first two lines of "Stopping by Woods on a Snowy Evening" might look like:
 
-| Citation | Text |
-| --- | --- |
-| urn:EnglishLit:Poetry:American:Robfrost:poem2.poetryFound:1 | Whose woods these are I think I know.
-| urn:EnglishLit:Poetry:American:Robfrost:poem2.poetryFound:2 | His house is in the village though;
+![Example of Citable Text](../images/urnExample2.png)
 
 While this Robert Frost citation scheme is merely hypothetical and not actually in use anywhere, my example is based upon an actual model for creating citable texts: the Ordered Hierarchy of Citation Objects (OHCO2). The above example demonstrates the prominent features of the OHCO2 model. The model defines a text as "a set of citable nodes," in this case a line of poetry. Each line of the poem is situated within a larger citation scheme that allows it to be distinguished from a line of poetry in some other work. As can be gleaned from the above example, the two citations of the two Frost poems are nearly identical except for one being "poem1" and the other being "poem2". The designations of 1 and 2 are arbitrary, but they have to be consistent. When discussing the poems of Frost, "poem1" must always be referring to "The Road Not Taken". Furthermore, there was no need for me to use numbers in my citation - they could have easily been "poemA" and "poemB". Again, as long as the citation scheme is unambiguous and consistent, there are no issues. 
 

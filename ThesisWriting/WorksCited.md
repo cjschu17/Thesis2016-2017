@@ -32,3 +32,19 @@ Wolf, Friedrich A. *Prolegomena to Homer, 1795*. Translated by Anthony Grafton. 
 Jockers, Matthew. *Macroanalysis: Digital Methods and Literary History*. University of Illinois Press, 2013.
 
 Smith, D. Neel, and Gabriel A. Weaver. "Applying Domain Knowledge from Structured Citation Formats to Text and Data Mining: Examples Using the CITE Architecture." *Dartmouth Computer Science Technical Report TR2009-649,* 2009, katahdin.cs.dartmouth.edu/reports/TR2009-649.pdf, Accessed May 3 2017.
+
+---
+
+## Chapter 3 - Initial Differences
+
+Dindorf, Karl Wilhelm. Preface. *Scholia Graeca in Homeri Iliadem*. Edited by Karl Wilhelm Dindorf. Oxford UP, 1875, www.homermultitext.org/pd-pdfs/Dindorfius1875a.pdf. Accessed May 2 2017.
+
+Ebbott, Mary. "Linking poetry and scholia in medieval Homeric manuscripts." *Homer Multitext Blog*, 14 Mar. 2012, homermultitext.blogspot.com/2012/03/linking-poetry-and-scholia-in-medieval.html. Accessed May 3 2017.
+
+Hecquet, Myriam. "An Initial Codicological and Palaeographical Investigation of the Venetus A Manuscript of the Iliad." *Recapturing a Homeric Legacy*, edited by Casey Dué, Center for Hellenic Studies, 2009, pp. 57 - 88, www.homermultitext.org/Pubs/Due_Recapturing_a_Homeric_Legacy.pdf. Accessed May 3 2017.
+
+---
+
+## Chapter 4 - Im Int Start End
+
+Dindorf, Karl Wilhelm. Preface. *Scholia Graeca in Homeri Iliadem*. Edited by Karl Wilhelm Dindorf. Oxford UP, 1875, www.homermultitext.org/pd-pdfs/Dindorfius1875a.pdf. Accessed May 2 2017.

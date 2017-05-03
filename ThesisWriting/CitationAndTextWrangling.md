@@ -12,7 +12,7 @@ Still, even the line `Once upon a midnight dreary, while I pondered, weak and we
 
 The simplest way of creating a citable text of a work is to prepare a text in two columns. The first column carries a citation, the second column carries the text. The depth of one's citation depends heavily on what sort of analysis is required. It is reasonable that if one wanted to compare the entire corpus of Robert Frost poems, one would have the first column contain a citation of a particular poem and the second column contain the entire poem. More commonly though, scholars like to refer to chapters of a book, or line of a poem. Thus a citable text version of the first two lines of Frost's "The Road Not Taken" might look something like:
 
-!["The Road Not Taken"](../images/urnExample1.png)
+!["The Road Not Taken"](./images/urnExample1.png)
 
  
 While the first two lines of "Stopping by Woods on a Snowy Evening" might look like:
@@ -45,7 +45,7 @@ When it comes to creating an XML edition of the scholia, the Homer Multitext pro
 
 So below is an edited scholion commenting on *Iliad* 18, line 4 with its complete XML mark-up.
 
-![A scholion to *Iliad* 18.4](../images/exampleXML2.png)
+![A scholion to *Iliad* 18.4](./images/exampleXML2.png)
 
 While the XML mark-up helps keep a text structured and organized, this additional structural information hinders textual analysis. While something like `<div type="text"><l>Wrath sing, oh goddess, of son of Peleus Achilles</l></div>` is a valid and logical XML transcription of the first line of the *Iliad*, clearly text like `<div>` and `<l>` should not be included if one wanted to analyze the number of characters are in the first line of the poem. If one were working with a small amount of scholia, it may make sense just to manually copy and paste all of the actual text out of the XML mark-up. The 8,000 scholia of this dataset, however, render manual extraction impractical. In order to avoid this labor-intensive process, we wrote a program using scala, a computer programming language, which was able to perform this extraction automatically.
 
@@ -53,11 +53,11 @@ Even with a complete collection of only the text characters words from all the s
 
 The HMT has reached a compromise on this issue; they record both the abbreviated and expanded form of word in their XML edition, by utilizing the TEI element `<choice>` which allows two versions of the same word to be recorded. So in the example of Ἀρίσταρχ, it would be marked-up like this: 
 
-![Aristarchus: abbreviated and expanded](../images/exampleXML.png)
+![Aristarchus: abbreviated and expanded](./images/exampleXML.png)
 
 While the above mark-up allows for the editors to make a compromise between presenting a purely diplomatic edition, and a normalized, more easily readable edition, it poses a challenge for textual analysis. As can clearly be seen, if one were to simply extract all the text from the XML mark-up, every instance of 
 
-![Aristarchus: abbreviated and expanded](../images/exampleXML.png)
+![Aristarchus: abbreviated and expanded](./images/exampleXML.png)
 
 would yield both Ἀρίσταρχ and Ἀρίσταρχος. This poses a problem for analysis, obviously because now there are two words to represent one. If one wanted to know how often the string of characters Ἀρίστ appeared in the scholia, the result would be double what the reality is. 
 

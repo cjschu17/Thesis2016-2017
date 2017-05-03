@@ -29,7 +29,11 @@ Wolf, Friedrich A. *Prolegomena to Homer, 1795*. Translated by Anthony Grafton. 
 
 ## Chapter 2 - Citation and Text Wrangling
 
+Dindorf, Karl Wilhelm. Preface. *Scholia Graeca in Homeri Iliadem*. Edited by Karl Wilhelm Dindorf. Oxford UP, 1875, www.homermultitext.org/pd-pdfs/Dindorfius1875a.pdf. Accessed May 2 2017.
+
 Jockers, Matthew. *Macroanalysis: Digital Methods and Literary History*. University of Illinois Press, 2013.
+
+"The OHCO2 Model of Text." *Cite-Architecture.Github.IO*, 17 Apr. 2017, http://cite-architecture.github.io/ohco2/. Accessed by May 3 2017.
 
 Smith, D. Neel, and Gabriel A. Weaver. "Applying Domain Knowledge from Structured Citation Formats to Text and Data Mining: Examples Using the CITE Architecture." *Dartmouth Computer Science Technical Report TR2009-649,* 2009, katahdin.cs.dartmouth.edu/reports/TR2009-649.pdf, Accessed May 3 2017.
 

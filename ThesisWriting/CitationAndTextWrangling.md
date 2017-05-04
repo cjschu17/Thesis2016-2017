@@ -27,27 +27,15 @@ Directly after "poem1" and "poem2" came the citation "poetryFound". This refers 
 
 After "poetryFound" comes the citation which differentiates the individual lines from one another. This is the final bit of information conveyed by this identifier according to the OHCO2 model. Simply stated, most books and poems have some sort of hierarchy which dictate in what order the lines or sentences are to be read. Thus there is a first line, followed by the second, followed by the third, and so on. This form of citation should be familiar to anyone who has read Shakespeare or most Classical poetry, where each line is given a unique identifier. No matter what version of the text one holds, there will always exist a line1 and line2 and line3 and so on. However, it is worth nothing that, again, the designations of "line1", "line2", and "line3" are ultimately arbitrary. Very often Classical scholars disagree about the order of lines in a text. However, the labelling of the lines of a poem in the field of Classics is version independent. So, for example, the Loeb version of Aeschylus's *Agamemnon* records that the first three lines as:
 
-Identifier|Text
----|---
-urn:GreekLit:Poetry:Aesch:Ag.Loeb:1|θεοὺς μὲν αἰτῶ τῶνδ᾽ ἀπαλλαγὴν πόνων 
-urn:GreekLit:Poetry:Aesch:Ag.Loeb:2|φρουρᾶς ἐτείας μῆκος, ἣν κοιμώμενος 
-urn:GreekLit:Poetry:Aesch:Ag.Loeb:3|στέγαις Ἀτρειδῶν ἄγκαθεν, κυνὸς δίκην, 
-
+![Loeb *Agamemnon*](./images/ag1.png)
 
 But if some reason I thought that the order should be different I could create a text as such:
 
-Identifier|Text
----|---
-urn:GreekLit:Poetry:Aesch:Ag.CharlieEdit:2|φρουρᾶς ἐτείας μῆκος, ἣν κοιμώμενος 
-urn:GreekLit:Poetry:Aesch:Ag.CharlieEdit:1|θεοὺς μὲν αἰτῶ τῶνδ᾽ ἀπαλλαγὴν πόνων
-urn:GreekLit:Poetry:Aesch:Ag.CharlieEdit:3|στέγαις Ἀτρειδῶν ἄγκαθεν, κυνὸς δίκην, 
+![Loeb *Agamemnon*](./images/ag2.png)
 
 One should notice that the same numbered labels apply to the same lines. Line "1" still identifies the line beginning "θεοὺς μὲν," even though line "1" is the second line of my edited version. This is because "1" and "2" are identifiers for the line, and not a description of where they appear in the passage. Their identification was originally based on the positioning of the lines in some version of the text, but they do not define the order for every version. So if I were to create another version of the text which deleted line "2", my text would look as follows:
 
-Identifier|Text
----|---
-urn:GreekLit:Poetry:Aesch:Ag.SecondCharlieEdit:1|θεοὺς μὲν αἰτῶ τῶνδ᾽ ἀπαλλαγὴν πόνων
-urn:GreekLit:Poetry:Aesch:Ag.SecondCharlieEdit:3|στέγαις Ἀτρειδῶν ἄγκαθεν, κυνὸς δίκην, 
+![Loeb *Agamemnon*](./images/ag3.png)
 
 Now the line beginning "στέγαις Ἀτρειδῶν" is the second line of the play, but it still retains the identifier "3". In sum, this sum allows for a disambiguation of lines according to its own internal hierarchy.
 

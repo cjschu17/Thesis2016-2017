@@ -1,4 +1,4 @@
-Background#Background.md
-Citation and Text Wrangling#CitationAndTextWrangling.md
-Differences among the scholia zones#InitialDifferences.md
-Relationship between the intermarginal and interior scholi#IntImStarEnd.md
+Chapter 1: The Venetus A: Its Format and Contents#Background.md
+Chatper 2: Text Citation and Text Wrangling#CitationAndTextWrangling.md
+Chatper 3: Applying Distant Reading to the Scholia#InitialDifferences.md
+Chapter 4: The Relationship Between the Intermarginal and Interior Zones#IntImStarEnd.md

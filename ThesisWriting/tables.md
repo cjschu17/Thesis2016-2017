@@ -26,7 +26,10 @@ Interior Scholia|5 (0.61%)|823
 Interlinear Scholia|0 (0.00%)|2064|
 Exterior Scholia|1 (0.42%)|240
 
-| Scholia Type  | Words in Indirect Discourse | Words in Direct Discourse | Total Words |
+
+NEED THIS!
+
+| Scholia Type  | Words in Non-scribal Voice | Words in Scribal Voice | Total Words |
 |---|---|---|---|
 |Main Scholia|12537 (10.34%)|108689 (89.66%)|121226|
 |Intermarginal Scholia|1241 (15.19%)|6929 (84.81%)|8170|
@@ -40,7 +43,9 @@ intermarginal & main|13.76|Statisically Significant
 intermarginal & interior|	7.39|Statisically Significant
 main & interior|1.43|Not Statistically Significant
 
-Type Of Scholia|Words in Quoted Text|Words in Quoted Language|Total Words in Indirect Discourse
+NEED THIS BELOW!
+
+Type Of Scholia|Words in Quoted Text|Words in Quoted Language|Total Words in Non-scribal Voice
 ---|---|---|---
 Main|6383.(52.67%)|5737 (47.33%)|12120
 Intermarginal|88 (7.4%)|1101 (92.6%)|1189
@@ -94,7 +99,9 @@ interior scholia| 28|20.29%
 | Start of Line   | 1255              |
 | End of Line     | 783               |
 
-Scholia Type|Number of words in Indirect Discourse|Number of Words in Direct Discourse|Number of Words
+NEED BELOW!
+
+Scholia Type|Number of words in Non-Scribal Voice|Number of Words in Scribal Voice|Number of Words
 ---|---|---|---
 Start of line|1182 (14.04%)|7234 (85.96%)|8416
 End of line|635 (12.85%)|4306 (87.15%)|4941
@@ -111,7 +118,9 @@ main scholia|45|32.61%
 start scholia|73|52.9%
 end scholia|20|14.49%
 
-| Scholia zone | Words in direct discourse | Words in indirect discourse | Total words in zone |
+NEED BELOW
+
+| Scholia zone | Words in Scribal Voice | Words in Non-Scribal Voice | Total words in zone |
 |:-------------|:--------------------------|:----------------------------|:--------------------|
 | Start Im     | 3849 (84.02%)             | 732 (**15.98%**)            | 4581                |
 | End Int      | 1668 (90.36%)             | 178 (**9.64%**)             | 1846                |

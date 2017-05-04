@@ -4,7 +4,7 @@ By contrast, this chapter will focus on a more specific question. Namely, it see
 
 This sort of question highlights the advantage of distant reading to separate scholars from innate biases and reach conclusions based solely on hard evidence. I say this because since my time working in the Homer Multitext project, never has it been explained to me why the scholia are divided into the intermarginal and interior scholia. Looking at the a single folio of the Venetus A below demonstrates how the Homer Multitext project has traditionally thought of these two zones of the scholia:
 
-![12r](./images/DSE2.JPG)
+![Folio 12 recto](./images/DSE2.JPG)
 
 The above picture shows folio 12 recto. The zone on the folio highlighted in red represent the intermarginal zone while the zone in blue represents the interior zone. This division by the Homer Multitext project follows the divisions put forth by Hartmut Erbse in his 1969 edition of the scholia to the Iliad (xiv). However, Erbse's division is not the only division present in the history of scholarship on this manuscript. In Karl Dindorf's prior 1875 edition of the Venetus A scholia, he presents no difference between the scholia now referred to as intermarginal scholia and the scholia now referred to as interior scholia. According to Dindorf, there should be no separate red and blue zones as seen in the picture above. They should be treated as a single zone.
 
@@ -16,7 +16,7 @@ Dindorf in his preface explicitly recognizes only three zones of scholia: margin
 
 What is troubling about this description is the phrase "interior margin," which has a particular meaning according to the Homer Multitext conventions. To the HMT, "interior margin" refers only to the blue zones seen in the picture above. This is a seemingly contradictory definition, until one thinks about the Venetus A as a bifolio rather than as a manuscript consisted of individual folios:
 
-![ImInt](./images/12v13rImInt.jpg)
+![Intermargianl and Interior Zones on 12 verso and 13 recto](./images/12v13rImInt.jpg)
 
 In the above picture, the two red zones correspond to the same HMT intermarginal zones and the two blue zones correspond to the same HMT interior zones. As one can see in the bifolio spread, on the left, or verso, page, the intermarginal zone appears first then the interior, when reading left to right, while on the right, or recto page, the interior zone appears first, then the intermarginal.
 
@@ -28,7 +28,7 @@ Dindorf, and Allen for that matter, are two of the foremost scholars when it com
 
 It is easiest to combat the thinking that there is no difference between the two zones. As seen in the last chapter, there is a significant difference just in the sheer frequency of intermarginal and interior scholia.
 
-![Frequency of Im and Int Scholia in Venetus A](./images/ImInt.png)
+![Frequency of Intermarginal and Interior Scholia in Venetus A](./images/ImInt.png)
 
 It would be unlikely that, were there no actual difference in the two zones, that one would observe there being roughly 1.5 times more intermarginal than interior scholia. If there truly was no difference, one would expect instead for there to be a nearly equal number of intermarginal and interior scholia.
 
@@ -36,7 +36,7 @@ Beyond just the frequency of scholia, the last chapter demonstrated a number of 
 
 Still, even if Dindorf's model has been proven to be incorrect by the evidence provided in the previous chapter, the evidence does not definitively prove that the model adopted by the Homer Multitext project is the correct one either. While it has been shown that the four zones across the bifolio cannot be considered identical, it is possible that there is a different and more correct way of modelling this area of the Venetus A than splitting it up into intermarginal scholia and interior scholia. For example, it is entirely possible that this area of the manuscript page should be more accurately divided into scholia which comment on the beginning of a line and scholia which comment on the end of a line. A picture of this proposed model in shown below:
 
-![StartEnd](./images/12v13rSE.jpg)
+![Start-of-line and End-of-line Scholia on 12 verso and 13 recto](./images/12v13rSE.jpg)
 
 One should notice that this is the same exact bifolio spread as shown above, except that in this picture the red and blue zones represent different zones of the manuscript. On each folio shown above, the text of the *Iliad* is situated in between the red and blue zones, and since Greek is read from left-to-right like English, the beginning of the *Iliad* line on each page lies next to the red zone while the end of the line lies next to the blue zone. This alternate model of these two zones of scholia is certainly plausible. Would it not make sense if a scholion were to comment on the last word of a line for it to be placed directly adjacent to the first word in the blue zone, and conversely if a scholion were to comment on the first word of a line for it to be placed directly adjacent to that first word in the red zone?
 
@@ -68,13 +68,13 @@ So at this point, it appears that both models are completely valid ways of divvy
 
 In order to directly compare these two models, I decided to strip away all assumptions about the four columns which were being classified as being either belonging to the intermarginal-interior model or the start-end model. Once these four columns were isolated, the features of the individual columns could be analyzed and their features could be compared to the two existing models. If there seemed to be a model that the features of the four independent columns fit better with, than that model must be the correct way to classify these four columns. For the sake of clarity, the picture below demonstrates how these four columns will be referred to in the upcoming analysis.
 
-![StartEndImInt](./images/StartEndImInt.jpg)
+![Representation of 12 verso and 13 recto without either the Intermarginal-Interior or Start-End model](./images/StartEndImInt.jpg)
 
 The labels are simply the composite of each column's identity under the two possible models. So the leftmost column is considered an intermarginal scholion in the intermarginal-interior model and a start-of-line scholion in the start-end model.
 
 As for which analysis would be most effective for testing the strength of the model, I decided that the scribal and non-scribal voice analysis would be best. While using the topic model data offers slightly more understandable data, a systematic analysis would require taking into account all 15 topics. The scribal and non-scribal voice analysis would just be comprised of those two variables. Below is a table showing the use of direct and indirect discourse in each of the four columns of this area of the manuscript.
 
-![Scribal vs. Non-Scribal Voice across the four columns of Im, Int, Start, and End Scholia](./images/ImIntStartEnd.png)
+![Scribal vs. Non-Scribal Voice across the four columns of Intermarginal, Interior, Start, and End Scholia](./images/ImIntStartEnd.png)
 
 Initial analysis reveals an interesting pattern. The frequencies of non-scribal voice words in the two intermarginal columns (start im & end im) differ by only 1.21%. The corresponding frequencies in the two interior columns (start int & end int) differ only by 2.09%. By contrast the two start columns (start im & start int) differ in frequency of non-scribal voice words by 4.25% while the two end columns (end im & end int) differ in their frequencies by 5.13%. Thus it appears that the intermarginal-interior model is stronger than the start-end model, since the frequencies associated with the intermarginal-interior model appeared more similar than those of the start-end model. However, it should be noted that the differences are slight, and one may wonder if the 2.09% difference between the frequencies of the two interior columns is really that much better an indicator of similarity than the 4.25% difference between the frequencies of the two start columns.
 

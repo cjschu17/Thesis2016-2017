@@ -41,7 +41,7 @@ Smith, D. Neel, and Gabriel A. Weaver. "Applying Domain Knowledge from Structure
 
 ---
 
-## Chapter 3 - Initial Differences
+## Chapter 3 - Differences among the scholia zones
 
 Allen, T. W. “On the Composition of Some Greek Manuscripts: The Venetian Homer,” Journal of Philology 26, 1899, 161-181, http://www.homermultitext.org/pd-pdfs/Allen-JP-1899.pdf. Accessed May 3 2017.
 
@@ -53,7 +53,7 @@ Hecquet, Myriam. "An Initial Codicological and Palaeographical Investigation of 
 
 ---
 
-## Chapter 4 - Im Int Start End
+## Chapter 4 - Relationship between intermarginal and interior scholia
 
 Allen, T. W. “On the Composition of Some Greek Manuscripts: The Venetian Homer,” Journal of Philology 26, 1899, 161-181, http://www.homermultitext.org/pd-pdfs/Allen-JP-1899.pdf. Accessed May 3 2017.
 

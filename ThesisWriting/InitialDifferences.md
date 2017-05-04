@@ -14,7 +14,7 @@ Where these observations become less clear is in the interior and intermarginal 
 
 ![Scholia Zone Length in Words](./images/LengthOfScholInWords.png)
 
-The above chart describes the length of scholia in words, for each of scholia zones. In all these calculations, only the actual comment of the scholia was considered, so the words of the lemma were not included in the various calculations. As discussed above, the main scholia are unsurprisingly the longest scholia, with the average main scholion consisting of 33.78 words, and the interlinear scholia are unsurprisingly the shortest scholia, with the average scholion consisting of 2.31 words. The main and interlinear scholia also sit at the two extremes for the values of standard deviation. The large variance for the main scholia is expected as some main scholia are as short as a few words, while others easily go on for at least one hundred words. Again, this fits the accepted view of the main scholia's function in providing space for expanded discussions of grammar, mythology, etc. as well as more clipped notes. On the other hand, the low standard deviation for the interlinear scholia (1.88), combined with its low mean number of words (2.31) confirms the matches the expectation that the interlinear scholia are mostly used to provide short glosses on words and phrases in the *Iliad* text.
+Figure chart describes the length of scholia in words, for each of scholia zones. In all these calculations, only the actual comment of the scholia was considered, so the words of the lemma were not included in the various calculations. As discussed above, the main scholia are unsurprisingly the longest scholia, with the average main scholion consisting of 33.78 words, and the interlinear scholia are unsurprisingly the shortest scholia, with the average scholion consisting of 2.31 words. The main and interlinear scholia also sit at the two extremes for the values of standard deviation. The large variance for the main scholia is expected as some main scholia are as short as a few words, while others easily go on for at least one hundred words. Again, this fits the accepted view of the main scholia's function in providing space for expanded discussions of grammar, mythology, etc. as well as more clipped notes. On the other hand, the low standard deviation for the interlinear scholia (1.88), combined with its low mean number of words (2.31) confirms the matches the expectation that the interlinear scholia are mostly used to provide short glosses on words and phrases in the *Iliad* text.
 
 As discussed above, however, confirming that the main and interlinear scholia are definitively different from one another is not necessarily that exciting. What would be of more interest would be a significant difference between the intermarginal and interior scholia. Just based on the descriptive statistics, the two do not appear all that different. Both have an average length of about 7 words, though the interior are a bit longer on average (7.66 words on average for the interior versus 7.1 words for the intermarginal). However, the standard deviation for the two throws uncertainty over the significance of this slight difference. With a standard deviation of 5.74 words for the interior and 3.97 words for the intermarginal, the two sets of scholia definitely overlap in their average lengths. Since it is not apparent from just looking at the descriptive statistics if there is any difference between these two groups, inferential statistics are required in order to determine if there is a statistically significant difference between the average length of the intermarginal scholia and the average length of the interior scholia.
 
@@ -87,7 +87,7 @@ However, as mentioned, my focus of this argument has shifted away from compositi
 
 Full histograms of the most commonly names appearing for the all of the scholia types can be visting my thesis GitHub page:
 
-https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/NameData/HistogramsOfScholiaTypes/ 
+https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/NameData/ HistogramsOfScholiaTypes/ 
 
 As mentioned previously, priority in this thesis is given to the relationship of the main, intermarginal, and interior zones. In these three zones, the Alexandrian editor Aristarchus is the most frequently occurring name and Zenodotus comes in as the second most frequent. After this initial unity, however, the three begin to diverge considerably. In the main scholia, there are 19 names which comprise at least 1% of the total name appearances in the main scholia. By contrast, there are only 6 names in the intermarginal scholia which appear with a frequency of at least 1% frequency and only 10 in the interior scholia. And of all those names which occur with a frequency of at least 1% of all the names in each zone, the three Alexandrian editors, Aristarchus, Zenodotus, and Aristophanes, and the ancient grammarian Herodian are the only names common to all three zones of scholia. Herodian was mentioned in chapter 1 as one of the four sources explicitly referenced in the subscription as being a primary source for the scholia. Thus, without reservation, a conclusion can be drawn that the work of the Alexandrian editors is a topic that is talked about with a great deal of regularity in all three zones of scholia. So too is the work of Herodian. The presence of the Alexandrian editors' names is not particularly striking since the subscription reports that the scholia are the result of scholars who came after the Alexandrians and thus would be making reference to the Alexandrians in their own commentaries. 
 
@@ -99,7 +99,7 @@ Here, though, one must be careful not to view this difference between the mythol
 
 The main scholia, however, do differ significantly from the interior and intermarginal scholia. There are 107 names which appear at least four times in the main scholia and which appear in no other zone. While many of these exclusively main names are also characters from the *Iliad*, there are some significant historical and grammatical figures that appear only in the main scholia. Most prominent is the appearance is Ptolemy of Ascalon, a post-Aristarchean Homeric scholar who appears 46 times in the main scholia, but never in the intermarginal or interior scholia. The full list of names found in the main but not elsewhere is located on my thesis GitHub page:
 
-https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/NameData/Difference/meaningfulMainExclusiveWithCountOver3.tsv
+https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/NameData/Difference/ meaningfulMainExclusiveWithCountOver3.tsv
 
 This list includes the poets Euripides, Aeschylus, Callimachus, and Pindar, the historian Thucydides, and post-Alexandrian Homeric scholars like Crates of Mallus and Porphyry. 
 
@@ -117,7 +117,7 @@ Before progressing further in this discussion of topic modelling a final point s
 
 As discussed in the previous chapter, running a topic model on an ancient Greek text requires a good deal of text wrangling. Not only do the scholia need to normalized in order to create a lemmatized version of the text, topic modelling requires a corpus in which the most common words are eliminated from the corpus. Considering the aims of topic modelling, this makes a good deal of sense. Topics are, again, repeating patterns of co-occurring words, so if there are very common words in the dataset, they will occur over and over again in various places, perhaps creating the impression that phrases that have nothing to do with one another are actually related to one another. The two phrases "Poe and Frost" and "manatee and walrus" very obviously refer to American poets and sea mammals, respectively. To a computer, however, the presence of "and" in both phrases might create an impression that the two phrases are actually related and should be included in the same topic. It is to avoid confusion like this that creating a list of stop-words which will be deleted from a text becomes necessary before any topic modelling. For this dataset, the list of stop-words can be found on my thesis GitHub page:
 
-https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/TopicModelData/stopWords.txt
+https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/TopicModelData/ stopWords.txt
 
 While there are a number of programs which allow for LDA topic modelling, I used ToPan, a topic modelling software designed by Thomas Köntges. One of the difficult decisions one must make when running a topic model is deciding how many topics one will use in the model. In other words, LDA topic modelling does not analyze a text and then spit back a text broken into some optimal number of topics. Again, the computer cannot understand meaning, it only looks for repeating patterns of co-occurring words, and the computer can find as many patterns as one tells it to. Thus there is some human work required to determine what the optimal number of topics is. Depending on the size and nature of the corpus, the optimal number of topics can range from five topics to twenty-five.
 
@@ -151,7 +151,7 @@ While it is certainly significant that using a topic model to analyze the conten
 
 In order to conduct such analysis, I made use of the data-tables created by ToPan. The original data table for the first run on clean data is located on my thesis GitHub page:
 
-https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/Data/TopicModelData/theta.csv
+https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/Data/TopicModelData/ theta.csv
 
 However, a sample table is shown below:
 
@@ -161,13 +161,13 @@ Each row of the table corresponds to a single scholion, and each row is comprise
 
 Using this table, I was able to identify which scholia had the strongest associations with each of the topics. I defined a "strong association" as a scholion having a theta-score equal to or greater than 0.9. Thus I made fifteen tables, one for each topic, which simply consisted of a list of every scholion hose theta-score was equal to or greater than 0.9 for that topic. These tables can be found on my thesis GitHub:
 
-https://github.com/cjschu17/Thesis2016-2017/tree/master/Data/TopicModelData/ThetaTables-3-15-2017
+https://github.com/cjschu17/Thesis2016-2017/tree/master/Data/TopicModelData/ ThetaTables-3-15-2017
 
 ## One result from the Topic Model Data
 
 Now that the scholia which are most strongly associated with each topic had been assembled, it was now possible to analyze the distribution of content by zone of the scholia. For each of the tables just created, it was determined how many came from the main, interior, intermarginal, interlinear, and exterior. If the distribution of the zones within each topic should match the distribution of scholia across the entire Venetus A, an argument could be made that the five zones do not differ in their content. A full list of the distribution of the main, intermarginal, and interior zones among the scholia with the strongest associations is located on my thesis GitHub:
 
-https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/TopicModelData/noIlExtToPanResult.txt
+https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/TopicModelData/ noIlExtToPanResult.txt
 
 As a reference, below is a table displaying the frequency of the main, intermarginal, and interior zones across 18 books of the Venetus A:
 

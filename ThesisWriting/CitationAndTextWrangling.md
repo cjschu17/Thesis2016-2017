@@ -31,11 +31,11 @@ After "poetryFound" comes the citation which differentiates the individual lines
 
 But if some reason I thought that the order should be different I could create a text as such:
 
-![Loeb *Agamemnon*](./images/ag2.png)
+![Edited *Agamemnon*](./images/ag2.png)
 
 One should notice that the same numbered labels apply to the same lines. Line "1" still identifies the line beginning "θεοὺς μὲν," even though line "1" is the second line of my edited version. This is because "1" and "2" are identifiers for the line, and not a description of where they appear in the passage. Their identification was originally based on the positioning of the lines in some version of the text, but they do not define the order for every version. So if I were to create another version of the text which deleted line "2", my text would look as follows:
 
-![Loeb *Agamemnon*](./images/ag3.png)
+![Second Edit of *Agamemnon*](./images/ag3.png)
 
 Now the line beginning "στέγαις Ἀτρειδῶν" is the second line of the play, but it still retains the identifier "3". In sum, this sum allows for a disambiguation of lines according to its own internal hierarchy.
 

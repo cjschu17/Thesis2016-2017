@@ -48,7 +48,7 @@ As one can see, the frequency of start and end scholia nearly mirrors the freque
 
 Next, it was investigated whether start and end scholia also had some significant difference between their use of scribal and non-scribal voice. Below is a table showing the proportion of these two features within start and end of line scholia:
 
-![Discourse Measurement between the Start and End Scholia](./images/StartEndDiscourse.png)
+![Scribal vs. Non-Scribal Voice in Start and End Scholia](./images/StartEndDiscourse.png)
 
 The difference in the proportion of non-scribal voice words is smaller than the difference between the proportions of non-scribal voice words in intermarginal and interior scholia. And indeed, a Z-test for proportions did not find this difference between the start and end of line use of non-scribal voice to be significant, with a p-value of less than 0.05. However, it was only just barely not significant. While a score of 1.96 is needed for significance, this difference warranted a score of 1.94. It is highly possible that the inclusion of the rest of the Venetus A might alter this data such that this difference actually becomes significant. Thus based on discourse data, one cannot definitely conclude that the start and end of line model is either inaccurate or invalid.
 
@@ -74,7 +74,7 @@ The labels are simply the composite of each column's identity under the two poss
 
 As for which analysis would be most effective for testing the strength of the model, I decided that the scribal and non-scribal voice analysis would be best. While using the topic model data offers slightly more understandable data, a systematic analysis would require taking into account all 15 topics. The scribal and non-scribal voice analysis would just be comprised of those two variables. Below is a table showing the use of direct and indirect discourse in each of the four columns of this area of the manuscript.
 
-![Discourse Measurements across the four columns of Im, Int, Start, and End Scholia](./images/ImIntStartEnd.png)
+![Scribal vs. Non-Scribal Voice across the four columns of Im, Int, Start, and End Scholia](./images/ImIntStartEnd.png)
 
 Initial analysis reveals an interesting pattern. The frequencies of non-scribal voice words in the two intermarginal columns (start im & end im) differ by only 1.21%. The corresponding frequencies in the two interior columns (start int & end int) differ only by 2.09%. By contrast the two start columns (start im & start int) differ in frequency of non-scribal voice words by 4.25% while the two end columns (end im & end int) differ in their frequencies by 5.13%. Thus it appears that the intermarginal-interior model is stronger than the start-end model, since the frequencies associated with the intermarginal-interior model appeared more similar than those of the start-end model. However, it should be noted that the differences are slight, and one may wonder if the 2.09% difference between the frequencies of the two interior columns is really that much better an indicator of similarity than the 4.25% difference between the frequencies of the two start columns.
 

@@ -165,7 +165,11 @@ https://github.com/cjschu17/Thesis2016-2017/tree/master/Data/TopicModelData/Thet
 
 ## One result from the Topic Model Data
 
-Now that the scholia which are most strongly associated with each topic had been assembled, it was now possible to analyze the distribution of content by zone of the scholia. For each of the tables just created, it was determined how many came from the main, interior, intermarginal, interlinear, and exterior. If the distribution of the zones within each topic should match the distribution of scholia across the entire Venetus A, an argument could be made that the five zones do not differ in their content. A full list of the distribution of the main, intermarginal, and interior zones among the scholia with the strongest associations is located [here](https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/TopicModelData/noIlExtToPanResult.txt). As a reference, below is a table displaying the frequency of the main, intermarginal, and interior zones across 18 books of the Venetus A:
+Now that the scholia which are most strongly associated with each topic had been assembled, it was now possible to analyze the distribution of content by zone of the scholia. For each of the tables just created, it was determined how many came from the main, interior, intermarginal, interlinear, and exterior. If the distribution of the zones within each topic should match the distribution of scholia across the entire Venetus A, an argument could be made that the five zones do not differ in their content. A full list of the distribution of the main, intermarginal, and interior zones among the scholia with the strongest associations is located on my thesis GitHub:
+
+https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/TopicModelData/noIlExtToPanResult.txt
+
+As a reference, below is a table displaying the frequency of the main, intermarginal, and interior zones across 18 books of the Venetus A:
 
 ![Frequency of Scholia Zones in Venetus A](./images/adjustedFreqOfSchol.png)
 

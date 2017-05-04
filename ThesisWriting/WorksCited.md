@@ -43,6 +43,8 @@ Smith, D. Neel, and Gabriel A. Weaver. "Applying Domain Knowledge from Structure
 
 ## Chapter 3 - Initial Differences
 
+Allen, T. W. “On the Composition of Some Greek Manuscripts: The Venetian Homer,” Journal of Philology 26, 1899, 161-181, http://www.homermultitext.org/pd-pdfs/Allen-JP-1899.pdf. Accessed May 3 2017.
+
 Dindorf, Karl Wilhelm. Preface. *Scholia Graeca in Homeri Iliadem*. Edited by Karl Wilhelm Dindorf. Oxford UP, 1875, www.homermultitext.org/pd-pdfs/Dindorfius1875a.pdf. Accessed May 2 2017.
 
 Ebbott, Mary. "Linking poetry and scholia in medieval Homeric manuscripts." *Homer Multitext Blog*, 14 Mar. 2012, homermultitext.blogspot.com/2012/03/linking-poetry-and-scholia-in-medieval.html. Accessed May 3 2017.
@@ -52,5 +54,9 @@ Hecquet, Myriam. "An Initial Codicological and Palaeographical Investigation of 
 ---
 
 ## Chapter 4 - Im Int Start End
+
+Allen, T. W. “On the Composition of Some Greek Manuscripts: The Venetian Homer,” Journal of Philology 26, 1899, 161-181, http://www.homermultitext.org/pd-pdfs/Allen-JP-1899.pdf. Accessed May 3 2017.
+
+Erbse, Hartmut. Preface. *Scholia Graeca in Homeri Iliadem*. Edited by Hartmut Erbse. De Gruyer, 1969, pp. xi-lxxiii.
 
 Dindorf, Karl Wilhelm. Preface. *Scholia Graeca in Homeri Iliadem*. Edited by Karl Wilhelm Dindorf. Oxford UP, 1875, www.homermultitext.org/pd-pdfs/Dindorfius1875a.pdf. Accessed May 2 2017.

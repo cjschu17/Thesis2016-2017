@@ -1,5 +1,7 @@
 ## Chapter 1 - Background
 
+Allen, T. W. “On the Composition of Some Greek Manuscripts: The Venetian Homer,” Journal of Philology 26, 1899, 161-181, http://www.homermultitext.org/pd-pdfs/Allen-JP-1899.pdf. Accessed May 3 2017.
+
 Bird, Graeme. "Critical Signs — Drawing Attention to "Special" Lines of Homer’s Iliad in the Manuscript Venetus A." *Recapturing a Homeric Legacy*, edited by Casey Dué, Center for Hellenic Studies, 2009, pp. 89 - 116,
 www.homermultitext.org/Pubs/Due_Recapturing_a_Homeric_Legacy.pdf. Accessed May 2 2017.
 

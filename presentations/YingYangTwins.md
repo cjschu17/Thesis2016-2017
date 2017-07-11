@@ -252,7 +252,6 @@ Latent Dirichlect Allocation:
 - expand training set
 - apply to expanded edition of Venetus A
 - try alternate machine learning algorithms
-- content analysis of automatically identified classes?
 
 ---
 

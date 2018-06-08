@@ -14,12 +14,12 @@ Still, even the line `Once upon a midnight dreary, while I pondered, weak and we
 
 The simplest way of creating a citable text of a work is to prepare a text in two columns. The first column carries a citation, the second column carries the text. The depth of one's citation depends heavily on what sort of analysis is required. It is reasonable that if one wanted to compare the entire corpus of Robert Frost poems, one would have the first column contain a citation of a particular poem and the second column contain the entire poem. More commonly though, scholars like to refer to chapters of a book, or lines of a poem. Figure 5 demonstrates what a citable text version of the first two lines of Frost's "The Road Not Taken" might look like:
 
-!["The Road Not Taken"](./images/urnExample1.png)
+!["The Road Not Taken"](./Appendix/Chapter2/Images/Fig5.png)
 
  
 Figure 6 demonstrates what this would look like for the first two lines of "Stopping by Woods on a Snowy Evening":
 
-!["Stopping by Woods on a Snowy Evening"](./images/urnExample2.png)
+!["Stopping by Woods on a Snowy Evening"](./Appendix/Chapter2/Images/Fig6.png)
 
 While this Robert Frost citation scheme is merely hypothetical and not actually in use anywhere, my example is based upon an actual model for creating citable texts: the Ordered Hierarchy of Citation Objects (OHCO2). The above example demonstrates the prominent features of the OHCO2 model which are fully explained in an article by its creators Neel Smith and Gabriel Weaver. The OHCO2 model defines a text as "a set of citable nodes," which in this case would be a line of poetry ("OHCO2 Model"). Each line of the poem is situated within a larger citation scheme that allows it to be distinguished from a line of poetry in some other work. As can be gleaned from the above example, the two citations of the two Frost poems are nearly identical except for one being "RobFrost1" and the other being "RobFrost2". The designations of "RobFrost1" and "RobFrost2" are arbitrary, but they are given meaning if they are used consistently. That is, they are meaningful if within this citation scheme "RobFrost1" only refers to "The Road Not Taken" and "RobFrost2" only refers to "Stopping by Woods". Furthermore, there was no need for me to use numbers for this label - the two poems could have easily been cited using "RobFrostA" and "RobFrostB". One step further, the label need not make logical sense to humans. `urn:cts:EnglishLit.American.Poetry:asdof` might be used to refer to "The Road Not Taken" while `urn:cts:EnglishLit.American.Poetry:oiunji` might be used to refer to "Stopping by Woods." As long as the citation scheme is unambiguous and consistent, there are no issues. 
 
@@ -31,15 +31,15 @@ Whereas the fourth unit of the citation refersto the work hierarchy, the third u
 
 The fifth and final unit to be discussed is the text hierarchy which comes after "poetryFound". This is the unit of citation  which differentiates individual lines or chapters from one another. Simply stated, most books and poems have some sort of hierarchy which dictates the order the lines or sentences are to be read. Thus there is a first line, followed by the second, followed by the third, and so on. This form of citation should be familiar to anyone who has read Shakespeare or most Classical poetry, where each line is given a unique identifier. No matter what version of the text one holds, there will always exist a line 1 and line 2 and line 3 and so on. However, it is worth nothing that, again, the designations of "line 1", "line 2", and "line 3" are ultimately arbitrary. Very often Classical scholars disagree about the order of lines in a text. However, the labelling of the lines of a poem in the field of Classics is version independent. So, for example, Figure 7 demonstrates a citable text version of the Loeb editions's first three lines of Aeschylus's *Agamemnon*:
 
-![Loeb *Agamemnon*](./images/ag1.png)
+![Loeb *Agamemnon*](./Appendix/Chapter2/Images/Fig7.png)
 
 Figure 8, however, shows how the citations would change if I for some reason thought that the order should be different:
 
-![Edited *Agamemnon*](./images/ag2.png)
+![Edited *Agamemnon*](./Appendix/Chapter2/Images/Fig8.png)
 
 One should notice that the same numbered labels apply to the same lines. Line "1" still identifies the line beginning "θεοὺς μὲν," even though line "1" is the second line of my edited version. This is because "1" and "2" are identifiers for the line, and not a description of where they appear in the passage. Their identification was originally based on the positioning of the lines in some version of the text, but they do not define the order for every version. Similarly, figure 9 presents a citable text version of the *Agamemnon* were I to delete line "2":
 
-![Second Edit of *Agamemnon*](./images/ag3.png)
+![Second Edit of *Agamemnon*](./Appendix/Chapter2/Images/Fig9.png)
 
 Now the line beginning "στέγαις Ἀτρειδῶν" is the second line of the play, but it still retains the identifier "3". In sum, the OHCO2 models allows for a disambiguation of lines according to a text's own internal hierarchy.
 
@@ -59,7 +59,7 @@ When it comes to creating an XML edition of the scholia, the Homer Multitext pro
 
 Figure 10 demonstrates how one scholion would be marked-up in XML. This scholion is commenting on *Iliad* 18, line 4.
 
-![A scholion to *Iliad* 18.4](./images/exampleXML2.png)
+![A scholion to *Iliad* 18.4](./Appendix/Chapter2/Images/Fig10.png)
 
 ### Creating Versions of Scholia for Analysis ###
 
@@ -69,7 +69,7 @@ Even with a complete collection of characters from all the scholia without any X
 
 The HMT has reached a compromise on this issue; they record both the abbreviated and expanded form of word in their XML edition, by utilizing the TEI element `<choice>` which allows two versions of the same word to be recorded. So in the example of Ἀρίσταρχ, it would be marked-up like what is seen in figure 11: 
 
-![Aristarchus: abbreviated and expanded](./images/exampleXML.png)
+![Aristarchus: abbreviated and expanded](./Appendix/Chapter2/Images/Fig11.png)
 
 While the mark-up seen in Figure 11 allows for a compromise between presenting a purely diplomatic edition and a normalized, more easily readable edition, it poses a challenge for textual analysis. As can clearly be seen, if one were to simply extract all the text from the XML mark-up seen in figure 11, the texts Ἀρίσταρχ and Ἀρίσταρχος would both be reproduced. This obviously poses a problem for analysis since now there are two words present when there should only be one. If one wanted to know how often the string of characters Ἀρίστ appeared in the scholia, the result would be double what really exists. 
 

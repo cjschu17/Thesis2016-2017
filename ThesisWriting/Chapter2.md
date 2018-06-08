@@ -14,12 +14,12 @@ Still, even the line `Once upon a midnight dreary, while I pondered, weak and we
 
 The simplest way of creating a citable text of a work is to prepare a text in two columns. The first column carries a citation, the second column carries the text. The depth of one's citation depends heavily on what sort of analysis is required. It is reasonable that if one wanted to compare the entire corpus of Robert Frost poems, one would have the first column contain a citation of a particular poem and the second column contain the entire poem. More commonly though, scholars like to refer to chapters of a book, or lines of a poem. Figure 5 demonstrates what a citable text version of the first two lines of Frost's "The Road Not Taken" might look like:
 
-!["The Road Not Taken"](./Appendix/Chapter2/Images/Fig5.png)
+!["The Road Not Taken"](./Appendix/Chapter2/Images/Fig05.png)
 
  
 Figure 6 demonstrates what this would look like for the first two lines of "Stopping by Woods on a Snowy Evening":
 
-!["Stopping by Woods on a Snowy Evening"](./Appendix/Chapter2/Images/Fig6.png)
+!["Stopping by Woods on a Snowy Evening"](./Appendix/Chapter2/Images/Fig06.png)
 
 While this Robert Frost citation scheme is merely hypothetical and not actually in use anywhere, my example is based upon an actual model for creating citable texts: the Ordered Hierarchy of Citation Objects (OHCO2). The above example demonstrates the prominent features of the OHCO2 model which are fully explained in an article by its creators Neel Smith and Gabriel Weaver. The OHCO2 model defines a text as "a set of citable nodes," which in this case would be a line of poetry ("OHCO2 Model"). Each line of the poem is situated within a larger citation scheme that allows it to be distinguished from a line of poetry in some other work. As can be gleaned from the above example, the two citations of the two Frost poems are nearly identical except for one being "RobFrost1" and the other being "RobFrost2". The designations of "RobFrost1" and "RobFrost2" are arbitrary, but they are given meaning if they are used consistently. That is, they are meaningful if within this citation scheme "RobFrost1" only refers to "The Road Not Taken" and "RobFrost2" only refers to "Stopping by Woods". Furthermore, there was no need for me to use numbers for this label - the two poems could have easily been cited using "RobFrostA" and "RobFrostB". One step further, the label need not make logical sense to humans. `urn:cts:EnglishLit.American.Poetry:asdof` might be used to refer to "The Road Not Taken" while `urn:cts:EnglishLit.American.Poetry:oiunji` might be used to refer to "Stopping by Woods." As long as the citation scheme is unambiguous and consistent, there are no issues. 
 
@@ -31,15 +31,15 @@ Whereas the fourth unit of the citation refersto the work hierarchy, the third u
 
 The fifth and final unit to be discussed is the text hierarchy which comes after "poetryFound". This is the unit of citation  which differentiates individual lines or chapters from one another. Simply stated, most books and poems have some sort of hierarchy which dictates the order the lines or sentences are to be read. Thus there is a first line, followed by the second, followed by the third, and so on. This form of citation should be familiar to anyone who has read Shakespeare or most Classical poetry, where each line is given a unique identifier. No matter what version of the text one holds, there will always exist a line 1 and line 2 and line 3 and so on. However, it is worth nothing that, again, the designations of "line 1", "line 2", and "line 3" are ultimately arbitrary. Very often Classical scholars disagree about the order of lines in a text. However, the labelling of the lines of a poem in the field of Classics is version independent. So, for example, Figure 7 demonstrates a citable text version of the Loeb editions's first three lines of Aeschylus's *Agamemnon*:
 
-![Loeb *Agamemnon*](./Appendix/Chapter2/Images/Fig7.png)
+![Loeb *Agamemnon*](./Appendix/Chapter2/Images/Fig07.png)
 
 Figure 8, however, shows how the citations would change if I for some reason thought that the order should be different:
 
-![Edited *Agamemnon*](./Appendix/Chapter2/Images/Fig8.png)
+![Edited *Agamemnon*](./Appendix/Chapter2/Images/Fig08.png)
 
 One should notice that the same numbered labels apply to the same lines. Line "1" still identifies the line beginning "θεοὺς μὲν," even though line "1" is the second line of my edited version. This is because "1" and "2" are identifiers for the line, and not a description of where they appear in the passage. Their identification was originally based on the positioning of the lines in some version of the text, but they do not define the order for every version. Similarly, figure 9 presents a citable text version of the *Agamemnon* were I to delete line "2":
 
-![Second Edit of *Agamemnon*](./Appendix/Chapter2/Images/Fig9.png)
+![Second Edit of *Agamemnon*](./Appendix/Chapter2/Images/Fig09.png)
 
 Now the line beginning "στέγαις Ἀτρειδῶν" is the second line of the play, but it still retains the identifier "3". In sum, the OHCO2 models allows for a disambiguation of lines according to a text's own internal hierarchy.
 

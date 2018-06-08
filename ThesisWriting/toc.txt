@@ -1,4 +1,4 @@
-Chapter 1: The Venetus A - Its Format and Contents#Background.md
-Chatper 2: Text Citation and Text Wrangling#CitationAndTextWrangling.md
-Chatper 3: Applying Distant Reading to the Scholia#InitialDifferences.md
-Chapter 4: The Relationship Between the Intermarginal and Interior Zones#IntImStarEnd.md
+Chapter 1: The Venetus A - Its Format and Contents#Chapter1.md
+Chatper 2: Text Citation and Text Wrangling#Chapter2.md
+Chatper 3: Applying Distant Reading to the Scholia#Chapter3.md
+Chapter 4: The Relationship Between the Intermarginal and Interior Zones#Chapter4.md

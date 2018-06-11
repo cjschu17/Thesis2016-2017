@@ -1,0 +1,11 @@
+The above scripts were designed with the purpose of normalizing an edition of the Venetus A scholia according to their individual lemmata (i.e. the dictionary forms of words), as opposed to the forms that appear in the actual manuscript. Typically this stage of normalization will occur after paleographic and orthographic normalizations.
+
+There are three scripts required for this normalization. They should be used in the following order:
+
+1.  [1Parsing.sc](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapter2/Scripts/creatingMNormalizedText/1Parsing.sc)
+2.  [2creatingIndexOfParses.sc](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapter2/Scripts/creatingMNormalizedText/2creatingIndexOfParses.sc)
+3.  [3assemblingParsedText.sc](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapter2/Scripts/creatingMNormalizedText/3assemblingParsedText.sc)
+
+The first script, [1Parsing.sc](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapter2/Scripts/creatingMNormalizedText/1Parsing.sc), only requires one input. That input is some 2-column version of a Greek text, wherein the first column contains that CTS URN identifiers of the text and the second column contains the text intended to be normalized. For this thesis, I used this script to normalize the o-normalized version of the text found [here](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/VersionsOfScholia/o-normalized.tsv). The purpose of this script is to send each of the Greek words within the text of interest through the Morpheus morphological parser. The result, then, is the creation of a two-column file wherein the first column contains a word that was analyzed through the Morpheus parser and the second column contains the complete morphological analysis by the Morpheus parser. An example of the result of this script can be found [here](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapter2/Data/morpheusReplies.tsv).
+
+The second scrip

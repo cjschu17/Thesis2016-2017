@@ -1,3 +1,5 @@
+## Data Tables for Chapter 2: Text Citation and Text Wrangling ##
+
 The data associated with Chapter 2 involve the creation of the morphologically normalized (m-normalized) version of the text. The creation of the paleographically normalized (p-normalized) orthographically normalized (o-normalized) did not result in the creation of any new data. Furthermore, the complete versions of the p-normalized, o-normalized, and m-normalized versions can be found [here](https://github.com/cjschu17/Thesis2016-2017/tree/master/Appendix/VersionsOfScholia).
 
 There are three data tables associated with Chapter 2:

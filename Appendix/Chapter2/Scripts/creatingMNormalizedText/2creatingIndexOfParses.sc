@@ -1,3 +1,11 @@
+//The purpose of this script is to simplify the dense morphological analysis that the Morpheus parser creates when it analyzes each word to include only parts-of-speech and any possible lemmata. This script requires only input which is the two-column file that results from the first step in the  listed above. The purpose of this script is to simplify the dense morphological analysis that the Morpheus parser creates to only include part-of-speech and the possible lemmata. This script results in a three-column .tsv file with the first column containing the word which was analyzed. The second column contains the parts of speech that this word could be identified as, and the third column contains all the possibile lemmata for each given word. When there are more than one possible lemma, the parts of speech and lemmata are concatenated together and separated by an underscore. So, for example, the Greek word ἴσας could either be from the adjective for "equal" (ἴσος) or from the verb "to know" (οἶδα). So the row in the final table containing ἴσας would look like:
+
+Word to be analyzed | Part of Speech | Lemma
+---|---|---
+ἴσας|adjective_verb_|ἴσος_οἶδα
+
+The above table is precisely the format of the product of this script, and a more complete index of parses for all the words in my dataset of the Venetus A scholia can be found [here](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapter2/Data/indexOfLemmata.tsv).
+
 import scala.io.Source
 import scala.xml._
 

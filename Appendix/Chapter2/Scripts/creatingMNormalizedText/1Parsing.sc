@@ -1,3 +1,5 @@
+//The purpose of this script is to send each Greek words within a specified text through the Morpheus morphological parser. This script requires only one input. That input is some 2-column version of a Greek text, wherein the first column contains that CTS URN identifiers of the text and the second column contains the corresponding text intended to be normalized. The result is the creation of a two-column file wherein the first column contains a word that was analyzed through the Morpheus parser and the second column contains the complete morphological analysis by the Morpheus parser. 
+
 import scala.io.Source
 import scala.xml._
 

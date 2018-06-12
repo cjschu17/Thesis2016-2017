@@ -13,3 +13,5 @@ The second script, [2creatingIndexOfParses.sc](https://github.com/cjschu17/Thesi
 Word to be analyzed | Part of Speech | Lemma
 ---|---|---
 ἴσας|adjective_verb_|ἴσος_οἶδα
+
+The above table is precisely the format of the product of this script, and a more complete index of parses for all the words in my dataset of the Venetus A scholia can be found [here](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapter2/Data/indexOfLemmata.tsv).

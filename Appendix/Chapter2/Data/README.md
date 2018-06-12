@@ -6,5 +6,7 @@ There are three data tables associated with Chapter 2:
 
 [IndexOfLemmata.tsv](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapter2/Data/indexOfLemmata.tsv) is the final product of the script [2creatingIndexOfParses.sc](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapter2/Scripts/creatingMNormalizedText/2creatingIndexOfParses.sc). The purpose of that script is to simplify the dense morphological analysis that the Morpheus parser creates when it analyzes each word to include only parts-of-speech and any possible lemmata. The resulting data table is comprised of three columns file with the first column containing the word which was analyzed, the second column containing the parts of speech that this word could identified as, and the third column containing all the possibile lemmata for each given word. 
 
+[multipleParses.tsv](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapter2/Data/multipleParses.tsv) is identical to [IndexOfLemmata.tsv](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapter2/Data/indexOfLemmata.tsv), except that multipleParses.tsv has been filtered to only include rows in which a single word is associated with more than one lemma.
+
 
 

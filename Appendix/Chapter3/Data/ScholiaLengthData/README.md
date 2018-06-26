@@ -1,6 +1,4 @@
-Here are located the various tables for data associated with quantifying the length of scholia by the number of words they contain.
-
-There are only two tables associated with this line of inquiry.
+Here are located the various tables for data associated with quantifying the length of scholia by the number of words they contain. There are only two tables associated with this line of inquiry.
 
 The first table, [scholiaLength.tsv](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapter3/Data/ScholiaLengthData/scholiaLength.tsv), has five rows (one for the main scholia, one for the interior scholia, etc.), and in each row the table presents how many scholia there are of that type, what the mean length (in words) of scholia within that type, what is the median length (in words) of scholia within that type, and what is the standard deviation of the lengths of scholia within that type.
 

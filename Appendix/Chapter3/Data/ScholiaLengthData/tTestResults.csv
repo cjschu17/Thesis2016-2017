@@ -1,12 +1,12 @@
-Types of Scholia,t-score,Statistically Significant or Not (D.F. = infinity, so significance (p < 0.05) when t-score > 1.645)
-Main and Intermarginal,50.35,Statistically Significant
-Main and Interior,47.06,Statistically Significant
-Main and Interlinear,60.61,Statistically Significant
-Main and Exterior,15.24,Statistically Significant
-Intermarginal and Interior,2.44,Statistically Significant
-Intermarginal and Interlinear,39.56,Statistically Significant
-Intermarginal and Exterior,1.55,Not Statistically Significant
-Interior and Interlinear,26.14,Statistically Significant
-Interior and Exterior,1.84,Statistically Significant
-Interlinear and Exterior,1.01,Not Statistically Significant
-Start and End,2.26,Statistically Significant
+Types of Scholia	t-score	Statistically Significant or Not (D.F. = infinity, so significance (p < 0.05) when t-score > 1.645)
+Main and Intermarginal	50.35	Statistically Significant
+Main and Interior	47.06	Statistically Significant
+Main and Interlinear	60.61	Statistically Significant
+Main and Exterior	15.24	Statistically Significant
+Intermarginal and Interior	2.44	Statistically Significant
+Intermarginal and Interlinear	39.56	Statistically Significant
+Intermarginal and Exterior	1.55	Not Statistically Significant
+Interior and Interlinear	26.14	Statistically Significant
+Interior and Exterior	1.84	Statistically Significant
+Interlinear and Exterior	1.01	Not Statistically Significant
+Start and End	2.26	Statistically Significant

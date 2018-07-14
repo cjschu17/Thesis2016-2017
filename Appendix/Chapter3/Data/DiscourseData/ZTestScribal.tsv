@@ -1,0 +1,11 @@
+Zones Being Compared	Z-Score	Significance (p < 0.05)
+Main vs. Intermarginal	13.76	Statisically Significant
+Main vs. Interior	1.43	Not Statistically Significant
+Main vs. Interlinear	21.34	Statisically Significant
+Main vs. Exterior	0.67	Not Statistically Significant
+Intermarginal vs. Interior	7.39	Statisically Significant
+Intermarginal vs. Interlinear	26.35	Statisically Significant
+Intermarginal vs. Exterior	2.34	Statisically Significant
+Interior vs. Interlinear	20.93	Statisically Significant
+Interior vs. Exterior	0.24	Not Statistically Significant
+Interlinear vs. Exterior	15.8	Statisically Significant

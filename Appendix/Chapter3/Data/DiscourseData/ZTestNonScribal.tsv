@@ -1,0 +1,12 @@
+ones Being Compared	Z-Score	Significance (p < 0.05)
+Main vs. All Other Scholia	36.75	Statisically Significant
+Main vs. Intermarginal	29.8	Statisically Significant
+Main vs. Interior	21.61	Statisically Significant
+Main vs. Interlinear	5.87	Statisically Significant
+Main vs. Exterior	7.59	Statisically Significant
+Intermarginal vs. Interior	0.79	Not Statistically Significant
+Intermarginal vs. Interlinear	0.37	Not Statistically Significant
+Intermarginal vs. Exterior	2.04	Statisically Significant
+Interior vs. Interlinear	0.1	Not Statistically Significant
+Interior vs. msAext	2.18	Statisically Significant
+Interlinear vs. Exterior	2.2	Statisically Significant

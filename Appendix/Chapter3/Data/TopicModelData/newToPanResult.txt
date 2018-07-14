@@ -1,4 +1,4 @@
-This is scholia set table1.tsv contains:
+This is scholia set topic01.tsv contains:
 main scholia: 86.0 (84.31%)
 intermarginal scholia: 9.0 (8.82%)
 interior scholia: 7.0 (6.86%)
@@ -6,55 +6,8 @@ interlinear scholia: 0.0 (0.0%)
 exterior scholia: 0.0 (0.0%)
 In total there are 102.0 scholia.
 
-This is scholia set table10.tsv contains:
-main scholia: 35.0 (61.4%)
-intermarginal scholia: 7.0 (12.28%)
-interior scholia: 10.0 (17.54%)
-interlinear scholia: 4.0 (7.02%)
-exterior scholia: 1.0 (1.75%)
-In total there are 57.0 scholia.
 
-This is scholia set table11.tsv contains:
-main scholia: 61.0 (69.32%)
-intermarginal scholia: 6.0 (6.82%)
-interior scholia: 17.0 (19.32%)
-interlinear scholia: 4.0 (4.55%)
-exterior scholia: 0.0 (0.0%)
-In total there are 88.0 scholia.
-
-This is scholia set table12.tsv contains:
-main scholia: 41.0 (67.21%)
-intermarginal scholia: 11.0 (18.03%)
-interior scholia: 8.0 (13.11%)
-interlinear scholia: 1.0 (1.64%)
-exterior scholia: 0.0 (0.0%)
-In total there are 61.0 scholia.
-
-This is scholia set table13.tsv contains:
-main scholia: 32.0 (52.46%)
-intermarginal scholia: 14.0 (22.95%)
-interior scholia: 10.0 (16.39%)
-interlinear scholia: 4.0 (6.56%)
-exterior scholia: 1.0 (1.64%)
-In total there are 61.0 scholia.
-
-This is scholia set table14.tsv contains:
-main scholia: 36.0 (52.17%)
-intermarginal scholia: 19.0 (27.54%)
-interior scholia: 6.0 (8.7%)
-interlinear scholia: 7.0 (10.14%)
-exterior scholia: 1.0 (1.45%)
-In total there are 69.0 scholia.
-
-This is scholia set table15.tsv contains:
-main scholia: 27.0 (41.54%)
-intermarginal scholia: 25.0 (38.46%)
-interior scholia: 10.0 (15.38%)
-interlinear scholia: 2.0 (3.08%)
-exterior scholia: 1.0 (1.54%)
-In total there are 65.0 scholia.
-
-This is scholia set table2.tsv contains:
+This is scholia set topic02.tsv contains:
 main scholia: 65.0 (83.33%)
 intermarginal scholia: 5.0 (6.41%)
 interior scholia: 5.0 (6.41%)
@@ -62,7 +15,7 @@ interlinear scholia: 3.0 (3.85%)
 exterior scholia: 0.0 (0.0%)
 In total there are 78.0 scholia.
 
-This is scholia set table3.tsv contains:
+This is scholia set topic03.tsv contains:
 main scholia: 65.0 (75.58%)
 intermarginal scholia: 9.0 (10.47%)
 interior scholia: 6.0 (6.98%)
@@ -70,7 +23,7 @@ interlinear scholia: 6.0 (6.98%)
 exterior scholia: 0.0 (0.0%)
 In total there are 86.0 scholia.
 
-This is scholia set table4.tsv contains:
+This is scholia set topic04.tsv contains:
 main scholia: 105.0 (81.4%)
 intermarginal scholia: 13.0 (10.08%)
 interior scholia: 10.0 (7.75%)
@@ -78,7 +31,7 @@ interlinear scholia: 1.0 (0.78%)
 exterior scholia: 0.0 (0.0%)
 In total there are 129.0 scholia.
 
-This is scholia set table5.tsv contains:
+This is scholia set topic05.tsv contains:
 main scholia: 65.0 (50.0%)
 intermarginal scholia: 39.0 (30.0%)
 interior scholia: 24.0 (18.46%)
@@ -86,7 +39,7 @@ interlinear scholia: 2.0 (1.54%)
 exterior scholia: 0.0 (0.0%)
 In total there are 130.0 scholia.
 
-This is scholia set table6.tsv contains:
+This is scholia set topic06.tsv contains:
 main scholia: 74.0 (61.67%)
 intermarginal scholia: 28.0 (23.33%)
 interior scholia: 16.0 (13.33%)
@@ -94,7 +47,7 @@ interlinear scholia: 1.0 (0.83%)
 exterior scholia: 1.0 (0.83%)
 In total there are 120.0 scholia.
 
-This is scholia set table7.tsv contains:
+This is scholia set topic07.tsv contains:
 main scholia: 58.0 (69.05%)
 intermarginal scholia: 10.0 (11.9%)
 interior scholia: 14.0 (16.67%)
@@ -102,7 +55,7 @@ interlinear scholia: 2.0 (2.38%)
 exterior scholia: 0.0 (0.0%)
 In total there are 84.0 scholia.
 
-This is scholia set table8.tsv contains:
+This is scholia set topic08.tsv contains:
 main scholia: 41.0 (66.13%)
 intermarginal scholia: 10.0 (16.13%)
 interior scholia: 6.0 (9.68%)
@@ -110,10 +63,59 @@ interlinear scholia: 5.0 (8.06%)
 exterior scholia: 0.0 (0.0%)
 In total there are 62.0 scholia.
 
-This is scholia set table9.tsv contains:
+This is scholia set topic09.tsv contains:
 main scholia: 45.0 (32.37%)
 intermarginal scholia: 65.0 (46.76%)
 interior scholia: 28.0 (20.14%)
 interlinear scholia: 0.0 (0.0%)
 exterior scholia: 1.0 (0.72%)
 In total there are 139.0 scholia.
+
+This is scholia set topic10.tsv contains:
+main scholia: 35.0 (61.4%)
+intermarginal scholia: 7.0 (12.28%)
+interior scholia: 10.0 (17.54%)
+interlinear scholia: 4.0 (7.02%)
+exterior scholia: 1.0 (1.75%)
+In total there are 57.0 scholia.
+
+This is scholia set topic11.tsv contains:
+main scholia: 61.0 (69.32%)
+intermarginal scholia: 6.0 (6.82%)
+interior scholia: 17.0 (19.32%)
+interlinear scholia: 4.0 (4.55%)
+exterior scholia: 0.0 (0.0%)
+In total there are 88.0 scholia.
+
+This is scholia set topic12.tsv contains:
+main scholia: 41.0 (67.21%)
+intermarginal scholia: 11.0 (18.03%)
+interior scholia: 8.0 (13.11%)
+interlinear scholia: 1.0 (1.64%)
+exterior scholia: 0.0 (0.0%)
+In total there are 61.0 scholia.
+
+This is scholia set topic13.tsv contains:
+main scholia: 32.0 (52.46%)
+intermarginal scholia: 14.0 (22.95%)
+interior scholia: 10.0 (16.39%)
+interlinear scholia: 4.0 (6.56%)
+exterior scholia: 1.0 (1.64%)
+In total there are 61.0 scholia.
+
+This is scholia set topic14.tsv contains:
+main scholia: 36.0 (52.17%)
+intermarginal scholia: 19.0 (27.54%)
+interior scholia: 6.0 (8.7%)
+interlinear scholia: 7.0 (10.14%)
+exterior scholia: 1.0 (1.45%)
+In total there are 69.0 scholia.
+
+This is scholia set topic15.tsv contains:
+main scholia: 27.0 (41.54%)
+intermarginal scholia: 25.0 (38.46%)
+interior scholia: 10.0 (15.38%)
+interlinear scholia: 2.0 (3.08%)
+exterior scholia: 1.0 (1.54%)
+In total there are 65.0 scholia.
+

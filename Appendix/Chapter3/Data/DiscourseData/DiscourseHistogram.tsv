@@ -1,7 +1,7 @@
-Scholia Type	Number of Scholia	Number of Words	Number of Direct Voice Words	Number of Quoted Text Words	Number of Quoted Language Words	Number of Non-Direct Voice Words
-msA	3253	115868	103748 (89.54%)	6383 (5.51%)	5737 (4.95%)	12120 (10.46%)
-msAim	1096	7676	6487 (84.51%)	88 (1.15%)	1101 (14.34%)	1189 (15.49%)
-msAint	744	5681	5053 (88.95%)	53 (0.93%)	575 (10.12%)	628 (11.05%)
-msAil	2003	4752	4707 (99.05%)	4 (0.08%)	41 (0.86%)	45 (0.95%)
-msAext	223	455	403 (88.57%)	0 (0.0%)	52 (11.43%)	52 (11.43%)
+Scholia Type	Number of Scholia	Number of Words	Number of Scribal Voice Words	Number of Quoted Text Words	Number of Quoted Language Words	Number of Non-Scribal Voice Words
+Main	3253	115868	103748 (89.54%)	6383 (5.51%)	5737 (4.95%)	12120 (10.46%)
+Intermarginal	1096	7676	6487 (84.51%)	88 (1.15%)	1101 (14.34%)	1189 (15.49%)
+Interior	744	5681	5053 (88.95%)	53 (0.93%)	575 (10.12%)	628 (11.05%)
+Interlinear	2003	4752	4707 (99.05%)	4 (0.08%)	41 (0.86%)	45 (0.95%)
+Exterior	223	455	403 (88.57%)	0 (0.0%)	52 (11.43%)	52 (11.43%)
 

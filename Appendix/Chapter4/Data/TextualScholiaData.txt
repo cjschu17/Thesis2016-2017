@@ -1,0 +1,284 @@
+This is scholia set topic01.tsv contains:
+main scholia: 86.0 (84.31%)
+intermarginal scholia: 9.0 (8.82%)
+interior scholia: 7.0 (6.86%)
+start scholia: 8.0 (7.84%)
+end scholia: 8.0 (7.84%)
+In total there are 102.0 scholia.
+
+
+Within this set, topic01.tsv, here is how it splits up among the textual scholia:
+startIm: 2.0 (1.96%)
+endInt: 1.0 (0.98%)
+startInt: 6.0 (5.88%)
+endIm:7.0 (6.86%)
+start: 8.0 (7.84%)
+end:8.0 (7.84%)
+im: 9.0 (8.82%)
+int: 7.0 (6.86%)
+
+This is scholia set topic02.tsv contains:
+main scholia: 65.0 (86.67%)
+intermarginal scholia: 5.0 (6.67%)
+interior scholia: 5.0 (6.67%)
+start scholia: 6.0 (8.0%)
+end scholia: 4.0 (5.33%)
+In total there are 75.0 scholia.
+
+
+Within this set, topic02.tsv, here is how it splits up among the textual scholia:
+startIm: 3.0 (3.85%)
+endInt: 2.0 (2.56%)
+startInt: 3.0 (3.85%)
+endIm:2.0 (2.56%)
+start: 6.0 (7.69%)
+end:4.0 (5.13%)
+im: 5.0 (6.41%)
+int: 5.0 (6.41%)
+
+This is scholia set topic03.tsv contains:
+main scholia: 65.0 (81.25%)
+intermarginal scholia: 9.0 (11.25%)
+interior scholia: 6.0 (7.50%)
+start scholia: 13.0 (16.25%)
+end scholia: 2.0 (2.50%)
+In total there are 80.0 scholia.
+
+
+Within this set, topic03.tsv, here is how it splits up among the textual scholia:
+startIm: 9.0 (10.47%)
+endInt: 2.0 (2.33%)
+startInt: 4.0 (4.65%)
+endIm:0.0 (0.0%)
+start: 13.0 (15.12%)
+end:2.0 (2.33%)
+im: 9.0 (10.47%)
+int: 6.0 (6.98%)
+
+This is scholia set topic04.tsv contains:
+main scholia: 105.0 (82.03%)
+intermarginal scholia: 13.0 (10.16%)
+interior scholia: 10.0 (7.81%)
+start scholia: 15.0 (11.72%)
+end scholia: 8.0 (6.25%)
+In total there are 128.0 scholia.
+
+
+Within this set, topic04.tsv, here is how it splits up among the textual scholia:
+startIm: 7.0 (5.43%)
+endInt: 2.0 (1.55%)
+startInt: 8.0 (6.2%)
+endIm:6.0 (4.65%)
+start: 15.0 (11.63%)
+end:8.0 (6.2%)
+im: 13.0 (10.08%)
+int: 10.0 (7.75%)
+
+This is scholia set topic05.tsv contains:
+main scholia: 65.0 (50.78%)
+intermarginal scholia: 39.0 (30.47%)
+interior scholia: 24.0 (18.75%)
+start scholia: 43.0 (33.59%)
+end scholia: 20.0 (15.63%)
+In total there are 128.0 scholia.
+
+
+Within this set, topic05.tsv, here is how it splits up among the textual scholia:
+startIm: 26.0 (20.0%)
+endInt: 7.0 (5.38%)
+startInt: 17.0 (13.08%)
+endIm:13.0 (10.0%)
+start: 43.0 (33.08%)
+end:20.0 (15.38%)
+im: 39.0 (30.0%)
+int: 24.0 (18.46%)
+
+This is scholia set topic06.tsv contains:
+main scholia: 74.0 (62.71%)
+intermarginal scholia: 28.0 (23.72%)
+interior scholia: 16.0 (13.55%)
+start scholia: 22.0 (18.64%)
+end scholia: 22.0 (18.64%)
+In total there are 118.0 scholia.
+
+
+Within this set, topic06.tsv, here is how it splits up among the textual scholia:
+startIm: 12.0 (10.0%)
+endInt: 6.0 (5.0%)
+startInt: 10.0 (8.33%)
+endIm:16.0 (13.33%)
+start: 22.0 (18.33%)
+end:22.0 (18.33%)
+im: 28.0 (23.33%)
+int: 16.0 (13.33%)
+
+This is scholia set topic07.tsv contains:
+main scholia: 58.0 (70.73%)
+intermarginal scholia: 10.0 (12.2%)
+interior scholia: 14.0 (17.07%)
+start scholia: 14.0 (17.07%)
+end scholia: 10.0 (12.2%)
+In total there are 82.0 scholia.
+
+
+Within this set, topic07.tsv, here is how it splits up among the textual scholia:
+startIm: 4.0 (4.76%)
+endInt: 4.0 (4.76%)
+startInt: 10.0 (11.9%)
+endIm:6.0 (7.14%)
+start: 14.0 (16.67%)
+end:10.0 (11.9%)
+im: 10.0 (11.9%)
+int: 14.0 (16.67%)
+
+This is scholia set topic08.tsv contains:
+main scholia: 41.0 (71.93%)
+intermarginal scholia: 10.0 (17.54%)
+interior scholia: 6.0 (10.53%)
+start scholia: 14.0 (24.56%)
+end scholia: 2.0 (3.51%)
+In total there are 57.0 scholia.
+
+
+Within this set, topic08.tsv, here is how it splits up among the textual scholia:
+startIm: 9.0 (14.52%)
+endInt: 1.0 (1.61%)
+startInt: 5.0 (8.06%)
+endIm:1.0 (1.61%)
+start: 14.0 (22.58%)
+end:2.0 (3.23%)
+im: 10.0 (16.13%)
+int: 6.0 (9.68%)
+
+This is scholia set topic09.tsv contains:
+main scholia: 45.0 (32.61%)
+intermarginal scholia: 65.0 (47.1%)
+interior scholia: 28.0 (20.29%)
+start scholia: 73.0 (52.9%)
+end scholia: 20.0 (14.49%)
+In total there are 138.0 scholia.
+
+
+Within this set, topic09.tsv, here is how it splits up among the textual scholia:
+startIm: 51.0 (36.69%)
+endInt: 6.0 (4.32%)
+startInt: 22.0 (15.83%)
+endIm:14.0 (10.07%)
+start: 73.0 (52.52%)
+end:20.0 (14.39%)
+im: 65.0 (46.76%)
+int: 28.0 (20.14%)
+
+This is scholia set topic10.tsv contains:
+main scholia: 35.0 (67.3%)
+intermarginal scholia: 7.0 (13.46%)
+interior scholia: 10.0 (19.23%)
+start scholia: 10.0 (19.23%)
+end scholia: 7.0 (13.46%)
+In total there are 52.0 scholia.
+
+
+Within this set, topic10.tsv, here is how it splits up among the textual scholia:
+startIm: 2.0 (3.51%)
+endInt: 2.0 (3.51%)
+startInt: 8.0 (14.04%)
+endIm:5.0 (8.77%)
+start: 10.0 (17.54%)
+end:7.0 (12.28%)
+im: 7.0 (12.28%)
+int: 10.0 (17.54%)
+
+This is scholia set topic11.tsv contains:
+main scholia: 61.0 (72.61%)
+intermarginal scholia: 6.0 (7.14%)
+interior scholia: 17.0 (20.23%)
+start scholia: 13.0 (15.48%)
+end scholia: 10.0 (11.9%)
+In total there are 84.0 scholia.
+
+
+Within this set, topic11.tsv, here is how it splits up among the textual scholia:
+startIm: 4.0 (4.55%)
+endInt: 8.0 (9.09%)
+startInt: 9.0 (10.23%)
+endIm:2.0 (2.27%)
+start: 13.0 (14.77%)
+end:10.0 (11.36%)
+im: 6.0 (6.82%)
+int: 17.0 (19.32%)
+
+This is scholia set topic12.tsv contains:
+main scholia: 41.0 (68.33%)
+intermarginal scholia: 11.0 (18.33%)
+interior scholia: 8.0 (13.33%)
+start scholia: 14.0 (23.33%)
+end scholia: 5.0 (8.3%)
+In total there are 60.0 scholia.
+
+
+Within this set, topic12.tsv, here is how it splits up among the textual scholia:
+startIm: 9.0 (14.75%)
+endInt: 3.0 (4.92%)
+startInt: 5.0 (8.2%)
+endIm:2.0 (3.28%)
+start: 14.0 (22.95%)
+end:5.0 (8.2%)
+im: 11.0 (18.03%)
+int: 8.0 (13.11%)
+
+This is scholia set topic13.tsv contains:
+main scholia: 32.0 (57.14%)
+intermarginal scholia: 14.0 (25%)
+interior scholia: 10.0 (17.86%)
+start scholia: 15.0 (26.79%)
+end scholia: 9.0 (16.07%)
+In total there are 56.0 scholia.
+
+
+Within this set, topic13.tsv, here is how it splits up among the textual scholia:
+startIm: 9.0 (14.75%)
+endInt: 4.0 (6.56%)
+startInt: 6.0 (9.84%)
+endIm:5.0 (8.2%)
+start: 15.0 (24.59%)
+end:9.0 (14.75%)
+im: 14.0 (22.95%)
+int: 10.0 (16.39%)
+
+This is scholia set topic14.tsv contains:
+main scholia: 36.0 (59.02%)
+intermarginal scholia: 19.0 (31.15%)
+interior scholia: 6.0 (9.84%)
+start scholia: 17.0 (27.87%)
+end scholia: 8.0 (13.11%)
+In total there are 61.0 scholia.
+
+
+Within this set, topic14.tsv, here is how it splits up among the textual scholia:
+startIm: 13.0 (18.84%)
+endInt: 2.0 (2.9%)
+startInt: 4.0 (5.8%)
+endIm:6.0 (8.7%)
+start: 17.0 (24.64%)
+end:8.0 (11.59%)
+im: 19.0 (27.54%)
+int: 6.0 (8.7%)
+
+This is scholia set topic15.tsv contains:
+main scholia: 27.0 (43.54%)
+intermarginal scholia: 25.0 (40.32%)
+interior scholia: 10.0 (16.13%)
+start scholia: 26.0 (41.94%)
+end scholia: 9.0 (14.52%)
+In total there are 62.0 scholia.
+
+
+Within this set, topic15.tsv, here is how it splits up among the textual scholia:
+startIm: 16.0 (24.62%)
+endInt: 0.0 (0.0%)
+startInt: 10.0 (15.38%)
+endIm:9.0 (13.85%)
+start: 26.0 (40.0%)
+end:9.0 (13.85%)
+im: 25.0 (38.46%)
+int: 10.0 (15.38%)

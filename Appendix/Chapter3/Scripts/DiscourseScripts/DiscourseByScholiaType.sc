@@ -45,7 +45,6 @@ val qTxtPerc = qTxtSizes.map(n => (n / quotedTextTknsSize) * 100)
 val qTxtRoundedPerc = qTxtPerc.map(math.BigDecimal(_).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble)
 val qTxtData = qTxtSizes zip qTxtRoundedPerc
 
-
 val quotedLanguageTkns = tokenAnalysis.filter(_.isQuotedLanguage)
 val quotedLangTknsSize = quotedLanguageTkns.size.toDouble
 var qLangTknsSizes = ""
@@ -56,7 +55,6 @@ val qLangSizes = qLangTknsSizes.split("\n").filterNot(_.isEmpty).map(_.toDouble)
 val qLangPerc = qLangSizes.map(n => (n / quotedLangTknsSize) * 100)
 val qLangRoundedPerc = qLangPerc.map(math.BigDecimal(_).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble)
 val qLangData = qLangSizes zip qLangRoundedPerc
-
 
 val nonDirectVoiceTkns = quotedTextTkns ++ quotedLanguageTkns
 val nonDirectTknsSize = nonDirectVoiceTkns.size.toDouble
@@ -70,9 +68,6 @@ val nonDirectRoundedPerc = nonDirectPerc.map(math.BigDecimal(_).setScale(2, BigD
 val nonDirectData = nonDirectSizes zip nonDirectRoundedPerc
 
 val allData = Vector(directData,qTxtData,qLangData,nonDirectData,totalData)
-
-
-
 
 println("Type of Discourse\tNumber of Words Within that Type of Discourse\tNumber of words within Discouse and within msA\tNumber of words within Discouse and within msAim\tNumber of words within Discouse and within msAint\tNumber of words within Discouse and within msAil\tNumber of words within Discouse and within msAext")
 println("Direct Discourse\t" + directTknsSize + "\t" + allData(0)(0)._1 + " (" + allData(0)(0)._2 + "%)\t" + allData(0)(1)._1 + " (" + allData(0)(1)._2 + "%)\t" + allData(0)(2)._1 + " (" + allData(0)(2)._2 + "%)\t" + allData(0)(3)._1 + " (" + allData(0)(3)._2 + "%)\t" + allData(0)(4)._1 + " (" + allData(0)(4)._2 + "%)")

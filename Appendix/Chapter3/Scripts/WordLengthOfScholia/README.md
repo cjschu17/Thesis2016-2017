@@ -2,4 +2,4 @@ This script is designed to present descriptive and analytic statistics regarding
 
 It requires only one input: the [archival version of the scholia](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/VersionsOfScholia/archived-version.tsv).
 
-The result of this script is a text file with two tables. The first table is a table of all the descriptive statistics
+The result of this script is a text file with two tables. The first table is a table of all the descriptive statistics (mean, median, and standard deviation) for this dataset. This table can be found in the data section for Chapter 3, [here](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapter3/Data/ScholiaLengthData/scholiaLength.tsv). The second table is a compilation of the results of the Student's T-test along with whether the difference in average scholion length between two zones was statistically significant or not. This table can also be found in Chapter 3's data appendix, found [here](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapter3/Data/ScholiaLengthData/tTestResults.tsv).

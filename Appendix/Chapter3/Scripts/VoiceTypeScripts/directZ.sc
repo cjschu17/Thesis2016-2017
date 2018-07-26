@@ -1,32 +1,17 @@
 import scala.io._
 import scala.math._
 
-val table = scala.io.Source.fromFile("data/DiscourseData/DiscourseHistogram.tsv").getLines.toVector.map(_.split("\t")).drop(1).dropRight(1)
+@main
+def scribalZTest(fileName: String) {
+val table = scala.io.Source.fromFile(fileName).getLines.toVector.map(_.split("\t")).drop(1).dropRight(1)
 val editedTable = table.map(f => Array(f(0),f(3),f(6),f(2)))
 val noPerc = editedTable.map(_.map(_.split(" ")(0)))
 
 
 println("Type Of Scholia\tTotal Words\tWords in Scribal Voice\tWords in Non-Scribal Voice")
 
-
-def rearrangingTable (dataset: Vector[Array[String]]) = {
-
-  for (row <- dataset) {
-    val scholiaType = row(0)
-    val scribal = row(1).toDouble
-    val nonScribal = row(2).toDouble
-    val totalWords = row(3).toDouble
-
-    val qTxtPerc = math.BigDecimal((scribal / totalWords) * 100).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
-    val qLangPerc = math.BigDecimal((nonScribal / totalWords) * 100).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
-    println(scholiaType + "\t" + totalWords + "\t" + scribal + " (" + qTxtPerc + "%)\t" + nonscribal + " (" + qLangPerc + "%)")
-  }
-
-}
-
 rearrangingTable(noPerc)
-
-
+  
 val otherQTxt = noPerc.map(_(1)).drop(1).map(_.toInt)
 var qTxtSum: Int = 0
 for (num <- otherQTxt) {
@@ -46,6 +31,34 @@ for (num <- allIndirect) {
 val discourseData = Vector(Array("msA",noPerc(0)(1),noPerc(0)(2),noPerc(0)(3)),Array("otherSchol",qTxtSum.toString,qLangSum.toString,indirectSum.toString))
 
 
+zTest(discourseData(0),discourseData(1))
+zTest(noPerc(0),noPerc(1))
+zTest(noPerc(0),noPerc(2))
+zTest(noPerc(0),noPerc(3))
+zTest(noPerc(0),noPerc(4))
+zTest(noPerc(1),noPerc(2))
+zTest(noPerc(1),noPerc(3))
+zTest(noPerc(1),noPerc(4))
+zTest(noPerc(2),noPerc(3))
+zTest(noPerc(2),noPerc(4))
+zTest(noPerc(3),noPerc(4))
+  
+}
+  
+def rearrangingTable (dataset: Vector[Array[String]]) = {
+
+  for (row <- dataset) {
+    val scholiaType = row(0)
+    val scribal = row(1).toDouble
+    val nonScribal = row(2).toDouble
+    val totalWords = row(3).toDouble
+
+    val qTxtPerc = math.BigDecimal((scribal / totalWords) * 100).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
+    val qLangPerc = math.BigDecimal((nonScribal / totalWords) * 100).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
+    println(scholiaType + "\t" + totalWords + "\t" + scribal + " (" + qTxtPerc + "%)\t" + nonscribal + " (" + qLangPerc + "%)")
+  }
+
+}
 
 def zTest(dataset1: Array[String], dataset2: Array[String]) = {
 
@@ -93,14 +106,3 @@ def zTest(dataset1: Array[String], dataset2: Array[String]) = {
 
 }
 
-zTest(discourseData(0),discourseData(1))
-zTest(noPerc(0),noPerc(1))
-zTest(noPerc(0),noPerc(2))
-zTest(noPerc(0),noPerc(3))
-zTest(noPerc(0),noPerc(4))
-zTest(noPerc(1),noPerc(2))
-zTest(noPerc(1),noPerc(3))
-zTest(noPerc(1),noPerc(4))
-zTest(noPerc(2),noPerc(3))
-zTest(noPerc(2),noPerc(4))
-zTest(noPerc(3),noPerc(4))

@@ -1,32 +1,16 @@
 import scala.io._
 import scala.math._
 
-val table = scala.io.Source.fromFile("data/DiscourseData/DiscourseHistogram.tsv").getLines.toVector.map(_.split("\t")).drop(1).dropRight(1)
+@main
+def nonScribalZTest(fileName: String) {
+val table = scala.io.Source.fromFile(fileName).getLines.toVector.map(_.split("\t")).drop(1).dropRight(1)
 val editedTable = table.map(f => Array(f(0),f(4),f(5),f(6)))
 val noPerc = editedTable.map(_.map(_.split(" ")(0)))
 
-
-println("Type Of Scholia\tTotal Words in Indirect Discourse\tWords in Quoted Text\tWords in Quoted Language")
-
-
-def rearrangingTable (dataset: Vector[Array[String]]) = {
-
-  for (row <- dataset) {
-    val scholiaType = row(0)
-    val quotedTxt = row(1).toDouble
-    val quotedLang = row(2).toDouble
-    val indirectDiscourse = row(3).toDouble
-
-    val qTxtPerc = math.BigDecimal((quotedTxt / indirectDiscourse) * 100).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
-    val qLangPerc = math.BigDecimal((quotedLang / indirectDiscourse) * 100).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
-    println(scholiaType + "\t" + indirectDiscourse + "\t" + quotedTxt + " (" + qTxtPerc + "%)\t" + quotedLang + " (" + qLangPerc + "%)")
-  }
-
-}
+println("Type Of Scholia\tTotal Non-Scribal Voice Words\tWords that are Quoted Text\tWords that are Quoted Language")
 
 rearrangingTable(noPerc)
-
-
+  
 val otherQTxt = noPerc.map(_(1)).drop(1).map(_.toInt)
 var qTxtSum: Int = 0
 for (num <- otherQTxt) {
@@ -45,7 +29,34 @@ for (num <- allIndirect) {
 
 val discourseData = Vector(Array("msA",noPerc(0)(1),noPerc(0)(2),noPerc(0)(3)),Array("otherSchol",qTxtSum.toString,qLangSum.toString,indirectSum.toString))
 
+zTest(discourseData(0),discourseData(1))
+zTest(noPerc(0),noPerc(1))
+zTest(noPerc(0),noPerc(2))
+zTest(noPerc(0),noPerc(3))
+zTest(noPerc(0),noPerc(4))
+zTest(noPerc(1),noPerc(2))
+zTest(noPerc(1),noPerc(3))
+zTest(noPerc(1),noPerc(4))
+zTest(noPerc(2),noPerc(3))
+zTest(noPerc(2),noPerc(4))
+zTest(noPerc(3),noPerc(4))
+  
+}
+  
+def rearrangingTable (dataset: Vector[Array[String]]) = {
 
+  for (row <- dataset) {
+    val scholiaType = row(0)
+    val qtdTxt = row(1).toDouble
+    val qtdLang = row(2).toDouble
+    val totalWords = row(3).toDouble
+
+    val qTxtPerc = math.BigDecimal((qtdTxt / totalWords) * 100).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
+    val qLangPerc = math.BigDecimal((qtdLang / totalWords) * 100).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
+    println(scholiaType + "\t" + totalWords + "\t" + qtdTxt + " (" + qTxtPerc + "%)\t" + qtdLang + " (" + qLangPerc + "%)")
+  }
+
+}
 
 def zTest(dataset1: Array[String], dataset2: Array[String]) = {
 
@@ -55,13 +66,11 @@ def zTest(dataset1: Array[String], dataset2: Array[String]) = {
   val phat1: Double = freq1 / pop1
   val oneMinusPhat1: Double = 1 - phat1
 
-
   val scholiaType2 = dataset2(0).toString
   val pop2: Double = dataset2(3).toDouble
   val freq2: Double = dataset2(1).toDouble
   val phat2: Double = freq2 / pop2
   val oneMinusPhat2: Double = 1 - phat2
-
 
   val proportionDiff: Double = phat1 - phat2
 
@@ -88,19 +97,7 @@ def zTest(dataset1: Array[String], dataset2: Array[String]) = {
     significance += "Not Statistically Significant"
   }
 
-
   println(scholiaType1 + " & " + scholiaType2 + "\t" + roundedzScore + "\t" + significance)
 
 }
 
-zTest(discourseData(0),discourseData(1))
-zTest(noPerc(0),noPerc(1))
-zTest(noPerc(0),noPerc(2))
-zTest(noPerc(0),noPerc(3))
-zTest(noPerc(0),noPerc(4))
-zTest(noPerc(1),noPerc(2))
-zTest(noPerc(1),noPerc(3))
-zTest(noPerc(1),noPerc(4))
-zTest(noPerc(2),noPerc(3))
-zTest(noPerc(2),noPerc(4))
-zTest(noPerc(3),noPerc(4))

@@ -27,7 +27,6 @@ def avgLength(fileName: String) {
   val mainWdsPerSchol = mainTokens.map(_._2.size)
   val statsMain = statsCalc(mainScholCount,mainWdsPerSchol)
 
-
   val imScholCount = imTokens.size.toDouble
   val imWdsPerSchol = imTokens.map(_._2.size)
   val statsIm = statsCalc(imScholCount,imWdsPerSchol)
@@ -54,7 +53,6 @@ def avgLength(fileName: String) {
   val tTestIntIl = tTest(statsInt,intScholCount,statsIl,ilScholCount)
   val tTestIntExt = tTest(statsInt,intScholCount,statsExt,extScholCount)
   val tTestIlExt = tTest(statsIl,ilScholCount,statsExt,extScholCount)
-
 
   println("Type of Scholia\tCount\tMedian\tMean\tStandard Deviation\n")
   println("Main Scholia\t" + mainScholCount + "\t" + statsMain._3 + "\t" + math.BigDecimal(statsMain._1).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble + "\t" + math.BigDecimal(statsMain._2).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble)
@@ -119,8 +117,6 @@ def statsCalc(totalSchol: Double, listOfLengths: Vector[Int]) = {
     median += orderedWdCt(oddBaseNumber)
   }
 
-
-
   val meanSDMedian = (average,sd,median)
   meanSDMedian
 }
@@ -145,7 +141,6 @@ def tTest(dataset1: (Double,Double,Int), size1: Double, dataset2: (Double,Double
 
   val denominator = math.sqrt(denominatorSquared)
   val tValue = meansDiff / denominator
-
 
   var significance = (tValue,"not statistically Significant")
   if (tValue > 1.645) {

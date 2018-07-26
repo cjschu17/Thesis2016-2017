@@ -7,7 +7,6 @@ val table = scala.io.Source.fromFile(fileName).getLines.toVector.map(_.split("\t
 val editedTable = table.map(f => Array(f(0),f(3),f(6),f(2)))
 val noPerc = editedTable.map(_.map(_.split(" ")(0)))
 
-
 println("Type Of Scholia\tTotal Words\tWords in Scribal Voice\tWords in Non-Scribal Voice")
 
 rearrangingTable(noPerc)
@@ -29,7 +28,6 @@ for (num <- allIndirect) {
 }
 
 val discourseData = Vector(Array("msA",noPerc(0)(1),noPerc(0)(2),noPerc(0)(3)),Array("otherSchol",qTxtSum.toString,qLangSum.toString,indirectSum.toString))
-
 
 zTest(discourseData(0),discourseData(1))
 zTest(noPerc(0),noPerc(1))
@@ -55,7 +53,7 @@ def rearrangingTable (dataset: Vector[Array[String]]) = {
 
     val qTxtPerc = math.BigDecimal((scribal / totalWords) * 100).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
     val qLangPerc = math.BigDecimal((nonScribal / totalWords) * 100).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
-    println(scholiaType + "\t" + totalWords + "\t" + scribal + " (" + qTxtPerc + "%)\t" + nonscribal + " (" + qLangPerc + "%)")
+    println(scholiaType + "\t" + totalWords + "\t" + scribal + " (" + qTxtPerc + "%)\t" + nonScribal + " (" + qLangPerc + "%)")
   }
 
 }
@@ -68,13 +66,11 @@ def zTest(dataset1: Array[String], dataset2: Array[String]) = {
   val phat1: Double = freq1 / pop1
   val oneMinusPhat1: Double = 1 - phat1
 
-
   val scholiaType2 = dataset2(0).toString
   val pop2: Double = dataset2(3).toDouble
   val freq2: Double = dataset2(1).toDouble
   val phat2: Double = freq2 / pop2
   val oneMinusPhat2: Double = 1 - phat2
-
 
   val proportionDiff: Double = phat1 - phat2
 
@@ -100,7 +96,6 @@ def zTest(dataset1: Array[String], dataset2: Array[String]) = {
   }  else {
     significance += "Not Statistically Significant"
   }
-
 
   println(scholiaType1 + " & " + scholiaType2 + "\t" + roundedzScore + "\t" + significance)
 

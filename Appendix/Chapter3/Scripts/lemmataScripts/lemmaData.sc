@@ -1,5 +1,5 @@
 //This script is for determing how many lemmata there are per type of scholia
-//Source text is hmt-twiddle/data/hmt_2cols
+//Source text is Thesis2016-2017/Appendix/VersionsOfScholia/archived-version.tsv
 
 import scala.io.Source
 import scala.xml.XML
@@ -53,6 +53,5 @@ def lemmaData(fileName: String) {
     val lemmataData: String = scholType + "\t" + scholCount.toString + "\t" + nonEmptyLemmata.toString + "\t" + percentage.toString + "%"
 
     lemmataData
-
 
   }

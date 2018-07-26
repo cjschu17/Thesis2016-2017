@@ -148,9 +148,9 @@ When considering just the two topic models run on the cleaner data, the similari
 
 While it is certainly significant that using a topic model to analyze the content of the scholia works, a successful topic model is not an end in itself. ToPan provides data such that one can examine the relationship between scholia and topics in two ways. For example, one can analyze the relationship of topics to each scholion. So ToPan will reveal the topics which contribute the most to each scholion's content. However, I chose to analyze the relationship of scholia to each topic. This means I looked into what scholia are most strongly associated with each topic. In other words, I was looking at the distribution of the topic within each scholion which is quantified with a theta-score. 
 
-In order to conduct such analysis, I made use of the data-tables created by ToPan. The original data table for the first run on clean data is located on my thesis GitHub page:
+In order to conduct such analysis, I made use of the data-tables created by ToPan. The original data table for the first run on clean data is located in the appendix on my thesis GitHub page:
 
-https://raw.githubusercontent.com/cjschu17/Thesis2016-2017/master/Data/TopicModelData/ theta.csv
+https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Data/TopicModelData/ThetaTables/MasterThetaTable.csv
 
 However, a sample table is shown in Figure 23:
 
@@ -158,15 +158,15 @@ However, a sample table is shown in Figure 23:
 
 Each row of the table corresponds to a single scholion, and each row is comprised of 18 columns. The first three columns contain identifiers for the scholion, though in this sample table I have eliminated the first column leaving only the Urn identifier and the text of the scholion. The other 15 columns contains a theta-scores for each of the 15 topics, though here I reduced 15 columns just to two. A theta-score is a measurement of the distribution of the topic in that scholion. Were a scholion to score a 0.0 with respect to a particular topic, this would indicate that this particular scholion contains no content from that particular topic. Conversely, a score of 1.0 would indicate that the content of this scholion would likely come *only* from this topic. Since a topic model by definition classifies all the patterns of language into defined number of topics, the sum of all the theta-scores in a single row has to equal 1.0, since the content of a scholion cannot come from anywhere else but the defined topics.
 
-Using this table, I was able to identify which scholia had the strongest associations with each of the topics. I defined a "strong association" as a scholion having a theta-score equal to or greater than 0.9. Thus I made fifteen tables, one for each topic, which simply consisted of a list of every scholion hose theta-score was equal to or greater than 0.9 for that topic. These tables can be found on my thesis GitHub:
+Using this table, I was able to identify which scholia had the strongest associations with each of the topics. I defined a "strong association" as a scholion having a theta-score equal to or greater than 0.9. Thus I made fifteen tables, one for each topic, which simply consisted of a list of every scholion hose theta-score was equal to or greater than 0.9 for that topic. These tables can be found in my appendix on my thesis GitHub:
 
-https://github.com/cjschu17/Thesis2016-2017/tree/master/Data/TopicModelData/ ThetaTables-3-15-2017
+https://github.com/cjschu17/Thesis2016-2017/tree/master/Appendix/Chapters3%264/Data/TopicModelData/ThetaTables/SignificantThetaScoresByTopic
 
 ## One result from the Topic Model Data
 
-Now that the scholia which are most strongly associated with each topic had been assembled, it was now possible to analyze the distribution of content by zone of the scholia. For each of the tables just created, it was determined how many came from the main, interior, intermarginal, interlinear, and exterior. If the distribution of the zones within each topic should match the distribution of scholia across the entire Venetus A, an argument could be made that the five zones do not differ in their content. A full list of the distribution of the main, intermarginal, and interior zones among the scholia with the strongest associations is located on my thesis GitHub:
+Now that the scholia which are most strongly associated with each topic had been assembled, it was now possible to analyze the distribution of content by zone of the scholia. For each of the tables just created, it was determined how many came from the main, interior, intermarginal, interlinear, and exterior. If the distribution of the zones within each topic should match the distribution of scholia across the entire Venetus A, an argument could be made that the five zones do not differ in their content. A full list of the distribution of the main, intermarginal, and interior zones among the scholia with the strongest associations is located in the appendix on my thesis GitHub:
 
-https://github.com/cjschu17/Thesis2016-2017/blob/master/Data/TopicModelData/ noIlExtToPanResult.txt
+https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Data/TopicModelData/noIlExtToPanResult.txt
 
 As a reference, Figure 24 shows the frequency of the main, intermarginal, and interior zones across 18 books of the Venetus A:
 

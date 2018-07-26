@@ -1,3 +1,10 @@
+//This script was designed to count the number of words contained within each of the zones of the scholia
+//and to calculate the average length (in words) of a scholion from each of the zones.
+//This script also runs a Student's T-test comparing the average length (in words) and standard deviations for each of the scholia zones
+//It requires one input, the archival edition of the scholia:
+
+//Thesis2016-2017/Appendix/VersionsOfScholia/archived-version.tsv
+
 import scala.io.Source
 import scala.xml.XML
 import scala.math

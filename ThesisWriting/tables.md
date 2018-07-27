@@ -83,7 +83,7 @@ im & int|2.72|Statisically Significant
 | Intermarginal Scholia | 1220 | 21.6%
 | Interior Scholia | 819 | 14.5%
 
-| Type of Scholia | Number of Scholia | Percentage of the Manuscript
+| Type of Scholia | Number of Scholia | Percentage of the Scholia Strongly Associated with Topic 9
 | --- | --- | --- 
 main scholia| 45 |32.61%
 intermarginal scholia| 65|47.1%
@@ -114,9 +114,9 @@ End of line|635 (12.85%)|4306 (87.15%)|4941
 
 | Type of Scholia | Number of Scholia | Percentage of the Scholia Strongly Associated with Topic 9
 | --- | --- | ---
-main scholia|45|32.61%
-start scholia|73|52.9%
-end scholia|20|14.49%
+Main Scholia|45|32.61%
+Start-of-Line Scholia|73|52.9%
+End-of-Line Scholia|20|14.49%
 
 NEED BELOW
 

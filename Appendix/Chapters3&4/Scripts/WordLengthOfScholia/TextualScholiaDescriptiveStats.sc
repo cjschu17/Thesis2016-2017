@@ -32,7 +32,6 @@ val twoColumnVector = scholFile.map(_.split("\t"))
 val allScholiaComments = twoColumnVector.filter(_(0).contains("5026")).filterNot(_(0).contains("lemma"))
 val extractedTokens = allScholiaComments.map(c => (c(0),extract(c(1)))).map(c => (c._1.dropRight(8),c._2))
 
-
 val startIm = startImUrns.map(function(_,extractedTokens)).filterNot(_.size != 1).map(_(0)).filterNot(_._2.isEmpty)
 val endInt = endIntUrns.map(function(_,extractedTokens)).filterNot(_.size != 1).map(_(0)).filterNot(_._2.isEmpty)
 val startInt = startIntUrns.map(function(_,extractedTokens)).filterNot(_.size != 1).map(_(0)).filterNot(_._2.isEmpty)
@@ -90,9 +89,6 @@ println("StartIm and EndInt\t" + math.BigDecimal(tTestEndIntStartIm._1).setScale
 println("StartInt and EndIm\t" + math.BigDecimal(tTestStartIntEndIm._1).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble + "\t" + tTestStartIntEndIm._2)
 println("Start and End\t" + math.BigDecimal(tTestStartEnd._1).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble + "\t" + tTestStartEnd._2)
 
-
-
-
 }
 
 def extract(srcXml: String) = {
@@ -143,8 +139,6 @@ def statsCalc(totalSchol: Double, listOfLengths: Vector[Int]) = {
     median += orderedWdCt(oddBaseNumber)
   }
 
-
-
   val meanSDMedian = (average,sd,median)
   meanSDMedian
 }
@@ -169,7 +163,6 @@ def tTest(dataset1: (Double,Double,Int), size1: Double, dataset2: (Double,Double
 
   val denominator = math.sqrt(denominatorSquared)
   val tValue = meansDiff / denominator
-
 
   var significance = (tValue,"not statistically Significant")
   if (tValue > 1.645) {

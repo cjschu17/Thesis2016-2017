@@ -112,7 +112,7 @@ End of line|635 (12.85%)|4306 (87.15%)|4941
 | Start-of-line Scholia | 1255 | 22.3%
 | End-of-line Scholia | 783 | 13.9%
 
-| Type of Scholia | Number of Scholia | Percentage of the Manuscript
+| Type of Scholia | Number of Scholia | Percentage of the Scholia Strongly Associated with Topic 9
 | --- | --- | ---
 main scholia|45|32.61%
 start scholia|73|52.9%

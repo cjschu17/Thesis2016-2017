@@ -1,3 +1,5 @@
+## Images and Figures for Chapter 4: The Relationship between the Intermarginal and Interior Scholia
+
 [Figure 27](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Images/Chapter4/Fig27.JPG) - Visualization of the Scholia Zones for folio 12 recto as the HMT has traditionally viewed them
 
 [Figure 28](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Images/Chapter4/Fig28.jpg) - Bifolio Spread of the Venetus with the Intermarginal (red) and Interior (blue) Zones Highlighted

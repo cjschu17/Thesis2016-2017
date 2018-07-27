@@ -115,7 +115,7 @@ def testing(scholiaType: Vector[Array[String]], urnNames: Vector[(String, String
   val sorted = persNameFreqs.toSeq.sortBy(_._2).reverse
 
   val scholiaString = xmlComment.map(collectText(_,"")).mkString
-  val scholiaWords = scholiaString.replaceAll( "[\\{\\}\\\\>,\\[\\]\\.·⁑;:·\\*\\(\\)\\+\\=\\-“”\"‡  ]+","").split(" ").filterNot(_.isEmpty)
+  val scholiaWords = scholiaString.replaceAll( "[\\{\\}\\\\>,\\[\\]\\.·⁑;:·\\*\\(\\)\\+\\=\\-“”\"‡]+","").split(" ").filterNot(_.isEmpty)
   val wordFrequency = scholiaWords.size.toDouble
 
   val orderedPersNames = sorted.map(s => s._1).toVector.map(_.replaceAll("cite2","cite").replaceAll("r1:",""))

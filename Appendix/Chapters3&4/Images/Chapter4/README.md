@@ -8,9 +8,9 @@
 
 [Figure 31](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Images/Chapter4/Fig31.png) - Data Table Displaying the Number of Start-of-Line and End-of-Line Scholia within the thesis' sample of the Venetus A
 
-[Figure 32](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Images/Chapter4/Fig32.png)
+[Figure 32](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Images/Chapter4/Fig32.png) - Data Table diplaying how frequently scribal voice words appear over non-scribal voice words appear in both the start-of-line and end-of-line scholia.
 
-[Figure 33](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Images/Chapter4/Fig33.png)
+[Figure 33](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Images/Chapter4/Fig33.png) - Data Table displaying how frequently each main scholia, start-of-line scholia, and end-of-line scholia appear in the thesis' sample of the Venetus A
 
 [Figure 34](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Images/Chapter4/Fig34.png)
 

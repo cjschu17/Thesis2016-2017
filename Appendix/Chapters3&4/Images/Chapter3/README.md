@@ -1,4 +1,4 @@
-## Images and Figures for Chatper 3: Applying Distant Reading to the Scholia ##
+## Images and Figures for Chapter 3: Applying Distant Reading to the Scholia ##
 
 [Figure 12](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Images/Chapter3/Fig12.png) - Data Table Showing the Length in Words of Each Scholia Zone
 

@@ -12,12 +12,12 @@ def urns(urnLibrary: String, srcFile: String) {
   val nameEntities = authList.map(_.split(",")(1))
   val urnNameTuple = (citeUrns zip nameEntities).drop(1)
 
-  urnNameTuple.map(nameHistogram(_,srcFile))
+  nameHistogram(urnNameTuple,srcFile)
 
 }
 
 
-def nameHistogram(urnNames: (String,String), srcFile: String) = {
+def nameHistogram(urnNames: Vector[(String,String)], srcFile: String) = {
 
     val srcFileVector = scala.io.Source.fromFile(srcFile).getLines.toVector
     val srcFileArray = srcFileVector.map(s => s.split("\t"))
@@ -28,31 +28,28 @@ def nameHistogram(urnNames: (String,String), srcFile: String) = {
     val venAExt = filteredArray.filter(_(0).contains("msAe"))
     val venAIm = filteredArray.filter(_(0).contains("msAim"))
 
-    mainHistogram.map(row => (row._1,row._2)) ++ mainHistogram.map(row => (row._1,row._2)) ++ intHistogram.map(row => (row._1,row._2)) ++ extHistogram.map(row => (row._1,row._2)) ++ ilHistogram.map(row => (row._1,row._2)) ++ imHistogram.map(row => (row._1,row._2))
-
-
     require(filteredArray.size == venAMain.size + venAIm.size + venAIl.size + venAExt.size + venAInt.size)
 
-    val mainHistogram = testing(venAMain,urnNames)
+    val mainHistogram = testing(venAMain,urnNames,"Main")
     val mainNames = mainHistogram.map(row => (row._1,row._2))
 
-    val intHistogram = testing(venAInt,urnNames)
+    val intHistogram = testing(venAInt,urnNames,"Interior"
     val intNames = intHistogram.map(row => (row._1,row._2))
 
-    val ilHistogram = testing(venAIl,urnNames)
+    val ilHistogram = testing(venAIl,urnNames,"Interlinear"
     val ilNames = ilHistogram.map(row => (row._1,row._2))
 
-    val extHistogram = testing(venAExt,urnNames)
+    val extHistogram = testing(venAExt,urnNames,"Exterior")
     val extNames = extHistogram.map(row => (row._1,row._2))
 
-    val imHistogram = testing(venAIm,urnNames)
+    val imHistogram = testing(venAIm,urnNames,"Intermarginal")
     val imNames = imHistogram.map(row => (row._1,row._2))
 
     val over1im = imHistogram.filter(_._4.dropRight(1).toDouble > 1.0).map(row => (row._1,row._2))
     val over1int = intHistogram.filter(_._4.dropRight(1).toDouble > 1.0).map(row => (row._1,row._2))
     val over1main = mainHistogram.filter(_._4.dropRight(1).toDouble > 1.0).map(row => (row._1,row._2))
     val intersectOver1 = over1im.intersect(over1int).intersect(over1main)
-    println("Words which appear in main, Im, & Int, with a frequency within that zone's names grater than 1%")
+    println("Words which appear in main, Im, & Int, with a frequency within that zone's names greter than 1%")
     for (i <- intersectOver1){
       println(i)
     }
@@ -78,21 +75,19 @@ def nameHistogram(urnNames: (String,String), srcFile: String) = {
     }
 
     val allScholiaNames = mainNames ++ mainHistogram.map(row => (row._1,row._2)) ++ intNames ++ extNames ++ ilNames ++ imNames
-    val distinctScholiaNames = allScholiaNames.distinct
+    val distinctScholiaNames = allScholiaNames.distinct  
+  
+     mainHistogram.map(row => (row._1,row._2)) ++ mainHistogram.map(row => (row._1,row._2)) ++ intHistogram.map(row => (row._1,row._2)) ++ extHistogram.map(row => (row._1,row._2)) ++ ilHistogram.map(row => (row._1,row._2)) ++ imHistogram.map(row => (row._1,row._2))
 
-    val imNotInt = imNames.diff(intNames)
-    val meaningImNoInt = imNotInt.map(matching(_,imHistogram)).filter(_.size > 0).size
-    val intNotIm = intNames.diff(imNames)
-    val meaningIntNoIm = intNotIm.map(matching(_,imHistogram)).filter(_.size > 0).size
-
-    //println(mainHistogram)
-    //println(intHistogram)
-    //println(ilHistogram)
-    //println(extHistogram)
-    //println(imHistogram)
-
-
-    //finalPrint(urnNames,mainHistogram,intHistogram,ilHistogram,extHistogram,imHistogram)
+    println(mainHistogram)
+    println(intHistogram)
+    println(ilHistogram)
+    println(extHistogram)
+    println(imHistogram)
+    
+    for(u <- urnNames) {
+    finalPrint(u,mainHistogram,intHistogram,ilHistogram,extHistogram,imHistogram)
+    }
 }
 
 def matching(differeData: (String, String), row: Vector[(String, String, Int, String, String)]) = {
@@ -101,7 +96,7 @@ def matching(differeData: (String, String), row: Vector[(String, String, Int, St
 
 }
 
-def testing(scholiaType: Vector[Array[String]], urnNames: Vector[(String, String)]) = {
+def testing(scholiaType: Vector[Array[String]], urnNames: Vector[(String, String)], titleLabel: String) = {
 
   val justScholia = scholiaType.map(_(1)).filterNot(_.contains("lemma"))
   val loadXML = justScholia.map(XML.loadString(_))
@@ -136,7 +131,7 @@ def testing(scholiaType: Vector[Array[String]], urnNames: Vector[(String, String
   val histogram2 = histogram1 zip totalWordPercentages
   val histogram3 = histogram2 zip totalNamePercentages
   val histogram = histogram3.map(row => (row._1._1._1._1,row._1._1._1._2,row._1._1._2,row._2,row._1._2))
-  println("-\t-\tMost Frequent Occuring Words for Scholia Type\t-\t-")
+  println("-\t-\tMost Frequent Occuring Words for" + titleLabel + "Scholia\t-\t-")
   println("urn\tname\tOccurrences of Name in Scholia Type\tPercentage of Name against Total Names Mentioned\tPercentage of Name against Total Nummber of Words in Scholia Type")
   for (h <- histogram) {
   println(h._1 + "\t" + h._2 + "\t" + h._3 + "\t" + h._4 + "\t" + h._5)
@@ -165,7 +160,7 @@ def normalize(frequency: Double, wordFrequency: Double): Double = {
 }
 
 
-/*def finalPrint(urnNames: (String,String),mainHistogram: Vector[(String, Double)],intHistogram: Vector[(String, Double)],ilHistogram: Vector[(String, Double)],extHistogram: Vector[(String, Double)],imHistogram: Vector[(String, Double)]) = {
+def finalPrint(urnNames: (String,String),mainHistogram: Vector[(String, Double)],intHistogram: Vector[(String, Double)],ilHistogram: Vector[(String, Double)],extHistogram: Vector[(String, Double)],imHistogram: Vector[(String, Double)]) = {
 
     val mainResult = mainHistogram.filter(_._1 == urnNames._1)
     val intResult = intHistogram.filter(_._1 == urnNames._1)
@@ -178,7 +173,6 @@ def normalize(frequency: Double, wordFrequency: Double): Double = {
     var ilFreq = 0.0
     var extFreq = 0.0
     var imFreq = 0.0
-
 
     if (mainResult.size > 0 ) {
       mainFreq = mainResult(0)._2
@@ -202,4 +196,4 @@ def normalize(frequency: Double, wordFrequency: Double): Double = {
 
     println("URN:\t" + urnNames._1 + "\t" + urnNames._2 + "\nType of Scholion\tFrequency Of Appearance\nMain Scholia\t" + mainFreq + "\nInterior Scholia\t" + intFreq + "\nInterlinear Scholia\t" + ilFreq + "\nExterior Scholia\t" + extFreq + "\nIntermarginal Scholia\t" + imFreq + "\n")
 
-  }*/
+  }

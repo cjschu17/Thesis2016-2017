@@ -17,7 +17,7 @@ def urns(urnLibrary: String, srcFile: String) {
 }
 
 
-def nameHistogram(urnNames: (String,String), srcFile: String) = {
+def nameHistogram(urnNames: Vector[(String,String)], srcFile: String) = {
 
     val srcFileVector = scala.io.Source.fromFile(srcFile).getLines.toVector
     val srcFileArray = srcFileVector.map(s => s.split("\t"))
@@ -27,9 +27,6 @@ def nameHistogram(urnNames: (String,String), srcFile: String) = {
     val venAIl = filteredArray.filter(_(0).contains("msAil"))
     val venAExt = filteredArray.filter(_(0).contains("msAe"))
     val venAIm = filteredArray.filter(_(0).contains("msAim"))
-
-    mainHistogram.map(row => (row._1,row._2)) ++ mainHistogram.map(row => (row._1,row._2)) ++ intHistogram.map(row => (row._1,row._2)) ++ extHistogram.map(row => (row._1,row._2)) ++ ilHistogram.map(row => (row._1,row._2)) ++ imHistogram.map(row => (row._1,row._2))
-
 
     require(filteredArray.size == venAMain.size + venAIm.size + venAIl.size + venAExt.size + venAInt.size)
 
@@ -47,6 +44,8 @@ def nameHistogram(urnNames: (String,String), srcFile: String) = {
 
     val imHistogram = testing(venAIm,urnNames)
     val imNames = imHistogram.map(row => (row._1,row._2))
+  
+   mainHistogram.map(row => (row._1,row._2)) ++ mainHistogram.map(row => (row._1,row._2)) ++ intHistogram.map(row => (row._1,row._2)) ++ extHistogram.map(row => (row._1,row._2)) ++ ilHistogram.map(row => (row._1,row._2)) ++ imHistogram.map(row => (row._1,row._2))
 
     val over1im = imHistogram.filter(_._4.dropRight(1).toDouble > 1.0).map(row => (row._1,row._2))
     val over1int = intHistogram.filter(_._4.dropRight(1).toDouble > 1.0).map(row => (row._1,row._2))
@@ -80,17 +79,16 @@ def nameHistogram(urnNames: (String,String), srcFile: String) = {
     val allScholiaNames = mainNames ++ mainHistogram.map(row => (row._1,row._2)) ++ intNames ++ extNames ++ ilNames ++ imNames
     val distinctScholiaNames = allScholiaNames.distinct
 
-    val imNotInt = imNames.diff(intNames)
-    val meaningImNoInt = imNotInt.map(matching(_,imHistogram)).filter(_.size > 0).size
-    val intNotIm = intNames.diff(imNames)
-    val meaningIntNoIm = intNotIm.map(matching(_,imHistogram)).filter(_.size > 0).size
+    
+    val meaningImNoIntSize = imNotInt.map(matching(_,imHistogram)).filter(_.size > 0).size
+
+    val meaningIntNoImSize = intNotIm.map(matching(_,imHistogram)).filter(_.size > 0).size
 
     //println(mainHistogram)
     //println(intHistogram)
     //println(ilHistogram)
     //println(extHistogram)
     //println(imHistogram)
-
 
     //finalPrint(urnNames,mainHistogram,intHistogram,ilHistogram,extHistogram,imHistogram)
 }

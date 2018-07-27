@@ -84,10 +84,6 @@ def nameHistogram(urnNames: Vector[(String,String)], srcFile: String) = {
     println(ilHistogram)
     println(extHistogram)
     println(imHistogram)
-    
-    /*for(u <- urnNames) {
-    finalPrint(u,mainHistogram,intHistogram,ilHistogram,extHistogram,imHistogram)
-    }*/
 }
 
 def matching(differeData: (String, String), row: Vector[(String, String, Int, String, String)]) = {
@@ -158,42 +154,3 @@ def normalize(frequency: Double, wordFrequency: Double): Double = {
   val normalized = (frequency / wordFrequency) * 100
   math.BigDecimal(normalized).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
 }
-
-
-def finalPrint(urnNames: (String,String),mainHistogram: Vector[(String, Double)],intHistogram: Vector[(String, Double)],ilHistogram: Vector[(String, Double)],extHistogram: Vector[(String, Double)],imHistogram: Vector[(String, Double)]) = {
-
-    val mainResult = mainHistogram.filter(_._1 == urnNames._1)
-    val intResult = intHistogram.filter(_._1 == urnNames._1)
-    val ilResult = ilHistogram.filter(_._1 == urnNames._1)
-    val extResult = extHistogram.filter(_._1 == urnNames._1)
-    val imResult = imHistogram.filter(_._1 == urnNames._1)
-
-    var mainFreq = 0.0
-    var intFreq = 0.0
-    var ilFreq = 0.0
-    var extFreq = 0.0
-    var imFreq = 0.0
-
-    if (mainResult.size > 0 ) {
-      mainFreq = mainResult(0)._2
-    }
-
-    if (intResult.size > 0 ) {
-      intFreq = intResult(0)._2
-    }
-
-    if (ilResult.size > 0 ) {
-      ilFreq = ilResult(0)._2
-    }
-
-    if (extResult.size > 0 ) {
-      extFreq = extResult(0)._2
-    }
-
-    if (imResult.size > 0 ) {
-      imFreq = imResult(0)._2
-    }
-
-    println("URN:\t" + urnNames._1 + "\t" + urnNames._2 + "\nType of Scholion\tFrequency Of Appearance\nMain Scholia\t" + mainFreq + "\nInterior Scholia\t" + intFreq + "\nInterlinear Scholia\t" + ilFreq + "\nExterior Scholia\t" + extFreq + "\nIntermarginal Scholia\t" + imFreq + "\n")
-
-  }

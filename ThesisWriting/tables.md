@@ -83,11 +83,11 @@ im & int|2.72|Statisically Significant
 | Intermarginal Scholia | 1220 | 21.6%
 | Interior Scholia | 819 | 14.5%
 
-| Type of Scholia | Number of Scholia | Percentage of the Scholia Strongly Associated with Topic 9
+| Type of Scholia | Number of Scholia | Percentage of the Scholia Strongly Associated with Topic 6
 | --- | --- | --- 
-main scholia| 45 |32.61%
-intermarginal scholia| 65|47.1%
-interior scholia| 28|20.29%
+main scholia| 74 |62.71%
+intermarginal scholia| 28|23.73%
+interior scholia| 16|13.56%
 
 | Type of Scholia | Number of Scholia
 | --- | ---

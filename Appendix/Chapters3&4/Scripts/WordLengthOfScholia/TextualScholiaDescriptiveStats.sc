@@ -1,10 +1,10 @@
-//This is an executable script that is meant to compare the the relationship among
-//the various columns ofthe textual scholia according to their descriptive statistics
-//specifically this script looks at how they compare in terms of length of scholia
-//according to word length.
+//This is an executable script that is meant to compare the intermarginal/interior model and start-of-line/end-of-line 
+//model of the scholia by analyzing their descriptive statistics.
+//Specifically this script looks at how the four individual columns of scholia that can be classified by either model
+// compare in terms of length of scholia in words.
 //Requires 2 parameters.
-//1: archive index of schol to folio: Thesis2016-2017/data/scholToFolioIndx.csv
-//2: archival edition of the HMT: Thesis2016-2017/datac
+//1: archive index of schol to folio: Thesis2016-2017/Appendix/Chapters3&4/Data/StartEndIdentification/scholToFolioIndx.csv
+//2: archival edition of the HMT: Thesis2016-2017/Appendix/VersionsOfScholia/archived-version.tsv
 
 import scala.io.Source
 import scala.math._

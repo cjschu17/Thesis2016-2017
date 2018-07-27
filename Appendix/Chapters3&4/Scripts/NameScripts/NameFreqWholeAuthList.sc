@@ -33,10 +33,10 @@ def nameHistogram(urnNames: Vector[(String,String)], srcFile: String) = {
     val mainHistogram = testing(venAMain,urnNames,"Main")
     val mainNames = mainHistogram.map(row => (row._1,row._2))
 
-    val intHistogram = testing(venAInt,urnNames,"Interior"
+    val intHistogram = testing(venAInt,urnNames,"Interior")
     val intNames = intHistogram.map(row => (row._1,row._2))
 
-    val ilHistogram = testing(venAIl,urnNames,"Interlinear"
+    val ilHistogram = testing(venAIl,urnNames,"Interlinear")
     val ilNames = ilHistogram.map(row => (row._1,row._2))
 
     val extHistogram = testing(venAExt,urnNames,"Exterior")
@@ -85,9 +85,9 @@ def nameHistogram(urnNames: Vector[(String,String)], srcFile: String) = {
     println(extHistogram)
     println(imHistogram)
     
-    for(u <- urnNames) {
+    /*for(u <- urnNames) {
     finalPrint(u,mainHistogram,intHistogram,ilHistogram,extHistogram,imHistogram)
-    }
+    }*/
 }
 
 def matching(differeData: (String, String), row: Vector[(String, String, Int, String, String)]) = {
@@ -131,7 +131,7 @@ def testing(scholiaType: Vector[Array[String]], urnNames: Vector[(String, String
   val histogram2 = histogram1 zip totalWordPercentages
   val histogram3 = histogram2 zip totalNamePercentages
   val histogram = histogram3.map(row => (row._1._1._1._1,row._1._1._1._2,row._1._1._2,row._2,row._1._2))
-  println("-\t-\tMost Frequent Occuring Words for" + titleLabel + "Scholia\t-\t-")
+  println("-\t-\tMost Frequent Occuring Words for " + titleLabel + " Scholia\t-\t-")
   println("urn\tname\tOccurrences of Name in Scholia Type\tPercentage of Name against Total Names Mentioned\tPercentage of Name against Total Nummber of Words in Scholia Type")
   for (h <- histogram) {
   println(h._1 + "\t" + h._2 + "\t" + h._3 + "\t" + h._4 + "\t" + h._5)

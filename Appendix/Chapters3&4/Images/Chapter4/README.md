@@ -16,6 +16,6 @@
 
 [Figure 35](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Images/Chapter4/Fig35.jpg) - Bifolio spread of the Venetus A with the four columns of the intermarginal and interior scholia labelled with their experimental identifiers ("start im," "start int," "end im," and "end int")
 
-[Figure 36](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Images/Chapter4/Fig36.png)
+[Figure 36](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Images/Chapter4/Fig36.png) - Data table displaying the frequency of scribal voice words and non-scribal voice words among the four columns of scholia of the intermarginal/interior and start/end-of-line models.
 
-[Figure 37](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Images/Chapter4/Fig37.png)
+[Figure 37](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Images/Chapter4/Fig37.png) - Results of the Z-tests for proportions of the use of scribal and non-scribal voice across the four columns of scholia of the intermarginal/interior and start/end-of-line models.

@@ -12,9 +12,9 @@
 
 [Figure 33](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Images/Chapter4/Fig33.png) - Data Table displaying how frequently each main scholia, start-of-line scholia, and end-of-line scholia appear in the thesis' sample of the Venetus A
 
-[Figure 34](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Images/Chapter4/Fig34.png)
+[Figure 34](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Images/Chapter4/Fig34.png) - Data Table displaying how frequently emain scholia, start-of-line scholia, and end-of-line scholia appear among those scholia most strongly associated with the ninth topic of the topic model 
 
-[Figure 35](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Images/Chapter4/Fig35.jpg)
+[Figure 35](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Images/Chapter4/Fig35.jpg) - Bifolio spread of the Venetus A with the four columns of the intermarginal and interior scholia labelled with their experimental identifiers ("start im," "start int," "end im," and "end int")
 
 [Figure 36](https://github.com/cjschu17/Thesis2016-2017/blob/master/Appendix/Chapters3%264/Images/Chapter4/Fig36.png)
 

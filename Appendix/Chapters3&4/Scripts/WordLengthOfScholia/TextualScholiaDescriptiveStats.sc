@@ -96,7 +96,7 @@ def extract(srcXml: String) = {
   val parsableXml = scala.xml.XML.loadString(srcXml)
   val paragraph = parsableXml \ "p"
   val textString = paragraph.text.mkString
-  val rawTokens = textString.replaceAll( "[\\{\\}\\\\>,\\[\\]\\.·⁑;:·\\*\\(\\)\\+\\=\\-“”\"‡  ]+","").split(" ")
+  val rawTokens = textString.replaceAll( "[\\{\\}\\\\>,\\[\\]\\.·⁑;:·\\*\\(\\)\\+\\=\\-“”\"‡]+","").split(" ")
   val finalizedTokens = rawTokens.filterNot(_.isEmpty).filterNot(_.matches("[A-Za-z0-9]+"))
   finalizedTokens
 
